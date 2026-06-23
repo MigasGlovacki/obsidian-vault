@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Caixa de entrada/Digital Circus.md",
+                "file": "05 - Arquivos/teste-sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Circus"
+              "title": "teste-sync"
+            }
+          },
+          {
+            "id": "152a120e86b37c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/Imersão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imersão"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,48 +251,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28dd165193bc434e",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
+    "05 - Arquivos/Caminho para senhas.md",
+    "05 - Arquivos/teste-sync.md",
+    "04 - Referencias/VPS - Moni.md",
+    "05 - Arquivos/Digital Circus.md",
+    "04 - Referencias/Seeds balatro.md",
+    "04 - Referencias/Comparadores de Redstone.md",
+    "04 - Referencias/Expectativas controladas.md",
+    "04 - Referencias/Geoarbitragem.md",
+    "04 - Referencias/Guia de redstone.md",
+    "03 - Areas/Imersão.md",
+    "04 - Referencias/Repetidor de redstone.md",
+    "04 - Referencias/Senhas.md",
+    "03 - Areas/A Luminária/Projetos da Luminária.md",
+    "Pessoal",
     "03 - Areas/A Luminária/00 - Início.md",
-    "00 - Caixa de entrada/Digital Circus.md",
     "02 - Projetos/Renda Online.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Querido diário - 2026-06-23.md",
     "Attachments/digital_circus.png",
-    "04 - Referencias/VPS - Moni.md",
     "03 - Areas/A Luminária/Memórias compartilhadas.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Mapa do mini-vault.md",
     "03 - Areas/A Luminária/Night-talks/README.md",
     "03 - Areas/A Luminária/Retrospectivas anuais/README.md",
     "03 - Areas/A Luminária/Sínteses mensais/README.md",
     "03 - Areas/A Luminária/Sínteses semanais/README.md",
-    "05 - Arquivos/teste-sync.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/README.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário",
     "03 - Areas/A Luminária/Sínteses semanais",
-    "03 - Areas/A Luminária/Projetos da Luminária.md",
     "03 - Areas/A Luminária/Sínteses mensais",
     "03 - Areas/A Luminária/Night-talks",
     "03 - Areas/A Luminária/Retrospectivas anuais",
     "03 - Areas/A Luminária/Mini-vault da Moni",
     "03 - Areas/A Luminária",
-    "04 - Referencias/Senhas.md",
-    "04 - Referencias/Comparadores de Redstone.md",
-    "04 - Referencias/Expectativas controladas.md",
-    "04 - Referencias/Geoarbitragem.md",
-    "04 - Referencias/Guia de redstone.md",
     "04 - Referencias/Matemática com Comparadores.md",
-    "04 - Referencias/Imersão.md",
     "04 - Referencias/Portas lógicas usando redstone.md",
     "04 - Referencias/Prompt Engeneering.md",
-    "04 - Referencias/Repetidor de redstone.md",
-    "04 - Referencias/Seeds balatro.md",
     "Attachments/2026-05-14_20.47.15.png",
     "Attachments/2026-05-14_20.45.33.png",
     "Sem título.canvas",
     "05 - Arquivos",
     "Attachments/2026-05-14_20.49.07.png",
     "04 - Arquivos/GPT CREATE",
-    "Historias/Emerald Soul",
     "2026-05-14_20.47.15-1.png",
     "2026-05-14_20.21.30.png",
     "2026-05-14_20.42.28.png",
