@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "#fe2020",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Arial,Corbel",
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "nativeMenus": false,
+  "showRibbon": true,
+  "showViewHeader": true
+}

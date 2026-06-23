@@ -1,0 +1,26 @@
+{
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "readableLineLength": true,
+  "focusNewTab": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "showInlineTitle": false,
+  "autoPairBrackets": true,
+  "useTab": true,
+  "tabSize": 4,
+  "newFileFolderPath": "00 - Caixa de entrada",
+  "openBehavior": "",
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "_templates_/"
+  ],
+  "attachmentFolderPath": "/",
+  "showUnsupportedFiles": false
+}

@@ -1,0 +1,8 @@
+# Repetidor de redstone
+
+
+
+
+---
+
+[tags]

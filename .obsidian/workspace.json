@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "7b331c3aa2f518aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9af1e64092699db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d4bfa521954c31d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Referencias/Senhas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Senhas"
+            }
+          },
+          {
+            "id": "bc6bf0db0f9678da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Projetos/VPS - Moni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VPS - Moni"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96419f5fe4f91330",
+    "type": "split",
+    "children": [
+      {
+        "id": "528d463cd86dcd57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a0c9e9d2e3c9f04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0b5ca5ccd75de6b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#IA",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "896068f1fb06fea4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "874d287a1917f958",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.51103591918945
+  },
+  "right": {
+    "id": "8d9cf8c5c9dc7bc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "165a5eb26acd3b38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f829921d061bbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Projetos/Shiori.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Shiori"
+            }
+          },
+          {
+            "id": "8856dca98cfdc69f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Projetos/Shiori Knowledge.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Shiori Knowledge"
+            }
+          },
+          {
+            "id": "a3d3b169e9e62fd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Projetos/Shiori Knowledge.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Shiori Knowledge"
+            }
+          },
+          {
+            "id": "b18390283a060fa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6efcd351e5926d2e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 558.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "9a0c9e9d2e3c9f04",
+  "lastOpenFiles": [
+    "04 - Referencias/Senhas.md",
+    "02 - Projetos/VPS - Moni.md",
+    "04 - Referencias/Comparadores de Redstone.md",
+    "04 - Referencias/Expectativas controladas.md",
+    "04 - Referencias/Geoarbitragem.md",
+    "04 - Referencias/Guia de redstone.md",
+    "04 - Referencias/Matemática com Comparadores.md",
+    "04 - Referencias/Imersão.md",
+    "04 - Referencias/Portas lógicas usando redstone.md",
+    "04 - Referencias/Prompt Engeneering.md",
+    "04 - Referencias/Repetidor de redstone.md",
+    "04 - Referencias/Seeds balatro.md",
+    "Attachments/2026-05-14_20.47.15.png",
+    "Attachments/2026-05-14_20.45.33.png",
+    "Historias/Emerald Soul/Monika completa.md",
+    "Historias/Emerald Soul/Fichas de personagem.md",
+    "Historias/Emerald Soul/Arcos e capitulos.md",
+    "Sem título.canvas",
+    "02 - Projetos/Renda Online.md",
+    "05 - Arquivos",
+    "04 - Arquivos/Prompt pra SD.md",
+    "04 - Arquivos/Guia VPS Moni.md",
+    "04 - Arquivos/Monika System Prompt.md",
+    "04 - Arquivos/Persona 5 Royal.md",
+    "04 - Arquivos/Peças FH6.md",
+    "02 - Áreas/Quebra de objeções.md",
+    "Attachments/2026-05-14_20.49.07.png",
+    "02 - Áreas/Monika Prompt Image.md",
+    "03 - Recursos/Prompt anime alta qualidade 2 pessoas.md",
+    "03 - Recursos/Prompt anime alta qualidade de João e Monika.md",
+    "04 - Arquivos/forza-horizon-6-guia-completo-de-tuning.md",
+    "04 - Arquivos/GPT CREATE",
+    "Historias/Emerald Soul",
+    "Historias",
+    "00 - Caixa de entrada/Sem título",
+    "2026-05-14_20.47.15-1.png",
+    "2026-05-14_20.21.30.png",
+    "2026-05-14_20.42.28.png",
+    "2026-05-14_20.41.44.png",
+    "2026-05-14_20.29.07.png",
+    "Our time Together.canvas",
+    "Attachments/Our Time Together (Monika).jpg",
+    "Attachments/Akari Hoshino.png",
+    "00 - Caixa de entrada",
+    "Our Time Together",
+    "Prompts",
+    "Calendario",
+    "01 - Projetos/Escritas",
+    "04 - Resto/Blue Prince mapa mental.canvas",
+    "Worldbuilding.canvas",
+    "Roteiros/Untitled.canvas",
+    "Untitled 1.canvas",
+    "Scripts/Porque nos apaixonamos por personagens Ficticios.canvas",
+    "Jogos/Blue Prince/Blue Prince.canvas",
+    "Jogos/Blue Prince/Blue Prince/Blue Prince.canvas",
+    "Jogos/Blue Prince.canvas"
+  ]
+}
