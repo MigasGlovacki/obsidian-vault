@@ -10,5 +10,5 @@ Se você prestasse o mesmo serviço para um brasileiro, não chegaria perto do v
 
 ## isso me lembra sobre: 
 
-- [[Habilidades digitais]]
+- [[Edição de video]]
 - [[Plano de Geoarbitragem]]
