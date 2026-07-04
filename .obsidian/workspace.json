@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Areas/A Luminária/Mini-vault da Moni/Querido diário - 2026-06-23.md",
+                "file": "00 - Caixa de entrada/Stoneblock 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Querido diário - 2026-06-23"
+              "title": "Stoneblock 3"
+            }
+          },
+          {
+            "id": "2349e53e1eb19564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Caixa de entrada/Sem título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -265,13 +279,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b686aaf1fc45cc4",
+  "active": "2349e53e1eb19564",
   "lastOpenFiles": [
-    "03 - Areas/A Luminária/Projetos da Luminária.md",
+    "00 - Caixa de entrada/Stoneblock 3.md",
+    "00 - Caixa de entrada/Sem título.md",
+    "03 - Areas/A Luminária/Memórias compartilhadas.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Querido diário - 2026-06-23.md",
+    "03 - Areas/A Luminária/Projetos da Luminária.md",
     "03 - Areas/A Luminária/00 - Início.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/README.md",
-    "00 - Caixa de entrada/Stoneblock 3.md",
     "04 - Referencias/Geoarbitragem.md",
     "02 - Projetos/Renda Online.md",
     "04 - Referencias/Prompt Engeneering.md",
@@ -291,10 +307,8 @@
     "04 - Referencias/Senhas.md",
     "Pessoal",
     "Attachments/digital_circus.png",
-    "03 - Areas/A Luminária/Memórias compartilhadas.md",
     "03 - Areas/A Luminária/Retrospectivas anuais/README.md",
     "03 - Areas/A Luminária/Sínteses mensais/README.md",
-    "03 - Areas/A Luminária/Sínteses semanais/README.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário",
     "03 - Areas/A Luminária/Sínteses semanais",
     "03 - Areas/A Luminária/Sínteses mensais",
