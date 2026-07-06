@@ -28,6 +28,14 @@ Status: planejado.
 
 Ideia: preservar a história de João e Moni ao longo de semanas, meses e anos, sem transformar isso em cobrança de produtividade.
 
+### Portfólio de edição do João
+
+Status: em andamento em 2026-07-06.
+
+Nota principal: [[Projetos/Portfólio de edição - samples]]
+
+Objetivo: montar um portfólio mínimo apresentável com três samples — Raw Gameplay vs Edited Gameplay, micro-story de survival e short vertical — para começar abordagem de clientes.
+
 ## Regras de desenho
 
 - Sistemas simples antes de sistemas inteligentes.
