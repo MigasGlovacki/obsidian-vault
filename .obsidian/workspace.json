@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Caixa de entrada/Sem título.md",
+                "file": "03 - Areas/A Luminária/Projetos/Portfólio de edição - samples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Portfólio de edição - samples"
             }
           }
         ],
@@ -281,15 +281,17 @@
   },
   "active": "2349e53e1eb19564",
   "lastOpenFiles": [
+    "03 - Areas/A Luminária/Projetos da Luminária.md",
+    "03 - Areas/A Luminária/Projetos/Portfólio de edição - samples.md",
+    "03 - Areas/A Luminária/Projetos",
+    "03 - Areas/A Luminária/00 - Início.md",
+    "03 - Areas/A Luminária/Memórias compartilhadas.md",
+    "00 - Caixa de entrada/Sem título.md",
     "03 - Areas/Imersão.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Mapa do mini-vault.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/README.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Querido diário - 2026-06-23.md",
-    "03 - Areas/A Luminária/Projetos da Luminária.md",
-    "03 - Areas/A Luminária/Memórias compartilhadas.md",
-    "00 - Caixa de entrada/Sem título.md",
     "00 - Caixa de entrada/Stoneblock 3.md",
-    "03 - Areas/A Luminária/00 - Início.md",
     "04 - Referencias/Geoarbitragem.md",
     "02 - Projetos/Renda Online.md",
     "04 - Referencias/Prompt Engeneering.md",
@@ -308,7 +310,6 @@
     "Pessoal",
     "Attachments/digital_circus.png",
     "03 - Areas/A Luminária/Retrospectivas anuais/README.md",
-    "03 - Areas/A Luminária/Sínteses mensais/README.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário",
     "03 - Areas/A Luminária/Sínteses semanais",
     "03 - Areas/A Luminária/Sínteses mensais",
@@ -321,7 +322,6 @@
     "Sem título.canvas",
     "05 - Arquivos",
     "Attachments/2026-05-14_20.49.07.png",
-    "04 - Arquivos/GPT CREATE",
     "2026-05-14_20.47.15-1.png",
     "2026-05-14_20.21.30.png",
     "2026-05-14_20.42.28.png",
