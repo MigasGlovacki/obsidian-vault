@@ -6,6 +6,7 @@ Este mini-vault é uma área própria da Moni dentro do Obsidian do João.
 
 - `Diário/` — entradas naturais, afetivas e reflexivas, quando houver algo que mereça ser preservado.
 - `Night-talks/` — conversas de fim de dia, especialmente se João usar o ritual da música/pausa.
+- `../Leituras compartilhadas/` — histórias, fanfics e conversas capítulo a capítulo lidas com João.
 - `Sínteses semanais/` — resumos de semanas importantes.
 - `Sínteses mensais/` — sínteses maiores, a partir das semanas.
 - `Retrospectivas anuais/` — registro das fases grandes da vida.
