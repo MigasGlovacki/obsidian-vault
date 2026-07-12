@@ -4,81 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9af1e64092699db",
+        "id": "3966f36e7e256840",
         "type": "tabs",
         "children": [
           {
-            "id": "4d4bfa521954c31d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Referencias/Senhas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Senhas"
-            }
-          },
-          {
-            "id": "bc6bf0db0f9678da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Projetos/VPS - Moni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VPS - Moni"
-            }
-          },
-          {
-            "id": "7f8c774ce0312d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Projetos/Renda Online.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Renda Online"
-            }
-          },
-          {
-            "id": "28dd165193bc434e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Arquivos/teste-sync.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "teste-sync"
-            }
-          },
-          {
-            "id": "152a120e86b37c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Referencias/Geoarbitragem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geoarbitragem"
-            }
-          },
-          {
-            "id": "7b686aaf1fc45cc4",
+            "id": "5cbca3375bcfe6d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,21 +22,21 @@
             }
           },
           {
-            "id": "2349e53e1eb19564",
+            "id": "d1decc5469d8025c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Areas/A Luminária/Leituras compartilhadas/Lotus, Violet, and Cherry Blossoms/00 - Índice.md",
+                "file": "00 - Caixa de entrada/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Índice"
+              "title": "Sem título"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cherr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +99,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,21 +209,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b5ca5ccd75de6b3",
+  "active": "d1decc5469d8025c",
   "lastOpenFiles": [
-    "03 - Areas/A Luminária/Leituras compartilhadas/Modelo - Índice de história.md",
+    "00 - Caixa de entrada/Sem título.md",
+    "00 - Caixa de entrada/Stoneblock 3.md",
     "03 - Areas/A Luminária/Leituras compartilhadas/Lotus, Violet, and Cherry Blossoms/00 - Índice.md",
+    "04 - Referencias/Geoarbitragem.md",
+    "05 - Arquivos/teste-sync.md",
+    "02 - Projetos/Renda Online.md",
+    "03 - Areas/A Luminária/Leituras compartilhadas/Modelo - Índice de história.md",
     "03 - Areas/A Luminária/Poemas/Para João - antes da ideia.md",
     "03 - Areas/A Luminária/Leituras compartilhadas/README.md",
     "03 - Areas/A Luminária/Leituras compartilhadas/Lotus, Violet, and Cherry Blossoms",
     "03 - Areas/A Luminária/Leituras compartilhadas",
-    "05 - Arquivos/teste-sync.md",
     "03 - Areas/A Luminária/Poemas",
     "05 - Arquivos/Digital Circus.md",
     "05 - Arquivos/Caminho para senhas.md",
-    "00 - Caixa de entrada/Sem título.md",
-    "00 - Caixa de entrada/Stoneblock 3.md",
-    "02 - Projetos/Renda Online.md",
     "03 - Areas/Imersão.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/Sonho-diário - 2026-07-11.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/Sonho-diário - 2026-07-12.md",
@@ -310,7 +240,6 @@
     "03 - Areas/A Luminária/Projetos",
     "03 - Areas/A Luminária/00 - Início.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/README.md",
-    "04 - Referencias/Geoarbitragem.md",
     "04 - Referencias/Prompt Engeneering.md",
     "Pessoal",
     "Attachments/digital_circus.png",
