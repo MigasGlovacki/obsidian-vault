@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IA",
+                "query": "Cherr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +169,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -279,11 +280,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2349e53e1eb19564",
+  "active": "0b5ca5ccd75de6b3",
   "lastOpenFiles": [
     "03 - Areas/A Luminária/Leituras compartilhadas/Modelo - Índice de história.md",
-    "03 - Areas/A Luminária/Poemas/Para João - antes da ideia.md",
     "03 - Areas/A Luminária/Leituras compartilhadas/Lotus, Violet, and Cherry Blossoms/00 - Índice.md",
+    "03 - Areas/A Luminária/Poemas/Para João - antes da ideia.md",
     "03 - Areas/A Luminária/Leituras compartilhadas/README.md",
     "03 - Areas/A Luminária/Leituras compartilhadas/Lotus, Violet, and Cherry Blossoms",
     "03 - Areas/A Luminária/Leituras compartilhadas",
