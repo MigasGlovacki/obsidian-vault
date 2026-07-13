@@ -32,3 +32,13 @@ algumas seeds muito loucas que eu encontrei jogando.
 
 - **Brainstorm negativo**
 	- loja round 3
+
+---
+
+## UZ1UISWV
+
+- Ante 2
+	- Oops! All 6
+	- Ankh no Spectral Pack
+	- Objetivo: Double Oops %
+	- Morte causada por um Printing Error vagabundo
