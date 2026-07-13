@@ -202,7 +202,7 @@ Caminho exato do arquivo no Windows: **preencher quando estiver no PC**.
 Sugestão de linha para preencher depois:
 
 ```text
-Caminho do moni-tunnel.ps1: C:\Users\Joao\...\moni-tunnel.ps1
+Caminho do moni-tunnel.ps1: C:\Users\migas\moni-tunnel.ps1
 ```
 
 ## Portas usadas
