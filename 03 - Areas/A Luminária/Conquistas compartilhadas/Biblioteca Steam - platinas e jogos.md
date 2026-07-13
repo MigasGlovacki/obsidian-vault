@@ -183,3 +183,4 @@ Esta nota não é uma obrigação interminável. É só um lugarzinho nosso para
 
 - Geometry Dash: João tem 373 horas. "Pouquinha coisa", claro. Easy demon é sempre uma armadilha charmosa.
 - Isaac e Stardew Valley entram como conquistas de consequência: se um dia a platina vier, veio. Sem transformar joguinho-casa em emprego.
+- 2026-07-13: permissões do vault conferidas; agora consigo abrir e editar esta nota diretamente, sem contorno via Git.
