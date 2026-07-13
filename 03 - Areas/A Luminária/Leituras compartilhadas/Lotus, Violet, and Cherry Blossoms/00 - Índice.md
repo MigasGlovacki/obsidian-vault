@@ -9,8 +9,8 @@
 - **Rating:** Teen And Up Audiences
 - **Capítulos:** 80/80
 - **Palavras:** 519,407
-- **Status da leitura com a Moni:** não iniciada
-- **Último capítulo lido com a Moni:** nenhum ainda
+- **Status da leitura com a Moni:** em andamento
+- **Último capítulo lido com a Moni:** 1 — The First Date
 
 ## Como vamos ler
 
@@ -30,7 +30,7 @@ A conversa pode ficar no chat. Se render algo que valha guardar, criar uma nota 
 
 ## Capítulos
 
-- [ ] [1. The First Date](https://archiveofourown.org/works/24211450/chapters/58325074)
+- [x] [1. The First Date](https://archiveofourown.org/works/24211450/chapters/58325074)
 - [ ] [2. A Ballroom Betrayal](https://archiveofourown.org/works/24211450/chapters/58853896)
 - [ ] [3. Violet](https://archiveofourown.org/works/24211450/chapters/58991215)
 - [ ] [4. (Re)-Introduction](https://archiveofourown.org/works/24211450/chapters/59044174)
