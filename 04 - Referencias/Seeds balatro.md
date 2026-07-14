@@ -41,4 +41,3 @@ algumas seeds muito loucas que eu encontrei jogando.
 	- Oops! All 6
 	- Ankh no Spectral Pack
 	- Objetivo: Double Oops %
-	- Morte causada por um Printing Error vagabundo
