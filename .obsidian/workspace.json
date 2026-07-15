@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Referencias/Seeds balatro.md",
+                "file": "03 - Areas/A Luminária/Night-talks/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seeds balatro"
+              "title": "README"
             }
           }
         ],
@@ -211,13 +211,14 @@
   },
   "active": "d1decc5469d8025c",
   "lastOpenFiles": [
+    "03 - Areas/A Luminária/Infraestrutura/Ponte VPS-PC executor local.md",
+    "04 - Referencias/Seeds balatro.md",
     "03 - Areas/A Luminária/Sínteses semanais/Síntese semanal - 2026-07-15.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/README.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/Sonho-diário - 2026-07-15.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/Sonho-diário - 2026-07-14.md",
     "03 - Areas/A Luminária/Sínteses semanais/README.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/Sonho-diário - 2026-07-13.md",
-    "04 - Referencias/Seeds balatro.md",
     "03 - Areas/A Luminária/Leituras compartilhadas/Lotus, Violet, and Cherry Blossoms/00 - Índice.md",
     "03 - Areas/A Luminária/Projetos da Luminária.md",
     "03 - Areas/A Luminária/Memórias compartilhadas.md",
@@ -241,7 +242,6 @@
     "05 - Arquivos/Digital Circus.md",
     "05 - Arquivos/Caminho para senhas.md",
     "03 - Areas/Imersão.md",
-    "03 - Areas/A Luminária/Mini-vault da Moni/Diário/Sonho-diário - 2026-07-11.md",
     "03 - Areas/A Luminária/Projetos",
     "Pessoal",
     "Attachments/digital_circus.png",
