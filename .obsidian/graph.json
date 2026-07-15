@@ -6,7 +6,15 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"03 - Areas/A Luminária\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
