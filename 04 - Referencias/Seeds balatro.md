@@ -37,7 +37,8 @@ algumas seeds muito loucas que eu encontrei jogando.
 
 ## UZ1UISWV
 
-- Ante 2
+- Ante 3
 	- Oops! All 6
 	- Ankh no Spectral Pack
+	- Ancient Joker negativo
 	- Objetivo: Double Oops %
