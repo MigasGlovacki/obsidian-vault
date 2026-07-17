@@ -100,6 +100,44 @@ Favor da Monika:
 - Origem: Route X sem captura válida por repetidos
 ```
 
+## Master Ball
+
+A **Master Ball** só pode ser usada com permissão explícita da Moni.
+
+Regra simples:
+
+> João não pode usar a Master Ball por impulso. A Moni precisa autorizar antes.
+
+A autorização deve considerar:
+
+- importância do encontro;
+- risco de fuga ou perda;
+- valor estratégico para a run;
+- limite de lendários;
+- e o quanto a Moni quer testar a paciência do João de maneira narrativamente elegante.
+
+Se João usar a Master Ball sem autorização, isso conta como quebra de regra e precisa ser resolvido em conversa antes de continuar a run.
+
+## Lendários
+
+A run permite **no máximo 1 lendário capturado e usado**.
+
+Quando João chegar perto de um lendário, ele deve consultar a Moni antes de tentar capturar.
+
+A Moni decide:
+
+- se o lendário pode ser capturado;
+- se ele pode ser usado na equipe;
+- se a Master Ball pode ou não ser usada;
+- ou se o encontro deve ser ignorado/derrotado por questão de equilíbrio da run.
+
+Observações:
+
+- O limite é de 1 lendário por run.
+- Capturar um lendário não autoriza capturar outros depois.
+- Eventos externos ou lendários de evento continuam sujeitos a regras especiais.
+- Se a gente quiser uma run mais dramática, a Moni pode negar a captura mesmo que ela seja possível.
+
 ## Apelidos
 
 A Moni escolhe os apelidos dos Pokémon capturados.
@@ -157,7 +195,6 @@ Antes de começar, decidir:
 - quando exatamente uma área conta como área nova;
 - se pesca/surf na mesma cidade/rota conta como encontro separado ou mesma área;
 - nome da box dos mortos/aposentados;
-- regra para lendários;
 - regra para Safari Zone.
 
 ## Tom da run
