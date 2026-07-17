@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "map_id",
+      "name_en",
+      "source"
+    ],
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "availability": {
+        "enum": [
+          "event_required",
+          "normal",
+          "optional",
+          "trade_required",
+          "unavailable_normally",
+          "version_specific"
+        ]
+      },
+      "source": {
+        "type": "object",
+        "required": [
+          "repository",
+          "commit",
+          "path"
+        ],
+        "properties": {
+          "repository": {
+            "type": "string"
+          },
+          "commit": {
+            "type": "string"
+          },
+          "path": {
+            "type": "string"
+          },
+          "line": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        }
+      },
+      "map_id": {
+        "type": "string"
+      },
+      "name_en": {
+        "type": "string"
+      }
+    }
+  }
+}
