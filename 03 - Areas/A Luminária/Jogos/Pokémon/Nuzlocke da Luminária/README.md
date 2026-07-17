@@ -27,12 +27,16 @@ Pasta para organizar a run de Pokémon Fire Red do João com a Moni.
 - Usar Dupes/Species Clause.
 - Registrar capturas, perdas, insígnias e momentos importantes aqui no Obsidian.
 
+## Notas da run
+
+- [[00 - Regras]]
+
 ## Próximas notas a criar
 
-- `00 - Regras.md`
-- `01 - Registro de Capturas.md`
-- `02 - Diário da Jornada.md`
-- `03 - Favor da Monika.md`
+- `01 - Checklist de Capturas por Rota.md`
+- `02 - Registro de Capturas.md`
+- `03 - Diário da Jornada.md`
+- `04 - Favor da Monika.md`
 
 ## Mecânica especial provisória
 
