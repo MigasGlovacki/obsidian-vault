@@ -1,0 +1,560 @@
+[
+  {
+    "id": "special-map-birth-island-exterior-event-species-deoxys-30-2617-9db01247",
+    "map_id": "MAP_BIRTH_ISLAND_EXTERIOR",
+    "area_id": "area-map-birth-island-exterior-71b63cea",
+    "area_name_en": "Birth Island Exterior",
+    "kind": "event",
+    "species_id": "SPECIES_DEOXYS",
+    "species": "Deoxys",
+    "level": 30,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "event_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/BirthIsland_Exterior/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-celadon-city-condominiums-roof-room-gift-species-eevee-25-314-cfb7383f",
+    "map_id": "MAP_CELADON_CITY_CONDOMINIUMS_ROOF_ROOM",
+    "area_id": "area-map-celadon-city-condominiums-roof-room-6b73f3d1",
+    "area_name_en": "Celadon City Condominiums Roof Room",
+    "kind": "gift",
+    "species_id": "SPECIES_EEVEE",
+    "species": "Eevee",
+    "level": 25,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_Condominiums_RoofRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-cerulean-cave-b1f-static-species-mewtwo-70-978-c3c2603c",
+    "map_id": "MAP_CERULEAN_CAVE_B1F",
+    "area_id": "area-map-cerulean-cave-b1f-bf000049",
+    "area_name_en": "Cerulean Cave B1 F",
+    "kind": "static",
+    "species_id": "SPECIES_MEWTWO",
+    "species": "Mewtwo",
+    "level": 70,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeruleanCave_B1F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-cinnabar-island-pokemon-lab-experiment-room-gift-species-omanyte-5-9980-98c87822",
+    "map_id": "MAP_CINNABAR_ISLAND_POKEMON_LAB_EXPERIMENT_ROOM",
+    "area_id": "area-map-cinnabar-island-pokemon-lab-experiment-room-fb826bfa",
+    "area_name_en": "Cinnabar Island Pokémon Lab Experiment Room",
+    "kind": "gift",
+    "species_id": "SPECIES_OMANYTE",
+    "species": "Omanyte",
+    "level": 5,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CinnabarIsland_PokemonLab_ExperimentRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-cinnabar-island-pokemon-lab-experiment-room-gift-species-kabuto-5-10513-96ff97d9",
+    "map_id": "MAP_CINNABAR_ISLAND_POKEMON_LAB_EXPERIMENT_ROOM",
+    "area_id": "area-map-cinnabar-island-pokemon-lab-experiment-room-fb826bfa",
+    "area_name_en": "Cinnabar Island Pokémon Lab Experiment Room",
+    "kind": "gift",
+    "species_id": "SPECIES_KABUTO",
+    "species": "Kabuto",
+    "level": 5,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CinnabarIsland_PokemonLab_ExperimentRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-cinnabar-island-pokemon-lab-experiment-room-gift-species-aerodactyl-5-11056-ea1e0fe7",
+    "map_id": "MAP_CINNABAR_ISLAND_POKEMON_LAB_EXPERIMENT_ROOM",
+    "area_id": "area-map-cinnabar-island-pokemon-lab-experiment-room-fb826bfa",
+    "area_name_en": "Cinnabar Island Pokémon Lab Experiment Room",
+    "kind": "gift",
+    "species_id": "SPECIES_AERODACTYL",
+    "species": "Aerodactyl",
+    "level": 5,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CinnabarIsland_PokemonLab_ExperimentRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-mt-ember-summit-static-species-moltres-50-786-14830bf3",
+    "map_id": "MAP_MT_EMBER_SUMMIT",
+    "area_id": "area-map-mt-ember-summit-112aacae",
+    "area_name_en": "Mt. Ember Summit",
+    "kind": "static",
+    "species_id": "SPECIES_MOLTRES",
+    "species": "Moltres",
+    "level": 50,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/MtEmber_Summit/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-navel-rock-base-event-species-lugia-70-1509-301d401e",
+    "map_id": "MAP_NAVEL_ROCK_BASE",
+    "area_id": "area-map-navel-rock-base-699b7988",
+    "area_name_en": "Navel Rock Base",
+    "kind": "event",
+    "species_id": "SPECIES_LUGIA",
+    "species": "Lugia",
+    "level": 70,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "event_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/NavelRock_Base/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-navel-rock-summit-event-species-ho-oh-70-1703-7de20c16",
+    "map_id": "MAP_NAVEL_ROCK_SUMMIT",
+    "area_id": "area-map-navel-rock-summit-a8df997b",
+    "area_name_en": "Navel Rock Summit",
+    "kind": "event",
+    "species_id": "SPECIES_HO_OH",
+    "species": "Ho Oh",
+    "level": 70,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "event_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/NavelRock_Summit/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-pokemon-tower-6f-static-species-marowak-30-208-541ed627",
+    "map_id": "MAP_POKEMON_TOWER_6F",
+    "area_id": "area-map-pokemon-tower-6f-cd0a29dd",
+    "area_name_en": "Pokémon Tower 6 F",
+    "kind": "static",
+    "species_id": "SPECIES_MAROWAK",
+    "species": "Marowak",
+    "level": 30,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/PokemonTower_6F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-power-plant-static-species-zapdos-50-1157-c0d6b494",
+    "map_id": "MAP_POWER_PLANT",
+    "area_id": "area-map-power-plant-eb632051",
+    "area_name_en": "Power Plant",
+    "kind": "static",
+    "species_id": "SPECIES_ZAPDOS",
+    "species": "Zapdos",
+    "level": 50,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/PowerPlant/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-power-plant-static-species-electrode-34-2114-015314b0",
+    "map_id": "MAP_POWER_PLANT",
+    "area_id": "area-map-power-plant-eb632051",
+    "area_name_en": "Power Plant",
+    "kind": "static",
+    "species_id": "SPECIES_ELECTRODE",
+    "species": "Electrode",
+    "level": 34,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/PowerPlant/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-power-plant-static-species-electrode-34-2928-9e3a81b5",
+    "map_id": "MAP_POWER_PLANT",
+    "area_id": "area-map-power-plant-eb632051",
+    "area_name_en": "Power Plant",
+    "kind": "static",
+    "species_id": "SPECIES_ELECTRODE",
+    "species": "Electrode",
+    "level": 34,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/PowerPlant/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-route12-static-species-snorlax-30-604-8000f194",
+    "map_id": "MAP_ROUTE12",
+    "area_id": "area-map-route12-c1ec9ce0",
+    "area_name_en": "Route 12",
+    "kind": "static",
+    "species_id": "SPECIES_SNORLAX",
+    "species": "Snorlax",
+    "level": 30,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/Route12/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-route16-static-species-snorlax-30-1052-2895f6ee",
+    "map_id": "MAP_ROUTE16",
+    "area_id": "area-map-route16-277f85c1",
+    "area_name_en": "Route 16",
+    "kind": "static",
+    "species_id": "SPECIES_SNORLAX",
+    "species": "Snorlax",
+    "level": 30,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/Route16/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-route4-pokemon-center-1f-gift-species-magikarp-5-1686-aa4921f2",
+    "map_id": "MAP_ROUTE4_POKEMON_CENTER_1F",
+    "area_id": "area-map-route4-pokemon-center-1f-0d707843",
+    "area_name_en": "Route 4 Pokémon Center 1 F",
+    "kind": "gift",
+    "species_id": "SPECIES_MAGIKARP",
+    "species": "Magikarp",
+    "level": 5,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/Route4_PokemonCenter_1F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-seafoam-islands-b4f-static-species-articuno-50-4917-8a46c86f",
+    "map_id": "MAP_SEAFOAM_ISLANDS_B4F",
+    "area_id": "area-map-seafoam-islands-b4f-c50a78bb",
+    "area_name_en": "Seafoam Islands B4 F",
+    "kind": "static",
+    "species_id": "SPECIES_ARTICUNO",
+    "species": "Articuno",
+    "level": 50,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/SeafoamIslands_B4F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-silph-co-7f-gift-species-lapras-25-3383-82e3f99f",
+    "map_id": "MAP_SILPH_CO_7F",
+    "area_id": "area-map-silph-co-7f-33795eb3",
+    "area_name_en": "Silph Co. 7 F",
+    "kind": "gift",
+    "species_id": "SPECIES_LAPRAS",
+    "species": "Lapras",
+    "level": 25,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/SilphCo_7F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-three-island-berry-forest-static-species-hypno-30-780-a00682e9",
+    "map_id": "MAP_THREE_ISLAND_BERRY_FOREST",
+    "area_id": "area-map-three-island-berry-forest-449de2a2",
+    "area_name_en": "Three Island Berry Forest",
+    "kind": "static",
+    "species_id": "SPECIES_HYPNO",
+    "species": "Hypno",
+    "level": 30,
+    "conditions": "Interação/evento de mapa; consulte o capítulo correspondente.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/ThreeIsland_BerryForest/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-pallet-town-professor-oaks-lab-starter-choice-species-bulbasaur-0e86e2c4",
+    "map_id": "MAP_PALLET_TOWN_PROFESSOR_OAKS_LAB",
+    "area_id": "area-map-pallet-town-professor-oaks-lab-8cbba758",
+    "area_name_en": "Pallet Town Professor Oak's Lab",
+    "kind": "starter_choice",
+    "species_id": "SPECIES_BULBASAUR",
+    "species": "Bulbasaur",
+    "level": 5,
+    "conditions": "Escolha exatamente um dos três starters.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/PalletTown_ProfessorOaksLab/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-pallet-town-professor-oaks-lab-starter-choice-species-charmander-dabd6164",
+    "map_id": "MAP_PALLET_TOWN_PROFESSOR_OAKS_LAB",
+    "area_id": "area-map-pallet-town-professor-oaks-lab-8cbba758",
+    "area_name_en": "Pallet Town Professor Oak's Lab",
+    "kind": "starter_choice",
+    "species_id": "SPECIES_CHARMANDER",
+    "species": "Charmander",
+    "level": 5,
+    "conditions": "Escolha exatamente um dos três starters.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/PalletTown_ProfessorOaksLab/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-pallet-town-professor-oaks-lab-starter-choice-species-squirtle-bd319d89",
+    "map_id": "MAP_PALLET_TOWN_PROFESSOR_OAKS_LAB",
+    "area_id": "area-map-pallet-town-professor-oaks-lab-8cbba758",
+    "area_name_en": "Pallet Town Professor Oak's Lab",
+    "kind": "starter_choice",
+    "species_id": "SPECIES_SQUIRTLE",
+    "species": "Squirtle",
+    "level": 5,
+    "conditions": "Escolha exatamente um dos três starters.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/PalletTown_ProfessorOaksLab/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-saffron-city-dojo-gift-choice-species-hitmonlee-ccee35dd",
+    "map_id": "MAP_SAFFRON_CITY_DOJO",
+    "area_id": "area-map-saffron-city-dojo-5f053606",
+    "area_name_en": "Saffron City Dojo",
+    "kind": "gift_choice",
+    "species_id": "SPECIES_HITMONLEE",
+    "species": "Hitmonlee",
+    "level": 25,
+    "conditions": "Escolha exatamente um prêmio após vencer o Fighting Dojo.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/SaffronCity_Dojo/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-saffron-city-dojo-gift-choice-species-hitmonchan-6eca48e7",
+    "map_id": "MAP_SAFFRON_CITY_DOJO",
+    "area_id": "area-map-saffron-city-dojo-5f053606",
+    "area_name_en": "Saffron City Dojo",
+    "kind": "gift_choice",
+    "species_id": "SPECIES_HITMONCHAN",
+    "species": "Hitmonchan",
+    "level": 25,
+    "conditions": "Escolha exatamente um prêmio após vencer o Fighting Dojo.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/SaffronCity_Dojo/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-celadon-city-game-corner-prize-room-prize-species-abra-d798b523",
+    "map_id": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+    "area_id": "area-map-celadon-city-game-corner-prize-room-3a49b5c4",
+    "area_name_en": "Celadon City Game Corner Prize Room",
+    "kind": "prize",
+    "species_id": "SPECIES_ABRA",
+    "species": "Abra",
+    "level": 9,
+    "conditions": "Troque 180 coins no Game Corner; Coin Case exigido.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_GameCorner_PrizeRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-celadon-city-game-corner-prize-room-prize-species-clefairy-238f94de",
+    "map_id": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+    "area_id": "area-map-celadon-city-game-corner-prize-room-3a49b5c4",
+    "area_name_en": "Celadon City Game Corner Prize Room",
+    "kind": "prize",
+    "species_id": "SPECIES_CLEFAIRY",
+    "species": "Clefairy",
+    "level": 8,
+    "conditions": "Troque 500 coins no Game Corner; Coin Case exigido.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_GameCorner_PrizeRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-celadon-city-game-corner-prize-room-prize-species-dratini-40d02281",
+    "map_id": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+    "area_id": "area-map-celadon-city-game-corner-prize-room-3a49b5c4",
+    "area_name_en": "Celadon City Game Corner Prize Room",
+    "kind": "prize",
+    "species_id": "SPECIES_DRATINI",
+    "species": "Dratini",
+    "level": 18,
+    "conditions": "Troque 2800 coins no Game Corner; Coin Case exigido.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_GameCorner_PrizeRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-celadon-city-game-corner-prize-room-prize-species-scyther-98db31d9",
+    "map_id": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+    "area_id": "area-map-celadon-city-game-corner-prize-room-3a49b5c4",
+    "area_name_en": "Celadon City Game Corner Prize Room",
+    "kind": "prize",
+    "species_id": "SPECIES_SCYTHER",
+    "species": "Scyther",
+    "level": 25,
+    "conditions": "Troque 5500 coins no Game Corner; Coin Case exigido.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_GameCorner_PrizeRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-celadon-city-game-corner-prize-room-prize-species-porygon-561a0796",
+    "map_id": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+    "area_id": "area-map-celadon-city-game-corner-prize-room-3a49b5c4",
+    "area_name_en": "Celadon City Game Corner Prize Room",
+    "kind": "prize",
+    "species_id": "SPECIES_PORYGON",
+    "species": "Porygon",
+    "level": 26,
+    "conditions": "Troque 9999 coins no Game Corner; Coin Case exigido.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_GameCorner_PrizeRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-map-five-island-water-labyrinth-egg-gift-species-togepi-4dbeb655",
+    "map_id": "MAP_FIVE_ISLAND_WATER_LABYRINTH",
+    "area_id": "area-map-five-island-water-labyrinth-84b55bbd",
+    "area_name_en": "Five Island Water Labyrinth",
+    "kind": "egg_gift",
+    "species_id": "SPECIES_TOGEPI",
+    "species": "Togepi",
+    "level": 5,
+    "conditions": "Receba o Egg com espaço na equipe e choque-o caminhando.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/FiveIsland_WaterLabyrinth/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "special-roamer-7d4529f2",
+    "map_id": null,
+    "area_id": null,
+    "area_name_en": "Kanto routes",
+    "kind": "roaming",
+    "species_id": "STARTER_DEPENDENT",
+    "species": "Entei (Bulbasaur), Suicune (Charmander) ou Raikou (Squirtle)",
+    "level": 50,
+    "conditions": "National Pokédex e missão de Celio concluída; espécie definida pelo starter.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/roamer.c",
+      "line": null
+    }
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "map_id",
+      "method",
+      "species_id",
+      "min_level",
+      "max_level",
+      "slot_rate_percent",
+      "availability",
+      "source"
+    ],
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "availability": {
+        "enum": [
+          "event_required",
+          "normal",
+          "optional",
+          "trade_required",
+          "unavailable_normally",
+          "version_specific"
+        ]
+      },
+      "source": {
+        "type": "object",
+        "required": [
+          "repository",
+          "commit",
+          "path"
+        ],
+        "properties": {
+          "repository": {
+            "type": "string"
+          },
+          "commit": {
+            "type": "string"
+          },
+          "path": {
+            "type": "string"
+          },
+          "line": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        }
+      },
+      "map_id": {
+        "type": "string"
+      },
+      "method": {
+        "enum": [
+          "land",
+          "surf",
+          "rock_smash",
+          "old_rod",
+          "good_rod",
+          "super_rod"
+        ]
+      },
+      "species_id": {
+        "type": "string"
+      },
+      "min_level": {
+        "type": "integer"
+      },
+      "max_level": {
+        "type": "integer"
+      },
+      "slot_rate_percent": {
+        "type": "integer"
+      }
+    }
+  }
+}

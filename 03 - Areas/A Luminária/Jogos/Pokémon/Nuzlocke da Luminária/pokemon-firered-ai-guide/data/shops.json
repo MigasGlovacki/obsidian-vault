@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "shop-celadoncity-departmentstore-2f-eventscript-clerkitems-celadoncity-departmentstore-2f-items-013171ec",
+    "vendor_id": "CeladonCity_DepartmentStore_2F_EventScript_ClerkItems",
+    "stock_id": "CeladonCity_DepartmentStore_2F_Items",
+    "name_en": "Celadon City Department Store 2 F shop",
+    "map_id": "MAP_CELADON_CITY_DEPARTMENT_STORE_2F",
+    "area_id": "area-map-celadon-city-department-store-2f-cecc92b2",
+    "coordinates": {
+      "x": 1,
+      "y": 8
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_SUPER_POTION",
+        "item_name_en": "SUPER POTION",
+        "price": 700
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_ANTIDOTE",
+        "item_name_en": "ANTIDOTE",
+        "price": 100
+      },
+      {
+        "item_id": "ITEM_PARALYZE_HEAL",
+        "item_name_en": "PARLYZ HEAL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_AWAKENING",
+        "item_name_en": "AWAKENING",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_BURN_HEAL",
+        "item_name_en": "BURN HEAL",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_ICE_HEAL",
+        "item_name_en": "ICE HEAL",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_SUPER_REPEL",
+        "item_name_en": "SUPER REPEL",
+        "price": 500
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_DepartmentStore_2F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-celadoncity-departmentstore-2f-eventscript-clerktms-celadoncity-departmentstore-2f-tms-4be28eb8",
+    "vendor_id": "CeladonCity_DepartmentStore_2F_EventScript_ClerkTMs",
+    "stock_id": "CeladonCity_DepartmentStore_2F_TMs",
+    "name_en": "Celadon City Department Store 2 F shop",
+    "map_id": "MAP_CELADON_CITY_DEPARTMENT_STORE_2F",
+    "area_id": "area-map-celadon-city-department-store-2f-cecc92b2",
+    "coordinates": {
+      "x": 1,
+      "y": 6
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_TM05",
+        "item_name_en": "TM05",
+        "price": 1000
+      },
+      {
+        "item_id": "ITEM_TM15",
+        "item_name_en": "TM15",
+        "price": 7500
+      },
+      {
+        "item_id": "ITEM_TM28",
+        "item_name_en": "TM28",
+        "price": 2000
+      },
+      {
+        "item_id": "ITEM_TM31",
+        "item_name_en": "TM31",
+        "price": 3000
+      },
+      {
+        "item_id": "ITEM_TM43",
+        "item_name_en": "TM43",
+        "price": 3000
+      },
+      {
+        "item_id": "ITEM_TM45",
+        "item_name_en": "TM45",
+        "price": 3000
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_DepartmentStore_2F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-celadoncity-departmentstore-4f-eventscript-clerk-celadoncity-departmentstore-4f-items-d3928bcc",
+    "vendor_id": "CeladonCity_DepartmentStore_4F_EventScript_Clerk",
+    "stock_id": "CeladonCity_DepartmentStore_4F_Items",
+    "name_en": "Celadon City Department Store 4 F shop",
+    "map_id": "MAP_CELADON_CITY_DEPARTMENT_STORE_4F",
+    "area_id": "area-map-celadon-city-department-store-4f-5e54df1d",
+    "coordinates": {
+      "x": 3,
+      "y": 13
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_POKE_DOLL",
+        "item_name_en": "POKé DOLL",
+        "price": 1000
+      },
+      {
+        "item_id": "ITEM_RETRO_MAIL",
+        "item_name_en": "RETRO MAIL",
+        "price": 50
+      },
+      {
+        "item_id": "ITEM_FIRE_STONE",
+        "item_name_en": "FIRE STONE",
+        "price": 2100
+      },
+      {
+        "item_id": "ITEM_THUNDER_STONE",
+        "item_name_en": "THUNDERSTONE",
+        "price": 2100
+      },
+      {
+        "item_id": "ITEM_WATER_STONE",
+        "item_name_en": "WATER STONE",
+        "price": 2100
+      },
+      {
+        "item_id": "ITEM_LEAF_STONE",
+        "item_name_en": "LEAF STONE",
+        "price": 2100
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_DepartmentStore_4F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-celadoncity-departmentstore-5f-eventscript-clerkxitems-celadoncity-departmentstore-5f-xite-37d69049",
+    "vendor_id": "CeladonCity_DepartmentStore_5F_EventScript_ClerkXItems",
+    "stock_id": "CeladonCity_DepartmentStore_5F_XItems",
+    "name_en": "Celadon City Department Store 5 F shop",
+    "map_id": "MAP_CELADON_CITY_DEPARTMENT_STORE_5F",
+    "area_id": "area-map-celadon-city-department-store-5f-a3abe045",
+    "coordinates": {
+      "x": 1,
+      "y": 7
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_X_ATTACK",
+        "item_name_en": "X ATTACK",
+        "price": 500
+      },
+      {
+        "item_id": "ITEM_X_DEFEND",
+        "item_name_en": "X DEFEND",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_X_SPEED",
+        "item_name_en": "X SPEED",
+        "price": 350
+      },
+      {
+        "item_id": "ITEM_X_SPECIAL",
+        "item_name_en": "X SPECIAL",
+        "price": 350
+      },
+      {
+        "item_id": "ITEM_X_ACCURACY",
+        "item_name_en": "X ACCURACY",
+        "price": 950
+      },
+      {
+        "item_id": "ITEM_GUARD_SPEC",
+        "item_name_en": "GUARD SPEC.",
+        "price": 700
+      },
+      {
+        "item_id": "ITEM_DIRE_HIT",
+        "item_name_en": "DIRE HIT",
+        "price": 650
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_DepartmentStore_5F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-celadoncity-departmentstore-5f-eventscript-clerkvitamins-celadoncity-departmentstore-5f-vi-bcbc1436",
+    "vendor_id": "CeladonCity_DepartmentStore_5F_EventScript_ClerkVitamins",
+    "stock_id": "CeladonCity_DepartmentStore_5F_Vitamins",
+    "name_en": "Celadon City Department Store 5 F shop",
+    "map_id": "MAP_CELADON_CITY_DEPARTMENT_STORE_5F",
+    "area_id": "area-map-celadon-city-department-store-5f-a3abe045",
+    "coordinates": {
+      "x": 1,
+      "y": 6
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_HP_UP",
+        "item_name_en": "HP UP",
+        "price": 9800
+      },
+      {
+        "item_id": "ITEM_PROTEIN",
+        "item_name_en": "PROTEIN",
+        "price": 9800
+      },
+      {
+        "item_id": "ITEM_IRON",
+        "item_name_en": "IRON",
+        "price": 9800
+      },
+      {
+        "item_id": "ITEM_CALCIUM",
+        "item_name_en": "CALCIUM",
+        "price": 9800
+      },
+      {
+        "item_id": "ITEM_ZINC",
+        "item_name_en": "ZINC",
+        "price": 9800
+      },
+      {
+        "item_id": "ITEM_CARBOS",
+        "item_name_en": "CARBOS",
+        "price": 9800
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_DepartmentStore_5F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-ceruleancity-mart-eventscript-clerk-ceruleancity-mart-items-36c26332",
+    "vendor_id": "CeruleanCity_Mart_EventScript_Clerk",
+    "stock_id": "CeruleanCity_Mart_Items",
+    "name_en": "Cerulean City Mart shop",
+    "map_id": "MAP_CERULEAN_CITY_MART",
+    "area_id": "area-map-cerulean-city-mart-e79dff63",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_POKE_BALL",
+        "item_name_en": "POKé BALL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_SUPER_POTION",
+        "item_name_en": "SUPER POTION",
+        "price": 700
+      },
+      {
+        "item_id": "ITEM_POTION",
+        "item_name_en": "POTION",
+        "price": 300
+      },
+      {
+        "item_id": "ITEM_ANTIDOTE",
+        "item_name_en": "ANTIDOTE",
+        "price": 100
+      },
+      {
+        "item_id": "ITEM_PARALYZE_HEAL",
+        "item_name_en": "PARLYZ HEAL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_AWAKENING",
+        "item_name_en": "AWAKENING",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_BURN_HEAL",
+        "item_name_en": "BURN HEAL",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_REPEL",
+        "item_name_en": "REPEL",
+        "price": 350
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeruleanCity_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-cinnabarisland-mart-eventscript-clerk-cinnabarisland-mart-items-1e1b17d6",
+    "vendor_id": "CinnabarIsland_Mart_EventScript_Clerk",
+    "stock_id": "CinnabarIsland_Mart_Items",
+    "name_en": "Cinnabar Island Mart shop",
+    "map_id": "MAP_CINNABAR_ISLAND_MART",
+    "area_id": "area-map-cinnabar-island-mart-d99fe9eb",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_HYPER_POTION",
+        "item_name_en": "HYPER POTION",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CinnabarIsland_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-fourisland-mart-eventscript-clerk-fourisland-mart-items-9560dd73",
+    "vendor_id": "FourIsland_Mart_EventScript_Clerk",
+    "stock_id": "FourIsland_Mart_Items",
+    "name_en": "Four Island Mart shop",
+    "map_id": "MAP_FOUR_ISLAND_MART",
+    "area_id": "area-map-four-island-mart-713d002f",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_FULL_RESTORE",
+        "item_name_en": "FULL RESTORE",
+        "price": 3000
+      },
+      {
+        "item_id": "ITEM_MAX_POTION",
+        "item_name_en": "MAX POTION",
+        "price": 2500
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_ICE_HEAL",
+        "item_name_en": "ICE HEAL",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/FourIsland_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-fuchsiacity-mart-eventscript-clerk-fuchsiacity-mart-items-66e8b2d8",
+    "vendor_id": "FuchsiaCity_Mart_EventScript_Clerk",
+    "stock_id": "FuchsiaCity_Mart_Items",
+    "name_en": "Fuchsia City Mart shop",
+    "map_id": "MAP_FUCHSIA_CITY_MART",
+    "area_id": "area-map-fuchsia-city-mart-d97b4104",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_SUPER_POTION",
+        "item_name_en": "SUPER POTION",
+        "price": 700
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/FuchsiaCity_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-indigoplateau-pokemoncenter-1f-eventscript-clerk-indigoplateau-pokemoncenter-1f-items-68cf7058",
+    "vendor_id": "IndigoPlateau_PokemonCenter_1F_EventScript_Clerk",
+    "stock_id": "IndigoPlateau_PokemonCenter_1F_Items",
+    "name_en": "Indigo Plateau Pokémon Center 1 F shop",
+    "map_id": "MAP_INDIGO_PLATEAU_POKEMON_CENTER_1F",
+    "area_id": "area-map-indigo-plateau-pokemon-center-1f-2f3b2ce0",
+    "coordinates": {
+      "x": 0,
+      "y": 7
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_FULL_RESTORE",
+        "item_name_en": "FULL RESTORE",
+        "price": 3000
+      },
+      {
+        "item_id": "ITEM_MAX_POTION",
+        "item_name_en": "MAX POTION",
+        "price": 2500
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/IndigoPlateau_PokemonCenter_1F/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-lavendertown-mart-eventscript-clerk-lavendertown-mart-items-5f7925f9",
+    "vendor_id": "LavenderTown_Mart_EventScript_Clerk",
+    "stock_id": "LavenderTown_Mart_Items",
+    "name_en": "Lavender Town Mart shop",
+    "map_id": "MAP_LAVENDER_TOWN_MART",
+    "area_id": "area-map-lavender-town-mart-8db2fecc",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_SUPER_POTION",
+        "item_name_en": "SUPER POTION",
+        "price": 700
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_ANTIDOTE",
+        "item_name_en": "ANTIDOTE",
+        "price": 100
+      },
+      {
+        "item_id": "ITEM_PARALYZE_HEAL",
+        "item_name_en": "PARLYZ HEAL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_BURN_HEAL",
+        "item_name_en": "BURN HEAL",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_ICE_HEAL",
+        "item_name_en": "ICE HEAL",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_SUPER_REPEL",
+        "item_name_en": "SUPER REPEL",
+        "price": 500
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/LavenderTown_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-pewtercity-mart-eventscript-clerk-pewtercity-mart-items-7ffc8c6c",
+    "vendor_id": "PewterCity_Mart_EventScript_Clerk",
+    "stock_id": "PewterCity_Mart_Items",
+    "name_en": "Pewter City Mart shop",
+    "map_id": "MAP_PEWTER_CITY_MART",
+    "area_id": "area-map-pewter-city-mart-cfed0c02",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_POKE_BALL",
+        "item_name_en": "POKé BALL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_POTION",
+        "item_name_en": "POTION",
+        "price": 300
+      },
+      {
+        "item_id": "ITEM_ANTIDOTE",
+        "item_name_en": "ANTIDOTE",
+        "price": 100
+      },
+      {
+        "item_id": "ITEM_PARALYZE_HEAL",
+        "item_name_en": "PARLYZ HEAL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_AWAKENING",
+        "item_name_en": "AWAKENING",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_BURN_HEAL",
+        "item_name_en": "BURN HEAL",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_REPEL",
+        "item_name_en": "REPEL",
+        "price": 350
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/PewterCity_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-saffroncity-mart-eventscript-clerk-saffroncity-mart-items-782ab63c",
+    "vendor_id": "SaffronCity_Mart_EventScript_Clerk",
+    "stock_id": "SaffronCity_Mart_Items",
+    "name_en": "Saffron City Mart shop",
+    "map_id": "MAP_SAFFRON_CITY_MART",
+    "area_id": "area-map-saffron-city-mart-c908896d",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_HYPER_POTION",
+        "item_name_en": "HYPER POTION",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/SaffronCity_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-sevenisland-mart-eventscript-clerk-sevenisland-mart-items-7d8e258f",
+    "vendor_id": "SevenIsland_Mart_EventScript_Clerk",
+    "stock_id": "SevenIsland_Mart_Items",
+    "name_en": "Seven Island Mart shop",
+    "map_id": "MAP_SEVEN_ISLAND_MART",
+    "area_id": "area-map-seven-island-mart-9d91928e",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_FULL_RESTORE",
+        "item_name_en": "FULL RESTORE",
+        "price": 3000
+      },
+      {
+        "item_id": "ITEM_MAX_POTION",
+        "item_name_en": "MAX POTION",
+        "price": 2500
+      },
+      {
+        "item_id": "ITEM_HYPER_POTION",
+        "item_name_en": "HYPER POTION",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/SevenIsland_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-sixisland-mart-eventscript-clerk-sixisland-mart-items-7f6d1c3b",
+    "vendor_id": "SixIsland_Mart_EventScript_Clerk",
+    "stock_id": "SixIsland_Mart_Items",
+    "name_en": "Six Island Mart shop",
+    "map_id": "MAP_SIX_ISLAND_MART",
+    "area_id": "area-map-six-island-mart-c968e2b7",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_FULL_RESTORE",
+        "item_name_en": "FULL RESTORE",
+        "price": 3000
+      },
+      {
+        "item_id": "ITEM_MAX_POTION",
+        "item_name_en": "MAX POTION",
+        "price": 2500
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      },
+      {
+        "item_id": "ITEM_DREAM_MAIL",
+        "item_name_en": "DREAM MAIL",
+        "price": 50
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/SixIsland_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-threeisland-mart-eventscript-clerk-threeisland-mart-items-fa3903d7",
+    "vendor_id": "ThreeIsland_Mart_EventScript_Clerk",
+    "stock_id": "ThreeIsland_Mart_Items",
+    "name_en": "Three Island Mart shop",
+    "map_id": "MAP_THREE_ISLAND_MART",
+    "area_id": "area-map-three-island-mart-4531d3e8",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_HYPER_POTION",
+        "item_name_en": "HYPER POTION",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/ThreeIsland_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-trainertower-lobby-eventscript-martclerk-trainertower-lobby-mart-items-bc4776b8",
+    "vendor_id": "TrainerTower_Lobby_EventScript_MartClerk",
+    "stock_id": "TrainerTower_Lobby_Mart_Items",
+    "name_en": "Trainer Tower Lobby shop",
+    "map_id": "MAP_TRAINER_TOWER_LOBBY",
+    "area_id": "area-map-trainer-tower-lobby-e29559ea",
+    "coordinates": {
+      "x": 14,
+      "y": 9
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_FULL_RESTORE",
+        "item_name_en": "FULL RESTORE",
+        "price": 3000
+      },
+      {
+        "item_id": "ITEM_MAX_POTION",
+        "item_name_en": "MAX POTION",
+        "price": 2500
+      },
+      {
+        "item_id": "ITEM_HYPER_POTION",
+        "item_name_en": "HYPER POTION",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_REVIVE",
+        "item_name_en": "REVIVE",
+        "price": 1500
+      },
+      {
+        "item_id": "ITEM_FULL_HEAL",
+        "item_name_en": "FULL HEAL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_ESCAPE_ROPE",
+        "item_name_en": "ESCAPE ROPE",
+        "price": 550
+      },
+      {
+        "item_id": "ITEM_MAX_REPEL",
+        "item_name_en": "MAX REPEL",
+        "price": 700
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/TrainerTower_Lobby/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-twoisland-eventscript-shopinitial-twoisland-items-shopinitial-4c140fd2",
+    "vendor_id": "TwoIsland_EventScript_ShopInitial",
+    "stock_id": "TwoIsland_Items_ShopInitial",
+    "name_en": "Two Island shop",
+    "map_id": "MAP_TWO_ISLAND",
+    "area_id": "area-map-two-island-c9709f15",
+    "coordinates": null,
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_FRESH_WATER",
+        "item_name_en": "FRESH WATER",
+        "price": 200
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/TwoIsland/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-twoisland-eventscript-shopexpanded1-twoisland-items-shopexpanded1-9ca151ab",
+    "vendor_id": "TwoIsland_EventScript_ShopExpanded1",
+    "stock_id": "TwoIsland_Items_ShopExpanded1",
+    "name_en": "Two Island shop",
+    "map_id": "MAP_TWO_ISLAND",
+    "area_id": "area-map-two-island-c9709f15",
+    "coordinates": null,
+    "condition": "Estoque expandido conforme o progresso da história de Two Island.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_SODA_POP",
+        "item_name_en": "SODA POP",
+        "price": 300
+      },
+      {
+        "item_id": "ITEM_FRESH_WATER",
+        "item_name_en": "FRESH WATER",
+        "price": 200
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/TwoIsland/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-twoisland-eventscript-shopexpanded2-twoisland-items-shopexpanded2-3daeb8bf",
+    "vendor_id": "TwoIsland_EventScript_ShopExpanded2",
+    "stock_id": "TwoIsland_Items_ShopExpanded2",
+    "name_en": "Two Island shop",
+    "map_id": "MAP_TWO_ISLAND",
+    "area_id": "area-map-two-island-c9709f15",
+    "coordinates": null,
+    "condition": "Estoque expandido conforme o progresso da história de Two Island.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_GREAT_BALL",
+        "item_name_en": "GREAT BALL",
+        "price": 600
+      },
+      {
+        "item_id": "ITEM_LEMONADE",
+        "item_name_en": "LEMONADE",
+        "price": 350
+      },
+      {
+        "item_id": "ITEM_SODA_POP",
+        "item_name_en": "SODA POP",
+        "price": 300
+      },
+      {
+        "item_id": "ITEM_FRESH_WATER",
+        "item_name_en": "FRESH WATER",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_MOOMOO_MILK",
+        "item_name_en": "MOOMOO MILK",
+        "price": 500
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/TwoIsland/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-twoisland-eventscript-shopexpanded3-twoisland-items-shopexpanded3-c75ced29",
+    "vendor_id": "TwoIsland_EventScript_ShopExpanded3",
+    "stock_id": "TwoIsland_Items_ShopExpanded3",
+    "name_en": "Two Island shop",
+    "map_id": "MAP_TWO_ISLAND",
+    "area_id": "area-map-two-island-c9709f15",
+    "coordinates": null,
+    "condition": "Estoque expandido conforme o progresso da história de Two Island.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_ULTRA_BALL",
+        "item_name_en": "ULTRA BALL",
+        "price": 1200
+      },
+      {
+        "item_id": "ITEM_REPEAT_BALL",
+        "item_name_en": "REPEAT BALL",
+        "price": 1000
+      },
+      {
+        "item_id": "ITEM_TIMER_BALL",
+        "item_name_en": "TIMER BALL",
+        "price": 1000
+      },
+      {
+        "item_id": "ITEM_LEMONADE",
+        "item_name_en": "LEMONADE",
+        "price": 350
+      },
+      {
+        "item_id": "ITEM_SODA_POP",
+        "item_name_en": "SODA POP",
+        "price": 300
+      },
+      {
+        "item_id": "ITEM_FRESH_WATER",
+        "item_name_en": "FRESH WATER",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_MOOMOO_MILK",
+        "item_name_en": "MOOMOO MILK",
+        "price": 500
+      },
+      {
+        "item_id": "ITEM_LAVA_COOKIE",
+        "item_name_en": "LAVA COOKIE",
+        "price": 200
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/TwoIsland/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-vermilioncity-mart-eventscript-clerk-vermilioncity-mart-items-46c5e18b",
+    "vendor_id": "VermilionCity_Mart_EventScript_Clerk",
+    "stock_id": "VermilionCity_Mart_Items",
+    "name_en": "Vermilion City Mart shop",
+    "map_id": "MAP_VERMILION_CITY_MART",
+    "area_id": "area-map-vermilion-city-mart-708d6171",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_POKE_BALL",
+        "item_name_en": "POKé BALL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_SUPER_POTION",
+        "item_name_en": "SUPER POTION",
+        "price": 700
+      },
+      {
+        "item_id": "ITEM_ANTIDOTE",
+        "item_name_en": "ANTIDOTE",
+        "price": 100
+      },
+      {
+        "item_id": "ITEM_PARALYZE_HEAL",
+        "item_name_en": "PARLYZ HEAL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_AWAKENING",
+        "item_name_en": "AWAKENING",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_ICE_HEAL",
+        "item_name_en": "ICE HEAL",
+        "price": 250
+      },
+      {
+        "item_id": "ITEM_REPEL",
+        "item_name_en": "REPEL",
+        "price": 350
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/VermilionCity_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-viridiancity-mart-eventscript-clerk-viridiancity-mart-items-5332ab6f",
+    "vendor_id": "ViridianCity_Mart_EventScript_Clerk",
+    "stock_id": "ViridianCity_Mart_Items",
+    "name_en": "Viridian City Mart shop",
+    "map_id": "MAP_VIRIDIAN_CITY_MART",
+    "area_id": "area-map-viridian-city-mart-8946c338",
+    "coordinates": {
+      "x": 2,
+      "y": 3
+    },
+    "condition": "Disponível ao falar com o vendedor.",
+    "currency": "money",
+    "availability": "normal",
+    "stock": [
+      {
+        "item_id": "ITEM_POKE_BALL",
+        "item_name_en": "POKé BALL",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_POTION",
+        "item_name_en": "POTION",
+        "price": 300
+      },
+      {
+        "item_id": "ITEM_ANTIDOTE",
+        "item_name_en": "ANTIDOTE",
+        "price": 100
+      },
+      {
+        "item_id": "ITEM_PARALYZE_HEAL",
+        "item_name_en": "PARLYZ HEAL",
+        "price": 200
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/ViridianCity_Mart/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-celadon-vending-machines-79c89f16",
+    "vendor_id": null,
+    "stock_id": null,
+    "name_en": "Celadon vending machines",
+    "map_id": "MAP_CELADON_CITY_DEPARTMENT_STORE_ROOF",
+    "area_id": "area-map-celadon-city-department-store-roof-848b2be5",
+    "coordinates": null,
+    "condition": "Disponível nas máquinas do telhado.",
+    "currency": "money",
+    "availability": "optional",
+    "stock": [
+      {
+        "item_id": "ITEM_FRESH_WATER",
+        "item_name_en": "FRESH WATER",
+        "price": 200
+      },
+      {
+        "item_id": "ITEM_SODA_POP",
+        "item_name_en": "SODA POP",
+        "price": 300
+      },
+      {
+        "item_id": "ITEM_LEMONADE",
+        "item_name_en": "LEMONADE",
+        "price": 350
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_DepartmentStore_Roof/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-game-corner-pok-mon-prizes-8f2ed482",
+    "vendor_id": null,
+    "stock_id": null,
+    "name_en": "Game Corner Pokémon prizes",
+    "map_id": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+    "area_id": "area-map-celadon-city-game-corner-prize-room-3a49b5c4",
+    "coordinates": null,
+    "condition": "Coin Case exigido para prêmios do Game Corner.",
+    "currency": "coins",
+    "availability": "optional",
+    "stock": [
+      {
+        "item_id": "SPECIES_ABRA",
+        "item_name_en": "Abra",
+        "price": 180
+      },
+      {
+        "item_id": "SPECIES_CLEFAIRY",
+        "item_name_en": "Clefairy",
+        "price": 500
+      },
+      {
+        "item_id": "SPECIES_DRATINI",
+        "item_name_en": "Dratini",
+        "price": 2800
+      },
+      {
+        "item_id": "SPECIES_SCYTHER",
+        "item_name_en": "Scyther",
+        "price": 5500
+      },
+      {
+        "item_id": "SPECIES_PORYGON",
+        "item_name_en": "Porygon",
+        "price": 9999
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_GameCorner_PrizeRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-game-corner-tm-prizes-ea09ed27",
+    "vendor_id": null,
+    "stock_id": null,
+    "name_en": "Game Corner TM prizes",
+    "map_id": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+    "area_id": "area-map-celadon-city-game-corner-prize-room-3a49b5c4",
+    "coordinates": null,
+    "condition": "Coin Case exigido para prêmios do Game Corner.",
+    "currency": "coins",
+    "availability": "optional",
+    "stock": [
+      {
+        "item_id": "ITEM_TM13",
+        "item_name_en": "TM13",
+        "price": 4000
+      },
+      {
+        "item_id": "ITEM_TM23",
+        "item_name_en": "TM23",
+        "price": 3500
+      },
+      {
+        "item_id": "ITEM_TM24",
+        "item_name_en": "TM24",
+        "price": 4000
+      },
+      {
+        "item_id": "ITEM_TM30",
+        "item_name_en": "TM30",
+        "price": 4500
+      },
+      {
+        "item_id": "ITEM_TM35",
+        "item_name_en": "TM35",
+        "price": 4000
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_GameCorner_PrizeRoom/scripts.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "shop-game-corner-item-prizes-ea1876ad",
+    "vendor_id": null,
+    "stock_id": null,
+    "name_en": "Game Corner item prizes",
+    "map_id": "MAP_CELADON_CITY_GAME_CORNER_PRIZE_ROOM",
+    "area_id": "area-map-celadon-city-game-corner-prize-room-3a49b5c4",
+    "coordinates": null,
+    "condition": "Coin Case exigido para prêmios do Game Corner.",
+    "currency": "coins",
+    "availability": "optional",
+    "stock": [
+      {
+        "item_id": "ITEM_SMOKE_BALL",
+        "item_name_en": "SMOKE BALL",
+        "price": 800
+      },
+      {
+        "item_id": "ITEM_MIRACLE_SEED",
+        "item_name_en": "MIRACLE SEED",
+        "price": 1000
+      },
+      {
+        "item_id": "ITEM_CHARCOAL",
+        "item_name_en": "CHARCOAL",
+        "price": 1000
+      },
+      {
+        "item_id": "ITEM_MYSTIC_WATER",
+        "item_name_en": "MYSTIC WATER",
+        "price": 1000
+      },
+      {
+        "item_id": "ITEM_YELLOW_FLUTE",
+        "item_name_en": "YELLOW FLUTE",
+        "price": 1600
+      }
+    ],
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/maps/CeladonCity_GameCorner_PrizeRoom/scripts.inc",
+      "line": null
+    }
+  }
+]

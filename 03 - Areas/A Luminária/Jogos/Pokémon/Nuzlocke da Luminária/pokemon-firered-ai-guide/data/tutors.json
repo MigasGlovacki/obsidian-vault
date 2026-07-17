@@ -1,0 +1,307 @@
+[
+  {
+    "id": "tutor-victoryroad-2f-eventscript-doubleedgetutor-movetutor-double-edge-5c1094ac",
+    "tutor_id": "MOVETUTOR_DOUBLE_EDGE",
+    "move_en": "Double Edge",
+    "map_id": "MAP_VICTORY_ROAD_2F",
+    "area_id": "area-map-victory-road-2f-9b975a2a",
+    "coordinates": {
+      "x": 40,
+      "y": 9
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-eventscript-thunderwavetutor-movetutor-thunder-wave-d481715c",
+    "tutor_id": "MOVETUTOR_THUNDER_WAVE",
+    "move_en": "Thunder Wave",
+    "map_id": "MAP_SILPH_CO_2F",
+    "area_id": "area-map-silph-co-2f-8d111227",
+    "coordinates": {
+      "x": 10,
+      "y": 4
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-rocktunnel-b1f-eventscript-rockslidetutor-movetutor-rock-slide-91c80971",
+    "tutor_id": "MOVETUTOR_ROCK_SLIDE",
+    "move_en": "Rock Slide",
+    "map_id": "MAP_ROCK_TUNNEL_B1F",
+    "area_id": "area-map-rock-tunnel-b1f-180853da",
+    "coordinates": {
+      "x": 2,
+      "y": 29
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-mtember-exterior-eventscript-explosiontutor-movetutor-explosion-72c9b549",
+    "tutor_id": "MOVETUTOR_EXPLOSION",
+    "move_en": "Explosion",
+    "map_id": "MAP_MT_EMBER_EXTERIOR",
+    "area_id": "area-map-mt-ember-exterior-817b32c2",
+    "coordinates": {
+      "x": 29,
+      "y": 45
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-route4-eventscript-megapunchtutor-movetutor-mega-punch-7c3dc8ec",
+    "tutor_id": "MOVETUTOR_MEGA_PUNCH",
+    "move_en": "Mega Punch",
+    "map_id": "MAP_ROUTE4",
+    "area_id": "area-map-route4-e5f014f9",
+    "coordinates": {
+      "x": 47,
+      "y": 3
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-route4-eventscript-megakicktutor-movetutor-mega-kick-37da244f",
+    "tutor_id": "MOVETUTOR_MEGA_KICK",
+    "move_en": "Mega Kick",
+    "map_id": "MAP_ROUTE4",
+    "area_id": "area-map-route4-e5f014f9",
+    "coordinates": {
+      "x": 50,
+      "y": 3
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-eventscript-dreameatertutor-movetutor-dream-eater-f74252d3",
+    "tutor_id": "MOVETUTOR_DREAM_EATER",
+    "move_en": "Dream Eater",
+    "map_id": "MAP_VIRIDIAN_CITY",
+    "area_id": "area-map-viridian-city-12f949bd",
+    "coordinates": {
+      "x": 8,
+      "y": 26
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-eventscript-softboiledtutor-movetutor-soft-boiled-8833e566",
+    "tutor_id": "MOVETUTOR_SOFT_BOILED",
+    "move_en": "Soft Boiled",
+    "map_id": "MAP_CELADON_CITY",
+    "area_id": "area-map-celadon-city-f5a51744",
+    "coordinates": {
+      "x": 26,
+      "y": 19
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-fuchsiacity-eventscript-substitutetutor-movetutor-substitute-2f4f748d",
+    "tutor_id": "MOVETUTOR_SUBSTITUTE",
+    "move_en": "Substitute",
+    "map_id": "MAP_FUCHSIA_CITY",
+    "area_id": "area-map-fuchsia-city-e28158e6",
+    "coordinates": {
+      "x": 15,
+      "y": 11
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-sevenisland-eventscript-swordsdancetutor-movetutor-swords-dance-4ac9d2ce",
+    "tutor_id": "MOVETUTOR_SWORDS_DANCE",
+    "move_en": "Swords Dance",
+    "map_id": "MAP_SEVEN_ISLAND",
+    "area_id": "area-map-seven-island-caa07cba",
+    "coordinates": {
+      "x": 7,
+      "y": 18
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-pewtercity-museum-1f-eventscript-seismictosstutor-movetutor-seismic-toss-38e84f48",
+    "tutor_id": "MOVETUTOR_SEISMIC_TOSS",
+    "move_en": "Seismic Toss",
+    "map_id": "MAP_PEWTER_CITY_MUSEUM_1F",
+    "area_id": "area-map-pewter-city-museum-1f-0bad3f9d",
+    "coordinates": {
+      "x": 26,
+      "y": 7
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-eventscript-countertutor-movetutor-counter-912b1260",
+    "tutor_id": "MOVETUTOR_COUNTER",
+    "move_en": "Counter",
+    "map_id": "MAP_CELADON_CITY_DEPARTMENT_STORE_3F",
+    "area_id": "area-map-celadon-city-department-store-3f-d7ed7c29",
+    "coordinates": {
+      "x": 10,
+      "y": 9
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-eventscript-metronometutor-movetutor-metronome-9246d155",
+    "tutor_id": "MOVETUTOR_METRONOME",
+    "move_en": "Metronome",
+    "map_id": "MAP_CINNABAR_ISLAND_POKEMON_LAB_RESEARCH_ROOM",
+    "area_id": "area-map-cinnabar-island-pokemon-lab-research-room-9377170c",
+    "coordinates": {
+      "x": 5,
+      "y": 4
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-eventscript-mimictutor-movetutor-mimic-6becd840",
+    "tutor_id": "MOVETUTOR_MIMIC",
+    "move_en": "Mimic",
+    "map_id": "MAP_SAFFRON_CITY_COPYCATS_HOUSE_2F",
+    "area_id": "area-map-saffron-city-copycats-house-2f-669d7fc6",
+    "coordinates": {
+      "x": 9,
+      "y": 6
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-fourisland-house1-eventscript-bodyslamtutor-movetutor-body-slam-80059f57",
+    "tutor_id": "MOVETUTOR_BODY_SLAM",
+    "move_en": "Body Slam",
+    "map_id": "MAP_FOUR_ISLAND_HOUSE1",
+    "area_id": "area-map-four-island-house1-924e17ef",
+    "coordinates": {
+      "x": 8,
+      "y": 3
+    },
+    "one_time": true,
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  },
+  {
+    "id": "tutor-twoisland-capebrink-house-eventscript-startertutor-ultimate-moves-a6ee23f9",
+    "tutor_id": "MOVETUTOR_STARTER_ULTIMATE",
+    "move_en": "Frenzy Plant / Blast Burn / Hydro Cannon",
+    "map_id": "MAP_TWO_ISLAND_CAPE_BRINK_HOUSE",
+    "area_id": "area-map-two-island-cape-brink-house-a7464504",
+    "coordinates": {
+      "x": 4,
+      "y": 4
+    },
+    "one_time": false,
+    "condition": "Somente o starter compatível com felicidade suficiente; cada ultimate move possui controle próprio.",
+    "availability": "optional",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "data/scripts/move_tutors.inc",
+      "line": null
+    }
+  }
+]

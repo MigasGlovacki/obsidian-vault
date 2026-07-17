@@ -1,0 +1,173 @@
+[
+  {
+    "id": "trade-ingame-trade-mr-mime-6b0578f9",
+    "trade_id": "INGAME_TRADE_MR_MIME",
+    "receive_species_id": "SPECIES_MR_MIME",
+    "receive_species": "Mr Mime",
+    "requested_species_id": "SPECIES_ABRA",
+    "requested_species": "Abra",
+    "nickname": "MIMIEN",
+    "held_item": "ITEM_NONE",
+    "map_id": "MAP_ROUTE2_HOUSE",
+    "area_id": "area-map-route2-house-a6c72cef",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  },
+  {
+    "id": "trade-ingame-trade-jynx-6b33b241",
+    "trade_id": "INGAME_TRADE_JYNX",
+    "receive_species_id": "SPECIES_JYNX",
+    "receive_species": "Jynx",
+    "requested_species_id": "SPECIES_POLIWHIRL",
+    "requested_species": "Poliwhirl",
+    "nickname": "ZYNX",
+    "held_item": "ITEM_FAB_MAIL",
+    "map_id": "MAP_CERULEAN_CITY_HOUSE3",
+    "area_id": "area-map-cerulean-city-house3-4c072a51",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  },
+  {
+    "id": "trade-ingame-trade-nidoran-acc2f70d",
+    "trade_id": "INGAME_TRADE_NIDORAN",
+    "receive_species_id": "SPECIES_NIDORAN_F",
+    "receive_species": "Nidoran F",
+    "requested_species_id": "SPECIES_NIDORAN_M",
+    "requested_species": "Nidoran M",
+    "nickname": "MS. NIDO",
+    "held_item": "ITEM_TINY_MUSHROOM",
+    "map_id": "MAP_UNDERGROUND_PATH_NORTH_ENTRANCE",
+    "area_id": "area-map-underground-path-north-entrance-253002b0",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  },
+  {
+    "id": "trade-ingame-trade-farfetchd-8631048c",
+    "trade_id": "INGAME_TRADE_FARFETCHD",
+    "receive_species_id": "SPECIES_FARFETCHD",
+    "receive_species": "Farfetchd",
+    "requested_species_id": "SPECIES_SPEAROW",
+    "requested_species": "Spearow",
+    "nickname": "CH'DING",
+    "held_item": "ITEM_STICK",
+    "map_id": "MAP_VERMILION_CITY_HOUSE2",
+    "area_id": "area-map-vermilion-city-house2-66a4dd7c",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  },
+  {
+    "id": "trade-ingame-trade-nidorinoa-88987295",
+    "trade_id": "INGAME_TRADE_NIDORINOA",
+    "receive_species_id": "SPECIES_NIDORINA",
+    "receive_species": "Nidorina",
+    "requested_species_id": "SPECIES_NIDORINO",
+    "requested_species": "Nidorino",
+    "nickname": "NINA",
+    "held_item": "ITEM_NONE",
+    "map_id": "MAP_ROUTE11_EAST_ENTRANCE_2F",
+    "area_id": "area-map-route11-east-entrance-2f-8bf5e0f8",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  },
+  {
+    "id": "trade-ingame-trade-lickitung-ac427856",
+    "trade_id": "INGAME_TRADE_LICKITUNG",
+    "receive_species_id": "SPECIES_LICKITUNG",
+    "receive_species": "Lickitung",
+    "requested_species_id": "SPECIES_GOLDUCK",
+    "requested_species": "Golduck",
+    "nickname": "MARC",
+    "held_item": "ITEM_NONE",
+    "map_id": "MAP_ROUTE18_EAST_ENTRANCE_2F",
+    "area_id": "area-map-route18-east-entrance-2f-fcfb9be3",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  },
+  {
+    "id": "trade-ingame-trade-electrode-f90d4ffc",
+    "trade_id": "INGAME_TRADE_ELECTRODE",
+    "receive_species_id": "SPECIES_ELECTRODE",
+    "receive_species": "Electrode",
+    "requested_species_id": "SPECIES_RAICHU",
+    "requested_species": "Raichu",
+    "nickname": "ESPHERE",
+    "held_item": "ITEM_NONE",
+    "map_id": "MAP_CINNABAR_ISLAND_POKEMON_LAB_LOUNGE",
+    "area_id": "area-map-cinnabar-island-pokemon-lab-lounge-2e71bf54",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  },
+  {
+    "id": "trade-ingame-trade-tangela-558ba32c",
+    "trade_id": "INGAME_TRADE_TANGELA",
+    "receive_species_id": "SPECIES_TANGELA",
+    "receive_species": "Tangela",
+    "requested_species_id": "SPECIES_VENONAT",
+    "requested_species": "Venonat",
+    "nickname": "TANGENY",
+    "held_item": "ITEM_STARDUST",
+    "map_id": "MAP_CINNABAR_ISLAND_POKEMON_LAB_LOUNGE",
+    "area_id": "area-map-cinnabar-island-pokemon-lab-lounge-2e71bf54",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  },
+  {
+    "id": "trade-ingame-trade-seel-3d01ee7e",
+    "trade_id": "INGAME_TRADE_SEEL",
+    "receive_species_id": "SPECIES_SEEL",
+    "receive_species": "Seel",
+    "requested_species_id": "SPECIES_PONYTA",
+    "requested_species": "Ponyta",
+    "nickname": "SEELOR",
+    "held_item": "ITEM_NONE",
+    "map_id": "MAP_CINNABAR_ISLAND_POKEMON_LAB_EXPERIMENT_ROOM",
+    "area_id": "area-map-cinnabar-island-pokemon-lab-experiment-room-fb826bfa",
+    "availability": "trade_required",
+    "source": {
+      "repository": "pret/pokefirered",
+      "commit": "df4449a27cd78dd747ce269e47d3ab4a0149d8f4",
+      "path": "src/data/ingame_trades.h",
+      "line": null
+    }
+  }
+]
