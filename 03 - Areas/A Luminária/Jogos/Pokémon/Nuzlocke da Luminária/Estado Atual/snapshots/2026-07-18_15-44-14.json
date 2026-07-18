@@ -1,20 +1,20 @@
 {
   "run": "MoniLocke Fire Red",
-  "updated_at": "2026-07-18T15:44:34-03:00",
+  "updated_at": "2026-07-18T15:44:14-03:00",
   "game": "Pokemon Fire Red",
   "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
   "parser_version": "1.0.0",
   "save_metadata": {
-    "active_slot": 2,
-    "save_counter": 5
+    "active_slot": 1,
+    "save_counter": 4
   },
   "progress": {
-    "location": "Viridian City",
+    "location": "Route22",
     "last_badge": "",
     "badges": [],
     "badge_count": 0,
     "next_objective": "Obter a insígnia Boulder.",
-    "play_time": "1:42:16",
+    "play_time": "1:40:36",
     "money": 2000,
     "pokedex_seen": 5,
     "pokedex_owned": 3
@@ -110,14 +110,19 @@
     ]
   },
   "recent_changes": {
-    "new_party_members": [],
+    "new_party_members": [
+      "Novo Pokémon detectado na party: BRASA (Mankey)."
+    ],
     "new_pc_members": [],
     "possible_deaths": [],
     "badge_changes": [],
-    "item_changes": []
+    "item_changes": [
+      "Poké Ball: -1."
+    ]
   },
   "notes_for_moni": [
-    "Party atualizada após save."
+    "Party atualizada após save.",
+    "Novo Pokémon detectado na party."
   ],
   "warnings": []
 }
