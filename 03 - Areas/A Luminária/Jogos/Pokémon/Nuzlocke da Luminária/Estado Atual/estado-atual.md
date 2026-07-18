@@ -1,55 +1,59 @@
+---
+title: Estado Atual - MoniLocke Fire Red
+status: aguardando_inicio_oficial
+origem: reset_pos_teste
+run_oficial: false
+tags:
+  - jogos
+  - pokemon
+  - nuzlocke
+  - monilocke
+  - estado-atual
+---
+
 # Estado Atual — MoniLocke Fire Red
 
-Atualizado em: 2026-07-18 14:56
-Origem: save automático
-Arquivo de save: `C:\Users\migas\Área de Trabalho\Roms\Official roms\Pokemon - FireRed Version (USA).sav`
+Atualizado em: ainda não iniciado  
+Origem: aguardando primeiro relatório automático do save oficial
+
+> Estado de teste antigo removido para não confundir com a run oficial.
 
 ## Progresso
 
-- Local atual: Route4
-- Última insígnia: Boulder
-- Insígnias: Boulder
-- Total de insígnias: 1
-- Próximo objetivo, se inferível: Obter a insígnia Cascade.
-- Tempo de jogo: 6:55:02
-- Dinheiro: ₽ 1352
-- Pokédex: 9 capturados / 20 vistos
+- Local atual: ainda não iniciado
+- Última insígnia: nenhuma
+- Insígnias: 0
+- Próximo objetivo: revisar regras finais e começar a run oficial
+- Tempo de jogo: ainda não iniciado
+- Dinheiro: ainda não iniciado
+- Pokédex: ainda não iniciado
 
 ## Party
 
 | Slot | Pokémon | Apelido | Nível | Sexo | Nature | HP | Status | Item segurado | Moves |
 |---:|---|---|---:|---|---|---|---|---|---|
-| 1 | Rattata | JERRY | 10 | Female | Serious | 26/26 | OK | — | Quick Attack, Tail Whip, Tackle |
-| 2 | Butterfree | ASCEND | 13 | Male | Jolly | 40/40 | OK | — | Confusion, String Shot, Poison Powder, Tackle |
-| 3 | Pidgey | OMEGALUL | 14 | Female | Bold | 38/38 | OK | — | Gust, Quick Attack, Tackle, Sand Attack |
-| 4 | Ivysaur | FIR | 17 | Male | Bold | 51/51 | OK | — | Vine Whip, Tackle, Leech Seed, Sleep Powder |
-| 5 | Magikarp | KEL | 5 | Female | Lonely | 18/18 | OK | — | Splash |
-| 6 | Nidoran♂ | ARIEN | 7 | Male | Docile | 25/25 | OK | — | Leer, Peck |
+| — | Nenhum Pokémon registrado ainda | — | — | — | — | — | — | — | — |
 
 ## Box / PC
 
-### BOX1
-
-| Slot | Pokémon | Apelido | Nível | Sexo | Nature | HP | Status | Item segurado | Moves |
-|---:|---|---|---:|---|---|---|---|---|---|
-| 1 | Rattata | TOULE | 3 | Female | Modest | — | — | — | Tackle, Tail Whip |
+Nenhum Pokémon registrado no PC ainda.
 
 ## Mortos / aposentados
 
 | Pokémon | Apelido | Nível | Box | Observação |
 |---|---|---:|---|---|
-| — | — | — | — | Nenhuma box de cemitério reconhecida ou vazia. |
+| — | — | — | — | Nenhuma perda registrada. |
 
 ## Itens importantes
 
-- Poké Balls: Poké Ball ×11
-- Itens de cura: Potion ×3, Antidote ×4, Awakening ×1, Paralyze Heal ×2
-- TMs/HMs: TM39 ×1
-- Key Items: Town Map ×1, Teachy Tv ×1, TM Case ×1
-- Berries: Nenhum
-- Rare Candies: Nenhum
-- Escape Rope / Repels: Escape Rope ×1
-- Outros: Escape Rope ×1, Potion ×1
+- Poké Balls: ainda não iniciado
+- Itens de cura: ainda não iniciado
+- TMs/HMs: ainda não iniciado
+- Key Items: ainda não iniciado
+- Berries: ainda não iniciado
+- Rare Candies: ainda não iniciado
+- Escape Rope / Repels: ainda não iniciado
+- Outros: ainda não iniciado
 
 ## Capturas recentes
 
@@ -61,9 +65,10 @@ Não inferido automaticamente.
 
 ## Notas para Moni
 
-- Party atualizada após save.
+- A run oficial ainda não começou.
+- O relatório de save antigo usado para teste foi removido/resetado.
+- Quando João iniciar a run oficial e salvar no mGBA, o exporter deve substituir esta nota com o estado real.
 
 ## Warnings
 
-- HP e status dos Pokémon no PC não existem no formato BoxPokemon; foram exportados vazios/null.
-- Sem relatório anterior: mudanças recentes ainda não podem ser inferidas.
+- Nenhum estado oficial carregado ainda.
