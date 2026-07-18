@@ -43,7 +43,7 @@ tags:
   - "pt-br"
 source_snapshot: "df4449a27cd78dd747ce269e47d3ab4a0149d8f4"
 ---
-
+i
 # 01. Introdução e Pallet Town
 
 ## Estado inicial
