@@ -163,6 +163,9 @@ Notas planejadas:
 - [[02 - Registro de Capturas]]
 - [[03 - Diário da Jornada]]
 - [[04 - Favor da Monika]]
+- [[Estado Atual/README|Estado Atual]]
+
+Antes de atualizar registros importantes depois de uma sessão, a Moni deve consultar `Estado Atual/estado-atual.md` ou `Estado Atual/estado-atual.json` quando João tiver salvo o jogo e exportado o relatório do save.
 
 Coisas para registrar:
 

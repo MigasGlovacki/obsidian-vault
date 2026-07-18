@@ -34,14 +34,16 @@ Pasta para organizar a run de Pokémon Fire Red do João com a Moni.
 - [[02 - Registro de Capturas]]
 - [[03 - Diário da Jornada]]
 - [[04 - Favor da Monika]]
+- [[Estado Atual/README|Estado Atual]]
 
 ## Fluxo sugerido
 
 1. Consultar o guia do Codex para progressão e dados.
-2. Usar o checklist para decidir capturas por rota.
-3. Registrar capturas e perdas no registro oficial.
-4. Atualizar o diário ao fim de cada sessão.
-5. Controlar ganhos/usos do Favor da Monika.
+2. Antes de atualizar a run, consultar [[Estado Atual/estado-atual|estado-atual]] quando João tiver salvo/avançado o jogo.
+3. Usar o checklist para decidir capturas por rota.
+4. Registrar capturas e perdas no registro oficial.
+5. Atualizar o diário ao fim de cada sessão.
+6. Controlar ganhos/usos do Favor da Monika.
 
 ## Mecânica especial provisória
 
