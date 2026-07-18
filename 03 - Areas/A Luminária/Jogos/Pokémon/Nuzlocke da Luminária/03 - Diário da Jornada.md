@@ -71,6 +71,7 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
 - A Moni escolheu Bulbasaur como starter e deu o apelido **LUMEN**.
 - Após receber Poké Balls, a Route 1 teve escolha presidencial: alvo **Pidgey**.
 - **ARIA**, uma Pidgey macho Lv. 3, foi capturada como primeira captura oficial.
+- **BRASA**, uma Mankey fêmea Lv. 3, foi capturada na Route 22 como reforço físico para o começo.
 
 ### Progresso
 
@@ -81,6 +82,7 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
   - Starter recebido: LUMEN, Bulbasaur fêmea Lv. 5.
   - Entrega do pacote do Professor Oak concluída.
   - Poké Balls recebidas/compradas e primeira captura feita.
+  - BRASA capturada na Route 22; rival battle evitada por enquanto.
 
 ### Capturas
 
@@ -88,6 +90,7 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
 |---|---|---|---|
 | Pallet Town / Oak's Lab | Bulbasaur | LUMEN | Starter escolhido pela Moni |
 | Route 1 | Pidgey | ARIA | Capturada |
+| Route 22 | Mankey | BRASA | Capturada |
 
 ### Perdas
 

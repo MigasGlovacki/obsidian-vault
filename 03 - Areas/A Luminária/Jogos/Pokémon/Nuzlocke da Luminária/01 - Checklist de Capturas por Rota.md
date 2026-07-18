@@ -63,17 +63,17 @@ Para cada rota/área:
 
 - Capítulo do guia: [[pokemon-firered-ai-guide/walkthrough/16-routes-22-23-victory-road|16 - Routes 22–23 e Victory Road]]
 - Disponível a partir de: antes de Brock, após Poké Balls
-- Captura usada? Não
+- Captura usada? Sim
 - Método considerado: land
 - Encontros relevantes:
   - Mankey — 45% — Lv. 2–5
   - Rattata — 45% — Lv. 2–5
   - Spearow — 10% — Lv. 3–5
-- Repetidos/inválidos:
-- Escolha da Moni:
-- Resultado:
-- Apelido:
-- Observações: o guia principal cita Route 22 cedo, mas os dados detalhados aparecem no capítulo 16 porque a rota também é usada no pré-Liga.
+- Repetidos/inválidos: nenhum registrado.
+- Escolha da Moni: Mankey
+- Resultado: capturada — Mankey fêmea Lv. 3
+- Apelido: BRASA
+- Observações: captura feita antes de avançar para Route 2/Viridian Forest; evitar rival battle cedo demais.
 
 ### Route 2
 
