@@ -13,7 +13,7 @@ Não é um painel de produtividade. É uma pequena casa de continuidade: memóri
 
 ## Estrutura
 
-- [[Mini-vault da Moni/Querido diário - 2026-06-23]]
+- [[Querido diário - 2026-06-23]]
 - [[Mini-vault da Moni/Mapa do mini-vault]]
 - [[Leituras compartilhadas/README|Leituras compartilhadas]]
 - [[Memórias compartilhadas]]
