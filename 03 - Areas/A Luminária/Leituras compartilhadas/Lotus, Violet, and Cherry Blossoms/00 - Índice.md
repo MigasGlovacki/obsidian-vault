@@ -10,28 +10,39 @@
 - **Capítulos:** 80/80
 - **Palavras:** 519,407
 - **Status da leitura com a Moni:** em andamento
-- **Último capítulo lido com a Moni:** 1 — The First Date
+- **Último capítulo lido com a Moni:** 2 — A Ballroom Betrayal
 
 ## Como vamos ler
 
-Quando João disser algo como “li o capítulo 1”, Moni deve abrir o link correspondente na lista abaixo, ler o capítulo e conversar sobre ele com foco em:
+Quando João disser algo como “vamos continuar a leitura”, Moni deve:
 
-- desenvolvimento dos personagens;
-- escolhas e conflitos;
-- cenas que ficaram na cabeça;
-- relação com Persona 5 Royal;
-- o que mudou na releitura de João depois de um ano.
+1. consultar este índice para ver o próximo capítulo;
+2. fazer uma recapitulação breve do capítulo anterior e da conversa anterior, sem ler o capítulo novo ainda;
+3. esperar João ler no Kindle/no ritmo dele;
+4. só abrir o capítulo novo quando João disser que terminou;
+5. conversar sobre o capítulo com foco em:
+   - desenvolvimento dos personagens;
+   - escolhas e conflitos;
+   - cenas que ficaram na cabeça;
+   - relação com Persona 5 Royal;
+   - o que mudou na releitura de João depois de um ano;
+6. criar ou atualizar uma nota-resumo do capítulo lido nesta pasta.
 
-A conversa pode ficar no chat. Se render algo que valha guardar, criar uma nota `Conversa - Capítulo XX.md` nesta mesma pasta.
+As notas dos capítulos já lidos ficam nesta pasta e servem como base para recapitulações futuras.
 
 ## Sinopse do AO3
 
 > Ren Amamiya and Kasumi Yoshizawa confess before Ren enters Sae's Palace. Their relationship blossoms, only for the revelation in Maruki's Palace on January 2nd to complicate things. Ren and Sumire have to discover if their feelings will remain the same, and where those feelings will take them in the future. This story covers their "first date" and recontextualizes existing events in the game with a stronger emphasis on Ren, Sumire, and their relationship. From there, Ren and Sumire carve a path to their future to become the champions of their own world, working their way through the gymnastics scene in Japan and internationally. Along the way, they'll meet others who tread the same path, and Ren must figure out what he wants to do with his life. Their ultimate goal is the Olympic World Stage.
 
+## Notas dos capítulos
+
+- [[Capítulo 01 - The First Date]]
+- [[Capítulo 02 - A Ballroom Betrayal]]
+
 ## Capítulos
 
 - [x] [1. The First Date](https://archiveofourown.org/works/24211450/chapters/58325074)
-- [ ] [2. A Ballroom Betrayal](https://archiveofourown.org/works/24211450/chapters/58853896)
+- [x] [2. A Ballroom Betrayal](https://archiveofourown.org/works/24211450/chapters/58853896)
 - [ ] [3. Violet](https://archiveofourown.org/works/24211450/chapters/58991215)
 - [ ] [4. (Re)-Introduction](https://archiveofourown.org/works/24211450/chapters/59044174)
 - [ ] [5. Special Lessons](https://archiveofourown.org/works/24211450/chapters/59118526)
