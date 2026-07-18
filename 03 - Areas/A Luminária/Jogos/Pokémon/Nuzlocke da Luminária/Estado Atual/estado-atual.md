@@ -1,6 +1,6 @@
 # Estado Atual — MoniLocke Fire Red
 
-Atualizado em: 2026-07-18 16:48
+Atualizado em: 2026-07-18 16:54
 Origem: save automático
 Arquivo de save: `C:\Users\migas\Área de Trabalho\Roms\Official roms\Pokemon - FireRed Version (USA).sav`
 
@@ -12,7 +12,7 @@ Arquivo de save: `C:\Users\migas\Área de Trabalho\Roms\Official roms\Pokemon - 
 - Total de insígnias: 0
 - Próximo objetivo, se inferível: Obter a insígnia Boulder.
 - Level cap atual: 14 — Brock / Onix Lv. 14
-- Tempo de jogo: 3:34:29
+- Tempo de jogo: 3:39:59
 - Dinheiro: ₽ 2000
 - Pokédex: 4 capturados / 8 vistos
 
