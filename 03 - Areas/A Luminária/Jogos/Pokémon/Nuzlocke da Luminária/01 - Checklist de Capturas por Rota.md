@@ -48,16 +48,16 @@ Para cada rota/área:
 
 - Capítulo do guia: [[pokemon-firered-ai-guide/walkthrough/02-route-1-viridian-retorno|02 - Route 1, Viridian City e retorno]]
 - Disponível a partir de: após receber Poké Balls
-- Captura usada? Não
+- Captura usada? Sim
 - Método considerado: land
 - Encontros relevantes:
   - Pidgey — 50% — Lv. 2–5
   - Rattata — 50% — Lv. 2–4
-- Repetidos/inválidos:
-- Escolha da Moni:
-- Resultado:
-- Apelido:
-- Observações:
+- Repetidos/inválidos: Rattata recusado por decisão presidencial; alvo escolhido foi Pidgey.
+- Escolha da Moni: Pidgey
+- Resultado: capturada — Pidgey macho Lv. 3
+- Apelido: ARIA
+- Observações: primeira captura oficial da MoniLocke Fire Red, após receber Poké Balls.
 
 ### Route 22
 
