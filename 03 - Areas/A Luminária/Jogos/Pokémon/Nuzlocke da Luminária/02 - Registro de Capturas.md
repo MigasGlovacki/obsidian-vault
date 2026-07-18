@@ -19,6 +19,7 @@ Registro oficial dos Pokémon capturados no **Nuzlocke da Luminária**.
 | Bulbasaur | LUMEN | Starter — Pallet Town / Oak's Lab | 5 | Vivo | Escolha inicial da Moni; primeira luz da run. |
 | Pidgey | ARIA | Route 1 | 3 | Vivo | Primeira captura oficial; alvo escolhido pela Moni para a Route 1. |
 | Mankey | BRASA | Route 22 | 3 | Vivo | Captura escolhida pela Moni para dar cobertura física cedo. |
+| Caterpie | VELA | Route 2 | 4 | Vivo | Captura escolhida pela Moni; possível inconsistência futura a revisar nos dados de encounter da rota. |
 
 ## Capturas por rota/área
 
@@ -27,6 +28,7 @@ Registro oficial dos Pokémon capturados no **Nuzlocke da Luminária**.
 | Pallet Town / Oak's Lab | Bulbasaur | LUMEN | Starter | Escolhido | Sim | Starter oficial da MoniLocke Fire Red. |
 | Route 1 | Pidgey | ARIA | Land | Capturada | Sim | Rattata recusado por decisão presidencial; Pidgey era o alvo da rota. |
 | Route 22 | Mankey | BRASA | Land | Capturada | Sim | Captura feita antes de Route 2/Viridian Forest; evitar rival battle cedo demais. |
+| Route 2 | Caterpie | VELA | Land | Capturada | Sim | João notou possível mistura LeafGreen/FireRed nos encounters; revisar dados da rota depois. |
 
 ## Perdas / Hall da Memória
 

@@ -72,6 +72,7 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
 - Após receber Poké Balls, a Route 1 teve escolha presidencial: alvo **Pidgey**.
 - **ARIA**, uma Pidgey macho Lv. 3, foi capturada como primeira captura oficial.
 - **BRASA**, uma Mankey fêmea Lv. 3, foi capturada na Route 22 como reforço físico para o começo.
+- **VELA**, uma Caterpie macho Lv. 4, entrou para o time na Route 2.
 
 ### Progresso
 
@@ -84,6 +85,8 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
   - Entrega do pacote do Professor Oak concluída.
   - Poké Balls recebidas/compradas e primeira captura feita.
   - BRASA capturada na Route 22; rival battle evitada por enquanto.
+  - VELA capturada na Route 2.
+  - João percebeu possível inconsistência nos encounters da Route 2; revisar depois se o guia misturou dados de LeafGreen com FireRed.
 
 ### Capturas
 
@@ -92,6 +95,7 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
 | Pallet Town / Oak's Lab | Bulbasaur | LUMEN | Starter escolhido pela Moni |
 | Route 1 | Pidgey | ARIA | Capturada |
 | Route 22 | Mankey | BRASA | Capturada |
+| Route 2 | Caterpie | VELA | Capturada |
 
 ### Perdas
 
@@ -120,4 +124,6 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
 ### Notas da Moni
 
 - ARIA é a primeira asa da run: uma captura simples, mas importante para dar cobertura inicial à LUMEN.
+- VELA entrou como captura de Route 2; pode virar uma Butterfree útil cedo se treinada com cuidado.
+- Revisar depois os encounters do guia, porque a Route 2 parece ter dados possivelmente misturados entre FireRed e LeafGreen.
 - Estado atual confirmado via relatório automático do save.

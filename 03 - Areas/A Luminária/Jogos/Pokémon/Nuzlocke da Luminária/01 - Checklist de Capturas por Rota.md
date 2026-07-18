@@ -79,18 +79,18 @@ Para cada rota/área:
 
 - Capítulo do guia: [[pokemon-firered-ai-guide/walkthrough/02-route-1-viridian-retorno|02 - Route 1, Viridian City e retorno]]
 - Disponível a partir de: caminho para Viridian Forest
-- Captura usada? Não
+- Captura usada? Sim
 - Método considerado: land
 - Encontros relevantes:
   - Pidgey — 45% — Lv. 2–5
   - Rattata — 45% — Lv. 2–5
   - Caterpie — 5% — Lv. 4–5
   - Weedle — 5% — Lv. 4–5
-- Repetidos/inválidos:
-- Escolha da Moni:
-- Resultado:
-- Apelido:
-- Observações:
+- Repetidos/inválidos: Pidgey por Species Clause; Rattata recusado por decisão da Moni.
+- Escolha da Moni: Caterpie
+- Resultado: capturada — Caterpie macho Lv. 4
+- Apelido: VELA
+- Observações: João percebeu que apareceram mais Weedle que Caterpie na grama da Route 2; revisar depois se o guia misturou encounter data de LeafGreen com FireRed e limpar para manter apenas dados corretos de FireRed.
 
 ### Viridian Forest
 
