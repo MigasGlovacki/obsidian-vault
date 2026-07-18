@@ -1,6 +1,6 @@
 # Estado Atual — MoniLocke Fire Red
 
-Atualizado em: 2026-07-18 15:51
+Atualizado em: 2026-07-18 16:01
 Origem: save automático
 Arquivo de save: `C:\Users\migas\Área de Trabalho\Roms\Official roms\Pokemon - FireRed Version (USA).sav`
 
