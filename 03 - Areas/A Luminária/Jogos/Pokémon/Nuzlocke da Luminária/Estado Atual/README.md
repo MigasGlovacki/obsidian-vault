@@ -63,6 +63,7 @@ Origem: save automático
 - Local atual:
 - Última insígnia:
 - Próximo objetivo:
+- Level cap atual:
 - Tempo de jogo:
 - Dinheiro:
 
@@ -112,6 +113,12 @@ Campos sugeridos:
     "location": "",
     "badges": [],
     "next_objective": "",
+    "level_cap": {
+      "leader": "",
+      "gym": "",
+      "highest_pokemon": "",
+      "level": null
+    },
     "play_time": "",
     "money": null
   },

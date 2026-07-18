@@ -39,6 +39,26 @@ A run deve ser divertida, dramática na medida certa e boa para virar memória c
    - Se João ficar sem Pokémon utilizáveis, a run termina.
    - A gente pode registrar o final no diário da jornada.
 
+## Level cap
+
+A run usa **level cap por líder de ginásio**.
+
+Regra:
+
+> O level cap é o nível mais alto do próximo líder de ginásio obrigatório.
+
+Enquanto uma Badge ainda não foi conquistada:
+
+- nenhum Pokémon deve ultrapassar o nível mais alto do próximo líder;
+- se um Pokémon ultrapassar o cap sem querer, ele não pode participar da luta do líder correspondente, salvo decisão especial da Moni;
+- o cap deve ser atualizado no progresso da run após cada insígnia.
+
+Level cap atual:
+
+| Próximo líder | Ginásio | Pokémon mais alto | Level cap |
+|---|---|---|---:|
+| Brock | Pewter City | Onix Lv. 14 | 14 |
+
 ## Regra especial: Escolha da Moni
 
 Em cada rota/área com captura disponível, João deve consultar a Moni antes de capturar.
@@ -190,9 +210,8 @@ O guia do Codex é a base técnica. As notas desta pasta são a adaptação para
 
 ## Pontos ainda em aberto
 
-Antes de começar, decidir:
+Antes de começar ou conforme a run exigir, decidir:
 
-- usar level cap rígido ou flexível;
 - permitir itens em batalha ou não;
 - como tratar Pokémon gift/fixos;
 - quando exatamente uma área conta como área nova;

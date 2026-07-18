@@ -11,6 +11,7 @@ Arquivo de save: `C:\Users\migas\Área de Trabalho\Roms\Official roms\Pokemon - 
 - Insígnias: 
 - Total de insígnias: 0
 - Próximo objetivo, se inferível: Obter a insígnia Boulder.
+- Level cap atual: 14 — Brock / Onix Lv. 14
 - Tempo de jogo: 1:50:03
 - Dinheiro: ₽ 2000
 - Pokédex: 3 capturados / 5 vistos

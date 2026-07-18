@@ -78,6 +78,7 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
 - Área inicial: Pallet Town / Professor Oak's Lab
 - Área final registrada: Viridian City / Pokémon Center 1F
 - Badges: 0
+- Level cap atual: 14 — Brock / Onix Lv. 14
 - Eventos importantes:
   - Starter recebido: LUMEN, Bulbasaur fêmea Lv. 5.
   - Entrega do pacote do Professor Oak concluída.
