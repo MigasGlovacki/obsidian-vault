@@ -1,28 +1,28 @@
 # Estado Atual — MoniLocke Fire Red
 
-Atualizado em: 2026-07-18 16:01
+Atualizado em: 2026-07-18 16:09
 Origem: save automático
 Arquivo de save: `C:\Users\migas\Área de Trabalho\Roms\Official roms\Pokemon - FireRed Version (USA).sav`
 
 ## Progresso
 
-- Local atual: Viridian City
+- Local atual: Route1
 - Última insígnia: —
 - Insígnias: 
 - Total de insígnias: 0
 - Próximo objetivo, se inferível: Obter a insígnia Boulder.
 - Level cap atual: 14 — Brock / Onix Lv. 14
-- Tempo de jogo: 1:50:03
+- Tempo de jogo: 2:53:33
 - Dinheiro: ₽ 2000
-- Pokédex: 3 capturados / 5 vistos
+- Pokédex: 3 capturados / 6 vistos
 
 ## Party
 
 | Slot | Pokémon | Apelido | Nível | Sexo | Nature | HP | Status | Item segurado | Moves |
 |---:|---|---|---:|---|---|---|---|---|---|
-| 1 | Bulbasaur | LUMEN | 7 | Female | Lonely | 15/25 | OK | — | Tackle, Growl, Leech Seed |
-| 2 | Pidgey | ARIA | 7 | Male | Modest | 22/22 | OK | — | Tackle, Sand Attack |
-| 3 | Mankey | BRASA | 3 | Female | Impish | 7/15 | OK | — | Scratch, Leer |
+| 1 | Mankey | BRASA | 7 | Female | Impish | 23/23 | OK | — | Scratch, Leer, Low Kick |
+| 2 | Pidgey | ARIA | 8 | Male | Modest | 24/24 | OK | — | Tackle, Sand Attack |
+| 3 | Bulbasaur | LUMEN | 7 | Female | Lonely | 25/25 | OK | — | Tackle, Growl, Leech Seed |
 
 ## Box / PC
 
