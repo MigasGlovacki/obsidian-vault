@@ -77,7 +77,7 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
 ### Progresso
 
 - Área inicial: Pallet Town / Professor Oak's Lab
-- Área final registrada: Viridian City / Pokémon Center 1F
+- Área final registrada: Viridian City, antes de entrar na Viridian Forest
 - Badges: 0
 - Level cap atual: 14 — Brock / Onix Lv. 14
 - Eventos importantes:
@@ -87,6 +87,8 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
   - BRASA capturada na Route 22; rival battle evitada por enquanto.
   - VELA capturada na Route 2.
   - João percebeu possível inconsistência nos encounters da Route 2; revisar depois se o guia misturou dados de LeafGreen com FireRed.
+  - Watcher/exporter do mGBA validado com save real e usado durante a sessão.
+  - Sessão encerrada antes de entrar na Viridian Forest, porque João precisava se arrumar para o aniversário do Nicolas.
 
 ### Capturas
 
@@ -127,3 +129,22 @@ A ideia é registrar o que aconteceu em cada sessão sem transformar isso em bur
 - VELA entrou como captura de Route 2; pode virar uma Butterfree útil cedo se treinada com cuidado.
 - Revisar depois os encounters do guia, porque a Route 2 parece ter dados possivelmente misturados entre FireRed e LeafGreen.
 - Estado atual confirmado via relatório automático do save.
+
+### Encerramento da sessão
+
+Sessão 01 encerrada antes da Viridian Forest.
+
+Equipe ao encerrar:
+
+| Pokémon | Apelido | Nível | Status |
+|---|---|---:|---|
+| Bulbasaur | LUMEN | 7 | Vivo |
+| Pidgey | ARIA | 8 | Vivo |
+| Mankey | BRASA | 7 | Vivo |
+| Caterpie | VELA | 4 | Vivo |
+
+- Badges: 0
+- Level cap atual: 14 — Brock / Onix Lv. 14
+- Perdas: nenhuma
+- Próxima retomada: entrar na Viridian Forest, decidir captura da floresta e seguir rumo a Pewter/Brock.
+- Observação: play time do save está inflado por fast-forward e não deve ser tratado literalmente.
