@@ -1,84 +1,83 @@
----
-title: Estado Atual - MoniLocke Fire Red
-status: aguardando_inicio_oficial
-origem: reset_pos_teste
-run_oficial: false
-tags:
-  - jogos
-  - pokemon
-  - nuzlocke
-  - monilocke
-  - estado-atual
----
-
 # Estado Atual — MoniLocke Fire Red
 
-<<<<<<< HEAD
-Atualizado em: 2026-07-18 15:06
+Atualizado em: 2026-07-18 15:16
 Origem: save automático
 Arquivo de save: `C:\Users\migas\Área de Trabalho\Roms\Official roms\Pokemon - FireRed Version (USA).sav`
-=======
-Atualizado em: ainda não iniciado  
-Origem: aguardando primeiro relatório automático do save oficial
-
-> Estado de teste antigo removido para não confundir com a run oficial.
->>>>>>> origin/main
 
 ## Progresso
 
-- Local atual: ainda não iniciado
-- Última insígnia: nenhuma
-- Insígnias: 0
-- Próximo objetivo: revisar regras finais e começar a run oficial
-- Tempo de jogo: ainda não iniciado
-- Dinheiro: ainda não iniciado
-- Pokédex: ainda não iniciado
+- Local atual: Pallet Town  Professor Oaks Lab
+- Última insígnia: —
+- Insígnias: 
+- Total de insígnias: 0
+- Próximo objetivo, se inferível: Obter a insígnia Boulder.
+- Tempo de jogo: 0:12:42
+- Dinheiro: ₽ 3000
+- Pokédex: 1 capturados / 2 vistos
 
 ## Party
 
 | Slot | Pokémon | Apelido | Nível | Sexo | Nature | HP | Status | Item segurado | Moves |
 |---:|---|---|---:|---|---|---|---|---|---|
-| — | Nenhum Pokémon registrado ainda | — | — | — | — | — | — | — | — |
+| 1 | Bulbasaur | LUMEN | 5 | Female | Lonely | 20/20 | OK | — | Tackle, Growl |
 
 ## Box / PC
 
-Nenhum Pokémon registrado no PC ainda.
+Nenhum Pokémon detectado no PC.
 
 ## Mortos / aposentados
 
 | Pokémon | Apelido | Nível | Box | Observação |
 |---|---|---:|---|---|
-| — | — | — | — | Nenhuma perda registrada. |
+| — | — | — | — | Nenhuma box de cemitério reconhecida ou vazia. |
 
 ## Itens importantes
 
-- Poké Balls: ainda não iniciado
-- Itens de cura: ainda não iniciado
-- TMs/HMs: ainda não iniciado
-- Key Items: ainda não iniciado
-- Berries: ainda não iniciado
-- Rare Candies: ainda não iniciado
-- Escape Rope / Repels: ainda não iniciado
-- Outros: ainda não iniciado
+- Poké Balls: Nenhum
+- Itens de cura: Nenhum
+- TMs/HMs: Nenhum
+- Key Items: Nenhum
+- Berries: Nenhum
+- Rare Candies: Nenhum
+- Escape Rope / Repels: Nenhum
+- Outros: Potion ×1
 
 ## Capturas recentes
 
-Não inferido automaticamente.
+- Novo Pokémon detectado na party: LUMEN (Bulbasaur).
 
 ## Eventos recentes
 
-Não inferido automaticamente.
+- Antidote: -4.
+- Awakening: -1.
+- Escape Rope: -1.
+- Paralyze Heal: -2.
+- Poké Ball: -11.
+- Potion: -3.
+- TM Case: -1.
+- TM39: -1.
+- Teachy Tv: -1.
+- Town Map: -1.
 
 ## Notas para Moni
 
-- A run oficial ainda não começou.
-- O relatório de save antigo usado para teste foi removido/resetado.
-- Quando João iniciar a run oficial e salvar no mGBA, o exporter deve substituir esta nota com o estado real.
+- Party atualizada após save.
+- Novo Pokémon detectado na party.
 
 ## Warnings
 
-<<<<<<< HEAD
-- HP e status dos Pokémon no PC não existem no formato BoxPokemon; foram exportados vazios/null.
-=======
-- Nenhum estado oficial carregado ainda.
->>>>>>> origin/main
+- Slot 1, setor físico 0: assinatura inválida.
+- Slot 1, setor físico 10: assinatura inválida.
+- Slot 1, setor físico 11: assinatura inválida.
+- Slot 1, setor físico 12: assinatura inválida.
+- Slot 1, setor físico 13: assinatura inválida.
+- Slot 1, setor físico 1: assinatura inválida.
+- Slot 1, setor físico 2: assinatura inválida.
+- Slot 1, setor físico 3: assinatura inválida.
+- Slot 1, setor físico 4: assinatura inválida.
+- Slot 1, setor físico 5: assinatura inválida.
+- Slot 1, setor físico 6: assinatura inválida.
+- Slot 1, setor físico 7: assinatura inválida.
+- Slot 1, setor físico 8: assinatura inválida.
+- Slot 1, setor físico 9: assinatura inválida.
+- Somente um dos dois slots redundantes é válido; exportação feita a partir dele.
