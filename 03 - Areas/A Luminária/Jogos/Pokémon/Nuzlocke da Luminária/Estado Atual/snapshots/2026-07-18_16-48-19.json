@@ -1,15 +1,15 @@
 {
   "run": "MoniLocke Fire Red",
-  "updated_at": "2026-07-18T16:48:40-03:00",
+  "updated_at": "2026-07-18T16:48:19-03:00",
   "game": "Pokemon Fire Red",
   "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
   "parser_version": "1.1.0",
   "save_metadata": {
-    "active_slot": 2,
-    "save_counter": 9
+    "active_slot": 1,
+    "save_counter": 8
   },
   "progress": {
-    "location": "Viridian City",
+    "location": "Route2",
     "last_badge": "",
     "badges": [],
     "badge_count": 0,
@@ -23,7 +23,7 @@
       "level": 14,
       "display": "14 — Brock / Onix Lv. 14"
     },
-    "play_time": "3:34:29",
+    "play_time": "3:31:55",
     "money": 2000,
     "pokedex_seen": 8,
     "pokedex_owned": 4
@@ -35,7 +35,7 @@
       "level": 7,
       "sex": "Female",
       "nature": "Impish",
-      "hp_current": 23,
+      "hp_current": 12,
       "hp_max": 23,
       "status": "OK",
       "held_item": "",
@@ -94,7 +94,7 @@
       "level": 4,
       "sex": "Male",
       "nature": "Naive",
-      "hp_current": 18,
+      "hp_current": 5,
       "hp_max": 18,
       "status": "OK",
       "held_item": "",
@@ -144,14 +144,21 @@
     ]
   },
   "recent_changes": {
-    "new_party_members": [],
+    "new_party_members": [
+      "Novo Pokémon detectado na party: VELA (Caterpie)."
+    ],
     "new_pc_members": [],
     "possible_deaths": [],
     "badge_changes": [],
-    "item_changes": []
+    "item_changes": [
+      "Poké Ball: -1.",
+      "Potion: +1.",
+      "Teachy Tv: +1."
+    ]
   },
   "notes_for_moni": [
-    "Party atualizada após save."
+    "Party atualizada após save.",
+    "Novo Pokémon detectado na party."
   ],
   "warnings": []
 }
