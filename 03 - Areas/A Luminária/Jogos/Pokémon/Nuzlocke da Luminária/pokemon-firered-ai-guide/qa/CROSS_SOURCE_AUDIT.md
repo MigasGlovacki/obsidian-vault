@@ -14,6 +14,7 @@ Os dados técnicos abaixo foram extraídos do commit fixado. As fontes secundár
 | Amostra | Resultado técnico | Segunda fonte | Resultado |
 | --- | --- | --- | --- |
 | Route 3 encounters | Spearow 35%, Pidgey 30%, Mankey 10%, Nidoran M 14%, Jigglypuff 10%, Nidoran F 1% | https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_3 | Compatível com a tabela FRLG; nenhuma divergência aberta. |
+| Route 2 / Viridian Forest encounters | Route 2 FireRed: Rattata 45%, Pidgey 45%, Caterpie 5%, Weedle 5%; Viridian Forest FireRed: Caterpie 40%, Weedle 40%, Kakuna 10%, Metapod 5%, Pikachu 5% | PokeAPI `version_details=firered`; `pret/pokefirered` tabelas `sRoute2_FireRed` e `sViridianForest_FireRed` | Compatível. Nota: a presença de Weedle/Caterpie juntos é correta em FireRed; a diferença FR/LG nesta fase aparece principalmente na distribuição Metapod/Kakuna e em espécies exclusivas posteriores. |
 | Brock | Geodude Lv.12; Onix Lv.14 | https://bulbapedia.bulbagarden.net/wiki/Brock_(game) | Compatível. |
 | Viridian Mart | Poké Ball 200, Potion 300, Antidote 100, Parlyz Heal 200 | https://strategywiki.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen/Viridian_City | Compatível. |
 | Pokémon Mansion | Secret Key no B1F; quatro pisos; itens visíveis e ocultos separados | https://bulbapedia.bulbagarden.net/wiki/Pokemon_Mansion_(Kanto) | Compatível com a progressão e a separação por piso. |

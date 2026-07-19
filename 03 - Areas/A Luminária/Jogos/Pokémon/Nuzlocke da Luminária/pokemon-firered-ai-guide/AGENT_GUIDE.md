@@ -23,6 +23,7 @@ source_snapshot: "df4449a27cd78dd747ce269e47d3ab4a0149d8f4"
 - Consulte o capítulo da visita atual. Áreas revisitadas podem ter pré-requisitos diferentes.
 - Use IDs e `map_id` para cruzar encounters, itens, batalhas e lojas.
 - Ao responder taxas, some apenas slots do mesmo `map_id`, método e espécie; o campo `species_total_rate_percent` já contém esse total.
+- Para wild encounters, use apenas registros com `version: "FireRed"` e `encounter_table_id` terminado/identificado como FireRed. Nunca complete uma rota com dados LeafGreen por analogia FRLG.
 - Nunca apresente `event_required`, `trade_required` ou `unavailable_normally` como obtenção normal.
 
 ## Estado mínimo recomendado

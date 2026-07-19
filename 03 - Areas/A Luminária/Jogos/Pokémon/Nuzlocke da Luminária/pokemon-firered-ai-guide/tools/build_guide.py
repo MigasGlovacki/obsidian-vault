@@ -20,6 +20,8 @@ from pathlib import Path
 SOURCE_COMMIT = "df4449a27cd78dd747ce269e47d3ab4a0149d8f4"
 ROM_SHA1 = "41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc"
 VERSION = "Pokemon FireRed (USA) GBA v1.0"
+ENCOUNTER_VERSION = "FireRed"
+EXCLUDED_ENCOUNTER_VERSION = "LeafGreen"
 AVAILABILITY = {"normal", "optional", "trade_required", "event_required", "version_specific", "unavailable_normally"}
 
 
@@ -473,7 +475,11 @@ def load_encounters(src: Path, map_by_const: dict):
     records = []
     for enc in group["encounters"]:
         label = enc.get("base_label", "")
-        if "LeafGreen" in label or ("_FireRed" not in label and "FireRed" not in label):
+        # The pret/pokefirered wild encounter file contains paired FireRed and
+        # LeafGreen tables for some maps. This guide is intentionally FireRed
+        # only: isolate/delete LeafGreen at ingestion time so generated JSON and
+        # Markdown never mix version-specific wild encounters.
+        if EXCLUDED_ENCOUNTER_VERSION in label or (f"_{ENCOUNTER_VERSION}" not in label and ENCOUNTER_VERSION not in label):
             continue
         map_id = enc["map"]
         altering_match = re.search(r"AlteringCave_(\d+)_FireRed", label)
@@ -493,7 +499,7 @@ def load_encounters(src: Path, map_by_const: dict):
                     "species_id": mon["species"], "min_level": mon["min_level"], "max_level": mon["max_level"],
                     "slot": slot, "slot_rate_percent": rate, "species_total_rate_percent": 0,
                     "encounter_table_id": label, "encounter_variant": encounter_variant,
-                    "encounter_rate": enc[field].get("encounter_rate"), "availability": availability, "version": "FireRed",
+                    "encounter_rate": enc[field].get("encounter_rate"), "availability": availability, "version": ENCOUNTER_VERSION,
                     "source": source_ref("src/data/wild_encounters.json")
                 })
         if "fishing_mons" in enc:
@@ -509,7 +515,7 @@ def load_encounters(src: Path, map_by_const: dict):
                         "species_id": mon["species"], "min_level": mon["min_level"], "max_level": mon["max_level"],
                         "slot": local_slot, "slot_rate_percent": rate, "species_total_rate_percent": 0,
                         "encounter_table_id": label, "encounter_variant": encounter_variant,
-                        "encounter_rate": enc["fishing_mons"].get("encounter_rate"), "availability": availability, "version": "FireRed",
+                        "encounter_rate": enc["fishing_mons"].get("encounter_rate"), "availability": availability, "version": ENCOUNTER_VERSION,
                         "source": source_ref("src/data/wild_encounters.json")
                     })
     totals = defaultdict(int)
@@ -1047,6 +1053,10 @@ def validate(datasets: dict, map_by_const: dict, out: Path):
             if missing: errors.append(f"{name}/{r.get('id')}: campos obrigatórios ausentes: {missing}")
     for r in datasets["encounters"]:
         if not (0 < r["slot_rate_percent"] <= 100): errors.append(f"Taxa inválida: {r['id']}")
+        if r.get("version") != ENCOUNTER_VERSION:
+            errors.append(f"Encounter fora de {ENCOUNTER_VERSION}: {r['id']} version={r.get('version')}")
+        if EXCLUDED_ENCOUNTER_VERSION in r.get("encounter_table_id", "") or EXCLUDED_ENCOUNTER_VERSION in r.get("id", ""):
+            errors.append(f"Encounter de {EXCLUDED_ENCOUNTER_VERSION} vazou para o guia FireRed: {r['id']}")
     sums = defaultdict(int)
     for r in datasets["encounters"]: sums[(r["encounter_table_id"], r["method"])] += r["slot_rate_percent"]
     for key, total in sums.items():
@@ -1121,7 +1131,7 @@ def main():
     for name, doc in schemas().items(): dump(out / "schemas" / f"{name}.schema.json", doc)
     chapter_index = render_chapters(out, map_by_const, encounters, items, battles, shops, special)
     render_references(out, datasets)
-    manifest = {"game_version": VERSION, "language": "pt-BR with canonical English entity names", "source_repository": "https://github.com/pret/pokefirered", "source_commit": SOURCE_COMMIT, "rom_sha1": ROM_SHA1, "secondary_sources": [{"name": "Bulbapedia walkthrough", "url": "https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_FireRed_and_LeafGreen", "use": "progression cross-check"}, {"name": "StrategyWiki walkthrough", "url": "https://strategywiki.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen/Walkthrough", "use": "area-order cross-check"}]}
+    manifest = {"game_version": VERSION, "language": "pt-BR with canonical English entity names", "source_repository": "https://github.com/pret/pokefirered", "source_commit": SOURCE_COMMIT, "rom_sha1": ROM_SHA1, "encounter_version_policy": {"included": ENCOUNTER_VERSION, "excluded": [EXCLUDED_ENCOUNTER_VERSION], "rule": "wild encounter records are ingested only from *_FireRed tables; *_LeafGreen tables are skipped before JSON/Markdown generation"}, "secondary_sources": [{"name": "PokeAPI location-area version_details=firered", "url": "https://pokeapi.co/docs/v2#locations-section", "use": "online spot-check for FireRed wild encounter tables"}, {"name": "Bulbapedia walkthrough", "url": "https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_FireRed_and_LeafGreen", "use": "progression cross-check only; not encounter authority when FR/LG differ"}, {"name": "StrategyWiki walkthrough", "url": "https://strategywiki.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen/Walkthrough", "use": "area-order cross-check only; not encounter authority when FR/LG differ"}]}
     dump(out / "data/source-manifest.json", manifest)
     readme = f"""{frontmatter({'doc_id':'readme','game_version':VERSION,'tags':['index','firered','ai-guide'],'source_snapshot':SOURCE_COMMIT})}
 
@@ -1148,7 +1158,8 @@ Base modular em PT-BR para Pokémon FireRed GBA USA v1.0. Nomes de Pokémon, mov
 
 - Fonte técnica fixada: `pret/pokefirered@{SOURCE_COMMIT}`.
 - SHA-1 da ROM de referência: `{ROM_SHA1}`.
-- Bulbapedia e StrategyWiki são usadas apenas para conferir progressão. A redação é original.
+- Encounters selvagens são **somente FireRed**: o gerador importa apenas tabelas `*_FireRed` e descarta `*_LeafGreen` antes de gerar JSON/Markdown.
+- PokeAPI `version_details=firered` pode ser usado para auditoria online por amostragem; Bulbapedia e StrategyWiki são usadas apenas para conferir progressão, não como autoridade quando FR/LG divergem. A redação é original.
 - FireRed v1.1 e Switch não são autoridades deste pacote.
 
 ## Arquivos
@@ -1193,6 +1204,7 @@ O gerador aborta se o checkout não estiver exatamente no commit fixado.
 - Consulte o capítulo da visita atual. Áreas revisitadas podem ter pré-requisitos diferentes.
 - Use IDs e `map_id` para cruzar encounters, itens, batalhas e lojas.
 - Ao responder taxas, some apenas slots do mesmo `map_id`, método e espécie; o campo `species_total_rate_percent` já contém esse total.
+- Para wild encounters, use apenas registros com `version: "{ENCOUNTER_VERSION}"` e `encounter_table_id` terminado/identificado como FireRed. Nunca complete uma rota com dados LeafGreen por analogia FRLG.
 - Nunca apresente `event_required`, `trade_required` ou `unavailable_normally` como obtenção normal.
 
 ## Estado mínimo recomendado
@@ -1239,6 +1251,7 @@ Os dados técnicos abaixo foram extraídos do commit fixado. As fontes secundár
 | Amostra | Resultado técnico | Segunda fonte | Resultado |
 | --- | --- | --- | --- |
 | Route 3 encounters | Spearow 35%, Pidgey 30%, Mankey 10%, Nidoran M 14%, Jigglypuff 10%, Nidoran F 1% | https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_3 | Compatível com a tabela FRLG; nenhuma divergência aberta. |
+| Route 2 / Viridian Forest encounters | Route 2 FireRed: Rattata 45%, Pidgey 45%, Caterpie 5%, Weedle 5%; Viridian Forest FireRed: Caterpie 40%, Weedle 40%, Kakuna 10%, Metapod 5%, Pikachu 5% | PokeAPI `version_details=firered`; `pret/pokefirered` tabelas `sRoute2_FireRed` e `sViridianForest_FireRed` | Compatível. Nota: a presença de Weedle/Caterpie juntos é correta em FireRed; a diferença FR/LG nesta fase aparece principalmente na distribuição Metapod/Kakuna e em espécies exclusivas posteriores. |
 | Brock | Geodude Lv.12; Onix Lv.14 | https://bulbapedia.bulbagarden.net/wiki/Brock_(game) | Compatível. |
 | Viridian Mart | Poké Ball 200, Potion 300, Antidote 100, Parlyz Heal 200 | https://strategywiki.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen/Viridian_City | Compatível. |
 | Pokémon Mansion | Secret Key no B1F; quatro pisos; itens visíveis e ocultos separados | https://bulbapedia.bulbagarden.net/wiki/Pokemon_Mansion_(Kanto) | Compatível com a progressão e a separação por piso. |

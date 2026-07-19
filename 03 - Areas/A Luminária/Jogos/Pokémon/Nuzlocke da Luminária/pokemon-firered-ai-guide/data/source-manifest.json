@@ -6,14 +6,26 @@
   "rom_sha1": "41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc",
   "secondary_sources": [
     {
+      "name": "PokeAPI location-area version_details=firered",
+      "url": "https://pokeapi.co/docs/v2#locations-section",
+      "use": "online spot-check for FireRed wild encounter tables"
+    },
+    {
       "name": "Bulbapedia walkthrough",
       "url": "https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_FireRed_and_LeafGreen",
-      "use": "progression cross-check"
+      "use": "progression cross-check only; not encounter authority when FR/LG differ"
     },
     {
       "name": "StrategyWiki walkthrough",
       "url": "https://strategywiki.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen/Walkthrough",
-      "use": "area-order cross-check"
+      "use": "area-order cross-check only; not encounter authority when FR/LG differ"
     }
-  ]
+  ],
+  "encounter_version_policy": {
+    "included": "FireRed",
+    "excluded": [
+      "LeafGreen"
+    ],
+    "rule": "wild encounter records are ingested only from *_FireRed tables; *_LeafGreen tables are skipped before JSON/Markdown generation"
+  }
 }

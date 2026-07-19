@@ -31,7 +31,8 @@ Base modular em PT-BR para Pokémon FireRed GBA USA v1.0. Nomes de Pokémon, mov
 
 - Fonte técnica fixada: `pret/pokefirered@df4449a27cd78dd747ce269e47d3ab4a0149d8f4`.
 - SHA-1 da ROM de referência: `41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc`.
-- Bulbapedia e StrategyWiki são usadas apenas para conferir progressão. A redação é original.
+- Encounters selvagens são **somente FireRed**: o gerador importa apenas tabelas `*_FireRed` e descarta `*_LeafGreen` antes de gerar JSON/Markdown.
+- PokeAPI `version_details=firered` pode ser usado para auditoria online por amostragem; Bulbapedia e StrategyWiki são usadas apenas para conferir progressão, não como autoridade quando FR/LG divergem. A redação é original.
 - FireRed v1.1 e Switch não são autoridades deste pacote.
 
 ## Arquivos
