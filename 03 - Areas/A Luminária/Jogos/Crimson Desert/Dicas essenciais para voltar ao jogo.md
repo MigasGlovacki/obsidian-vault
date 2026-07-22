@@ -321,17 +321,17 @@ Métodos citados:
 
 - [ ] Ajustar câmera/sensibilidade.
 - [ ] Desligar blur/motion blur se incomodar.
-- [ ] Colocar mapa em **All**.
-- [ ] Colocar lanterna em **Auto**.
-- [ ] Relembrar como guardar arma.
-- [ ] Testar segurar ataque.
-- [ ] Testar segurar block para parry.
+- [x] Colocar mapa em **All**.
+- [x] Colocar lanterna em **Auto**.
+- [x] Relembrar como guardar arma.
+- [x] Testar segurar ataque.
+- [x] Testar segurar block para parry.
 - [ ] Seguir main quest por um tempo.
-- [ ] Priorizar Stamina nos próximos pontos.
+- [x] Priorizar Stamina nos próximos pontos.
 - [ ] Comprar expansão de inventário se aparecer.
-- [ ] Melhorar equipamento usado com materiais comuns.
-- [ ] Procurar sinos/torres para revelar mapa.
-- [ ] Se achar cachorro/pet cedo, considerar adotar.
+- [x] Melhorar equipamento usado com materiais comuns.
+- [x] Procurar sinos/torres para revelar mapa.
+- [x] Se achar cachorro/pet cedo, considerar adotar.
 
 ---
 
