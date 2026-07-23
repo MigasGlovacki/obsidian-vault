@@ -21,6 +21,7 @@
 | **ANIME**                         | MOTIVO                                                          |
 | --------------------------------- | --------------------------------------------------------------- |
 | [[Attack on Titan]] (4 temporada) | Tava gostando até a terceira temporada, mas não gostei do plot. |
+| [[My Dress Up Darling]]           | Achei o protagonista lerdo até demais.                          |
 
 ## Reconheço que é bom, mas não é muito pra mim
 
@@ -31,7 +32,7 @@
 ## Coisas que geralmente me ganham
 
 - Romance com química natural
-- Personagens introspectivos
+- Personagens com bom desenvolvimento
 - Humor não forçado
 
 ## Coisas que geralmente me afastam
@@ -40,5 +41,3 @@
 - Isekai generico
 - Harem
 - Triangulo amoroso
-
-/git
