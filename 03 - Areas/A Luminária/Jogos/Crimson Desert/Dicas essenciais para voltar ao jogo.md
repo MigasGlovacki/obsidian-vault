@@ -4,13 +4,16 @@ tags:
   - crimson-desert
   - guia
   - dicas
-source: "https://steamcommunity.com/sharedfiles/filedetails/?id=3690165914"
+sources:
+  - "https://steamcommunity.com/sharedfiles/filedetails/?id=3690165914"
+  - "https://steamcommunity.com/sharedfiles/filedetails/?id=3692570947"
 created: 2026-07-20
+updated: 2026-07-23
 ---
 
 # Crimson Desert — Dicas essenciais para voltar ao jogo
 
-Resumo prático do guia da Steam **“Things I Wish I Had Known When I Started Playing”**, reorganizado para uma volta mais tranquila ao jogo.
+Resumo prático dos guias da Steam **“Things I Wish I Had Known When I Started Playing”** e **“Guide to Mechanics and Tips/Tricks for Beginners and Veterans”**, reorganizado para uma volta mais tranquila ao jogo.
 
 > Ideia central: **Crimson Desert esconde muita coisa útil atrás de menus ruins, tutorial fraco e sistemas pouco explicados.** Jogar melhor aqui é menos “otimizar tudo” e mais aprender os confortos que o jogo não explica direito.
 
@@ -33,13 +36,34 @@ Se depois dessas sessões der vontade de pensar no jogo fora dele — mapa, buil
 
 Nas primeiras horas, vale seguir a história principal em vez de sair limpando o mapa imediatamente.
 
-Motivo: a campanha libera ferramentas que deixam o mundo muito menos cansativo, como movimentação, camp, glide/grappling e recursos de exploração.
+Motivo: a campanha libera ferramentas que deixam o mundo muito menos cansativo, como movimentação, camp, glide/grappling, Abyss, recursos de exploração e sistemas de equipamento.
 
-**Regra prática:**
+**Regra prática atualizada:**
 
-> Avançar a main quest até o jogo abrir melhor. Explorar pesado só depois que o movimento estiver mais confortável.
+> Avançar a main quest **até pelo menos o Capítulo 5** antes de explorar pesado. Até ali, o jogo ainda está liberando mecânicas grandes; explorar antes pode fazer você perder coisas, travar progresso lateral ou simplesmente gastar energia demais.
 
-### 2. Investir cedo em Stamina
+Não precisa ignorar tudo que aparecer no caminho. Só não transformar o early game em “limpar mapa”.
+
+### 2. Fazer o Camp assim que possível
+
+O guia complementar bate muito nessa tecla: **Camp é prioridade real**, não só conteúdo lateral.
+
+Motivos:
+
+- libera/ensina vários sistemas secundários;
+- melhora armazenamento;
+- abre missões e serviços úteis;
+- coloca coisas passivas rodando enquanto você explora;
+- algumas missões do Camp demoram bastante tempo de jogo.
+
+**Ritmo sugerido:**
+
+1. seguir a main quest até liberar o Camp;
+2. fazer Camp até não ter mais avanço claro;
+3. voltar para a main quest até o começo/fim do Capítulo 5;
+4. depois deixar Camp e exploração andando em paralelo.
+
+### 3. Investir cedo em Stamina
 
 Stamina funciona quase como uma “taxa obrigatória” do early game.
 
@@ -50,17 +74,18 @@ Ela afeta:
 - glide/planar;
 - mobilidade geral;
 - domar cavalo;
+- uso de certas habilidades;
 - tolerância ao mapa.
 
-Sugestão do guia:
+Sugestão dos guias:
 
-- 1 ponto em **Grappling Jump**;
-- 1 ponto em **Swift Flight**;
-- depois investir bastante em **Stamina**.
+- pegar habilidades básicas de mobilidade/glide quando liberadas;
+- colocar bastante ponto em **Stamina** cedo;
+- mirar pelo menos algo como **200 de Stamina** antes de gastar demais em firula de combate.
 
 **Tradução:** antes de pensar em build perfeita de dano, comprar conforto de movimento.
 
-### 3. Comprar expansão de inventário sempre que aparecer
+### 4. Comprar expansão de inventário sempre que aparecer
 
 Merchants vendem espaço de inventário, e isso é fácil de perder.
 
@@ -68,9 +93,9 @@ Merchants vendem espaço de inventário, e isso é fácil de perder.
 
 > Viu expansão de bolsa? Comprar o quanto antes.
 
-Bounties e algumas quests menores também podem aumentar espaço.
+Bounties, bolsas encontradas e algumas quests menores também podem aumentar espaço.
 
-### 4. Melhorar equipamento cedo
+### 5. Melhorar equipamento cedo
 
 Não economizar todos os materiais esperando “um equipamento melhor depois”.
 
@@ -126,9 +151,11 @@ Se a câmera parecer grudenta ou pesada:
 
 ## Loot e inventário
 
-### Segurar o botão de loot
+### Segurar o botão de loot/coleta
 
-Quando tiver vários itens no chão, não ficar apertando item por item. Segurar o botão de loot e passar pelos itens.
+Quando tiver vários itens no chão, não ficar apertando item por item. Segurar o botão de loot/coleta e passar pelos itens.
+
+Isso também vale para bugs e coleta rápida em movimento.
 
 ### Guardar a arma antes de lootear
 
@@ -141,7 +168,15 @@ Se o loot parecer inconsistente, guardar a arma antes.
 
 Materiais de crafting e itens pesados devem ficar no baú pessoal quando não forem necessários.
 
-O guia também menciona um truque: em alguns casos, se você encontrar uma cama, jogar itens no chão e dormir pode mandar os itens para o baú pessoal.
+O guia complementar menciona que o baú/armazenamento fica muito mais importante por causa do Camp: upgrades do Camp podem aumentar bastante o espaço de armazenamento.
+
+### Ler e descartar livros/receitas já usadas
+
+Depois de ler uma receita/livro de crafting ou terminar uma quest relacionada, o item/nota pode continuar ocupando espaço.
+
+**Regra:**
+
+> Leu e liberou a receita? Verificar se já pode vender ou descartar a nota/livro.
 
 ### Abrir saquinhos de dinheiro
 
@@ -156,13 +191,30 @@ Alguns itens que parecem lixo podem ser:
 - material de upgrade;
 - receita;
 - blueprint;
-- dinheiro disfarçado.
+- dinheiro disfarçado;
+- peça útil para alquimia.
 
 **Regra:** olhar o uso antes de vender.
+
+### Plantas e insetos: duplicatas podem valer mais que variedade
+
+Para alquimia, o guia comenta que às vezes o jogo quer **3 do mesmo item exato**, não só “3 itens da mesma categoria”.
+
+**Regra:**
+
+> Não vender todas as duplicatas de plantas/insetos achando que variedade sempre é melhor.
 
 ---
 
 ## Combate
+
+### Morrer não pesa tanto
+
+Segundo o guia complementar, morte não tem consequência forte. Então dá para experimentar combate e exploração com menos medo.
+
+**Regra mental:**
+
+> Se morrer ensinou alguma coisa, não foi perda — foi tutorial honesto.
 
 ### Segurar ataques, não só mashar
 
@@ -170,23 +222,60 @@ O combate melhora quando você entende que o jogo espera que você **segure bot�
 
 **Regra:**
 
-> Testar segurar ataque e combinar com skills, em vez de só apertar rápido.
+> Testar segurar ataque e combinar com dodge/sprint/skills, em vez de só apertar rápido.
 
-### Parry é segurar block no timing
+### Parry é segurar block e soltar no timing
 
-Não é um jogo de “tap parry”. Segundo o guia, o parry vem de **segurar defesa no timing certo**.
+Não é um jogo de “tap parry”. Segundo o guia, o parry vem de **levantar a defesa e soltar no momento certo**.
 
 **Regra:**
 
-> Parry = hold block no momento certo, não tap de pânico.
+> Parry = preparar block e soltar no impacto, não tap de pânico.
+
+### Desarmar inimigos
+
+Uma dica importante do guia complementar: depois de ser atingido enquanto bloqueia, usar **Heavy Attack segurando block** pode desarmar inimigos.
+
+Benefícios:
+
+- facilita a luta;
+- faz o inimigo derrubar armas;
+- pode gerar loot para vender ou usar em refinamento.
+
+### Priorizar arqueiros/ranged enemies
+
+Inimigos à distância atrapalham muito porque acertam de longe e quebram seu ritmo.
+
+**Regra:** se a luta estiver caótica, procurar arqueiros/atiradores primeiro.
+
+### Dodge para frente pode ser melhor que para trás
+
+Alguns ataques punem recuar. Em certos casos, esquivar para frente atravessa melhor a área de perigo.
+
+Não é regra universal, mas vale testar quando um inimigo parece “grudar” em você.
+
+### Usar ambiente
+
+Quedas longas, objetos e terreno podem causar dano extra se você arremessar inimigos contra eles.
+
+### Red lantern flash
+
+Se a lanterna piscar vermelho durante luta contra inimigo forte/boss, o guia sugere usar ferramentas como **Force Palm** ou **Blinding Flash** para interromper/abrir janela.
 
 ### Ler habilidades iniciais
 
 Você começa com ferramentas úteis que o jogo não ensina bem. Vale ler as skills iniciais e testar.
 
-### Ver se dá para aprender skill de graça
+### Skill Observation
 
-Antes de gastar pontos, verificar se a skill pode ser aprendida observando NPCs.
+Antes de gastar pontos, verificar se a skill pode ser aprendida observando NPCs/inimigos.
+
+Dicas:
+
+- o menu de skill costuma dizer se existe requisito de observação;
+- bosses da main story podem ter skills observáveis e algumas podem ser perdíveis;
+- se o tempo desacelera e o inimigo brilha azul, provavelmente você está observando uma habilidade;
+- algumas skills observadas ainda precisam de upgrade comprado depois.
 
 ### Confirmar se dá para usar o upgrade
 
@@ -202,12 +291,41 @@ Dicas importantes:
 
 - dá para escalar mais coisas do que parece;
 - se uma porta está trancada, tentar subir e entrar por janela;
+- sair pela porta depois de entrar pela janela pode destrancar a entrada;
 - árvores podem servir como travessia;
 - deslizar morro abaixo pode te levar muito longe;
 - pular depois de deslizar dá impulso extra;
 - cair na água pode salvar queda;
 - se acabar stamina durante glide, parar de se mover pode fazer o personagem cair devagar;
 - pontos altos ajudam a detectar brilhos/pontos de interesse.
+
+### Bebidas de Stamina para voo/escalada
+
+Taverns podem vender bebidas de Stamina diariamente. O guia sugere usar durante voo ou escalada para estender travessias longas.
+
+**Regra:** comprar algumas quando passar por tavern, mas não transformar isso em obrigação.
+
+### Abyss como ponto de viagem
+
+Depois de liberar o Abyss pela main quest, ele serve não só como conteúdo de puzzle/recompensa, mas também como ponto alto para deslocamento.
+
+**Uso prático:** fast travel para um ponto alto do Abyss e planar em direção a áreas ainda não visitadas.
+
+### Lanterna exploratória
+
+- Usar lanterna durante voo pode revelar pontos importantes à distância.
+- No chão, uma luz forte/Blinding Flash pode ajudar mais.
+- Se a lanterna mostrar brilho azul, pode haver memória por perto.
+
+### Waterfalls
+
+Algumas cachoeiras podem esconder passagem, mas tentar atravessar andando pode machucar.
+
+**Dica do guia:** se houver uma pequena pilastra/ponto diante da cachoeira, pode ser sinal de que dá para atravessar usando uma skill de stab/avanço.
+
+### Ferramentas de coleta
+
+Ferramentas melhores podem aumentar yield de recursos. Vale melhorar equipamento de coleta se você estiver juntando materiais com frequência.
 
 ### Puzzles: abrir o mapa
 
@@ -233,11 +351,16 @@ Usos:
 
 - comida/heal;
 - upgrade de joias/equipamento;
-- reserva para late game.
+- reserva para late game;
+- confiança de pets.
 
 **Regra:**
 
 > Guardar carne, vegetais e água. Comida importa mais do que parece.
+
+### Comer durante combate
+
+Comida pode curar durante luta. Se tiver comida suficiente, dá para sobreviver a encontros que pareciam acima do nível.
 
 ### Cozinhar com frequência
 
@@ -268,10 +391,16 @@ Para aumentar confiança:
 - carne cozida dá mais;
 - ossos pequenos dão bastante.
 
+### Manter pet ativo em combate
+
+O guia complementar reforça: pet não precisa ficar guardado por medo. Ele ajuda com autoloot durante combate.
+
 ### Cavalos
 
 - Cavalos selvagens podem ser domados correndo atrás e pulando neles.
 - Cavalos lendários exigem Stamina alta.
+- Cavalos sobem de nível/confiança; fazer carinho ajuda.
+- Cavalo evoluído fica muito mais rápido e pode ganhar habilidades.
 - Dá para carregar corpos, animais e bounties no cavalo.
 - Cuidado andando em vilas: quebrar cercas/coisas pequenas pode contar como vandalismo.
 
@@ -292,9 +421,49 @@ Dicas:
 - Trust alto pode liberar descontos/itens;
 - igrejas podem remover bounties;
 - roubo pode prejudicar reputação;
-- máscara ajuda a roubar/interagir com certos itens.
+- roubo normalmente exige **máscara**, comprada de Fence/back alley vendor ou dropada de bandit;
+- disfarces civis podem afetar perda de contribuição/reputação, segundo o guia complementar.
 
 Para uma volta tranquila, melhor não começar abusando de crime/farm. Usar isso só se precisar ou se quiser brincar com o sistema.
+
+---
+
+## Camp, Ranching e Farming
+
+Esta parte pode esperar até o jogo liberar o Camp de verdade, mas vale saber o princípio:
+
+- Camp não é só decoração; é base de sistemas.
+- Missões do Camp podem liberar lojas, serviços, membros, farming/ranching e upgrades.
+- Upgrades do Camp aumentam armazenamento e reduzem fricção de inventário.
+- Ranching/Farming viram fonte passiva de comida e materiais.
+- Animais precisam de comida no cocho/bin; não colocar comida rara se você quer guardar para receita.
+- Algumas relações de Trust liberam animais/serviços.
+
+**Regra simples:**
+
+> Quando o Camp abrir, dar atenção a ele até bater em espera/limite. Depois voltar para main/exploração enquanto o Camp trabalha em paralelo.
+
+---
+
+## Abyss Gear e Kuku Pot — só o básico sem mergulhar demais
+
+O guia complementar entra em sistemas mais avançados. Para retomada, basta guardar estas ideias:
+
+### Abyss Gear
+
+- Equipamentos com efeitos especiais/orbes são importantes no mid/late game.
+- Witches permitem extrair, colocar, combinar ou criar esses efeitos.
+- Nem todo equipamento aceita os mesmos tipos/quantidades de efeitos.
+- Vale guardar equipamentos especiais até entender se o efeito é útil.
+- Witch quests tendem a dar recompensas boas, especialmente relacionadas a Abyss Core/gear.
+
+### Kuku Pot
+
+- É um sistema que permite guardar/selar certos objetos especiais do mundo.
+- O minimap pode mostrar símbolos/runa de objetos compatíveis.
+- Não usar equipamento já melhorado em desafios específicos sem pensar; o guia alerta que versões modificadas podem não contar para certos challenges.
+
+**Regra para João:** não precisa estudar isso agora. Só não vender/destruir coisa especial por impulso.
 
 ---
 
@@ -305,11 +474,14 @@ O guia cita vários farms, mas para uma retomada eu deixaria como consulta, não
 Métodos citados:
 
 - Archery Contest em Hernand;
-- roubo do banco de Hernand;
+- roubo do banco/casas nobres em Hernand;
+- desarmar inimigos para vender armas/escudos;
+- pickpocket em nobres usando lanterna para ver itens;
 - Spire of Insight;
 - Five-Card table em Beighen;
 - Lioncrest Manor;
-- Wildlife Park.
+- Wildlife Park;
+- métodos de mid game com Golden Apples/Gold Bars.
 
 **Regra para não matar a vontade de jogar:**
 
@@ -325,13 +497,18 @@ Métodos citados:
 - [x] Colocar lanterna em **Auto**.
 - [x] Relembrar como guardar arma.
 - [x] Testar segurar ataque.
-- [x] Testar segurar block para parry.
-- [ ] Seguir main quest por um tempo.
+- [x] Testar segurar block/soltar para parry.
+- [ ] Testar desarmar inimigo com block + heavy depois de tomar hit bloqueando.
+- [ ] Seguir main quest pelo menos até o **Capítulo 5** antes de exploração pesada.
+- [ ] Fazer Camp assim que liberar e avançar até bater em limite/espera.
 - [x] Priorizar Stamina nos próximos pontos.
+- [ ] Comprar bebidas de Stamina em tavern quando passar por uma.
 - [ ] Comprar expansão de inventário se aparecer.
 - [x] Melhorar equipamento usado com materiais comuns.
 - [x] Procurar sinos/torres para revelar mapa.
 - [x] Se achar cachorro/pet cedo, considerar adotar.
+- [ ] Não vender item especial/novo sem verificar uso.
+- [ ] Guardar duplicatas úteis de equipamento/planta/inseto antes de vender tudo.
 
 ---
 
