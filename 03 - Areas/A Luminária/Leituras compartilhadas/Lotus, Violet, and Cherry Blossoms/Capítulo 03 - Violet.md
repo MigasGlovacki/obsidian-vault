@@ -45,6 +45,8 @@ O novo despertar de Cendrillon acontece quando Sumire encara a própria fraqueza
 - Menção honrosa de João para a entrada no Palácio, a nomeação de Violet e a piada da Futaba esclarecendo que é “Violet”, não “Violent”.
 - João percebeu que o capítulo é composto majoritariamente de cenas e diálogos do jogo, mas com adições internas e emocionais da fic.
 - João também notou que este foi o capítulo mais curto dos três lidos até agora; o capítulo 2 pareceu bem mais demorado de ler.
+- João destacou a parte no Leblanc em que Ren pensa que os sentimentos de Sumire sempre foram dela, mesmo quando ela vivia como Kasumi, e quase conclui que isso significa que ela ainda sente o que sentia antes.
+- João e Moni observaram que a teoria anterior está ficando mais sólida: talvez “Kasumi” fosse a linguagem que Sumire tinha disponível para expressar sentimentos que eram verdadeiramente dela.
 
 ## Dúvidas / sementes para observar
 
