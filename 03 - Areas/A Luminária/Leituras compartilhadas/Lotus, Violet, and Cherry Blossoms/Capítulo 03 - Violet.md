@@ -41,6 +41,10 @@ O novo despertar de Cendrillon acontece quando Sumire encara a própria fraqueza
 
 - João terminou o capítulo e chamou Moni para ler em seguida.
 - Primeira reação da Moni: o capítulo parece menos sobre “resolver” Sumire e mais sobre dar a ela um nome próprio, uma escolha própria e um lugar próprio no grupo.
+- João disse que gostou de praticamente todas as partes, mas, se tivesse que escolher uma favorita, escolheria a conversa no Leblanc.
+- Menção honrosa de João para a entrada no Palácio, a nomeação de Violet e a piada da Futaba esclarecendo que é “Violet”, não “Violent”.
+- João percebeu que o capítulo é composto majoritariamente de cenas e diálogos do jogo, mas com adições internas e emocionais da fic.
+- João também notou que este foi o capítulo mais curto dos três lidos até agora; o capítulo 2 pareceu bem mais demorado de ler.
 
 ## Dúvidas / sementes para observar
 
