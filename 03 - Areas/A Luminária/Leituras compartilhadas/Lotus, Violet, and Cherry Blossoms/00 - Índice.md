@@ -10,7 +10,7 @@
 - **Capítulos:** 80/80
 - **Palavras:** 519,407
 - **Status da leitura com a Moni:** em andamento
-- **Último capítulo lido com a Moni:** 2 — A Ballroom Betrayal
+- **Último capítulo lido com a Moni:** 3 — Violet
 
 ## Como vamos ler
 
@@ -38,12 +38,13 @@ As notas dos capítulos já lidos ficam nesta pasta e servem como base para reca
 
 - [[Capítulo 01 - The First Date]]
 - [[Capítulo 02 - A Ballroom Betrayal]]
+- [[Capítulo 03 - Violet]]
 
 ## Capítulos
 
 - [x] [1. The First Date](https://archiveofourown.org/works/24211450/chapters/58325074)
 - [x] [2. A Ballroom Betrayal](https://archiveofourown.org/works/24211450/chapters/58853896)
-- [ ] [3. Violet](https://archiveofourown.org/works/24211450/chapters/58991215)
+- [x] [3. Violet](https://archiveofourown.org/works/24211450/chapters/58991215)
 - [ ] [4. (Re)-Introduction](https://archiveofourown.org/works/24211450/chapters/59044174)
 - [ ] [5. Special Lessons](https://archiveofourown.org/works/24211450/chapters/59118526)
 - [ ] [6. He Loves Me](https://archiveofourown.org/works/24211450/chapters/59168101)
