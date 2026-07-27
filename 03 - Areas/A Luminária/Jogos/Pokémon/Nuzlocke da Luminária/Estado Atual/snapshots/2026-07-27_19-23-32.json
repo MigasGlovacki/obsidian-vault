@@ -1,15 +1,15 @@
 {
   "run": "MoniLocke Fire Red",
-  "updated_at": "2026-07-27T19:35:09-03:00",
+  "updated_at": "2026-07-27T19:23:32-03:00",
   "game": "Pokemon Fire Red",
   "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
   "parser_version": "1.1.0",
   "save_metadata": {
-    "active_slot": 2,
-    "save_counter": 11
+    "active_slot": 1,
+    "save_counter": 10
   },
   "progress": {
-    "location": "Viridian Forest",
+    "location": "Viridian City",
     "last_badge": "",
     "badges": [],
     "badge_count": 0,
@@ -23,47 +23,46 @@
       "level": 14,
       "display": "14 — Brock / Onix Lv. 14"
     },
-    "play_time": "4:39:00",
+    "play_time": "3:39:59",
     "money": 2000,
-    "pokedex_seen": 10,
-    "pokedex_owned": 6
+    "pokedex_seen": 8,
+    "pokedex_owned": 4
   },
   "party": [
     {
-      "species": "Metapod",
-      "nickname": "VELA",
+      "species": "Mankey",
+      "nickname": "BRASA",
       "level": 7,
-      "sex": "Male",
-      "nature": "Naive",
-      "hp_current": 15,
-      "hp_max": 25,
+      "sex": "Female",
+      "nature": "Impish",
+      "hp_current": 23,
+      "hp_max": 23,
       "status": "OK",
       "held_item": "",
-      "ability": "Shed Skin",
+      "ability": "Vital Spirit",
       "moves": [
-        "Tackle",
-        "String Shot",
-        "Harden"
+        "Scratch",
+        "Leer",
+        "Low Kick"
       ],
-      "met_location": "Location #102",
+      "met_location": "Location #122",
       "is_egg": false,
       "slot": 1
     },
     {
       "species": "Pidgey",
       "nickname": "ARIA",
-      "level": 9,
+      "level": 8,
       "sex": "Male",
       "nature": "Modest",
-      "hp_current": 26,
-      "hp_max": 26,
+      "hp_current": 24,
+      "hp_max": 24,
       "status": "OK",
       "held_item": "",
       "ability": "Keen Eye",
       "moves": [
         "Tackle",
-        "Sand Attack",
-        "Gust"
+        "Sand Attack"
       ],
       "met_location": "Location #101",
       "is_egg": false,
@@ -72,11 +71,11 @@
     {
       "species": "Bulbasaur",
       "nickname": "LUMEN",
-      "level": 8,
+      "level": 7,
       "sex": "Female",
       "nature": "Lonely",
-      "hp_current": 27,
-      "hp_max": 27,
+      "hp_current": 25,
+      "hp_max": 25,
       "status": "OK",
       "held_item": "",
       "ability": "Overgrow",
@@ -90,43 +89,23 @@
       "slot": 3
     },
     {
-      "species": "Mankey",
-      "nickname": "BRASA",
-      "level": 8,
-      "sex": "Female",
-      "nature": "Impish",
-      "hp_current": 24,
-      "hp_max": 24,
+      "species": "Caterpie",
+      "nickname": "VELA",
+      "level": 4,
+      "sex": "Male",
+      "nature": "Naive",
+      "hp_current": 18,
+      "hp_max": 18,
       "status": "OK",
       "held_item": "",
-      "ability": "Vital Spirit",
+      "ability": "Shield Dust",
       "moves": [
-        "Scratch",
-        "Leer",
-        "Low Kick"
+        "Tackle",
+        "String Shot"
       ],
-      "met_location": "Location #122",
+      "met_location": "Location #102",
       "is_egg": false,
       "slot": 4
-    },
-    {
-      "species": "Pikachu",
-      "nickname": "FAISCA",
-      "level": 3,
-      "sex": "Female",
-      "nature": "Careful",
-      "hp_current": 5,
-      "hp_max": 15,
-      "status": "OK",
-      "held_item": "",
-      "ability": "Static",
-      "moves": [
-        "Thunder Shock",
-        "Growl"
-      ],
-      "met_location": "Location #126",
-      "is_egg": false,
-      "slot": 5
     }
   ],
   "pc": [],
@@ -135,7 +114,7 @@
     "balls": [
       {
         "name": "Poké Ball",
-        "quantity": 4
+        "quantity": 5
       }
     ],
     "healing": [
@@ -165,21 +144,14 @@
     ]
   },
   "recent_changes": {
-    "new_party_members": [
-      "Novo Pokémon detectado na party: VELA (Metapod).",
-      "Novo Pokémon detectado na party: FAISCA (Pikachu)."
-    ],
+    "new_party_members": [],
     "new_pc_members": [],
     "possible_deaths": [],
     "badge_changes": [],
-    "item_changes": [
-      "Poké Ball: -1."
-    ]
+    "item_changes": []
   },
   "notes_for_moni": [
-    "Party atualizada após save.",
-    "Novo Pokémon detectado na party.",
-    "Novo Pokémon detectado na party."
+    "Party atualizada após save."
   ],
   "warnings": []
 }

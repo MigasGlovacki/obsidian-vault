@@ -1,4 +1,4 @@
----
+﻿---
 title: Checklist de Capturas por Rota
 created: 2026-07-17
 tags:
@@ -96,20 +96,22 @@ Para cada rota/área:
 
 - Capítulo do guia: [[pokemon-firered-ai-guide/walkthrough/03-viridian-forest-pewter|03 - Viridian Forest, Pewter City e Boulder Badge]]
 - Disponível a partir de: antes de Pewter/Brock
-- Captura usada? Não
+- Captura usada? Sim
 - Método considerado: land
 - Encontros relevantes:
-  - Caterpie — 40% — Lv. 3–5
-  - Weedle — 40% — Lv. 3–5
-  - Kakuna — 10% — Lv. 4–6
-  - Metapod — 5% — Lv. 5
-  - Pikachu — 5% — Lv. 3/5
-- Repetidos/inválidos:
-- Escolha da Moni:
-- Resultado:
-- Apelido:
-- Observações:
-
+  - Caterpie - 40% - Lv. 3-5
+  - Weedle - 40% - Lv. 3-5
+  - Kakuna - 10% - Lv. 4-6
+  - Metapod - 5% - Lv. 5
+  - Pikachu - 5% - Lv. 3/5
+- Repetidos/inválidos: Caterpie/Metapod por Species Clause, já que VELA veio da Route 2; Weedle/Kakuna ignorados porque a escolha presidencial foi firme em Pikachu.
+- Escolha da Moni: Pikachu
+- Resultado: capturada - Pikachu fêmea Lv. 3
+- Apelido: FAISCA
+- Observações: captura feita na Viridian Forest após treino inicial do time. VELA evoluiu para Metapod. O quase desastre da sessão foi com LUMEN, que tomou um crítico de Pidgey e ficou no vermelho, mas sobreviveu.
 ## Capturas futuras
 
 Adicionar novas áreas conforme a jornada avançar.
+
+
+

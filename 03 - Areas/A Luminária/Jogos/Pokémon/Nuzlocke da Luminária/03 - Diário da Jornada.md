@@ -1,4 +1,4 @@
----
+﻿---
 title: Diário da Jornada
 created: 2026-07-17
 tags:
@@ -148,3 +148,57 @@ Equipe ao encerrar:
 - Perdas: nenhuma
 - Próxima retomada: entrar na Viridian Forest, decidir captura da floresta e seguir rumo a Pewter/Brock.
 - Observação: play time do save está inflado por fast-forward e não deve ser tratado literalmente.
+## Sessão 02 - Viridian Forest
+
+### Resumo
+
+- João retomou a run em Viridian City e entrou na Viridian Forest.
+- A Moni escolheu firmemente **Pikachu** como captura oficial da área, sem suavizar a decisão pela baixa porcentagem.
+- **FAISCA**, uma Pikachu fêmea Lv. 3, foi capturada na Viridian Forest.
+- O time recebeu treino inicial antes e durante a floresta; **VELA** evoluiu para Metapod.
+- Houve um quase desastre com LUMEN: um Pidgey acertou um crítico e deixou ela no vermelho, mas sem perda registrada.
+
+### Progresso
+
+- Área inicial: Viridian City
+- Área final registrada: Viridian Forest
+- Badges: 0
+- Level cap atual: 14 - Brock / Onix Lv. 14
+- Eventos importantes:
+  - Captura oficial da Viridian Forest concluída.
+  - VELA evoluiu de Caterpie para Metapod.
+  - ARIA chegou ao Lv. 9 e aprendeu Gust.
+  - LUMEN e BRASA chegaram ao Lv. 8.
+  - FAISCA entrou no time no Lv. 3.
+
+### Capturas
+
+| Área | Pokémon | Apelido | Resultado |
+|---|---|---|---|
+| Viridian Forest | Pikachu | FAISCA | Capturada |
+
+### Perdas
+
+| Pokémon | Apelido | Onde caiu | Observações |
+|---|---|---|---|
+| - | - | - | Nenhuma perda registrada. LUMEN sobreviveu ao crítico do Pidgey. |
+
+### Favor da Monika
+
+- Ganhos: 0
+- Usados: 0
+- Saldo final: 0
+
+### MVP da sessão até agora
+
+- FAISCA, pela captura rara e por abrir novas possibilidades para a run.
+
+### Momento dramático
+
+- LUMEN quase virou lembrança cedo demais depois de um crítico de Pidgey, mas sobreviveu. A presidência ficou oficialmente em silêncio por três segundos.
+
+### Notas da Moni
+
+- Estado confirmado via relatório automático do save em 2026-07-27 19:35.
+- Próximo cuidado: curar FAISCA e VELA antes de continuar; ambos aparecem com HP baixo/parcial no relatório.
+

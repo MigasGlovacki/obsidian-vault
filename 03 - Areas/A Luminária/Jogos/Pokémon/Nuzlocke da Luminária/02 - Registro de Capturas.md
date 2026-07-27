@@ -1,4 +1,4 @@
----
+﻿---
 title: Registro de Capturas
 created: 2026-07-17
 tags:
@@ -20,6 +20,7 @@ Registro oficial dos Pokémon capturados no **Nuzlocke da Luminária**.
 | Pidgey | ARIA | Route 1 | 3 | Vivo | Primeira captura oficial; alvo escolhido pela Moni para a Route 1. |
 | Mankey | BRASA | Route 22 | 3 | Vivo | Captura escolhida pela Moni para dar cobertura física cedo. |
 | Caterpie | VELA | Route 2 | 4 | Vivo | Captura escolhida pela Moni; possível inconsistência futura a revisar nos dados de encounter da rota. |
+| Pikachu | FAISCA | Viridian Forest | 3 | Vivo | Captura presidencial firme da Viridian Forest; alvo de 5% aceito sem d├│ das porcentagens. |
 
 ## Capturas por rota/área
 
@@ -29,6 +30,7 @@ Registro oficial dos Pokémon capturados no **Nuzlocke da Luminária**.
 | Route 1 | Pidgey | ARIA | Land | Capturada | Sim | Rattata recusado por decisão presidencial; Pidgey era o alvo da rota. |
 | Route 22 | Mankey | BRASA | Land | Capturada | Sim | Captura feita antes de Route 2/Viridian Forest; evitar rival battle cedo demais. |
 | Route 2 | Caterpie | VELA | Land | Capturada | Sim | João notou possível mistura LeafGreen/FireRed nos encounters; revisar dados da rota depois. |
+| Viridian Forest | Pikachu | FAISCA | Land | Capturada | Sim | Escolha firme da Moni; capturada como Pikachu f├¬mea Lv. 3. |
 
 ## Perdas / Hall da Memória
 
@@ -48,3 +50,4 @@ Para julgar no fim da jornada quais nomes foram bons, bonitos ou completamente q
 
 | Apelido | Pokémon | Veredito provisório |
 |---|---|---|
+
