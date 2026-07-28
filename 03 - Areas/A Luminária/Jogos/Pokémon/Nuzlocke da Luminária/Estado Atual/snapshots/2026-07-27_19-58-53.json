@@ -1,0 +1,185 @@
+{
+  "run": "MoniLocke Fire Red",
+  "updated_at": "2026-07-27T19:58:53-03:00",
+  "game": "Pokemon Fire Red",
+  "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
+  "parser_version": "1.1.0",
+  "save_metadata": {
+    "active_slot": 1,
+    "save_counter": 12
+  },
+  "progress": {
+    "location": "Route2",
+    "last_badge": "",
+    "badges": [],
+    "badge_count": 0,
+    "next_objective": "Obter a insígnia Boulder.",
+    "level_cap": {
+      "leader": "Brock",
+      "gym": "Pewter City",
+      "aces": [
+        "Onix"
+      ],
+      "level": 14,
+      "display": "14 — Brock / Onix Lv. 14"
+    },
+    "play_time": "6:21:03",
+    "money": 2444,
+    "pokedex_seen": 11,
+    "pokedex_owned": 6
+  },
+  "party": [
+    {
+      "species": "Metapod",
+      "nickname": "VELA",
+      "level": 7,
+      "sex": "Male",
+      "nature": "Naive",
+      "hp_current": 25,
+      "hp_max": 25,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Shed Skin",
+      "moves": [
+        "Tackle",
+        "String Shot",
+        "Harden"
+      ],
+      "met_location": "Location #102",
+      "is_egg": false,
+      "slot": 1
+    },
+    {
+      "species": "Pidgey",
+      "nickname": "ARIA",
+      "level": 11,
+      "sex": "Male",
+      "nature": "Modest",
+      "hp_current": 30,
+      "hp_max": 30,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Keen Eye",
+      "moves": [
+        "Tackle",
+        "Sand Attack",
+        "Gust"
+      ],
+      "met_location": "Location #101",
+      "is_egg": false,
+      "slot": 2
+    },
+    {
+      "species": "Pikachu",
+      "nickname": "FAISCA",
+      "level": 8,
+      "sex": "Female",
+      "nature": "Careful",
+      "hp_current": 24,
+      "hp_max": 24,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Static",
+      "moves": [
+        "Thunder Shock",
+        "Growl",
+        "Tail Whip",
+        "Thunder Wave"
+      ],
+      "met_location": "Location #126",
+      "is_egg": false,
+      "slot": 3
+    },
+    {
+      "species": "Mankey",
+      "nickname": "BRASA",
+      "level": 8,
+      "sex": "Female",
+      "nature": "Impish",
+      "hp_current": 24,
+      "hp_max": 24,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Vital Spirit",
+      "moves": [
+        "Scratch",
+        "Leer",
+        "Low Kick"
+      ],
+      "met_location": "Location #122",
+      "is_egg": false,
+      "slot": 4
+    },
+    {
+      "species": "Bulbasaur",
+      "nickname": "LUMEN",
+      "level": 10,
+      "sex": "Female",
+      "nature": "Lonely",
+      "hp_current": 31,
+      "hp_max": 31,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Overgrow",
+      "moves": [
+        "Tackle",
+        "Growl",
+        "Leech Seed",
+        "Vine Whip"
+      ],
+      "met_location": "Location #88",
+      "is_egg": false,
+      "slot": 5
+    }
+  ],
+  "pc": [],
+  "graveyard": [],
+  "items": {
+    "balls": [
+      {
+        "name": "Poké Ball",
+        "quantity": 5
+      }
+    ],
+    "healing": [
+      {
+        "name": "Potion",
+        "quantity": 3
+      },
+      {
+        "name": "Antidote",
+        "quantity": 1
+      }
+    ],
+    "tms_hms": [],
+    "key_items": [
+      {
+        "name": "Teachy Tv",
+        "quantity": 1
+      }
+    ],
+    "berries": [],
+    "other": [
+      {
+        "name": "Potion",
+        "quantity": 1,
+        "source": "PC"
+      }
+    ]
+  },
+  "recent_changes": {
+    "new_party_members": [],
+    "new_pc_members": [],
+    "possible_deaths": [],
+    "badge_changes": [],
+    "item_changes": [
+      "Antidote: -3.",
+      "Poké Ball: +1.",
+      "Potion: +1."
+    ]
+  },
+  "notes_for_moni": [
+    "Party atualizada após save."
+  ],
+  "warnings": []
+}

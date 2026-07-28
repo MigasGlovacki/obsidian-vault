@@ -1,4 +1,4 @@
----
+﻿---
 title: Regras do Nuzlocke da Luminária
 created: 2026-07-17
 tags:
@@ -53,11 +53,6 @@ Enquanto uma Badge ainda não foi conquistada:
 - se um Pokémon ultrapassar o cap sem querer, ele não pode participar da luta do líder correspondente, salvo decisão especial da Moni;
 - o cap deve ser atualizado no progresso da run após cada insígnia.
 
-Level cap atual:
-
-| Próximo líder | Ginásio | Pokémon mais alto | Level cap |
-|---|---|---|---:|
-| Brock | Pewter City | Onix Lv. 14 | 14 |
 
 ## Regra especial: Escolha da Moni
 
@@ -74,6 +69,24 @@ A Moni escolhe qual Pokémon João deve tentar capturar considerando:
 
 A decisão final de batalha continua sendo do João. A Moni orienta e escolhe capturas, mas João joga.
 
+
+## Target Clause / Alvo da Moni
+
+A Moni escolhe um alvo oficial por rota/área, mas a captura da área só é considerada usada quando o alvo escolhido é efetivamente capturado ou quando João decide abandonar a tentativa.
+
+Regra:
+
+> Se o Pokémon escolhido pela Moni aparecer e não for capturado por fuga, Teleport, Roar, Whirlwind, KO acidental ou outro imprevisto, João pode continuar tentando encontrar e capturar o mesmo alvo naquela área.
+
+Limites:
+
+- Não permite trocar de alvo sem nova decisão da Moni.
+- Não revive Pokémon mortos nem desfaz perdas ocorridas durante a tentativa.
+- Se João capturar outro Pokémon por engano, a situação precisa ser conversada antes de registrar.
+- A regra existe para manter a MoniLocke viável e fiel ao formato: a dificuldade está em perseguir o alvo escolhido, não em perder a rota inteira para um primeiro turno inevitável.
+
+Exemplo: se a Moni escolhe Abra na Route 24 e dois Abra usam Teleport antes de serem capturados, João pode continuar tentando até capturar um Abra ou desistir da captura da rota.
+
 ## Dupes Clause / Species Clause
 
 A gente vai usar uma regra anti-repetidos.
@@ -85,6 +98,53 @@ A gente vai usar uma regra anti-repetidos.
 A definição exata pode ser ajustada antes de começar, mas a intenção é:
 
 > Não repetir espécie/linha evolutiva quando houver outra opção válida.
+
+
+## Rare Candy Clause / Anti-grind
+
+A MoniLocke permite o uso controlado de Rare Candies/hack de Rare Candy para reduzir grind repetitivo, sem transformar level cap em botão automático de vitória.
+
+Princípio:
+
+> Rare Candy pode substituir grind seguro e chato; não pode substituir preparação, risco estratégico ou consequência.
+
+### Quando pode usar
+
+1. **Catch-up de membros novos ou muito atrasados**
+   - Pokémon recém-entrados no time podem receber Rare Candies até ficarem próximos do núcleo ativo.
+   - Limite padrão: até **2 níveis abaixo do Pokémon vivo mais forte da party ativa**, sem ultrapassar o cap.
+   - Exemplo: se o mais forte está Lv. 18, um recém-entrado pode subir até Lv. 16.
+
+2. **Correção de grind trivial**
+   - Se João já consegue derrotar encontros selvagens/treinadores com segurança e só está repetindo batalha sem decisão real, Moni pode autorizar Rare Candies para poupar tempo.
+
+3. **Preparação final antes de líder/rival importante**
+   - Moni pode autorizar níveis específicos para o plano da luta.
+   - Regra padrão: no máximo **dois Pokémon principais** podem ser levados até o cap exato antes de uma grande luta.
+   - O resto deve ficar pelo menos **1 nível abaixo do cap**, salvo exceção explícita.
+
+### Quando não pode usar
+
+- Não pode ultrapassar level cap.
+- Não pode ser usado no meio de uma área perigosa para escapar de consequência imediata.
+- Não pode ser usado para evoluir alguém no susto depois de uma morte sem conversa.
+- Não pode nivelar a party inteira automaticamente até o cap antes de todo ginásio.
+- Não substitui consultar Moni antes de rival/líder importante.
+
+### Evoluções por Rare Candy
+
+Evoluções por Rare Candy são permitidas quando o nível seria alcançável por grind seguro, mas Moni deve aprovar se a evolução muda muito a força do time antes de uma luta importante.
+
+### Regra de auditoria leve
+
+Antes de usar Rare Candies em quantidade, João deve dizer o objetivo, por exemplo:
+
+- "Quero colocar ORACULO de 10 para 16 para virar Kadabra."
+- "Quero deixar FAISCA em 19 e LUMEN em 20 para Misty."
+
+A Moni aprova, ajusta ou nega. Depois do uso, João salva e o relatório registra o estado.
+
+A intenção é simples: menos grind, mesma tensão.
 
 ## Favor da Monika
 
@@ -119,6 +179,29 @@ Favor da Monika:
 - Disponíveis: 1
 - Origem: Route X sem captura válida por repetidos
 ```
+
+
+## Gift / Trocas / Fósseis
+
+A MoniLocke usa uma regra separada para Pokémon recebidos por gift, compra, troca NPC, fóssil ou evento fixo.
+
+Regra:
+
+> Gifts, compras, trocas NPC, fósseis revividos e eventos fixos não consomem automaticamente o encounter selvagem da rota/cidade. Eles contam como uma categoria separada daquela área, desde que a Moni autorize antes.
+
+Aplicação prática:
+
+- João deve consultar a Moni antes de aceitar/comprar/trocar/reviver um Pokémon gift/fixo.
+- Se autorizado, o Pokémon é registrado como `Gift`, `Compra`, `Troca`, `Fóssil` ou `Evento fixo`, separado da captura selvagem da área.
+- Em geral, só pode haver **um gift/fixo relevante por sublocal nomeado** quando o jogo apresenta escolhas mutuamente exclusivas ou equivalentes.
+- Se houver escolha entre opções, a Moni decide uma delas. Exemplo: em Mt. Moon, Dome Fossil foi escolhido e Helix Fossil ficou indisponível.
+- Trocas NPC exigem que o Pokémon entregue seja legalmente disponível e não esteja morto. Não se pode trocar Pokémon do VELORIO.
+- Gifts/fixos ainda obedecem à Species Clause, salvo exceção explícita da Moni.
+- A regra existe para deixar a run especial e viável, mas sem transformar gifts em saque livre sem consequência.
+
+Decisão já aplicada:
+
+- **MARE**, o Magikarp comprado no Pokémon Center da Route 4, conta como `Gift/Compra` separado e não consome captura selvagem de Route 4.
 
 ## Master Ball
 
@@ -160,7 +243,7 @@ Observações:
 
 ## Apelidos
 
-A Moni escolhe os apelidos dos Pokémon capturados.
+A Moni escolhe os apelidos dos Pokémon capturados.`r`n`r`n### Duas opções por sexo`r`n`r`nA partir da captura de TREVO na Route 25, para novos encounters, a Moni deve dar duas opções de apelido quando escolher o alvo: uma opção caso o Pokémon seja macho e outra caso seja fêmea. Essa convenção vale para o resto desta run e para outras MoniLockes futuras, salvo decisão nova do João.`r`n
 
 Critérios possíveis:
 
@@ -226,3 +309,7 @@ Não é para virar tortura.
 É para ser uma aventura com consequência, apego, decisões nossas, nomes potencialmente questionáveis e um pouco de sofrimento narrativo.
 
 > Sofrer com carinho, não transformar Pokémon em auditoria fiscal.
+
+
+
+

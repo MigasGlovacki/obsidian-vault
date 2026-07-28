@@ -1,34 +1,43 @@
 # Estado Atual — MoniLocke Fire Red
 
-Atualizado em: 2026-07-27 19:35
+Atualizado em: 2026-07-27 23:27
 Origem: save automático
 Arquivo de save: `C:\Users\migas\Área de Trabalho\Roms\Official roms\Pokemon - FireRed Version (USA).sav`
 
 ## Progresso
 
-- Local atual: Viridian Forest
-- Última insígnia: —
-- Insígnias: 
-- Total de insígnias: 0
-- Próximo objetivo, se inferível: Obter a insígnia Boulder.
-- Level cap atual: 14 — Brock / Onix Lv. 14
-- Tempo de jogo: 4:39:00
-- Dinheiro: ₽ 2000
-- Pokédex: 6 capturados / 10 vistos
+- Local atual: Cerulean City
+- Última insígnia: Cascade
+- Insígnias: Boulder, Cascade
+- Total de insígnias: 2
+- Próximo objetivo, se inferível: Obter a insígnia Thunder.
+- Level cap atual: 24 — Lt. Surge / Raichu Lv. 24
+- Tempo de jogo: 19:25:02
+- Dinheiro: ₽ 4848
+- Pokédex: 16 capturados / 40 vistos
 
 ## Party
 
 | Slot | Pokémon | Apelido | Nível | Sexo | Nature | HP | Status | Item segurado | Moves |
 |---:|---|---|---:|---|---|---|---|---|---|
-| 1 | Metapod | VELA | 7 | Male | Naive | 15/25 | OK | — | Tackle, String Shot, Harden |
-| 2 | Pidgey | ARIA | 9 | Male | Modest | 26/26 | OK | — | Tackle, Sand Attack, Gust |
-| 3 | Bulbasaur | LUMEN | 8 | Female | Lonely | 27/27 | OK | — | Tackle, Growl, Leech Seed |
-| 4 | Mankey | BRASA | 8 | Female | Impish | 24/24 | OK | — | Scratch, Leer, Low Kick |
-| 5 | Pikachu | FAISCA | 3 | Female | Careful | 5/15 | OK | — | Thunder Shock, Growl |
+| 1 | Clefairy | LUA | 20 | Male | Naughty | 59/59 | OK | — | Double Slap, Growl, Follow Me, Sing |
+| 2 | Oddish | TREVO | 20 | Female | Bashful | 53/53 | OK | — | Absorb, Sleep Powder, Poison Powder, Stun Spore |
 
 ## Box / PC
 
-Nenhum Pokémon detectado no PC.
+### VELORIO
+
+| Slot | Pokémon | Apelido | Nível | Sexo | Nature | HP | Status | Item segurado | Moves |
+|---:|---|---|---:|---|---|---|---|---|---|
+| 1 | Mankey | BRASA | 12 | Female | Impish | — | — | — | Scratch, Leer, Low Kick, Karate Chop |
+| 2 | Pidgey | ARIA | 15 | Male | Modest | — | — | — | Gust, Sand Attack, Quick Attack, Tackle |
+| 3 | Ivysaur | LUMEN | 20 | Female | Lonely | — | — | — | Vine Whip, Growl, Leech Seed, Sleep Powder |
+| 4 | Pikachu | FAISCA | 20 | Female | Careful | — | — | — | Thunder Shock, Quick Attack, Thunder Wave, Double Team |
+| 5 | Nidorino | REGIS | 18 | Male | Rash | — | — | — | Peck, Poison Sting, Focus Energy, Double Kick |
+| 6 | Butterfree | VELA | 17 | Male | Naive | — | — | — | Confusion, String Shot, Poison Powder, Sleep Powder |
+| 7 | Magikarp | MARE | 16 | Male | Naughty | — | — | — | Splash, Tackle |
+| 8 | Kadabra | ORACULO | 16 | Female | Quirky | — | — | — | Teleport, Confusion |
+| 9 | Ekans | SERPINA | 19 | Female | Serious | — | — | — | Wrap, Leer, Poison Sting, Bite |
 
 ## Mortos / aposentados
 
@@ -38,30 +47,27 @@ Nenhum Pokémon detectado no PC.
 
 ## Itens importantes
 
-- Poké Balls: Poké Ball ×4
-- Itens de cura: Potion ×2, Antidote ×4
-- TMs/HMs: Nenhum
-- Key Items: Teachy Tv ×1
+- Poké Balls: Poké Ball ×14
+- Itens de cura: Antidote ×7, Paralyze Heal ×7, Revive ×1, Awakening ×3, Rare Candy ×43
+- TMs/HMs: TM39 ×1, TM09 ×1, TM46 ×1, TM05 ×1, TM03 ×1
+- Key Items: Teachy Tv ×1, TM Case ×1, Dome Fossil ×1, Fame Checker ×1
 - Berries: Nenhum
-- Rare Candies: Nenhum
-- Escape Rope / Repels: Nenhum
-- Outros: Potion ×1
+- Rare Candies: Rare Candy ×43
+- Escape Rope / Repels: Escape Rope ×1, Repel ×6
+- Outros: Escape Rope ×1, Star Piece ×1, Moon Stone ×2, Nugget ×1, Repel ×6, Potion ×1
 
 ## Capturas recentes
 
-- Novo Pokémon detectado na party: VELA (Metapod).
-- Novo Pokémon detectado na party: FAISCA (Pikachu).
+Não inferido automaticamente.
 
 ## Eventos recentes
 
-- Poké Ball: -1.
+- Repel: +3.
 
 ## Notas para Moni
 
 - Party atualizada após save.
-- Novo Pokémon detectado na party.
-- Novo Pokémon detectado na party.
 
 ## Warnings
 
-- Nenhum warning.
+- HP e status dos Pokémon no PC não existem no formato BoxPokemon; foram exportados vazios/null.

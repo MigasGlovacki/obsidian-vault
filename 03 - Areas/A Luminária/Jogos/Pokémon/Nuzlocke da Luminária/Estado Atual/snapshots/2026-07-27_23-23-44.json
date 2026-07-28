@@ -1,15 +1,15 @@
 {
   "run": "MoniLocke Fire Red",
-  "updated_at": "2026-07-27T23:27:35-03:00",
+  "updated_at": "2026-07-27T23:23:44-03:00",
   "game": "Pokemon Fire Red",
   "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
   "parser_version": "1.1.0",
   "save_metadata": {
     "active_slot": 1,
-    "save_counter": 38
+    "save_counter": 36
   },
   "progress": {
-    "location": "Cerulean City",
+    "location": "Cerulean City  Gym",
     "last_badge": "Cascade",
     "badges": [
       "Boulder",
@@ -26,8 +26,8 @@
       "level": 24,
       "display": "24 — Lt. Surge / Raichu Lv. 24"
     },
-    "play_time": "19:25:02",
-    "money": 4848,
+    "play_time": "19:19:21",
+    "money": 5898,
     "pokedex_seen": 40,
     "pokedex_owned": 16
   },
@@ -38,7 +38,7 @@
       "level": 20,
       "sex": "Male",
       "nature": "Naughty",
-      "hp_current": 59,
+      "hp_current": 12,
       "hp_max": 59,
       "status": "OK",
       "held_item": "",
@@ -54,12 +54,33 @@
       "slot": 1
     },
     {
+      "species": "Ekans",
+      "nickname": "SERPINA",
+      "level": 19,
+      "sex": "Female",
+      "nature": "Serious",
+      "hp_current": 0,
+      "hp_max": 47,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Intimidate",
+      "moves": [
+        "Wrap",
+        "Leer",
+        "Poison Sting",
+        "Bite"
+      ],
+      "met_location": "Location #104",
+      "is_egg": false,
+      "slot": 2
+    },
+    {
       "species": "Oddish",
       "nickname": "TREVO",
       "level": 20,
       "sex": "Female",
       "nature": "Bashful",
-      "hp_current": 53,
+      "hp_current": 6,
       "hp_max": 53,
       "status": "OK",
       "held_item": "",
@@ -72,7 +93,7 @@
       ],
       "met_location": "Location #125",
       "is_egg": false,
-      "slot": 2
+      "slot": 3
     }
   ],
   "pc": [
@@ -247,28 +268,6 @@
       "is_egg": false,
       "box": "VELORIO",
       "slot": 8
-    },
-    {
-      "species": "Ekans",
-      "nickname": "SERPINA",
-      "level": 19,
-      "sex": "Female",
-      "nature": "Serious",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Intimidate",
-      "moves": [
-        "Wrap",
-        "Leer",
-        "Poison Sting",
-        "Bite"
-      ],
-      "met_location": "Location #104",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 9
     }
   ],
   "graveyard": [],
@@ -361,7 +360,7 @@
       },
       {
         "name": "Repel",
-        "quantity": 6
+        "quantity": 3
       },
       {
         "name": "Potion",
@@ -374,9 +373,12 @@
     "new_party_members": [],
     "new_pc_members": [],
     "possible_deaths": [],
-    "badge_changes": [],
+    "badge_changes": [
+      "Nova insígnia detectada: Cascade."
+    ],
     "item_changes": [
-      "Repel: +3."
+      "Rare Candy: -31.",
+      "TM03: +1."
     ]
   },
   "notes_for_moni": [

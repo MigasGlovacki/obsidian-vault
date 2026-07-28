@@ -1,0 +1,201 @@
+{
+  "run": "MoniLocke Fire Red",
+  "updated_at": "2026-07-27T20:18:48-03:00",
+  "game": "Pokemon Fire Red",
+  "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
+  "parser_version": "1.1.0",
+  "save_metadata": {
+    "active_slot": 1,
+    "save_counter": 16
+  },
+  "progress": {
+    "location": "Route3",
+    "last_badge": "Boulder",
+    "badges": [
+      "Boulder"
+    ],
+    "badge_count": 1,
+    "next_objective": "Obter a insígnia Cascade.",
+    "level_cap": {
+      "leader": "Misty",
+      "gym": "Cerulean City",
+      "aces": [
+        "Starmie"
+      ],
+      "level": 21,
+      "display": "21 — Misty / Starmie Lv. 21"
+    },
+    "play_time": "7:39:45",
+    "money": 2014,
+    "pokedex_seen": 14,
+    "pokedex_owned": 6
+  },
+  "party": [
+    {
+      "species": "Mankey",
+      "nickname": "BRASA",
+      "level": 12,
+      "sex": "Female",
+      "nature": "Impish",
+      "hp_current": 32,
+      "hp_max": 32,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Vital Spirit",
+      "moves": [
+        "Scratch",
+        "Leer",
+        "Low Kick",
+        "Karate Chop"
+      ],
+      "met_location": "Location #122",
+      "is_egg": false,
+      "slot": 1
+    },
+    {
+      "species": "Pidgey",
+      "nickname": "ARIA",
+      "level": 11,
+      "sex": "Male",
+      "nature": "Modest",
+      "hp_current": 30,
+      "hp_max": 30,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Keen Eye",
+      "moves": [
+        "Tackle",
+        "Sand Attack",
+        "Gust"
+      ],
+      "met_location": "Location #101",
+      "is_egg": false,
+      "slot": 2
+    },
+    {
+      "species": "Pikachu",
+      "nickname": "FAISCA",
+      "level": 8,
+      "sex": "Female",
+      "nature": "Careful",
+      "hp_current": 24,
+      "hp_max": 24,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Static",
+      "moves": [
+        "Thunder Shock",
+        "Growl",
+        "Tail Whip",
+        "Thunder Wave"
+      ],
+      "met_location": "Location #126",
+      "is_egg": false,
+      "slot": 3
+    },
+    {
+      "species": "Bulbasaur",
+      "nickname": "LUMEN",
+      "level": 13,
+      "sex": "Female",
+      "nature": "Lonely",
+      "hp_current": 38,
+      "hp_max": 38,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Overgrow",
+      "moves": [
+        "Tackle",
+        "Growl",
+        "Leech Seed",
+        "Vine Whip"
+      ],
+      "met_location": "Location #88",
+      "is_egg": false,
+      "slot": 4
+    },
+    {
+      "species": "Metapod",
+      "nickname": "VELA",
+      "level": 7,
+      "sex": "Male",
+      "nature": "Naive",
+      "hp_current": 25,
+      "hp_max": 25,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Shed Skin",
+      "moves": [
+        "Tackle",
+        "String Shot",
+        "Harden"
+      ],
+      "met_location": "Location #102",
+      "is_egg": false,
+      "slot": 5
+    }
+  ],
+  "pc": [],
+  "graveyard": [],
+  "items": {
+    "balls": [
+      {
+        "name": "Poké Ball",
+        "quantity": 9
+      }
+    ],
+    "healing": [
+      {
+        "name": "Potion",
+        "quantity": 3
+      },
+      {
+        "name": "Antidote",
+        "quantity": 4
+      },
+      {
+        "name": "Paralyze Heal",
+        "quantity": 2
+      }
+    ],
+    "tms_hms": [
+      {
+        "name": "TM39",
+        "quantity": 1
+      }
+    ],
+    "key_items": [
+      {
+        "name": "Teachy Tv",
+        "quantity": 1
+      },
+      {
+        "name": "TM Case",
+        "quantity": 1
+      }
+    ],
+    "berries": [],
+    "other": [
+      {
+        "name": "Escape Rope",
+        "quantity": 1
+      },
+      {
+        "name": "Potion",
+        "quantity": 1,
+        "source": "PC"
+      }
+    ]
+  },
+  "recent_changes": {
+    "new_party_members": [],
+    "new_pc_members": [],
+    "possible_deaths": [],
+    "badge_changes": [],
+    "item_changes": []
+  },
+  "notes_for_moni": [
+    "Party atualizada após save."
+  ],
+  "warnings": []
+}

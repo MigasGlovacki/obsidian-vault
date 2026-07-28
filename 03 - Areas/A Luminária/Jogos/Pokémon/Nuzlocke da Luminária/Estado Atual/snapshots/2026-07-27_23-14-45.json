@@ -1,33 +1,32 @@
 {
   "run": "MoniLocke Fire Red",
-  "updated_at": "2026-07-27T23:27:35-03:00",
+  "updated_at": "2026-07-27T23:14:45-03:00",
   "game": "Pokemon Fire Red",
   "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
   "parser_version": "1.1.0",
   "save_metadata": {
-    "active_slot": 1,
-    "save_counter": 38
+    "active_slot": 2,
+    "save_counter": 35
   },
   "progress": {
-    "location": "Cerulean City",
-    "last_badge": "Cascade",
+    "location": "Cerulean City  Pokemon Center 1 F",
+    "last_badge": "Boulder",
     "badges": [
-      "Boulder",
-      "Cascade"
+      "Boulder"
     ],
-    "badge_count": 2,
-    "next_objective": "Obter a insígnia Thunder.",
+    "badge_count": 1,
+    "next_objective": "Obter a insígnia Cascade.",
     "level_cap": {
-      "leader": "Lt. Surge",
-      "gym": "Vermilion City",
+      "leader": "Misty",
+      "gym": "Cerulean City",
       "aces": [
-        "Raichu"
+        "Starmie"
       ],
-      "level": 24,
-      "display": "24 — Lt. Surge / Raichu Lv. 24"
+      "level": 21,
+      "display": "21 — Misty / Starmie Lv. 21"
     },
-    "play_time": "19:25:02",
-    "money": 4848,
+    "play_time": "18:37:42",
+    "money": 3798,
     "pokedex_seen": 40,
     "pokedex_owned": 16
   },
@@ -35,47 +34,66 @@
     {
       "species": "Clefairy",
       "nickname": "LUA",
-      "level": 20,
+      "level": 10,
       "sex": "Male",
       "nature": "Naughty",
-      "hp_current": 59,
-      "hp_max": 59,
+      "hp_current": 34,
+      "hp_max": 34,
       "status": "OK",
       "held_item": "",
       "ability": "Cute Charm",
       "moves": [
-        "Double Slap",
+        "Pound",
         "Growl",
-        "Follow Me",
+        "Encore",
         "Sing"
       ],
       "met_location": "Location #127",
       "is_egg": false,
       "slot": 1
-    },
+    }
+  ],
+  "pc": [
     {
       "species": "Oddish",
       "nickname": "TREVO",
-      "level": 20,
+      "level": 12,
       "sex": "Female",
       "nature": "Bashful",
-      "hp_current": 53,
-      "hp_max": 53,
-      "status": "OK",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
       "held_item": "",
       "ability": "Chlorophyll",
       "moves": [
         "Absorb",
-        "Sleep Powder",
-        "Poison Powder",
-        "Stun Spore"
+        "Sweet Scent"
       ],
       "met_location": "Location #125",
       "is_egg": false,
+      "box": "BOX1",
       "slot": 2
-    }
-  ],
-  "pc": [
+    },
+    {
+      "species": "Ekans",
+      "nickname": "SERPINA",
+      "level": 6,
+      "sex": "Female",
+      "nature": "Serious",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
+      "held_item": "",
+      "ability": "Intimidate",
+      "moves": [
+        "Wrap",
+        "Leer"
+      ],
+      "met_location": "Location #104",
+      "is_egg": false,
+      "box": "BOX1",
+      "slot": 3
+    },
     {
       "species": "Mankey",
       "nickname": "BRASA",
@@ -247,28 +265,6 @@
       "is_egg": false,
       "box": "VELORIO",
       "slot": 8
-    },
-    {
-      "species": "Ekans",
-      "nickname": "SERPINA",
-      "level": 19,
-      "sex": "Female",
-      "nature": "Serious",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Intimidate",
-      "moves": [
-        "Wrap",
-        "Leer",
-        "Poison Sting",
-        "Bite"
-      ],
-      "met_location": "Location #104",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 9
     }
   ],
   "graveyard": [],
@@ -298,7 +294,7 @@
       },
       {
         "name": "Rare Candy",
-        "quantity": 43
+        "quantity": 74
       }
     ],
     "tms_hms": [
@@ -316,10 +312,6 @@
       },
       {
         "name": "TM05",
-        "quantity": 1
-      },
-      {
-        "name": "TM03",
         "quantity": 1
       }
     ],
@@ -361,7 +353,7 @@
       },
       {
         "name": "Repel",
-        "quantity": 6
+        "quantity": 3
       },
       {
         "name": "Potion",
@@ -375,9 +367,7 @@
     "new_pc_members": [],
     "possible_deaths": [],
     "badge_changes": [],
-    "item_changes": [
-      "Repel: +3."
-    ]
+    "item_changes": []
   },
   "notes_for_moni": [
     "Party atualizada após save."

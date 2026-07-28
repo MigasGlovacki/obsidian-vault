@@ -1,81 +1,222 @@
 {
   "run": "MoniLocke Fire Red",
-  "updated_at": "2026-07-27T23:27:35-03:00",
+  "updated_at": "2026-07-27T22:39:27-03:00",
   "game": "Pokemon Fire Red",
   "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
   "parser_version": "1.1.0",
   "save_metadata": {
     "active_slot": 1,
-    "save_counter": 38
+    "save_counter": 30
   },
   "progress": {
     "location": "Cerulean City",
-    "last_badge": "Cascade",
+    "last_badge": "Boulder",
     "badges": [
-      "Boulder",
-      "Cascade"
+      "Boulder"
     ],
-    "badge_count": 2,
-    "next_objective": "Obter a insígnia Thunder.",
+    "badge_count": 1,
+    "next_objective": "Obter a insígnia Cascade.",
     "level_cap": {
-      "leader": "Lt. Surge",
-      "gym": "Vermilion City",
+      "leader": "Misty",
+      "gym": "Cerulean City",
       "aces": [
-        "Raichu"
+        "Starmie"
       ],
-      "level": 24,
-      "display": "24 — Lt. Surge / Raichu Lv. 24"
+      "level": 21,
+      "display": "21 — Misty / Starmie Lv. 21"
     },
-    "play_time": "19:25:02",
-    "money": 4848,
-    "pokedex_seen": 40,
+    "play_time": "17:44:27",
+    "money": 3674,
+    "pokedex_seen": 35,
     "pokedex_owned": 16
   },
   "party": [
     {
-      "species": "Clefairy",
-      "nickname": "LUA",
+      "species": "Pikachu",
+      "nickname": "FAISCA",
       "level": 20,
-      "sex": "Male",
-      "nature": "Naughty",
+      "sex": "Female",
+      "nature": "Careful",
+      "hp_current": 45,
+      "hp_max": 45,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Static",
+      "moves": [
+        "Thunder Shock",
+        "Quick Attack",
+        "Thunder Wave",
+        "Double Team"
+      ],
+      "met_location": "Location #126",
+      "is_egg": false,
+      "slot": 1
+    },
+    {
+      "species": "Ivysaur",
+      "nickname": "LUMEN",
+      "level": 20,
+      "sex": "Female",
+      "nature": "Lonely",
       "hp_current": 59,
       "hp_max": 59,
       "status": "OK",
       "held_item": "",
+      "ability": "Overgrow",
+      "moves": [
+        "Vine Whip",
+        "Growl",
+        "Leech Seed",
+        "Sleep Powder"
+      ],
+      "met_location": "Location #88",
+      "is_egg": false,
+      "slot": 2
+    },
+    {
+      "species": "Magikarp",
+      "nickname": "MARE",
+      "level": 16,
+      "sex": "Male",
+      "nature": "Naughty",
+      "hp_current": 32,
+      "hp_max": 32,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Swift Swim",
+      "moves": [
+        "Splash",
+        "Tackle"
+      ],
+      "met_location": "Location #104",
+      "is_egg": false,
+      "slot": 3
+    },
+    {
+      "species": "Nidorino",
+      "nickname": "REGIS",
+      "level": 18,
+      "sex": "Male",
+      "nature": "Rash",
+      "hp_current": 51,
+      "hp_max": 51,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Poison Point",
+      "moves": [
+        "Peck",
+        "Poison Sting",
+        "Focus Energy",
+        "Double Kick"
+      ],
+      "met_location": "Location #103",
+      "is_egg": false,
+      "slot": 4
+    },
+    {
+      "species": "Butterfree",
+      "nickname": "VELA",
+      "level": 17,
+      "sex": "Male",
+      "nature": "Naive",
+      "hp_current": 51,
+      "hp_max": 51,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Compound Eyes",
+      "moves": [
+        "Confusion",
+        "String Shot",
+        "Poison Powder",
+        "Sleep Powder"
+      ],
+      "met_location": "Location #102",
+      "is_egg": false,
+      "slot": 5
+    },
+    {
+      "species": "Kadabra",
+      "nickname": "ORACULO",
+      "level": 16,
+      "sex": "Female",
+      "nature": "Quirky",
+      "hp_current": 38,
+      "hp_max": 38,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Synchronize",
+      "moves": [
+        "Teleport",
+        "Confusion"
+      ],
+      "met_location": "Location #124",
+      "is_egg": false,
+      "slot": 6
+    }
+  ],
+  "pc": [
+    {
+      "species": "Clefairy",
+      "nickname": "LUA",
+      "level": 10,
+      "sex": "Male",
+      "nature": "Naughty",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
+      "held_item": "",
       "ability": "Cute Charm",
       "moves": [
-        "Double Slap",
+        "Pound",
         "Growl",
-        "Follow Me",
+        "Encore",
         "Sing"
       ],
       "met_location": "Location #127",
       "is_egg": false,
+      "box": "BOX1",
       "slot": 1
     },
     {
       "species": "Oddish",
       "nickname": "TREVO",
-      "level": 20,
+      "level": 12,
       "sex": "Female",
       "nature": "Bashful",
-      "hp_current": 53,
-      "hp_max": 53,
-      "status": "OK",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
       "held_item": "",
       "ability": "Chlorophyll",
       "moves": [
         "Absorb",
-        "Sleep Powder",
-        "Poison Powder",
-        "Stun Spore"
+        "Sweet Scent"
       ],
       "met_location": "Location #125",
       "is_egg": false,
+      "box": "BOX1",
       "slot": 2
-    }
-  ],
-  "pc": [
+    },
+    {
+      "species": "Ekans",
+      "nickname": "SERPINA",
+      "level": 6,
+      "sex": "Female",
+      "nature": "Serious",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
+      "held_item": "",
+      "ability": "Intimidate",
+      "moves": [
+        "Wrap",
+        "Leer"
+      ],
+      "met_location": "Location #104",
+      "is_egg": false,
+      "box": "BOX1",
+      "slot": 3
+    },
     {
       "species": "Mankey",
       "nickname": "BRASA",
@@ -119,156 +260,6 @@
       "is_egg": false,
       "box": "VELORIO",
       "slot": 2
-    },
-    {
-      "species": "Ivysaur",
-      "nickname": "LUMEN",
-      "level": 20,
-      "sex": "Female",
-      "nature": "Lonely",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Overgrow",
-      "moves": [
-        "Vine Whip",
-        "Growl",
-        "Leech Seed",
-        "Sleep Powder"
-      ],
-      "met_location": "Location #88",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 3
-    },
-    {
-      "species": "Pikachu",
-      "nickname": "FAISCA",
-      "level": 20,
-      "sex": "Female",
-      "nature": "Careful",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Static",
-      "moves": [
-        "Thunder Shock",
-        "Quick Attack",
-        "Thunder Wave",
-        "Double Team"
-      ],
-      "met_location": "Location #126",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 4
-    },
-    {
-      "species": "Nidorino",
-      "nickname": "REGIS",
-      "level": 18,
-      "sex": "Male",
-      "nature": "Rash",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Poison Point",
-      "moves": [
-        "Peck",
-        "Poison Sting",
-        "Focus Energy",
-        "Double Kick"
-      ],
-      "met_location": "Location #103",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 5
-    },
-    {
-      "species": "Butterfree",
-      "nickname": "VELA",
-      "level": 17,
-      "sex": "Male",
-      "nature": "Naive",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Compound Eyes",
-      "moves": [
-        "Confusion",
-        "String Shot",
-        "Poison Powder",
-        "Sleep Powder"
-      ],
-      "met_location": "Location #102",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 6
-    },
-    {
-      "species": "Magikarp",
-      "nickname": "MARE",
-      "level": 16,
-      "sex": "Male",
-      "nature": "Naughty",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Swift Swim",
-      "moves": [
-        "Splash",
-        "Tackle"
-      ],
-      "met_location": "Location #104",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 7
-    },
-    {
-      "species": "Kadabra",
-      "nickname": "ORACULO",
-      "level": 16,
-      "sex": "Female",
-      "nature": "Quirky",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Synchronize",
-      "moves": [
-        "Teleport",
-        "Confusion"
-      ],
-      "met_location": "Location #124",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 8
-    },
-    {
-      "species": "Ekans",
-      "nickname": "SERPINA",
-      "level": 19,
-      "sex": "Female",
-      "nature": "Serious",
-      "hp_current": null,
-      "hp_max": null,
-      "status": "",
-      "held_item": "",
-      "ability": "Intimidate",
-      "moves": [
-        "Wrap",
-        "Leer",
-        "Poison Sting",
-        "Bite"
-      ],
-      "met_location": "Location #104",
-      "is_egg": false,
-      "box": "VELORIO",
-      "slot": 9
     }
   ],
   "graveyard": [],
@@ -298,7 +289,7 @@
       },
       {
         "name": "Rare Candy",
-        "quantity": 43
+        "quantity": 34
       }
     ],
     "tms_hms": [
@@ -316,10 +307,6 @@
       },
       {
         "name": "TM05",
-        "quantity": 1
-      },
-      {
-        "name": "TM03",
         "quantity": 1
       }
     ],
@@ -361,11 +348,41 @@
       },
       {
         "name": "Repel",
-        "quantity": 6
+        "quantity": 3
       },
       {
         "name": "Potion",
         "quantity": 1,
+        "source": "PC"
+      },
+      {
+        "name": "Rare Candy",
+        "quantity": 65486,
+        "source": "PC"
+      },
+      {
+        "name": "Rare Candy",
+        "quantity": 0,
+        "source": "PC"
+      },
+      {
+        "name": "Rare Candy",
+        "quantity": 0,
+        "source": "PC"
+      },
+      {
+        "name": "Rare Candy",
+        "quantity": 0,
+        "source": "PC"
+      },
+      {
+        "name": "Rare Candy",
+        "quantity": 0,
+        "source": "PC"
+      },
+      {
+        "name": "Rare Candy",
+        "quantity": 0,
         "source": "PC"
       }
     ]
@@ -375,9 +392,7 @@
     "new_pc_members": [],
     "possible_deaths": [],
     "badge_changes": [],
-    "item_changes": [
-      "Repel: +3."
-    ]
+    "item_changes": []
   },
   "notes_for_moni": [
     "Party atualizada após save."

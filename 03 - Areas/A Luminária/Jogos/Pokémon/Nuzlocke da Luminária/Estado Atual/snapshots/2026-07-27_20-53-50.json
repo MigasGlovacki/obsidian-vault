@@ -1,0 +1,285 @@
+{
+  "run": "MoniLocke Fire Red",
+  "updated_at": "2026-07-27T20:53:50-03:00",
+  "game": "Pokemon Fire Red",
+  "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
+  "parser_version": "1.1.0",
+  "save_metadata": {
+    "active_slot": 1,
+    "save_counter": 20
+  },
+  "progress": {
+    "location": "Mt Moon 1 F",
+    "last_badge": "Boulder",
+    "badges": [
+      "Boulder"
+    ],
+    "badge_count": 1,
+    "next_objective": "Obter a insígnia Cascade.",
+    "level_cap": {
+      "leader": "Misty",
+      "gym": "Cerulean City",
+      "aces": [
+        "Starmie"
+      ],
+      "level": 21,
+      "display": "21 — Misty / Starmie Lv. 21"
+    },
+    "play_time": "10:59:10",
+    "money": 3774,
+    "pokedex_seen": 26,
+    "pokedex_owned": 11
+  },
+  "party": [
+    {
+      "species": "Magikarp",
+      "nickname": "MARE",
+      "level": 10,
+      "sex": "Male",
+      "nature": "Naughty",
+      "hp_current": 24,
+      "hp_max": 24,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Swift Swim",
+      "moves": [
+        "Splash"
+      ],
+      "met_location": "Location #104",
+      "is_egg": false,
+      "slot": 1
+    },
+    {
+      "species": "Ivysaur",
+      "nickname": "LUMEN",
+      "level": 16,
+      "sex": "Female",
+      "nature": "Lonely",
+      "hp_current": 49,
+      "hp_max": 49,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Overgrow",
+      "moves": [
+        "Vine Whip",
+        "Growl",
+        "Leech Seed",
+        "Sleep Powder"
+      ],
+      "met_location": "Location #88",
+      "is_egg": false,
+      "slot": 2
+    },
+    {
+      "species": "Pikachu",
+      "nickname": "FAISCA",
+      "level": 12,
+      "sex": "Female",
+      "nature": "Careful",
+      "hp_current": 31,
+      "hp_max": 31,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Static",
+      "moves": [
+        "Thunder Shock",
+        "Quick Attack",
+        "Thunder Wave",
+        "Tail Whip"
+      ],
+      "met_location": "Location #126",
+      "is_egg": false,
+      "slot": 3
+    },
+    {
+      "species": "Pidgey",
+      "nickname": "ARIA",
+      "level": 15,
+      "sex": "Male",
+      "nature": "Modest",
+      "hp_current": 37,
+      "hp_max": 37,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Keen Eye",
+      "moves": [
+        "Gust",
+        "Sand Attack",
+        "Quick Attack",
+        "Tackle"
+      ],
+      "met_location": "Location #101",
+      "is_egg": false,
+      "slot": 4
+    },
+    {
+      "species": "Nidoran♂",
+      "nickname": "REGIS",
+      "level": 7,
+      "sex": "Male",
+      "nature": "Rash",
+      "hp_current": 23,
+      "hp_max": 23,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Poison Point",
+      "moves": [
+        "Leer",
+        "Peck"
+      ],
+      "met_location": "Location #103",
+      "is_egg": false,
+      "slot": 5
+    },
+    {
+      "species": "Butterfree",
+      "nickname": "VELA",
+      "level": 10,
+      "sex": "Male",
+      "nature": "Naive",
+      "hp_current": 34,
+      "hp_max": 34,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Compound Eyes",
+      "moves": [
+        "Confusion",
+        "String Shot",
+        "Harden",
+        "Tackle"
+      ],
+      "met_location": "Location #102",
+      "is_egg": false,
+      "slot": 6
+    }
+  ],
+  "pc": [
+    {
+      "species": "Clefairy",
+      "nickname": "LUA",
+      "level": 10,
+      "sex": "Male",
+      "nature": "Naughty",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
+      "held_item": "",
+      "ability": "Cute Charm",
+      "moves": [
+        "Pound",
+        "Growl",
+        "Encore",
+        "Sing"
+      ],
+      "met_location": "Location #127",
+      "is_egg": false,
+      "box": "BOX1",
+      "slot": 1
+    },
+    {
+      "species": "Mankey",
+      "nickname": "BRASA",
+      "level": 12,
+      "sex": "Female",
+      "nature": "Impish",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
+      "held_item": "",
+      "ability": "Vital Spirit",
+      "moves": [
+        "Scratch",
+        "Leer",
+        "Low Kick",
+        "Karate Chop"
+      ],
+      "met_location": "Location #122",
+      "is_egg": false,
+      "box": "VELORIO",
+      "slot": 1
+    }
+  ],
+  "graveyard": [],
+  "items": {
+    "balls": [
+      {
+        "name": "Poké Ball",
+        "quantity": 7
+      }
+    ],
+    "healing": [
+      {
+        "name": "Potion",
+        "quantity": 2
+      },
+      {
+        "name": "Antidote",
+        "quantity": 3
+      },
+      {
+        "name": "Paralyze Heal",
+        "quantity": 3
+      }
+    ],
+    "tms_hms": [
+      {
+        "name": "TM39",
+        "quantity": 1
+      },
+      {
+        "name": "TM09",
+        "quantity": 1
+      }
+    ],
+    "key_items": [
+      {
+        "name": "Teachy Tv",
+        "quantity": 1
+      },
+      {
+        "name": "TM Case",
+        "quantity": 1
+      }
+    ],
+    "berries": [],
+    "other": [
+      {
+        "name": "Escape Rope",
+        "quantity": 1
+      },
+      {
+        "name": "Star Piece",
+        "quantity": 1
+      },
+      {
+        "name": "Potion",
+        "quantity": 1,
+        "source": "PC"
+      }
+    ]
+  },
+  "recent_changes": {
+    "new_party_members": [
+      "Novo Pokémon detectado na party: LUMEN (Ivysaur)."
+    ],
+    "new_pc_members": [
+      "Novo Pokémon detectado em BOX1: LUA (Clefairy)."
+    ],
+    "possible_deaths": [],
+    "badge_changes": [],
+    "item_changes": [
+      "Paralyze Heal: +1.",
+      "Poké Ball: -1.",
+      "Star Piece: +1.",
+      "TM09: +1."
+    ]
+  },
+  "notes_for_moni": [
+    "Party atualizada após save.",
+    "Novo Pokémon detectado na party.",
+    "Novo Pokémon detectado no PC."
+  ],
+  "warnings": [
+    "HP e status dos Pokémon no PC não existem no formato BoxPokemon; foram exportados vazios/null."
+  ]
+}

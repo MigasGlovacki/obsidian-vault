@@ -1,0 +1,324 @@
+{
+  "run": "MoniLocke Fire Red",
+  "updated_at": "2026-07-27T21:39:31-03:00",
+  "game": "Pokemon Fire Red",
+  "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
+  "parser_version": "1.1.0",
+  "save_metadata": {
+    "active_slot": 2,
+    "save_counter": 25
+  },
+  "progress": {
+    "location": "Route24",
+    "last_badge": "Boulder",
+    "badges": [
+      "Boulder"
+    ],
+    "badge_count": 1,
+    "next_objective": "Obter a insígnia Cascade.",
+    "level_cap": {
+      "leader": "Misty",
+      "gym": "Cerulean City",
+      "aces": [
+        "Starmie"
+      ],
+      "level": 21,
+      "display": "21 — Misty / Starmie Lv. 21"
+    },
+    "play_time": "15:26:45",
+    "money": 7782,
+    "pokedex_seen": 33,
+    "pokedex_owned": 13
+  },
+  "party": [
+    {
+      "species": "Butterfree",
+      "nickname": "VELA",
+      "level": 16,
+      "sex": "Male",
+      "nature": "Naive",
+      "hp_current": 38,
+      "hp_max": 49,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Compound Eyes",
+      "moves": [
+        "Confusion",
+        "String Shot",
+        "Poison Powder",
+        "Sleep Powder"
+      ],
+      "met_location": "Location #102",
+      "is_egg": false,
+      "slot": 1
+    },
+    {
+      "species": "Ivysaur",
+      "nickname": "LUMEN",
+      "level": 18,
+      "sex": "Female",
+      "nature": "Lonely",
+      "hp_current": 54,
+      "hp_max": 54,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Overgrow",
+      "moves": [
+        "Vine Whip",
+        "Growl",
+        "Leech Seed",
+        "Sleep Powder"
+      ],
+      "met_location": "Location #88",
+      "is_egg": false,
+      "slot": 2
+    },
+    {
+      "species": "Pikachu",
+      "nickname": "FAISCA",
+      "level": 13,
+      "sex": "Female",
+      "nature": "Careful",
+      "hp_current": 32,
+      "hp_max": 32,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Static",
+      "moves": [
+        "Thunder Shock",
+        "Quick Attack",
+        "Thunder Wave",
+        "Tail Whip"
+      ],
+      "met_location": "Location #126",
+      "is_egg": false,
+      "slot": 3
+    },
+    {
+      "species": "Nidorino",
+      "nickname": "REGIS",
+      "level": 18,
+      "sex": "Male",
+      "nature": "Rash",
+      "hp_current": 49,
+      "hp_max": 51,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Poison Point",
+      "moves": [
+        "Peck",
+        "Poison Sting",
+        "Focus Energy",
+        "Double Kick"
+      ],
+      "met_location": "Location #103",
+      "is_egg": false,
+      "slot": 4
+    },
+    {
+      "species": "Magikarp",
+      "nickname": "MARE",
+      "level": 11,
+      "sex": "Male",
+      "nature": "Naughty",
+      "hp_current": 25,
+      "hp_max": 25,
+      "status": "OK",
+      "held_item": "",
+      "ability": "Swift Swim",
+      "moves": [
+        "Splash"
+      ],
+      "met_location": "Location #104",
+      "is_egg": false,
+      "slot": 5
+    },
+    {
+      "species": "Abra",
+      "nickname": "ORACULO",
+      "level": 10,
+      "sex": "Female",
+      "nature": "Quirky",
+      "hp_current": 13,
+      "hp_max": 25,
+      "status": "Sleep (2)",
+      "held_item": "",
+      "ability": "Synchronize",
+      "moves": [
+        "Teleport"
+      ],
+      "met_location": "Location #124",
+      "is_egg": false,
+      "slot": 6
+    }
+  ],
+  "pc": [
+    {
+      "species": "Clefairy",
+      "nickname": "LUA",
+      "level": 10,
+      "sex": "Male",
+      "nature": "Naughty",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
+      "held_item": "",
+      "ability": "Cute Charm",
+      "moves": [
+        "Pound",
+        "Growl",
+        "Encore",
+        "Sing"
+      ],
+      "met_location": "Location #127",
+      "is_egg": false,
+      "box": "BOX1",
+      "slot": 1
+    },
+    {
+      "species": "Mankey",
+      "nickname": "BRASA",
+      "level": 12,
+      "sex": "Female",
+      "nature": "Impish",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
+      "held_item": "",
+      "ability": "Vital Spirit",
+      "moves": [
+        "Scratch",
+        "Leer",
+        "Low Kick",
+        "Karate Chop"
+      ],
+      "met_location": "Location #122",
+      "is_egg": false,
+      "box": "VELORIO",
+      "slot": 1
+    },
+    {
+      "species": "Pidgey",
+      "nickname": "ARIA",
+      "level": 15,
+      "sex": "Male",
+      "nature": "Modest",
+      "hp_current": null,
+      "hp_max": null,
+      "status": "",
+      "held_item": "",
+      "ability": "Keen Eye",
+      "moves": [
+        "Gust",
+        "Sand Attack",
+        "Quick Attack",
+        "Tackle"
+      ],
+      "met_location": "Location #101",
+      "is_egg": false,
+      "box": "VELORIO",
+      "slot": 2
+    }
+  ],
+  "graveyard": [],
+  "items": {
+    "balls": [
+      {
+        "name": "Poké Ball",
+        "quantity": 3
+      }
+    ],
+    "healing": [
+      {
+        "name": "Antidote",
+        "quantity": 4
+      },
+      {
+        "name": "Paralyze Heal",
+        "quantity": 3
+      },
+      {
+        "name": "Revive",
+        "quantity": 1
+      }
+    ],
+    "tms_hms": [
+      {
+        "name": "TM39",
+        "quantity": 1
+      },
+      {
+        "name": "TM09",
+        "quantity": 1
+      },
+      {
+        "name": "TM46",
+        "quantity": 1
+      },
+      {
+        "name": "TM05",
+        "quantity": 1
+      }
+    ],
+    "key_items": [
+      {
+        "name": "Teachy Tv",
+        "quantity": 1
+      },
+      {
+        "name": "TM Case",
+        "quantity": 1
+      },
+      {
+        "name": "Dome Fossil",
+        "quantity": 1
+      },
+      {
+        "name": "Fame Checker",
+        "quantity": 1
+      }
+    ],
+    "berries": [],
+    "other": [
+      {
+        "name": "Escape Rope",
+        "quantity": 1
+      },
+      {
+        "name": "Star Piece",
+        "quantity": 1
+      },
+      {
+        "name": "Moon Stone",
+        "quantity": 2
+      },
+      {
+        "name": "Nugget",
+        "quantity": 1
+      },
+      {
+        "name": "Potion",
+        "quantity": 1,
+        "source": "PC"
+      }
+    ]
+  },
+  "recent_changes": {
+    "new_party_members": [
+      "Novo Pokémon detectado na party: ORACULO (Abra)."
+    ],
+    "new_pc_members": [],
+    "possible_deaths": [],
+    "badge_changes": [],
+    "item_changes": [
+      "Poké Ball: -4."
+    ]
+  },
+  "notes_for_moni": [
+    "Party atualizada após save.",
+    "Novo Pokémon detectado na party."
+  ],
+  "warnings": [
+    "HP e status dos Pokémon no PC não existem no formato BoxPokemon; foram exportados vazios/null."
+  ]
+}

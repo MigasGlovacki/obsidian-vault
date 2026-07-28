@@ -1,15 +1,15 @@
 {
   "run": "MoniLocke Fire Red",
-  "updated_at": "2026-07-27T23:27:35-03:00",
+  "updated_at": "2026-07-27T23:26:33-03:00",
   "game": "Pokemon Fire Red",
   "source_save": "C:\\Users\\migas\\Área de Trabalho\\Roms\\Official roms\\Pokemon - FireRed Version (USA).sav",
   "parser_version": "1.1.0",
   "save_metadata": {
-    "active_slot": 1,
-    "save_counter": 38
+    "active_slot": 2,
+    "save_counter": 37
   },
   "progress": {
-    "location": "Cerulean City",
+    "location": "Cerulean City  Pokemon Center 1 F",
     "last_badge": "Cascade",
     "badges": [
       "Boulder",
@@ -26,8 +26,8 @@
       "level": 24,
       "display": "24 — Lt. Surge / Raichu Lv. 24"
     },
-    "play_time": "19:25:02",
-    "money": 4848,
+    "play_time": "19:22:12",
+    "money": 5898,
     "pokedex_seen": 40,
     "pokedex_owned": 16
   },
@@ -38,7 +38,7 @@
       "level": 20,
       "sex": "Male",
       "nature": "Naughty",
-      "hp_current": 59,
+      "hp_current": 12,
       "hp_max": 59,
       "status": "OK",
       "held_item": "",
@@ -59,7 +59,7 @@
       "level": 20,
       "sex": "Female",
       "nature": "Bashful",
-      "hp_current": 53,
+      "hp_current": 6,
       "hp_max": 53,
       "status": "OK",
       "held_item": "",
@@ -361,7 +361,7 @@
       },
       {
         "name": "Repel",
-        "quantity": 6
+        "quantity": 3
       },
       {
         "name": "Potion",
@@ -375,9 +375,7 @@
     "new_pc_members": [],
     "possible_deaths": [],
     "badge_changes": [],
-    "item_changes": [
-      "Repel: +3."
-    ]
+    "item_changes": []
   },
   "notes_for_moni": [
     "Party atualizada após save."
