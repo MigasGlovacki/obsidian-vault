@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner/Guia de conquistas do Ghostrunner.md",
+                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guia de conquistas do Ghostrunner"
+              "title": "Biblioteca Steam - platinas e jogos"
             }
           }
         ],
@@ -99,13 +99,11 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945,
-    "collapsed": true
+    "width": 293.51103591918945
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -183,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner/Guia de conquistas do Ghostrunner.md",
+                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Guia de conquistas do Ghostrunner"
+              "title": "Sumário de Biblioteca Steam - platinas e jogos"
             }
           }
         ],
@@ -197,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,9 +211,9 @@
   },
   "active": "fafaef6dcb3dc5c1",
   "lastOpenFiles": [
-    "03 - Areas/A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
+    "02 - Projetos/Documentario Skyblock portfolio.md",
     "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner/Guia de conquistas do Ghostrunner.md",
-    "00 - Caixa de entrada/Sem título.md",
+    "03 - Areas/A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
     "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner",
     "03 - Areas/A Luminária/Night-talks/README.md",
     "03 - Areas/A Luminária/Memórias compartilhadas.md",
