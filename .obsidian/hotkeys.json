@@ -17,5 +17,13 @@
       "key": "D"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ]
 }

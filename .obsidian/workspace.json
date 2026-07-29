@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3966f36e7e256840",
+        "id": "eeba95c312e90408",
         "type": "tabs",
         "children": [
           {
-            "id": "b5227cca08f9742d",
+            "id": "2579847aab933261",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner/Guia de conquistas do Ghostrunner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guia de conquistas do Ghostrunner"
+            }
+          },
+          {
+            "id": "fafaef6dcb3dc5c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner/Guia de conquistas do Ghostrunner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guia de conquistas do Ghostrunner"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"title\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +99,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,21 +148,6 @@
             }
           },
           {
-            "id": "a3d3b169e9e62fd9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "03 - Projetos/Shiori Knowledge.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Shiori Knowledge"
-            }
-          },
-          {
             "id": "b18390283a060fa6",
             "type": "leaf",
             "state": {
@@ -154,7 +159,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -170,13 +175,28 @@
               "icon": "lucide-archive",
               "title": "Todas as propriedades"
             }
+          },
+          {
+            "id": "ec0085ee7b65a191",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner/Guia de conquistas do Ghostrunner.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Guia de conquistas do Ghostrunner"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 558.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5227cca08f9742d",
+  "active": "ec0085ee7b65a191",
   "lastOpenFiles": [
+    "03 - Areas/A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
+    "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner/Guia de conquistas do Ghostrunner.md",
+    "00 - Caixa de entrada/Sem título.md",
+    "03 - Areas/A Luminária/Conquistas compartilhadas/Guia de conquistas do Ghostrunner",
+    "03 - Areas/A Luminária/Night-talks/README.md",
+    "03 - Areas/A Luminária/Memórias compartilhadas.md",
+    "03 - Areas/A Luminária/Projetos da Luminária.md",
+    "03 - Areas/A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
+    "03 - Areas/A Luminária/Infraestrutura/Atualização segura do backend Hermes Docker.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/Estado Atual/estado-atual.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/Estado Atual/snapshots/2026-07-27_23-27-35.json",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/Estado Atual/snapshots/2026-07-27_23-26-33.json",
@@ -202,18 +231,14 @@
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/Estado Atual/snapshots/2026-07-27_23-05-27.json",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/Estado Atual/snapshots/2026-07-27_23-03-42.json",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/Estado Atual/snapshots/2026-07-27_23-00-46.json",
-    "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/Estado Atual/snapshots/2026-07-27_22-58-33.json",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/00 - Regras.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/03 - Diário da Jornada.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/Estado Atual/README.md",
-    "03 - Areas/A Luminária/Projetos da Luminária.md",
-    "03 - Areas/A Luminária/Memórias compartilhadas.md",
     "03 - Areas/A Luminária/00 - Início.md",
     "02 - Projetos/Renda Online.md",
     "03 - Areas/A Luminária/Jogos/Crimson Desert/Dicas essenciais para voltar ao jogo.md",
     "05 - Arquivos/teste-sync.md",
     "03 - Areas/Gostos de anime.md",
-    "00 - Caixa de entrada/Sem título.md",
     "00 - Caixa de entrada/Sem título 1.md",
     "00 - Caixa de entrada/Stoneblock 3.md",
     "03 - Areas/A Luminária/Leituras compartilhadas/Lotus, Violet, and Cherry Blossoms/Capítulo 03 - Violet.md",
@@ -222,11 +247,7 @@
     "03 - Areas/A Luminária/Sínteses semanais/README.md",
     "03 - Areas/A Luminária/Sínteses semanais/Síntese semanal - 2026-07-15.md",
     "03 - Areas/A Luminária/Mini-vault da Moni/Diário/Sonho-diário - 2026-07-19.md",
-    "03 - Areas/A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/03-viridian-forest-pewter.md",
-    "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/02-route-1-viridian-retorno.md",
-    "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/AGENT_GUIDE.md",
-    "03 - Areas/A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.47.15.png",
     "Attachments/2026-05-14_20.45.33.png",
