@@ -314,6 +314,54 @@ Verificado em 2026-07-13:
 
 Smoke test feito: criar job descartável para `2026-07-14T08:00:00+00:00`, confirmar `scheduled`, remover, relistar. Funcionou.
 
+## Ponte SSH Windows ↔ VPS (revisado em 29/07/2026)
+
+Acesso direto ao PC/Obsidian usa o túnel reverso abaixo; ele **não** é o mesmo túnel local do Dashboard (`-L 9119`).
+
+```text
+Windows → VPS: -R 172.17.0.1:22022:127.0.0.1:22
+Container/Hermes → Windows: ssh joao-win
+```
+
+### Automação atual
+
+- Serviço Windows `sshd`: `Automatic` e com recuperação configurada. Se cair, o Windows tenta reiniciá-lo após **5 s**, **15 s** e **60 s**.
+- Tarefa agendada: `Moni SSH Tunnel - teste semanal`, no logon do usuário `migas`.
+- A tarefa chama diretamente:
+
+```text
+powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File C:\Users\migas\Start-MoniTunnel.ps1
+```
+
+- O script espera a porta local `127.0.0.1:22`, impede instâncias duplicadas com mutex e mantém o túnel vivo com keepalives/reconexão.
+- Backup da definição anterior da tarefa: `C:\Users\migas\MoniTunnel-Backups\`.
+
+### Checagem rápida depois de reinício ou queda de luz
+
+No PowerShell do PC:
+
+```powershell
+Get-Service sshd
+Get-ScheduledTaskInfo -TaskName 'Moni SSH Tunnel - teste semanal'
+Get-CimInstance Win32_Process -Filter "Name='ssh.exe'" |
+  Where-Object { $_.CommandLine -match '-R 172\.17\.0\.1:22022:127\.0\.0\.1:22' } |
+  Select-Object ProcessId, CommandLine
+```
+
+Esperado: `sshd` como `Running` e um `ssh.exe` com o argumento `-R ...:22022...`.
+
+Se o processo reverso não aparecer mesmo com `sshd` ativo, iniciar a tarefa:
+
+```powershell
+Start-ScheduledTask -TaskName 'Moni SSH Tunnel - teste semanal'
+```
+
+Do Hermes/VPS, validar com:
+
+```bash
+ssh joao-win "echo tunnel-ok && whoami && hostname"
+```
+
 ## O que fazer se quebrar no futuro
 
 ### Desktop não conecta
