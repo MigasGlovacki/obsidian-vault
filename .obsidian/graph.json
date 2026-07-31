@@ -8,14 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"03 - Areas/A Luminária\"  ",
+      "query": "tag:#conquistas",
       "color": {
         "a": 1,
-        "rgb": 65310
+        "rgb": 8191716
+      }
+    },
+    {
+      "query": "tag: #jogos ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#leituras-compartilhadas",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -25,6 +39,6 @@
   "repelStrength": 14.3317254174397,
   "linkStrength": 0.854322820037106,
   "linkDistance": 309,
-  "scale": 1.1365121527862752,
+  "scale": 0.6132813745246561,
   "close": true
 }

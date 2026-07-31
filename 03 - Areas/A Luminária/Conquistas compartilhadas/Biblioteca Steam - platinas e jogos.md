@@ -6,6 +6,7 @@ tags:
   - steam
   - platinas
   - conquistas-compartilhadas
+  - conquistas
 ---
 
 # Biblioteca Steam - platinas e jogos

@@ -11,7 +11,7 @@ created: 2026-07-20
 updated: 2026-07-23
 ---
 
-# Crimson Desert — Dicas essenciais para voltar ao jogo
+# [[Crimson Desert]] — Dicas essenciais para voltar ao jogo
 
 Resumo prático dos guias da Steam **“Things I Wish I Had Known When I Started Playing”** e **“Guide to Mechanics and Tips/Tricks for Beginners and Veterans”**, reorganizado para uma volta mais tranquila ao jogo.
 

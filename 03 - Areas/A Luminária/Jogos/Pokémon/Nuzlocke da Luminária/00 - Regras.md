@@ -1,4 +1,4 @@
-﻿---
+---
 title: Regras do Nuzlocke da Luminária
 created: 2026-07-17
 tags:
@@ -8,7 +8,7 @@ tags:
   - luminaria
 ---
 
-# Regras do Nuzlocke da Luminária
+# Regras do Nuzlocke da [[Luminária]]
 
 Regras provisórias para a run de **Pokémon Fire Red** do João com a Moni.
 

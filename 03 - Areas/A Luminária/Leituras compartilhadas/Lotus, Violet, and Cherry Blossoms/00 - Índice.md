@@ -2,8 +2,8 @@
 
 ## Dados
 
-- **Título:** Lotus, Violet, and Cherry Blossoms
-- **Fandom:** Persona 5; Persona Series; Persona 5: The Royal; Persona 5 Royal
+- **Título:** [[Lotus, Violet, and Cherry Blossoms]]
+- **Fandom:** Persona 5; Persona Series; Persona 5: The Royal; [[Persona 5 Royal]]
 - **Autor(a):** Deathmanstratos
 - **Origem/link:** https://archiveofourown.org/works/24211450/chapters/58325074
 - **Rating:** Teen And Up Audiences

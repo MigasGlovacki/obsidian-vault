@@ -1,11 +1,13 @@
 ---
-doc_id: "readme"
-game_version: "Pokemon FireRed (USA) GBA v1.0"
+doc_id: readme
+game_version: Pokemon FireRed (USA) GBA v1.0
 tags:
-  - "index"
-  - "firered"
-  - "ai-guide"
-source_snapshot: "df4449a27cd78dd747ce269e47d3ab4a0149d8f4"
+  - index
+  - firered
+  - ai-guide
+  - jogos
+  - pokemon
+source_snapshot: df4449a27cd78dd747ce269e47d3ab4a0149d8f4
 ---
 
 # Pokémon FireRed AI Guide

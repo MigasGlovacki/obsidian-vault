@@ -1,3 +1,11 @@
+---
+tags:
+  - documentario
+  - roteiro
+  - portfolio
+  - minecraft
+---
+
 # MINI DOCUMENTARY - 100 Days in Skyblock
 
 **Duração:** 3~5 minutos
@@ -8,17 +16,15 @@
 
 ### 🎥 Take (PT-BR)
 
-- Fade in.
-- Replay Mod mostrando a ilha COMPLETA (resultado final).
-- Câmera vindo de longe lentamente.
-- Corte para vários takes rápidos:
-    - casa
-    - mob farm
-    - plantação
-    - árvore
-    - ponte
-
-- Música cinematográfica começando.
+- [ ] Fade in.
+- [x] Replay Mod mostrando a ilha COMPLETA (resultado final).
+- [x] Câmera vindo de longe lentamente.
+- [x] Corte para vários takes rápidos:
+    - [x] casa
+    - [x] plantação
+    - [x] árvore
+    - [x] ponte
+- [ ] Música cinematográfica começando.
 
 
 ### 🎙️ Narração (EN)
@@ -49,13 +55,14 @@
 
 ### 🎥 Take
 
-- Corte seco para Day 1.
-- Mostrar a ilha original.
-- Replay orbitando lentamente.
-- Zoom na árvore.
-- Zoom no baú.
+- [x] Corte seco para Day 1.
+- [x] Mostrar a ilha original.
+- [x] Replay orbitando lentamente.
+- [x] Zoom na árvore.
+- [x] Zoom no baú.
 
 ### 🎙️ Narração
+
 > This was everything I owned.
 > 
 > One tree.
@@ -76,16 +83,16 @@
 
 Mostrar:
 
-- abrindo baú
-- pegando lava
-- colocando água
-- criando cobblestone generator
-
-Close na água encontrando a lava.
+- [x] abrindo baú
+- [x] pegando lava
+- [x] colocando água
+- [x] criando cobblestone generator
+- [x] Close na água encontrando a lava.
 
 Som ambiente.
 
 ### 🎙️ Narração
+
 > Before I could think about expanding...
 > 
 > I needed something much more important.
@@ -100,13 +107,12 @@ Som ambiente.
 
 ### 🎥 Take
 
-Timelapse.
-
-Replay Mod acompanhando você colocando blocos.
-
-Mostrar a ilha crescendo.
+- [x] Timelapse.
+- [x] Replay Mod acompanhando você colocando blocos.
+- [x] Mostrar a ilha crescendo.
 
 ### 🎙️ Narração
+
 > Progress in Skyblock isn't measured in chunks explored.
 > 
 > It's measured...
@@ -125,14 +131,10 @@ Mostrar a ilha crescendo.
 
 Mostrar:
 
-- quase caindo
-    
-- quebrando bloco errado
-    
-- mob aparecendo
-    
-- momento engraçado
-    
+- [ ] quase caindo
+- [ ] quebrando bloco errado
+- [ ] mob aparecendo
+- [ ] momento engraçado
 
 Freeze.
 
@@ -141,6 +143,7 @@ Zoom.
 Filtro vermelho.
 
 ### 🎙️ Narração
+
 > Of course...
 > 
 > Skyblock has a way of reminding you...
@@ -160,20 +163,18 @@ _(Nesse momento você pode colocar o meme, record scratch, zoom, etc.)_
 # GATHERING RESOURCES
 
 ### 🎥 Take
+
 Mostrar:
 
-- árvores crescendo
-    
-- minerando
-    
-- coletando madeira
-    
-- crafting
-    
+- [ ] árvores crescendo
+- [ ] minerando
+- [ ] coletando madeira
+- [ ] crafting
 
 Replay mostrando tudo acontecendo.
 
 ### 🎙️ Narração
+
 > Little by little...
 > 
 > the island stopped feeling empty.
@@ -193,44 +194,21 @@ Replay mostrando tudo acontecendo.
 # BUILDING
 
 ### 🎥 Take
-Timelapse.
 
 Replay Mod.
 
-Drone shot.
-
-Mostrar construção da casa.
-
-Mostrar decoração.
+- [ ] Timelapse.
+- [ ] Drone shot.
+- [ ] Mostrar construção da casa.
+- [ ] Mostrar decoração.
 
 ### 🎙️ Narração
+
 > Once survival was no longer a daily struggle...
 > 
 > I finally had the freedom to build something that wasn't just practical...
 > 
 > but beautiful.
-
----
-
-# MOB FARM
-
-### 🎥 Take
-Mostrar construção.
-
-Depois mobs spawnando.
-
-Talvez uma flecha acertando.
-
-### 🎙️ Narração
-> Resources eventually became renewable.
-> 
-> Which meant...
-> 
-> it was time to automate.
-> 
-> A simple mob farm transformed dangerous nights...
-> 
-> into valuable opportunities.
 
 ---
 
@@ -241,24 +219,17 @@ Música aumenta.
 
 Mostrar:
 
-- ilha inteira
-    
-- árvores
-    
-- plantações
-    
-- casa
-    
-- baús
-    
-- mob farm
-    
-- sunset
-    
+- [ ] ilha inteira
+- [ ] árvores
+- [ ] plantações
+- [ ] casa
+- [ ] baús
+- [ ] sunset
 
 Vários takes cinematográficos.
 
 ### 🎙️ Narração
+
 > One hundred days ago...
 > 
 > this place was nothing more than a lonely patch of dirt...
@@ -282,6 +253,7 @@ Vários takes cinematográficos.
 # ENDING
 
 ### 🎥 Take
+
 Replay Mod.
 
 A câmera sobe lentamente.
@@ -324,3 +296,5 @@ Você começou mostrando a ilha pronta.
 Agora, no final, faz exatamente o mesmo movimento de câmera... só que um pouco mais longo. O espectador percebe, mesmo inconscientemente, que voltou ao ponto de partida.
 
 Isso dá uma sensação de conclusão muito forte e faz o vídeo parecer muito mais planejado do que simplesmente "mostrar gameplay". É um detalhe simples, mas que passa uma imagem de editor que pensa na narrativa como um todo, e não apenas nos efeitos.
+
+

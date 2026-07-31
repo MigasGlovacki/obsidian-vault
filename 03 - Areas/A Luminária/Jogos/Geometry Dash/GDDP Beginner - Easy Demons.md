@@ -8,7 +8,7 @@ fonte: "GDDP List — tier Beginner"
 consultado_em: 2026-07-20
 ---
 
-# GDDP Beginner — Easy Demons
+# [[GDDP]] Beginner — Easy Demons
 
 Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem transformar isso em cobrança. A ideia é usar o tier Beginner do GDDP como treino guiado: escolher uma fase pelo tipo de habilidade que quero lapidar, jogar um pouco, e ir subindo de tier com calma.
 
