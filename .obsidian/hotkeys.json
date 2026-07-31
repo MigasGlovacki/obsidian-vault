@@ -18,12 +18,13 @@
     }
   ],
   "switcher:open": [],
-  "outline:open": [
+  "outline:open-for-current": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "I"
+      "key": "J"
     }
-  ]
+  ],
+  "command-palette:open": []
 }
