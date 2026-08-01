@@ -6,6 +6,7 @@
       {
         "id": "eeba95c312e90408",
         "type": "tabs",
+        "dimension": 78.3499122293739,
         "children": [
           {
             "id": "ebe781fbfdbde83b",
@@ -41,16 +42,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Arquivos/Ficha de personagens João e Monika.md",
+                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ficha de personagens João e Monika"
+              "title": "Guia de conquistas do Crimson Desert"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "adae8b048cb743bb",
+        "type": "tabs",
+        "dimension": 21.65008777062609,
+        "children": [
+          {
+            "id": "40d97d48f351e2d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +95,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "crims"
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -119,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.1167793273926
+    "width": 433.1167793273926,
+    "collapsed": true
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -237,14 +261,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10c90faf231d4cdf",
+  "active": "40d97d48f351e2d2",
   "lastOpenFiles": [
+    "05 - Arquivos/Ficha de personagens João e Monika.md",
     "05 - Arquivos/Digital Circus.md",
     "02 - Projetos/Lista de Capitulos A Different Vision.md",
     "04 - Referencias/Sword Art Online.md",
     "04 - Referencias/Ghostrunner.md",
     "02 - Projetos/GDDP.md",
-    "05 - Arquivos/Ficha de personagens João e Monika.md",
     "02 - Projetos/Monika Aizawa.md",
     "03 - Areas/Gostos de anime.md",
     "02 - Projetos/Renda Online.md",
