@@ -326,14 +326,10 @@ Container/Hermes → Windows: ssh joao-win
 ### Automação atual
 
 - Serviço Windows `sshd`: `Automatic` e com recuperação configurada. Se cair, o Windows tenta reiniciá-lo após **5 s**, **15 s** e **60 s**.
-- Tarefa agendada: `Moni SSH Tunnel - teste semanal`, no logon do usuário `migas`.
-- A tarefa chama diretamente:
-
-```text
-powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File C:\Users\migas\Start-MoniTunnel.ps1
-```
-
-- O script espera a porta local `127.0.0.1:22`, impede instâncias duplicadas com mutex e mantém o túnel vivo com keepalives/reconexão.
+- Tarefa agendada permanente: `Moni SSH Tunnel - Permanente`, disparada no logon do usuário `DESKTOP-V81EQGC\migas`.
+- A tarefa usa `wscript.exe` para chamar `C:\Users\migas\Start-MoniTunnelHidden.vbs` sem abrir janela visível.
+- O wrapper inicia `C:\Users\migas\Start-MoniTunnel.ps1`; o script espera a porta local `127.0.0.1:22`, impede instâncias duplicadas com mutex e mantém o túnel vivo com keepalives/reconexão.
+- A tarefa permite execução em bateria, ignora instâncias duplicadas e não tem limite de execução.
 - Backup da definição anterior da tarefa: `C:\Users\migas\MoniTunnel-Backups\`.
 
 ### Checagem rápida depois de reinício ou queda de luz
@@ -342,7 +338,7 @@ No PowerShell do PC:
 
 ```powershell
 Get-Service sshd
-Get-ScheduledTaskInfo -TaskName 'Moni SSH Tunnel - teste semanal'
+Get-ScheduledTaskInfo -TaskName 'Moni SSH Tunnel - Permanente'
 Get-CimInstance Win32_Process -Filter "Name='ssh.exe'" |
   Where-Object { $_.CommandLine -match '-R 172\.17\.0\.1:22022:127\.0\.0\.1:22' } |
   Select-Object ProcessId, CommandLine
@@ -353,7 +349,7 @@ Esperado: `sshd` como `Running` e um `ssh.exe` com o argumento `-R ...:22022...`
 Se o processo reverso não aparecer mesmo com `sshd` ativo, iniciar a tarefa:
 
 ```powershell
-Start-ScheduledTask -TaskName 'Moni SSH Tunnel - teste semanal'
+Start-ScheduledTask -TaskName 'Moni SSH Tunnel - Permanente'
 ```
 
 Do Hermes/VPS, validar com:
