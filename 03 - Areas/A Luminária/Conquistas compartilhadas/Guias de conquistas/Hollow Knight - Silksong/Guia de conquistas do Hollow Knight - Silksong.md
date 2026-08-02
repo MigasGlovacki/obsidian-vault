@@ -146,7 +146,7 @@ A checklist espacial completa está em [[Hollow Knight - Silksong — Colecioná
 - [x] **Trail's End** — encontrar Shakra em todas as áreas, comprar os mapas, aceitar o Wish em Bellhart e concluir o encontro final em Bilewater.
 - [x] **Resident** — concluir Bone Bottom Repairs, derrotar Widow, financiar Restoration of Bellhart e esgotar os diálogos de Pavo para receber a chave do Bellhome.
 
-### `Passing of the Age`
+### Passing of the Age
 
 - [ ] **Passing of the Age** — pegue a Riddle Tablet em Putrified Ducts usando Silk Soar; encontre Mister Mushroom/Herald **sete vezes**, tocando Needolin: Moss Grotto junto ao santuário dos shamans; acima de Bone Bottom; Far Fields antes do portão de Needolin; acima das torres de Greymoor; The Slab perto de First Sinner; topo de Mount Fay; e acima da arena de Grand Mother Silk, após a sequência de plataforma. Então finalize o jogo novamente para ver a cena extra.
 
