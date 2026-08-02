@@ -1,4 +1,4 @@
-﻿---
+---
 title: Diário da Jornada
 created: 2026-07-17
 tags:
@@ -431,3 +431,12 @@ Equipe ao encerrar:
 - Itens relevantes: 14 Poké Balls, 43 Rare Candies normais, 2 Moon Stones, Dome Fossil e TM03.
 - Próxima retomada: sair de Cerulean rumo a Vermilion, reorganizar a equipe com cuidado e preparar o caminho para Lt. Surge. Cap: Lv. 24.
 - João encerrou para processar as perdas antes de continuar. Sem decisões impulsivas de reinício ou descarte da run.
+
+
+### Encerramento da MoniLocke Fire Red — arquivamento
+
+- João decidiu encerrar esta run aqui, em Cerulean City, depois da conquista da Cascade Badge.
+- A decisão não apaga a história da equipe: LUA e TREVO permaneceram vivas, mas a perda de LUMEN — a starter — tornou a continuidade emocionalmente pesada demais para esta jornada.
+- A run fica arquivada, não descartada. Suas regras, decisões e memórias podem voltar mais tarde numa versão revisada.
+- Próximo projeto compartilhado: uma hack de FireRed/LeafGreen com evoluções especiais facilitadas, jogada como uma jornada de completar a Pokédex juntos — um “100% Pokémon”, sem a pressão de substituir quem se foi.
+

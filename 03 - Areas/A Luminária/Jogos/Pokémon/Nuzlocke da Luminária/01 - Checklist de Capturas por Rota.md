@@ -1,4 +1,4 @@
-﻿---
+---
 title: Checklist de Capturas por Rota
 created: 2026-07-17
 tags:
