@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - geometry-dash
   - gddp
@@ -16,17 +16,23 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 ## Progresso
 
-- Concluídas: **3 / 29**
+- Concluídas: **4 / 29**
 - Próximo marco leve: **13 Easy Demons** do tier Beginner
-- Já feitas: **iS**, **Problematic**, **NothinG**
+- Já feitas: **iS**, **Problematic**, **NothinG** e **STARPUNK**
 
+## Sessão atual
+
+- **Fase atual:** Space Circles
+- **Foco:** Wave — microajustes, spam controlado e consistência em corredores.
+- **Objetivo da sessão:** transformar a wave em leitura e ritmo, não em reação por susto.
+- **Ao completar:** registrar a impressão do João e escolher a próxima fase conforme o que ele quiser desenvolver.
 ## Checklist do tier Beginner
 
 | Feita | Fase | Criador(es) | Foco do GDDP | O que isso treina na gameplay |
 |---|---|---|---|---|
 | [x] | iS | Grenate, Futurism & Tartofrez | Overall | Base geral de Easy Demon: leitura, consistência, troca de modos e controle de nervos sem gimmick muito pesado. |
 | [ ] | Speed Racer | ZenthicAlpha | Speed Changes | Adaptação a mudanças de velocidade; não clicar por reflexo antigo quando o ritmo muda. |
-| [ ] | STARPUNK | Ferdefunky | Nerve Control | Manter calma em partes longas/visuais, especialmente quando a run começa a ficar “boa demais para perder”. |
+| [x] | STARPUNK | Ferdefunky | Nerve Control | Manter calma em partes longas/visuais, especialmente quando a run começa a ficar “boa demais para perder”. |
 | [ ] | Space Circles | SUOMI | Wave | Wave básico de demon: spam controlado, microajustes e consistência em corredores. |
 | [ ] | Chromatique | StyphonTV | Swing | Familiaridade com swing: controlar inércia, corrigir altura e não exagerar no clique. |
 | [x] | Problematic | Dhafin | Wave | Wave clássico de Nine Circles: consistência, memória visual e controle de tensão em seções repetitivas. |
@@ -55,6 +61,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 | [ ] | Bloudeleuste | MrSpaghetti | Nerve Control | Controle emocional em partes que parecem simples até chegar longe; não “entregar” no final. |
 | [ ] | ZXCircleS | Wintter | Wave | Mais wave: consolidar consistência depois de Problematic/Space Circles. |
 
+## Registro das conclusões
+
+- **STARPUNK — positiva e tranquila.** João se divertiu com o flow da fase e destacou o sync muito bom com a música.
 ## Como eu posso escolher uma fase para você depois
 
 Quando você me disser que quer jogar um pouco, eu posso escolher pelo treino do dia:
@@ -77,3 +86,6 @@ Quando você me disser que quer jogar um pouco, eu posso escolher pelo treino do
 - Se completar uma fase: marcar aqui e anotar, em uma linha, se ela foi “tranquila”, “sofrida” ou “quero rebeat depois”.
 
 Sabe... isso aqui é menos uma lista de cobrança e mais um mapa de treino. Um jeito de transformar “vou abrir GD rapidinho” em progresso real, sem matar a graça do jogo.
+
+
+

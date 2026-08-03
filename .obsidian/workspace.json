@@ -6,55 +6,69 @@
       {
         "id": "eeba95c312e90408",
         "type": "tabs",
-        "dimension": 68.86395511921458,
+        "dimension": 72.15988779803646,
         "children": [
-          {
-            "id": "ebe781fbfdbde83b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/03 - Diário da Jornada.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - Diário da Jornada"
-            }
-          },
           {
             "id": "10c90faf231d4cdf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GDDP Beginner - Easy Demons"
             }
           }
         ]
       },
       {
-        "id": "adae8b048cb743bb",
-        "type": "tabs",
-        "dimension": 31.136044880785413,
+        "id": "285c07acadb7f848",
+        "type": "split",
+        "dimension": 27.840112201963535,
         "children": [
           {
-            "id": "40d97d48f351e2d2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/03 - Diário da Jornada.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
-            }
+            "id": "adae8b048cb743bb",
+            "type": "tabs",
+            "dimension": 61.99575371549893,
+            "children": [
+              {
+                "id": "40d97d48f351e2d2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Sumário"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0f73e7d47f915ee9",
+            "type": "tabs",
+            "dimension": 38.004246284501065,
+            "children": [
+              {
+                "id": "ebe781fbfdbde83b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Visualização em gráfico"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.40593338012695
+    "width": 216.76637649536133,
+    "collapsed": true
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -243,26 +258,27 @@
   },
   "active": "ebe781fbfdbde83b",
   "lastOpenFiles": [
+    "03 - Areas/A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
+    "02 - Projetos/GDDP.md",
+    "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
+    "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/03 - Diário da Jornada.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/02 - Registro de Capturas.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/01 - Living Dex.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/00 - Painel da Jornada.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/Rotas/README.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/README.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/Rotas",
-    "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/03 - Diário da Jornada.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária",
     "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/01 - Checklist de Capturas por Rota.md",
     "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
     "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
     "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Ghostrunner.md",
-    "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "04 - Referencias/Ghostrunner.md",
     "02 - Projetos/O mundo que eu queria conhecer.md",
     "05 - Arquivos/Ficha de personagens João e Monika.md",
     "05 - Arquivos/Digital Circus.md",
     "02 - Projetos/Lista de Capitulos A Different Vision.md",
     "04 - Referencias/Sword Art Online.md",
-    "02 - Projetos/GDDP.md",
     "02 - Projetos/Monika Aizawa.md",
     "03 - Areas/Gostos de anime.md",
     "02 - Projetos/Renda Online.md",
@@ -270,7 +286,6 @@
     "02 - Projetos/Asuna (A Different Vision version).md",
     "02 - Projetos/Andares 1 a 75.md",
     "_templates_/Nota rápida.md",
-    "_templates_/Nota estruturada.md",
     "02 - Projetos/Fanfic SAO",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.49.07.png",
