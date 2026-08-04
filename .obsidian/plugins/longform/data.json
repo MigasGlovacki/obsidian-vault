@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-03T15:37:56.157Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Green Affection/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2026-08-02T21:32:08.305Z",
       "total": 0,
       "drafts": {

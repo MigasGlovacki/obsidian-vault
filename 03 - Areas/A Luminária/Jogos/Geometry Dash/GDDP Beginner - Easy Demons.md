@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - geometry-dash
   - gddp
@@ -20,12 +20,18 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - Próximo marco leve: **13 Easy Demons** do tier Beginner
 - Já feitas: **iS**, **Problematic**, **NothinG** e **STARPUNK**
 
+## Meta de médio prazo
+
+- **Meta principal:** completar **Nine Circles** quando a base de wave estiver madura.
+- **Por que ela:** João gosta do estilo Nine Circles — o visual, o sync e a sensação de flow — então a meta deve ser uma fase que dê vontade de aprender, não apenas um número maior de dificuldade.
+- **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
 - **Fase atual:** Space Circles
 - **Foco:** Wave — microajustes, spam controlado e consistência em corredores.
 - **Objetivo da sessão:** transformar a wave em leitura e ritmo, não em reação por susto.
 - **Ao completar:** registrar a impressão do João e escolher a próxima fase conforme o que ele quiser desenvolver.
+- **Sessão encerrada:** 25–100 na cópia com StartPos e 0–56 na fase oficial. A fase parece pronta para ser conquistada; parar por cansaço mental antes de transformar treino bom em insistência ruim.
 ## Checklist do tier Beginner
 
 | Feita | Fase | Criador(es) | Foco do GDDP | O que isso treina na gameplay |
@@ -86,6 +92,8 @@ Quando você me disser que quer jogar um pouco, eu posso escolher pelo treino do
 - Se completar uma fase: marcar aqui e anotar, em uma linha, se ela foi “tranquila”, “sofrida” ou “quero rebeat depois”.
 
 Sabe... isso aqui é menos uma lista de cobrança e mais um mapa de treino. Um jeito de transformar “vou abrir GD rapidinho” em progresso real, sem matar a graça do jogo.
+
+
 
 
 

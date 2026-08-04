@@ -15,4 +15,3 @@ A obra se passa no ponto de visão de [[Kirito]], um garoto de 14 anos
 ## Links
 
 - [[Reki Kawahara]]
-- [[SAO A Different Vision]]
