@@ -14,15 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates_/Nota estruturada.md",
+                "file": "03 - Areas/Gostos de anime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota estruturada"
+              "title": "Gostos de anime"
+            }
+          },
+          {
+            "id": "5e60ebda81e4f70f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7a5155a0cc6756ea",
@@ -35,7 +46,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates_/Nota estruturada.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,12 +256,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f389500db460934f",
+  "active": "5e60ebda81e4f70f",
   "lastOpenFiles": [
-    "00 - Caixa de entrada/Sem título.md",
-    "02 - Projetos/Documentario Skyblock portfolio.md",
+    "03 - Areas/Gostos de anime.md",
+    "03 - Areas/Imersão.md",
     "_templates_/Nota rápida.md",
     "_templates_/Nota estruturada.md",
+    "00 - Caixa de entrada/Sem título.md",
+    "02 - Projetos/Documentario Skyblock portfolio.md",
     "05 - Arquivos/Ficha de personagens João e Monika.md",
     "02 - Projetos/Manifesto Criativo.md",
     "03 - Areas/A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
@@ -274,8 +286,6 @@
     "04 - Referencias/Ghostrunner.md",
     "02 - Projetos/O mundo que eu queria conhecer.md",
     "05 - Arquivos/Digital Circus.md",
-    "02 - Projetos/Lista de Capitulos A Different Vision.md",
-    "02 - Projetos/Monika Aizawa.md",
     "02 - Projetos/Fanfic SAO",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.49.07.png",

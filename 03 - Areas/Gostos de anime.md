@@ -1,3 +1,8 @@
+---
+tags:
+  - anime
+---
+
 # Meus gostos de anime
 
 ## Gosto muito
