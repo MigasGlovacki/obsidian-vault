@@ -28,30 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Longform/Green Affection/1.3 A travessia.md",
+                "file": "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Ghostrunner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 A travessia"
-            }
-          },
-          {
-            "id": "4a2db075b9a1abac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guia de conquistas do Crimson Desert"
+              "title": "Guia de conquistas do Ghostrunner"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7a5155a0cc6756ea",
@@ -64,7 +50,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
+                "file": "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Ghostrunner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -95,7 +81,7 @@
                 "sortOrder": "byModifiedTime",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "crim"
+                "searchQuery": "ghost"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -275,13 +261,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a2db075b9a1abac",
+  "active": "5e60ebda81e4f70f",
   "lastOpenFiles": [
+    "04 - Referencias/Ghostrunner.md",
+    "04 - Referencias/Geoarbitragem.md",
+    "A Luminária/Projetos da Luminária.md",
+    "A Luminária/Memórias compartilhadas.md",
+    "A Luminária/00 - Início.md",
+    "02 - Projetos/Documentario Skyblock portfolio.md",
+    "02 - Projetos/Manifesto Criativo.md",
+    "00 - Caixa de entrada/Sem título.md",
+    "00 - Caixa de entrada/05 August, 2026.md",
+    "A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
+    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
+    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
+    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Ghostrunner.md",
+    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
+    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "_templates_/Nota estruturada.md",
     "_templates_/Nota rápida.md",
-    "04 - Referencias/Ghostrunner.md",
     "Longform/Worldbuilding Monika no Mundo Real.md",
-    "02 - Projetos/Manifesto Criativo.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/21-eventos-birth-navel.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/20-cerulean-cave-liga-round-2.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/19-pos-game-five-seven-island.md",
@@ -290,20 +289,7 @@
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/17-indigo-plateau-liga.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/15-route-21-power-plant-viridian.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/14-sevii-parte-1.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/13-cinnabar-mansion-gym.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/12-routes-19-20-seafoam.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/11-saffron-silph-gym.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/10-routes-12-18-fuchsia.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/09-celadon-rocket-pokemon-tower.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/08-rock-tunnel-lavender-celadon.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/07-route-11-diglett-route-9.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/06-route-6-vermilion-ss-anne.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/05-cerulean-routes-24-25.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/04-route-3-mt-moon-route-4.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/03-viridian-forest-pewter.md",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/02-route-1-viridian-retorno.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/01-introducao-pallet-town.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/tutors.schema.json",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/trades.schema.json",

@@ -166,10 +166,10 @@ _(Nesse momento você pode colocar o meme, record scratch, zoom, etc.)_
 
 Mostrar:
 
-- [ ] árvores crescendo
-- [ ] minerando
-- [ ] coletando madeira
-- [ ] crafting
+- [x] árvores crescendo
+- [x] minerando
+- [x] coletando madeira
+- [x] crafting
 
 Replay mostrando tudo acontecendo.
 
