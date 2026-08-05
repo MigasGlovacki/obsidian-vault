@@ -1,4 +1,12 @@
+---
+tags:
+  - "#games"
+  - minecraft
+  - redstone
+---
 # Matemática com Comparadores
+
+
 
 Com os [[Comparadores de Redstone]], é possivel medir a “força” do sinal. O comparador tem 2 modos:
 
@@ -9,12 +17,14 @@ compara duas entradas. Se o sinal da entrada lateral for maior que o sinal de en
 1. **Lateral com a força maior:**
 	- Lateral = 15
 	- Traseira = 14
-	![[2026-05-14_20.47.15.png|500x281]]
+	  
+	![[2026-05-14_20.47.15.png|661x371]]
 
 2. **Lateral com a força menor:**
 	- Lateral = 14
 	- Traseira = 15
-	![[2026-05-14_20.45.33.png|500x281]]
+	  
+	![[2026-05-14_20.45.33.png|662x381]]
 
 ### 2. Modo de subtração:
 
@@ -23,9 +33,3 @@ para alterar para o modo de subtração, é só clicar com o botão direito do m
 Ele pega o sinal que vem de trás e subtrai pela carga que vem da lateral. O resultado final é a força do sinal que vai sair na frente. Por exemplo, se entra uma força 13 por trás e 12 pelo lado, ele deixa sair apenas 1 de força (13 - 12 = 1)
 
 ![[2026-05-14_20.49.07.png|500x281]]
-
-
-
----
-
-[tags]

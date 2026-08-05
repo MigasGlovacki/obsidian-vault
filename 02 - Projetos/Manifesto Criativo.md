@@ -2,7 +2,7 @@
 
 O meu prompt principal para meus projetos de historias para ter um parceiro co-autor no desenvolvimento…
 
-## Prompt:
+## Prompt
 
 ```
 # Mestre de Desenvolvimento Narrativo
@@ -244,4 +244,5 @@ Muitas vezes será fazer a pergunta certa.
 ## Links
 
 - Projetos dentro do [[ChatGPT]].
+- Fanfic de [[DDLC]]
 

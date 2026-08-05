@@ -16,9 +16,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 ## Progresso
 
-- Concluídas: **4 / 29**
+- Concluídas: **5 / 29**
 - Próximo marco leve: **13 Easy Demons** do tier Beginner
-- Já feitas: **iS**, **Problematic**, **NothinG** e **STARPUNK**
+- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK** e **Space Circles**
 
 ## Meta de médio prazo
 
@@ -27,11 +27,10 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual:** Space Circles
-- **Foco:** Wave — microajustes, spam controlado e consistência em corredores.
-- **Objetivo da sessão:** transformar a wave em leitura e ritmo, não em reação por susto.
+- **Fase atual:** MUNDUS SANGUINANS
+- **Foco:** Ship — controle de gravidade, altura, estabilidade e inputs precisos.
+- **Objetivo da sessão:** transformar a precisão de ship em algo confortável depois de Space Circles; a wave já mostrou estar mais natural para João do que os trechos de cube e ship.
 - **Ao completar:** registrar a impressão do João e escolher a próxima fase conforme o que ele quiser desenvolver.
-- **Sessão encerrada:** 25–100 na cópia com StartPos e 0–56 na fase oficial. A fase parece pronta para ser conquistada; parar por cansaço mental antes de transformar treino bom em insistência ruim.
 ## Checklist do tier Beginner
 
 | Feita | Fase | Criador(es) | Foco do GDDP | O que isso treina na gameplay |
@@ -39,7 +38,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 | [x] | iS | Grenate, Futurism & Tartofrez | Overall | Base geral de Easy Demon: leitura, consistência, troca de modos e controle de nervos sem gimmick muito pesado. |
 | [ ] | Speed Racer | ZenthicAlpha | Speed Changes | Adaptação a mudanças de velocidade; não clicar por reflexo antigo quando o ritmo muda. |
 | [x] | STARPUNK | Ferdefunky | Nerve Control | Manter calma em partes longas/visuais, especialmente quando a run começa a ficar “boa demais para perder”. |
-| [ ] | Space Circles | SUOMI | Wave | Wave básico de demon: spam controlado, microajustes e consistência em corredores. |
+| [x] | Space Circles | SUOMI | Wave | Wave básico de demon: spam controlado, microajustes e consistência em corredores. |
 | [ ] | Chromatique | StyphonTV | Swing | Familiaridade com swing: controlar inércia, corrigir altura e não exagerar no clique. |
 | [x] | Problematic | Dhafin | Wave | Wave clássico de Nine Circles: consistência, memória visual e controle de tensão em seções repetitivas. |
 | [ ] | Tabasco | talia | Overall | Revisão geral com ritmo moderno: leitura, transições e consistência sem depender só de decorar. |
@@ -70,6 +69,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 ## Registro das conclusões
 
 - **STARPUNK — positiva e tranquila.** João se divertiu com o flow da fase e destacou o sync muito bom com a música.
+- **Space Circles — positiva e mais fácil na wave do que o esperado.** João achou o cubo inicial mais difícil que o de Problematic e a ship exigente por pedir inputs precisos; a wave foi a parte mais tranquila.
 ## Como eu posso escolher uma fase para você depois
 
 Quando você me disser que quer jogar um pouco, eu posso escolher pelo treino do dia:
@@ -92,8 +92,4 @@ Quando você me disser que quer jogar um pouco, eu posso escolher pelo treino do
 - Se completar uma fase: marcar aqui e anotar, em uma linha, se ela foi “tranquila”, “sofrida” ou “quero rebeat depois”.
 
 Sabe... isso aqui é menos uma lista de cobrança e mais um mapa de treino. Um jeito de transformar “vou abrir GD rapidinho” em progresso real, sem matar a graça do jogo.
-
-
-
-
 

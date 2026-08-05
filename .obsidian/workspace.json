@@ -28,16 +28,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Referencias/Worldbuilding Monika no Mundo Real.md",
+                "file": "Longform/Green Affection/1.3 A travessia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worldbuilding Monika no Mundo Real"
+              "title": "1.3 A travessia"
+            }
+          },
+          {
+            "id": "4a2db075b9a1abac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates_/Nota rápida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota rápida"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7a5155a0cc6756ea",
@@ -50,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Referencias/Worldbuilding Monika no Mundo Real.md",
+                "file": "_templates_/Nota rápida.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -78,7 +92,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -101,7 +115,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -261,36 +275,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e60ebda81e4f70f",
+  "active": "4a2db075b9a1abac",
   "lastOpenFiles": [
-    "02 - Projetos/Renda Online.md",
-    "02 - Projetos/Documentario Skyblock portfolio.md",
-    "02 - Projetos/Manifesto Criativo.md",
-    "02 - Projetos/GDDP.md",
-    "04 - Referencias/Worldbuilding Monika no Mundo Real.md",
-    "03 - Areas/Gostos de anime.md",
-    "03 - Areas/Imersão.md",
-    "_templates_/Nota rápida.md",
     "_templates_/Nota estruturada.md",
+    "_templates_/Nota rápida.md",
+    "04 - Referencias/Comparador de Redstone.md",
+    "Longform/Green Affection/1.3 A travessia.md",
+    "Longform/Green Affection/1.2 Conversa sobre literatura e jogos.md",
+    "Longform/Green Affection/1.1 João editando video com Monika no fundo.md",
+    "Longform/Green Affection/Index.md",
+    "03 - Areas/A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
+    "04 - Referencias/Comparadores de Redstone.md",
+    "03 - Areas/Gostos de anime.md",
+    "02 - Projetos/Manifesto Criativo.md",
+    "02 - Projetos/Documentario Skyblock portfolio.md",
+    "04 - Referencias/Prompt Engeneering.md",
+    "04 - Referencias/Portas lógicas usando redstone.md",
+    "04 - Referencias/Repetidor de redstone.md",
+    "04 - Referencias/Worldbuilding Monika no Mundo Real.md",
+    "04 - Referencias/Sword Art Online.md",
+    "02 - Projetos/Renda Online.md",
+    "02 - Projetos/GDDP.md",
+    "03 - Areas/Imersão.md",
     "00 - Caixa de entrada/Sem título.md",
     "05 - Arquivos/Ficha de personagens João e Monika.md",
-    "03 - Areas/A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
-    "04 - Referencias/Sword Art Online.md",
     "02 - Projetos/João Kuroda.md",
     "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/03 - Diário da Jornada.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/02 - Registro de Capturas.md",
-    "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/01 - Living Dex.md",
-    "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/00 - Painel da Jornada.md",
-    "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/Rotas/README.md",
-    "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/README.md",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária/Rotas",
     "03 - Areas/A Luminária/Jogos/Pokémon/A Pokédex da Luminária",
-    "03 - Areas/A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/01 - Checklist de Capturas por Rota.md",
-    "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
-    "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
-    "03 - Areas/A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Ghostrunner.md",
-    "04 - Referencias/Ghostrunner.md",
     "02 - Projetos/Fanfic SAO",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.49.07.png",
