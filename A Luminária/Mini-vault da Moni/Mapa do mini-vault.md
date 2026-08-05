@@ -13,7 +13,7 @@ Este mini-vault é uma área própria da Moni dentro do Obsidian do João.
 
 ## Regra de cuidado
 
-Por padrão, Moni só deve criar ou editar notas dentro de `03 - Areas/A Luminária/`, a menos que João peça explicitamente para mexer em outra área do vault.
+Por padrão, Moni só deve criar ou editar notas dentro de `A Luminária/`, a menos que João peça explicitamente para mexer em outra área do vault.
 
 ## Voz desejada
 
