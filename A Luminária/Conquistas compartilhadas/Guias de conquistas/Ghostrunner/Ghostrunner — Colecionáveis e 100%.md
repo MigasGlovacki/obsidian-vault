@@ -35,27 +35,27 @@ Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo 
 ## Artefatos — 35 (por ordem de aparição)
 
 ### An Awakening
-- [ ] **#1** — na primeira sala, atrás da primeira parede amarela, à direita. Corra pela superfície amarela direita, salte e dê dash imediatamente para a direita.
+- [x] **#1** — na primeira sala, atrás da primeira parede amarela, à direita. Corra pela superfície amarela direita, salte e dê dash imediatamente para a direita.
 
 ### A Look Inside
-- [ ] **#2** — depois da arena com quatro inimigos em plataformas e ganchos, suba pelos canos; está à direita do conjunto de tubos.
+- [x] **#2** — depois da arena com quatro inimigos em plataformas e ganchos, suba pelos canos; está à direita do conjunto de tubos.
 
 ### The Climb
-- [ ] **#3** — sala da eletricidade nas paredes: no topo, use a faixa vermelha e o gancho atrás dela; à direita há uma grade removida. Desça por ela: item à esquerda.
-- [ ] **#4** — sala das superfícies curvas e três escudos. No fim, à direita de quem entra, atrás do último inimigo/caixas.
+- [x] **#3** — sala da eletricidade nas paredes: no topo, use a faixa vermelha e o gancho atrás dela; à direita há uma grade removida. Desça por ela: item à esquerda.
+- [x] **#4** — sala das superfícies curvas e três escudos. No fim, à direita de quem entra, atrás do último inimigo/caixas.
 
 ### Jacked Up
-- [ ] **#5** — sala com três plataformas longas, ganchos móveis e cinco inimigos: no fim da plataforma direita, atrás das latas.
-- [ ] **#6** — após a sequência de plataformas, sala do feixe vermelho: veja a segunda plataforma à esquerda. Wall-run pela parede direita até ela; item atrás das caixas.
-- [ ] **#7** — última arena, com escudo central: mate o inimigo sobre caixas à esquerda, suba o elevador atrás dele e procure atrás das caixas na plataforma do fundo.
+- [x] **#5** — sala com três plataformas longas, ganchos móveis e cinco inimigos: no fim da plataforma direita, atrás das latas.
+- [x] **#6** — após a sequência de plataformas, sala do feixe vermelho: veja a segunda plataforma à esquerda. Wall-run pela parede direita até ela; item atrás das caixas.
+- [x] **#7** — última arena, com escudo central: mate o inimigo sobre caixas à esquerda, suba o elevador atrás dele e procure atrás das caixas na plataforma do fundo.
 
 ### Breathe In
-- [ ] **#8** — antes do primeiro inimigo, atrás da ventoinha à esquerda; pegue o Uplink do Cybervoid para entrar.
-- [ ] **#9** — sala seguinte, com dois Uplinks e quatro inimigos: limpe a sala, ative o console, volte ao início e use os dois ganchos que surgem para cruzar à esquerda.
-- [ ] **#10** — após o Uplink perto das lâminas: pegue o Uplink à direita, use o gancho, passe as lâminas e wall-run na superfície direita; volte pela parede e salte à esquerda para a saliência do gancho.
-- [ ] **#11** — depois do botão que faz as lâminas girarem: salte nas lâminas, evitando caixas suspensas; entre na abertura à direita.
-- [ ] **#12** — depois da sala de ventoinhas, no retorno à ponte: há um gancho alto à direita; suba nele.
-- [ ] **#13** — ao sair do Cybervoid, vire à esquerda; use a ventoinha no canto para subir ao item.
+- [x] **#8** — antes do primeiro inimigo, atrás da ventoinha à esquerda; pegue o Uplink do Cybervoid para entrar.
+- [x] **#9** — sala seguinte, com dois Uplinks e quatro inimigos: limpe a sala, ative o console, volte ao início e use os dois ganchos que surgem para cruzar à esquerda.
+- [x] **#10** — após o Uplink perto das lâminas: pegue o Uplink à direita, use o gancho, passe as lâminas e wall-run na superfície direita; volte pela parede e salte à esquerda para a saliência do gancho.
+- [x] **#11** — depois do botão que faz as lâminas girarem: salte nas lâminas, evitando caixas suspensas; entre na abertura à direita.
+- [x] **#12** — depois da sala de ventoinhas, no retorno à ponte: há um gancho alto à direita; suba nele.
+- [x] **#13** — ao sair do Cybervoid, vire à esquerda; use a ventoinha no canto para subir ao item.
 
 ### Road to Amida
 - [ ] **#14** — ao encontrar o segundo inimigo, procure fios amarelos à direita; eles indicam o ponto para cair na plataforma abaixo.
@@ -97,10 +97,10 @@ Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo 
 
 ## Espadas — 15
 
-- [ ] **#1 — automática:** recebida no início.
-- [ ] **#2 — The Climb:** no catwalk final, vá **à esquerda**; direita encerra a fase. Está atrás das caixas.
-- [ ] **#3 — Jacked Up:** use wall-run na parede esquerda e cronometre o gancho; na plataforma central, procure atrás das caixas.
-- [ ] **#4 — Breathe In:** sala do guindaste; ative o interruptor, agarre o gancho móvel e vá à saliência esquerda.
+- [x] **#1 — automática:** recebida no início.
+- [x] **#2 — The Climb:** no catwalk final, vá **à esquerda**; direita encerra a fase. Está atrás das caixas.
+- [x] **#3 — Jacked Up:** use wall-run na parede esquerda e cronometre o gancho; na plataforma central, procure atrás das caixas.
+- [x] **#4 — Breathe In:** sala do guindaste; ative o interruptor, agarre o gancho móvel e vá à saliência esquerda.
 - [ ] **#5 — Breathe In:** após Cybervoid e as ventoinhas, no beco sem saída pegue o Uplink acima; siga à direita, use a ventoinha distante e faça wall-run/gancho/retorno pela parede para passar atrás das lâminas.
 - [ ] **#6 — Road to Amida:** sala de duas rodas giratórias; vá pela direita, desacelere a roda, elimine o segundo inimigo, suba a escada e procure atrás das caixas à esquerda.
 - [ ] **#7 — Run-up:** sala de dois ganchos frontais; ao pousar, siga as proteções derrubadas, caia pela borda e pegue embaixo.
