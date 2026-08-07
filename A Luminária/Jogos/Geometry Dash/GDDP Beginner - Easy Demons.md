@@ -27,9 +27,10 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual:** MUNDUS SANGUINANS
-- **Foco:** Ship — controle de gravidade, altura, estabilidade e inputs precisos.
-- **Objetivo da sessão:** transformar a precisão de ship em algo confortável depois de Space Circles; a wave já mostrou estar mais natural para João do que os trechos de cube e ship.
+- **Fase atual:** weird
+- **Foco:** Ship & Wave — alternar entre controle suave de ship e microajustes de wave sem carregar tensão de um modo para o outro.
+- **Impressão inicial:** João fez uma prática completa; a fase é estranha no flow, mas parece mais fácil que MUNDUS SANGUINANS e deve ir de boa.
+- **Objetivo da sessão:** aprender a rota e transformar essa familiaridade inicial em consistência na fase normal.
 - **Ao completar:** registrar a impressão do João e escolher a próxima fase conforme o que ele quiser desenvolver.
 ## Checklist do tier Beginner
 
