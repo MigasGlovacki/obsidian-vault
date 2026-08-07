@@ -16,9 +16,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 ## Progresso
 
-- Concluídas: **5 / 29**
+- Concluídas: **6 / 29**
 - Próximo marco leve: **13 Easy Demons** do tier Beginner
-- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK** e **Space Circles**
+- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK**, **Space Circles** e **MUNDUS SANGUINANS**
 
 ## Meta de médio prazo
 
@@ -57,7 +57,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 | [ ] | Motion | TamaN | Overall | Consistência geral com fluxo; bom para medir se a base está ficando mais automática. |
 | [ ] | Game Over | Optation | Flow | Flow gameplay: conectar partes, manter leitura contínua e evitar “parar mentalmente” a cada transição. |
 | [ ] | NODE | robotchief | Memorization | Memória e reconhecimento de padrões; treinar rotas internas e checkpoints mentais. |
-| [ ] | MUNDUS SANGUINANS | 1MadJack1 | Ship | Ship puro/central: controle de gravidade, altura e estabilidade. |
+| [x] | MUNDUS SANGUINANS | 1MadJack1 | Ship | Ship puro/central: controle de gravidade, altura e estabilidade. **Concluída em 07/08/2026** após uma run de 91% e, na sessão seguinte, clear confirmado pelo Death Tracker. |
 | [ ] | DeCode | Rek3dge | Timings & Wave | Timings antigos + wave; bom teste de precisão clássica e controle sob pressão. |
 | [ ] | HEAT | BrainETR | Fast Paced & High CPS | Ritmo rápido e muitos inputs; treina resistência, leitura veloz e relaxamento da mão. |
 | [ ] | wowzers holy | lumpy | Ship & Ball | Troca entre ship e ball; controlar voo e gravidade com precisão. |
