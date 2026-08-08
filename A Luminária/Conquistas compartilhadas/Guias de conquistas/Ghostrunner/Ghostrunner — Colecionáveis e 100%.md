@@ -37,7 +37,7 @@ Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo 
 
 ### The Climb — 4 itens
 
-- [ ] **Áudio do Adam #1** — sala das plataformas quebradas e canos. Chegue ao fim da ponte, olhe para baixo e caia na ponte quebrada; vá **à direita**, wall-run até os canos e siga-os até o ponto de interrogação luminoso.
+- [x] **Áudio do Adam #1** — sala das plataformas quebradas e canos. Chegue ao fim da ponte, olhe para baixo e caia na ponte quebrada; vá **à direita**, wall-run até os canos e siga-os até o ponto de interrogação luminoso.
 - [x] **Artefato #3** — sala da eletricidade nas paredes: no topo, use a faixa vermelha e o gancho atrás dela; à direita há uma grade removida. Desça por ela: item à esquerda.
 - [x] **Artefato #4** — sala das superfícies curvas e três escudos. No fim, à direita de quem entra, atrás do último inimigo/caixas.
 - [x] **Espada #2** — no catwalk final, vá **à esquerda**; direita encerra a fase. Está atrás das caixas.
