@@ -40,7 +40,7 @@ Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo 
 - [x] **Artefato #3** — sala da eletricidade nas paredes: no topo, use a faixa vermelha e o gancho atrás dela; à direita há uma grade removida. Desça por ela: item à esquerda.
 - [x] **Artefato #4** — sala das superfícies curvas e três escudos. No fim, à direita de quem entra, atrás do último inimigo/caixas.
 - [x] **Espada #2** — no catwalk final, vá **à esquerda**; direita encerra a fase. Está atrás das caixas.
-- [ ] **Áudio do Adam #1** — sala das plataformas quebradas e canos. Chegue ao fim da ponte, olhe para baixo e caia na ponte quebrada; vá **à direita**, wall-run até os canos e siga-os até o ponto de interrogação luminoso.
+- [x] **Áudio do Adam #1** — sala das plataformas quebradas e canos. Chegue ao fim da ponte, olhe para baixo e caia na ponte quebrada; vá **à direita**, wall-run até os canos e siga-os até o ponto de interrogação luminoso.
 
 ### Jacked Up — 4 itens
 
@@ -58,22 +58,22 @@ Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo 
 - [x] **Artefato #12** — depois da sala de ventoinhas, no retorno à ponte: há um gancho alto à direita; suba nele.
 - [x] **Artefato #13** — ao sair do Cybervoid, vire à esquerda; use a ventoinha no canto para subir ao item.
 - [x] **Espada #4** — sala do guindaste; ative o interruptor, agarre o gancho móvel e vá à saliência esquerda.
-- [ ] **Espada #5** — após Cybervoid e as ventoinhas, no beco sem saída pegue o Uplink acima; siga à direita, use a ventoinha distante e faça wall-run/gancho/retorno pela parede para passar atrás das lâminas.
-- [ ] **Áudio do Adam #2** — primeira sequência de ventoinhas sobre um vão; entre na primeira ventoinha de costas e olhe para cima.
+- [x] **Espada #5** — após Cybervoid e as ventoinhas, no beco sem saída pegue o Uplink acima; siga à direita, use a ventoinha distante e faça wall-run/gancho/retorno pela parede para passar atrás das lâminas.
+- [x] **Áudio do Adam #2** — primeira sequência de ventoinhas sobre um vão; entre na primeira ventoinha de costas e olhe para cima.
 
 ### Road to Amida — 5 itens
 
-- [ ] **Artefato #14** — ao encontrar o segundo inimigo, procure fios amarelos à direita; eles indicam o ponto para cair na plataforma abaixo.
-- [ ] **Artefato #15** — arena de três inimigos, dois com escudo: junto ao inimigo de trás e ao escudo azul, suba nas caixas à esquerda.
-- [ ] **Artefato #16** — plataforma com feixe vermelho: veja o item abaixo/esquerda; corra pela parede direita além da proteção, pule sobre o feixe usando Reforço Sensorial e alcance a saliência.
-- [ ] **Artefato #17** — use a cerca quebrada e inclinada à esquerda: wall-run, salte com Reforço Sensorial para a direita, siga a parede até a fenda escondida.
-- [ ] **Espada #6** — sala de duas rodas giratórias; vá pela direita, desacelere a roda, elimine o segundo inimigo, suba a escada e procure atrás das caixas à esquerda.
+- [x] **Artefato #14** — ao encontrar o segundo inimigo, procure fios amarelos à direita; eles indicam o ponto para cair na plataforma abaixo.
+- [x] **Artefato #15** — arena de três inimigos, dois com escudo: junto ao inimigo de trás e ao escudo azul, suba nas caixas à esquerda.
+- [x] **Artefato #16** — plataforma com feixe vermelho: veja o item abaixo/esquerda; corra pela parede direita além da proteção, pule sobre o feixe usando Reforço Sensorial e alcance a saliência.
+- [x] **Artefato #17** — use a cerca quebrada e inclinada à esquerda: wall-run, salte com Reforço Sensorial para a direita, siga a parede até a fenda escondida.
+- [x] **Espada #6** — sala de duas rodas giratórias; vá pela direita, desacelere a roda, elimine o segundo inimigo, suba a escada e procure atrás das caixas à esquerda.
 
 ### Run-up — 3 itens
 
-- [ ] **Artefato #18** — depois de matar os seis inimigos da abertura, no último patamar vire-se e olhe a pequena alcova à esquerda, atrás da superfície laranja; dê dash até ela.
-- [ ] **Espada #7** — sala de dois ganchos frontais; ao pousar, siga as proteções derrubadas, caia pela borda e pegue embaixo.
-- [ ] **Áudio do Adam #3** — depois do deslize entre trituradores, assim que atravessar a porta, vire para ela e olhe para cima: gancho para o áudio.
+- [x] **Artefato #18** — depois de matar os seis inimigos da abertura, no último patamar vire-se e olhe a pequena alcova à esquerda, atrás da superfície laranja; dê dash até ela.
+- [x] **Espada #7** — sala de dois ganchos frontais; ao pousar, siga as proteções derrubadas, caia pela borda e pegue embaixo.
+- [x] **Áudio do Adam #3** — depois do deslize entre trituradores, assim que atravessar a porta, vire para ela e olhe para cima: gancho para o áudio.
 
 ### Dharma City — 5 itens
 

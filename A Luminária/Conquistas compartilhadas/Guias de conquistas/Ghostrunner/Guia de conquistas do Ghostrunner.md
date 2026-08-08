@@ -77,7 +77,7 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 ## Campanha base
 
 - [ ] **Finish Line** — complete a subida da Torre (final da campanha).
-- [ ] **Out Of Order** — destrua Tom.
+- [x] **Out Of Order** — destrua Tom.
 - [ ] **Back To Hell** — derrote Hel.
 - [ ] **Artificial Selection** — derrote a Guardiã das Chaves/Keymaster.
 - [x] **Running Out Of Breath** — salve os moradores do Setor Cinco em **Breathe In**; vem ao restaurar os ventiladores e concluir o puzzle do Cybervoid.
@@ -115,7 +115,7 @@ As localizações e checklists de cada item ficam em [[Ghostrunner — Coletáve
 - [ ] **Unstoppable Force** — 3 inimigos com um Tufão/Tempest. Na mesma plataforma, chegue perto do Warden da direita e solte o Tufão; corpos lançados também podem matar outros. Módulo **Range** ajuda.
 - [ ] **Neuromancer** — force inimigos a matar 4 aliados com Invasão/Overlord. Depois de ganhar a habilidade, use-a nos Wardens da plataforma de cinco em **Things You Wouldn’t Believe**; não precisam ser quatro mortes consecutivas.
 - [ ] **Why Not Both** — use duas habilidades diferentes em 10 s. Com energia cheia, use Tufão ou Ímpeto, morra de propósito em um abismo (a morte repõe energia), respawne e use a outra rapidamente. Blink/Invasão dependem de alvo; Tufão + Ímpeto é a dupla simples.
-- [ ] **Homerunner** — mate com um projétil refletido pelo Tufão. Espere o clarão de disparo de um inimigo armado e solte Tufão no caminho do tiro; a janela é mais generosa que a da espada.
+- [x] **Homerunner** — mate com um projétil refletido pelo Tufão. Espere o clarão de disparo de um inimigo armado e solte Tufão no caminho do tiro; a janela é mais generosa que a da espada.
 - [ ] **Sticks and Stones** *(Project_Hel)* — equipe **Deflexão: Absorção** e encha a barra de Fúria defletindo tiros. Não gaste Fúria durante a tentativa; procure um atirador seguro e devolva consistentemente.
 - [ ] **One Of Those Days** *(Project_Hel)* — permaneça 20 s em Fúria. Entre em Fúria já numa arena com vários projéteis/abates disponíveis e mantenha a corrente de ações que sustenta o medidor.
 - [ ] **Strafing Run** *(Project_Hel)* — jogando de Hel, mate 3 inimigos com Ímpeto em um salto. Procure uma arena com três inimigos alinhados, salte antes de ativar e use um Ímpeto com alcance/tamanho.

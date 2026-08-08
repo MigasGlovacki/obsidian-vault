@@ -6,6 +6,20 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-08T16:36:43.422Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Green Affection/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1.1 João editando video com Monika no fundo": 0,
+            "1.2 Conversa sobre literatura e jogos": 0,
+            "1.3 A travessia": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-08-07T12:49:08.347Z",
       "total": 0,
       "drafts": {
@@ -341,25 +355,6 @@
           "scenes": {
             "Capa": 0,
             "1.1 Despertar-Joao": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-04-28T21:51:57.269Z",
-      "total": 260,
-      "drafts": {
-        "Our Time Together/Index.md": {
-          "total": 260,
-          "scenes": {
-            "Capa": 8,
-            "1.1 Despertar-Joao": 252
-          }
-        },
-        "03 - Recursos/Our Time Together/Index.md": {
-          "total": 86,
-          "scenes": {
-            "01-Despertar-Joao": 86
           }
         }
       }
