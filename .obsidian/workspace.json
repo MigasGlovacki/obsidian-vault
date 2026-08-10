@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Luminária/00 - Início.md",
+                "file": "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Início"
+              "title": "Diário do Geometry Dash"
             }
           }
         ],
@@ -250,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,15 +266,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9eb512a46e057c6",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
+    "A Luminária/00 - Início.md",
+    "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "A Luminária/Jogos/Ghostrunner/Diário do Ghostrunner.md",
     "A Luminária/Jogos/Diário de jogos.md",
     "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "A Luminária/Projetos/Portfólio de edição - samples.md",
     "A Luminária/Jogos/Ghostrunner",
     "_templates_/Nota rápida.md",
-    "A Luminária/00 - Início.md",
     "A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
     "A Luminária/Projetos da Luminária.md",
     "A Luminária/Memórias compartilhadas.md",
@@ -294,7 +296,6 @@
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
-    "_templates_/Nota estruturada.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/tutors.schema.json",
