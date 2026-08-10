@@ -1,8 +1,8 @@
 # Guia de conquistas do [[Ghostrunner]]
 
 - **Escopo:** Campanha base + DLC **[[Project_Hel]]**.
-- **Conquistas:** 23/45
-	- **Campanha base:** 23/34
+- **Conquistas:** 26/45
+	- **Campanha base:** 26/34
 	- **DLC:** 0/11
 - **Dificuldade:** 6/10
 - **Tempo estimado**: 18h
@@ -57,8 +57,8 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 - [ ] **Improvise Adapt Overrun** — mate um sniper sem se aproximar. Em **Echoes**, use as coberturas antes do vão central e acerte o sniper de longe com **Tufão** (de preferência com alcance) ou Ímpeto.
 - [ ] **Preemptive Strike** — mate um Divisor antes da divisão. Em **Things You Wouldn’t Believe**, no fim da fase, elimine o Slugger elevado; do lado direito da borda, acerte o Divisor do outro lado com Ímpeto equipado com tamanho/alcance.
 - [ ] **Hit Me If You Can** — bloqueie cinco ataques seguidos de Protetores/Wardens. O primeiro Warden de **Echoes** fica isolado: fique perto, observe quando ele recua e bloqueie o avanço; não o mate antes das cinco defesas.
-- [ ] **R Is For Running** — termine uma fase sem morrer. **An Awakening** é a escolha mais curta e segura. Memorize o trajeto e jogue sem pressa.
-- [ ] **More Than Human** — 23 mortes seguidas sem morrer. Pode combinar com a tentativa sem mortes em **An Awakening**: reinicie a fase depois de uma corrida limpa e mantenha-se vivo; os abates consecutivos das corridas contam. Alternativa: início de **Things You Wouldn’t Believe** com shurikens e a plataforma dos Wardens.
+- [x] **R Is For Running** — termine uma fase sem morrer. **An Awakening** é a escolha mais curta e segura. Memorize o trajeto e jogue sem pressa.
+- [x] **More Than Human** — 23 mortes seguidas sem morrer. Pode combinar com a tentativa sem mortes em **An Awakening**: reinicie a fase depois de uma corrida limpa e mantenha-se vivo; os abates consecutivos das corridas contam. Alternativa: início de **Things You Wouldn’t Believe** com shurikens e a plataforma dos Wardens.
 - [ ] **Upgrades Not Mandatory** — 10 mortes seguidas sem usar Reforço Sensorial. No começo de **Things You Wouldn’t Believe**, após a plataforma inicial há uma sala com 10 Wrecks e uma reposição de shurikens: circule pelo lado de fora das caixas e elimine todos com shurikens, sem apertar o Reforço Sensorial.
 - [ ] **Running Wild** — em 1 s, faça impulso + wall-run + deslize + transposição (gap jammer). Ordem mais confiável: **impulso → deslize → transposição diretamente numa parede → wall-run**. O salto só registra wall-run se vier após a transposição; tente num gancho que termine em parede.
 
@@ -123,7 +123,7 @@ As localizações e checklists de cada item ficam em [[Ghostrunner — Colecion�
 ## Defesa, movimentação e progressão
 
 - [x] **I Call It Luck** — bloqueie 5 projéteis consecutivos com espada. Para esse especificamente, **retire Deflexão: Refletir**: refletir não registra como “bloquear”. Use inimigo armado isolado e reaja ao clarão da arma.
-- [ ] **Push It To The Limit** — complete o tabuleiro PCS-GR sem casas vazias (as quatro casas X não contam). Só é possível perto do fim, após liberar todas as habilidades e o tabuleiro inteiro. Não precisa de uma combinação única: reorganize as peças como Tetris até cobrir tudo.
+- [x] **Push It To The Limit** — complete o tabuleiro PCS-GR sem casas vazias (as quatro casas X não contam). Só é possível perto do fim, após liberar todas as habilidades e o tabuleiro inteiro. Não precisa de uma combinação única: reorganize as peças como Tetris até cobrir tudo.
 - [x] **Longrunner** — percorra 42 km; já obtida.
 - [x] **Where Are My Keys** — mate 1.000 inimigos. Deve vir pela segunda metade; se faltar, repita uma arena e deixe um inimigo vivo para o encontro reaparecer completo no próximo reset.
 
