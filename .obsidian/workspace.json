@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projetos/Renda Online.md",
+                "file": "A Luminária/Jogos/Ghostrunner/Diário do Ghostrunner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Renda Online"
+              "title": "Diário do Ghostrunner"
             }
           }
         ],
@@ -188,7 +188,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projetos/Monika Aizawa.md",
+                "file": "A Luminária/Jogos/Ghostrunner/Diário do Ghostrunner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline"
             }
           },
           {
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates_/Nota rápida.md",
+                "file": "A Luminária/Jogos/Ghostrunner/Diário do Ghostrunner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -265,12 +265,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a0c9e9d2e3c9f04",
+  "active": "c9eb512a46e057c6",
   "lastOpenFiles": [
+    "A Luminária/Jogos/Diário de jogos.md",
+    "02 - Projetos/Guias de conquistas/Ghostrunner/Ghostrunner — Colecionáveis e 100%.md",
+    "02 - Projetos/Guias de conquistas/Ghostrunner/Guia de conquistas do Ghostrunner.md",
+    "A Luminária/Jogos/Ghostrunner/Diário do Ghostrunner.md",
+    "00 - Caixa de entrada/anotações ghostrunner.md",
+    "00 - Caixa de entrada/Artefato 1.md",
+    "00 - Caixa de entrada/Artefato.md",
+    "00 - Caixa de entrada/Ghostrunner — Coletáveis e 100%.md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
+    "02 - Projetos/Renda Online.md",
+    "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
+    "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
+    "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong",
+    "02 - Projetos/Guias de conquistas/Ghostrunner",
+    "02 - Projetos/Guias de conquistas",
     "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "A Luminária/00 - Início.md",
-    "A Luminária/Jogos/Ghostrunner/Diário do Ghostrunner.md",
-    "A Luminária/Jogos/Diário de jogos.md",
     "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "A Luminária/Projetos/Portfólio de edição - samples.md",
     "A Luminária/Jogos/Ghostrunner",
@@ -283,26 +297,12 @@
     "Longform/Worldbuilding Monika no Mundo Real.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner/Guia de conquistas do Ghostrunner.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
-    "conflict-files-obsidian-git.md",
-    "02 - Projetos/Manifesto Criativo.md",
-    "03 - Areas/Gostos de anime.md",
-    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Ghostrunner.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner",
-    "04 - Referencias/Ghostrunner.md",
-    "04 - Referencias/Geoarbitragem.md",
-    "00 - Caixa de entrada/Sem título.md",
-    "00 - Caixa de entrada/05 August, 2026.md",
-    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
-    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
-    "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/tutors.schema.json",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/trades.schema.json",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/special_encounters.schema.json",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/shops.schema.json",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/items.schema.json",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/encounters.schema.json",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.49.07.png",
     "Attachments/2026-05-14_20.47.15.png",

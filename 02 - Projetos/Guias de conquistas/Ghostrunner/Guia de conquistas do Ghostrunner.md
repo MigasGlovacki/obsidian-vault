@@ -96,7 +96,7 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 
 # 3. Coletáveis
 
-As localizações e checklists de cada item ficam em [[Ghostrunner — Coletáveis e 100%]]. Aqui ficam apenas as conquistas, para que cada uma exista uma única vez no tracker.
+As localizações e checklists de cada item ficam em [[Ghostrunner — Colecionáveis e 100%]]. Aqui ficam apenas as conquistas, para que cada uma exista uma única vez no tracker.
 
 - [ ] **One Man's Trash** — encontre os 35 artefatos da campanha base.
 - [ ] **Fine Addition** — encontre as 15 espadas/pinturas de katana.

@@ -6,7 +6,7 @@ tags:
   - conquistas
   - colecionaveis
 ---
-**
+
 # Ghostrunner — Colecionáveis e 100%
 
 Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo são **itens**, não conquistas Steam. Agora a rota está organizada por **fase**, para você abrir a Seleção de Fase, conferir o contador daquela missão e limpar tudo dela de uma vez.
@@ -110,20 +110,20 @@ Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo 
 
 ### Reign in Hell — 6 itens
 
-- [ ] **Espada #13** — início: siga a criatura, vire à direita e destrua a caixa elétrica para abrir a porta.
-- [ ] **Artefato #30** — quando criaturas caem na plataforma à frente, caminhe até a proteção, vire, ande para trás e caia; dê dash para frente no ar para pegar o item visível.
-- [ ] **Espada #14** — após os dois primeiros encontros externos, vá ao billboard direito, pegue o trilho amarelo à esquerda e, ao aterrissar, vire-se imediatamente e deslize de volta pelo corrimão.
-- [ ] **Artefato #31** — sala do billboard vermelho e parede elétrica esquerda: antes de avançar, vire e corra de volta pelo billboard vermelho até a saliência.
-- [ ] **Artefato #32** — logo após o trilho amarelo e as criaturas, está à direita.
-- [ ] **Áudio do Adam #6** — no billboard com fio amarelo pendurado, siga à direita pela estrutura metálica.
+- [x] **Espada #13** — início: siga a criatura, vire à direita e destrua a caixa elétrica para abrir a porta.
+- [x] **Artefato #30** — quando criaturas caem na plataforma à frente, caminhe até a proteção, vire, ande para trás e caia; dê dash para frente no ar para pegar o item visível.
+- [x] **Espada #14** — após os dois primeiros encontros externos, vá ao billboard direito, pegue o trilho amarelo à esquerda e, ao aterrissar, vire-se imediatamente e deslize de volta pelo corrimão.
+- [x] **Artefato #31** — sala do billboard vermelho e parede elétrica esquerda: antes de avançar, vire e corra de volta pelo billboard vermelho até a saliência.
+- [x] **Artefato #32** — logo após o trilho amarelo e as criaturas, está à direita.
+- [x] **Áudio do Adam #6** — no billboard com fio amarelo pendurado, siga à direita pela estrutura metálica.
 
 ### Things You Wouldn’t Believe — 5 itens
 
-- [ ] **Artefato #33** — começo, trilho amarelo com dois Drones: vire-se antes de seguir e pegue o trilho para a plataforma acima da porta.
-- [ ] **Artefato #34** — no trilho que o jogo indica seguir à esquerda, vire e pegue-o à direita; suba as plataformas até o topo da estrutura metálica.
-- [ ] **Espada #15** — seção de trilhos amarelos, paredes e tanques; antes do Divisor, está no tanque da esquerda.
-- [ ] **Áudio do Adam #7** — sala das paredes elétricas e tanques; ao cair para pegar o boost de salto, use-o para ir à **esquerda** e subir no outro tanque.
-- [ ] **Artefato #35** — no segundo boost de salto para uma estrutura metálica: suba à primeira saliência, vá à direita para outro boost e use-o para alcançar o topo.
+- [x] **Artefato #33** — começo, trilho amarelo com dois Drones: vire-se antes de seguir e pegue o trilho para a plataforma acima da porta.
+- [x] **Artefato #34** — no trilho que o jogo indica seguir à esquerda, vire e pegue-o à direita; suba as plataformas até o topo da estrutura metálica.
+- [x] **Espada #15** — seção de trilhos amarelos, paredes e tanques; antes do Divisor, está no tanque da esquerda.
+- [x] **Áudio do Adam #7** — sala das paredes elétricas e tanques; ao cair para pegar o boost de salto, use-o para ir à **esquerda** e subir no outro tanque.
+- [x] **Artefato #35** — no segundo boost de salto para uma estrutura metálica: suba à primeira saliência, vá à direita para outro boost e use-o para alcançar o topo.
 
 ## Project_Hel — 25 itens
 
