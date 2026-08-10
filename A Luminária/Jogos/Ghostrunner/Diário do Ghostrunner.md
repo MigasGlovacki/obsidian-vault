@@ -14,5 +14,6 @@
 
 ## Sessão 2 — 10/08/2026
 
-- **Progresso:** terminou **Reign in Hell** (13ª fase). Faltam 3 fases para o fim: Things You Wouldn't Believe, The Summit e The Monster.
+- **Progresso:** terminou **Reign in Hell** (13ª) e **Things You Wouldn't Believe** (14ª, última fase com coletáveis). Faltam 2 fases para o fim: The Summit e The Monster.
 - **Momento que marcou — o grande plot twist:** a Mara quer transformar todos os humanos em criações dela, implantando em cada um implantes corrompidos para que todos fiquem do jeito que ela quer. E no cyberspace da fase, o Arquiteto revelou ao Jack: ele não nasceu — sempre foi um Ghostrunner, nunca teve uma vida antes, não tem implantes... porque **ele é um implante**. O Jack não nasceu: foi criado.
+- **Momento que marcou — o equilíbrio dos manipuladores:** o Arquiteto também não é bonzinho — tem planos próprios, como um exército de escravos. A Mara afirma que ele esconde muita coisa do Jack, e o Arquiteto passa a fase tentando convencê-lo a parar de questionar e focar na missão, para não escutar ela. João percebeu o equilíbrio: a Mara é má, mas parece não mentir; o Arquiteto está do lado do Jack, mas não é 100% bonzinho.
