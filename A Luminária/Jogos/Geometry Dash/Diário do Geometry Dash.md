@@ -9,4 +9,4 @@
 
 ## Sessões e registros
 
-- *(registro curto por data: o que rolou, melhor % numa fase, fase nova descoberta...)*
+- **10/08/2026 — Deadlocked:** novo record na fase; estava treinando a rota das 3 moedas, mas na run boa esqueceu o pulo do robô (~53%) e a moeda 2 escapou. Moeda continua disponível para refazer — a rota já está sabida.
