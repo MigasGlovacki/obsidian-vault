@@ -21,3 +21,9 @@
 - **The Summit (15ª) — terminou a fase:** o Jack derrotou/matou a Mara. E então o Arquiteto revelou: "você concluiu a sua função; agora podemos prosseguir com o meu plano". João ficou com medo — o Arquiteto escondeu um plano o jogo inteiro. A desconfiança que ele sentia desde Things You Wouldn't Believe se confirmou: o aliado manipulador era o verdadeiro perigo. Falta uma fase: The Monster.
 - **The Monster (16ª) — o plano revelado:** o plano do Arquiteto o jogo todo era assumir o corpo do Jack. Todos os núcleos do Cybervoid coletados para "melhorar as habilidades" foram, na verdade, preparação para o Arquiteto tomar o corpo. Ele chama o Jack de **GR74** — nunca "Jack"; só a Zoe o chamava pelo nome. O Arquiteto não vê o Jack como alguém, mas como a máquina que será o corpo dele. A fase inteira é Cybervoid.
 - **The Monster (16ª) — FINAL:** perseguição de parkour no Cybervoid com a parede vermelha do Arquiteto; a representação humana dele avisou que matá-lo destruiria o Cybervoid. O Jack respondeu: "**meu nome é Jack**" — e o apunhalou. Escapou, o sistema reiniciou. Cutscene anime: a Zoe narra a história da torre; lá fora, o planeta está destruído; monólogo de revolta contra os ditadores da torre que abusaram do poder; ela agradece "a um único homem que tornou tudo possível — o Ghostrunner". Fim.
+
+## Sessão 3 — 10/08/2026 (limpeza pós-campanha)
+
+- **Conquistas:** +3 → **26/45** (campanha base 26/34): **R Is For Running**, **More Than Human** e **Push It To The Limit**.
+- **Momento difícil:** More Than Human exigiu **6 restarts do primeiro capítulo** — um inimigo específico derrubava a sequência toda vez; no fim, a persistência venceu.
+- **Impressão:** sessão de limpeza eficiente seguindo o roadmap da build de Surge; próximas ficam para outra sessão.
