@@ -6,7 +6,6 @@
       {
         "id": "de2c83e0cc58e927",
         "type": "tabs",
-        "dimension": 75.34591194968553,
         "children": [
           {
             "id": "f389500db460934f",
@@ -54,39 +53,18 @@
             "id": "c9eb512a46e057c6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "GDDP Beginner - Easy Demons"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "7a5155a0cc6756ea",
-        "type": "tabs",
-        "dimension": 24.654088050314463,
-        "children": [
-          {
-            "id": "3b1399c6f0ad1abf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +202,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Todas as propriedades"
+              "title": "All properties"
             }
           },
           {
@@ -258,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates_/Nota estruturada.md",
+                "file": "_templates_/Nota rápida.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline"
             }
           }
         ],
@@ -289,7 +267,14 @@
   },
   "active": "c9eb512a46e057c6",
   "lastOpenFiles": [
+    "_templates_/Nota rápida.md",
+    "A Luminária/00 - Início.md",
+    "A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
+    "A Luminária/Projetos da Luminária.md",
+    "A Luminária/Memórias compartilhadas.md",
+    "02 - Projetos/Documentario Skyblock portfolio.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner/Ghostrunner — Colecionáveis e 100%.md",
+    "Longform/Worldbuilding Monika no Mundo Real.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner/Guia de conquistas do Ghostrunner.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
     "conflict-files-obsidian-git.md",
@@ -300,19 +285,12 @@
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner",
     "04 - Referencias/Ghostrunner.md",
     "04 - Referencias/Geoarbitragem.md",
-    "A Luminária/Projetos da Luminária.md",
-    "A Luminária/Memórias compartilhadas.md",
-    "A Luminária/00 - Início.md",
-    "02 - Projetos/Documentario Skyblock portfolio.md",
     "00 - Caixa de entrada/Sem título.md",
     "00 - Caixa de entrada/05 August, 2026.md",
-    "A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "_templates_/Nota estruturada.md",
-    "_templates_/Nota rápida.md",
-    "Longform/Worldbuilding Monika no Mundo Real.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/21-eventos-birth-navel.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/20-cerulean-cave-liga-round-2.md",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/19-pos-game-five-seven-island.md",

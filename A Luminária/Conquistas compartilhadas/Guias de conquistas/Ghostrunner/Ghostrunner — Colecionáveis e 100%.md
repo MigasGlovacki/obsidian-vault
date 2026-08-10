@@ -6,7 +6,7 @@ tags:
   - conquistas
   - colecionaveis
 ---
-
+**
 # Ghostrunner — Colecionáveis e 100%
 
 Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo são **itens**, não conquistas Steam. Agora a rota está organizada por **fase**, para você abrir a Seleção de Fase, conferir o contador daquela missão e limpar tudo dela de uma vez.
@@ -77,36 +77,36 @@ Nota-companheira de [[Guia de conquistas do Ghostrunner]]. Os checkboxes abaixo 
 
 ### Dharma City — 5 itens
 
-- [ ] **Espada #8** — pegue a tirolesa que curva à direita; ela termina numa alcova com a espada.
-- [ ] **Artefato #19** — Uplink que aumenta o salto: suba na plataforma alta à frente e, antes de seguir para o próximo boost, vire à direita (não à esquerda) e pegue o item.
-- [ ] **Artefato #20** — na plataforma seguinte, o item está atrás da cerca de arame; contorne pela esquerda e use wall-run.
-- [ ] **Artefato #21** — estação de trem: suba a escada esquerda e saia para a cidade. Use o gancho para ir ao trilho da direita, siga até o fim e entre pela pequena porta sob a cobertura azul à esquerda.
-- [ ] **Artefato #22** — após o boost e os três Drones, hackeie o painel durante o wall-run; hackeie-o de novo para abrir o caminho à esquerda para a plataforma do item.
+- [x] **Espada #8** — pegue a tirolesa que curva à direita; ela termina numa alcova com a espada.
+- [x] **Artefato #19** — Uplink que aumenta o salto: suba na plataforma alta à frente e, antes de seguir para o próximo boost, vire à direita (não à esquerda) e pegue o item.
+- [x] **Artefato #20** — na plataforma seguinte, o item está atrás da cerca de arame; contorne pela esquerda e use wall-run.
+- [x] **Artefato #21** — estação de trem: suba a escada esquerda e saia para a cidade. Use o gancho para ir ao trilho da direita, siga até o fim e entre pela pequena porta sob a cobertura azul à esquerda.
+- [x] **Artefato #22** — após o boost e os três Drones, hackeie o painel durante o wall-run; hackeie-o de novo para abrir o caminho à esquerda para a plataforma do item.
 
 ### Echoes — 6 itens
 
-- [ ] **Espada #9** — vire à esquerda e verá a espada distante à direita; atravesse as paredes em wall-run, volte pela parede até a rampa e deslize para retomar a rota.
-- [ ] **Espada #10** — após a primeira luta contra uma Máquina, retorne à rampa por onde veio; há uma abertura acima da posição dela. Wall-run na parede esquerda, salte à direita para a saliência.
-- [ ] **Áudio do Adam #4** — após subir pelo trilho amarelo até dois inimigos e uma Máquina, há outro inimigo/Máquina à esquerda; o áudio está no cano acima. Suba pelo próximo trilho, vire e corra pelo cano quebrado grande.
-- [ ] **Artefato #23** — depois do item no cano, suba de tirolesa; o artefato fica acima. Wall-run pela parede direita à saliência distante, vire e corra de volta pela parede para alcançar o alto.
-- [ ] **Artefato #24** — no segundo sniper e parede hackeável: olhe à esquerda, atrás das caixas; hackeie a cobertura e avance pela esquerda sem entrar na linha de tiro.
-- [ ] **Artefato #25** — ao pegar o boost de salto, não avance: caia, vire à direita e pule à saliência projetada. Depois volte, recupere o boost e prossiga.
+- [x] **Espada #9** — vire à esquerda e verá a espada distante à direita; atravesse as paredes em wall-run, volte pela parede até a rampa e deslize para retomar a rota.
+- [x] **Espada #10** — após a primeira luta contra uma Máquina, retorne à rampa por onde veio; há uma abertura acima da posição dela. Wall-run na parede esquerda, salte à direita para a saliência.
+- [x] **Áudio do Adam #4** — após subir pelo trilho amarelo até dois inimigos e uma Máquina, há outro inimigo/Máquina à esquerda; o áudio está no cano acima. Suba pelo próximo trilho, vire e corra pelo cano quebrado grande.
+- [x] **Artefato #23** — depois do item no cano, suba de tirolesa; o artefato fica acima. Wall-run pela parede direita à saliência distante, vire e corra de volta pela parede para alcançar o alto.
+- [x] **Artefato #24** — no segundo sniper e parede hackeável: olhe à esquerda, atrás das caixas; hackeie a cobertura e avance pela esquerda sem entrar na linha de tiro.
+- [x] **Artefato #25** — ao pegar o boost de salto, não avance: caia, vire à direita e pule à saliência projetada. Depois volte, recupere o boost e prossiga.
 
 ### Faster — 1 item
 
-- [ ] **Artefato #26** — pouco antes do primeiro gancho, atravesse a porta destrancada; está imediatamente à esquerda.
+- [x] **Artefato #26** — pouco antes do primeiro gancho, atravesse a porta destrancada; está imediatamente à esquerda.
 
 ### In Her Own Image — 1 item
 
-- [ ] **Espada #11 — automática** — recebida ao concluir a fase.
+- [x] **Espada #11 — automática** — recebida ao concluir a fase.
 
 ### The Forbidden Zone — 5 itens
 
-- [ ] **Áudio do Adam #5** — começo, sala da primeira torreta; no alto à direita, sobre caixas grandes.
-- [ ] **Artefato #27** — após deslizar para a sala com inimigo à frente e outro à esquerda, mate o terceiro na esquina; wall-run na parede frontal para a direita e depois na superfície esquerda até a plataforma do item.
-- [ ] **Artefato #28** — após destruir três torretas com feixes sobrepostos, procure o grafite **“don’t be fooled”** à direita. Corra até a parede, olhe para cima/atrás e use o gancho para ser lançado ao item.
-- [ ] **Artefato #29** — depois do trilho ascendente e dois inimigos que saltam, vá à direita e caia antes de continuar.
-- [ ] **Espada #12** — após deslizar para a luta contra duas Máquinas, entre por baixo da porta de persiana semiaberta à esquerda; item atrás das caixas.
+- [x] **Áudio do Adam #5** — começo, sala da primeira torreta; no alto à direita, sobre caixas grandes.
+- [x] **Artefato #27** — após deslizar para a sala com inimigo à frente e outro à esquerda, mate o terceiro na esquina; wall-run na parede frontal para a direita e depois na superfície esquerda até a plataforma do item.
+- [x] **Artefato #28** — após destruir três torretas com feixes sobrepostos, procure o grafite **“don’t be fooled”** à direita. Corra até a parede, olhe para cima/atrás e use o gancho para ser lançado ao item.
+- [x] **Artefato #29** — depois do trilho ascendente e dois inimigos que saltam, vá à direita e caia antes de continuar.
+- [x] **Espada #12** — após deslizar para a luta contra duas Máquinas, entre por baixo da porta de persiana semiaberta à esquerda; item atrás das caixas.
 
 ### Reign in Hell — 6 itens
 
@@ -156,3 +156,4 @@ O DLC tem **7 espadas** (uma automática), **10 artefatos** e **8 áudios**, dis
 - [ ] **2 áudios e 1 espada.** Abra a rota com screenshots: [Steam Community — Beyond the Barricade](https://steamcommunity.com/sharedfiles/filedetails/?id=2772976971).
 
 > A página da Steam foi removida/ficou marcada como incompatível, mas ainda expõe o guia e suas screenshots. Se ela parar de abrir de vez, o vídeo acima é o fallback 25/25.
+

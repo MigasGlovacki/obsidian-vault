@@ -131,10 +131,7 @@ Som ambiente.
 
 Mostrar:
 
-- [ ] quase caindo
-- [ ] quebrando bloco errado
-- [ ] mob aparecendo
-- [ ] momento engraçado
+- [x] mob aparecendo
 
 Freeze.
 
@@ -154,7 +151,7 @@ Filtro vermelho.
 > 
 > all it takes...
 > 
-> is one misplaced block.
+> is one single mob.
 
 _(Nesse momento você pode colocar o meme, record scratch, zoom, etc.)_
 
@@ -197,10 +194,10 @@ Replay mostrando tudo acontecendo.
 
 Replay Mod.
 
-- [ ] Timelapse.
-- [ ] Drone shot.
-- [ ] Mostrar construção da casa.
-- [ ] Mostrar decoração.
+- [x] Timelapse.
+- [x] Drone shot.
+- [x] Mostrar construção da casa.
+- [x] Mostrar decoração.
 
 ### 🎙️ Narração
 
@@ -219,12 +216,9 @@ Música aumenta.
 
 Mostrar:
 
-- [ ] ilha inteira
-- [ ] árvores
-- [ ] plantações
-- [ ] casa
-- [ ] baús
-- [ ] sunset
+- [x] ilha inteira
+- [x] plantações
+- [x] casa
 
 Vários takes cinematográficos.
 
@@ -263,6 +257,7 @@ Vai se afastando.
 Fade to black.
 
 ### 🎙️ Narração
+
 > After one hundred days...
 > 
 > the void no longer felt empty.
@@ -284,17 +279,5 @@ A câmera continua se afastando.
 A ilha fica cada vez menor.
 
 Até desaparecer completamente no vazio.
-
----
-
-## Um detalhe que eu adicionaria
-
-Tem uma técnica de storytelling muito usada em documentários: **fechar um ciclo**.
-
-Você começou mostrando a ilha pronta.
-
-Agora, no final, faz exatamente o mesmo movimento de câmera... só que um pouco mais longo. O espectador percebe, mesmo inconscientemente, que voltou ao ponto de partida.
-
-Isso dá uma sensação de conclusão muito forte e faz o vídeo parecer muito mais planejado do que simplesmente "mostrar gameplay". É um detalhe simples, mas que passa uma imagem de editor que pensa na narrativa como um todo, e não apenas nos efeitos.
 
 
