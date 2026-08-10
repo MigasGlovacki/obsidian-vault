@@ -11,3 +11,8 @@
 - **Momento difícil:** arena final de **The Forbidden Zone** (12ª fase), passou ~30 min tentando limpar os inimigos numa posição bem desvantajosa — uma das partes mais difíceis do jogo, contando os bosses. Estresse real, mas conseguiu passar.
 - **Impressão:** jogo está quebrando a sequência de drops; João está se divertindo de verdade e empolgado com o guia de colecionáveis.
 - **Conquistas:** 14/45 no total — ver [[Guia de conquistas do Ghostrunner]].
+
+## Sessão 2 — 10/08/2026
+
+- **Progresso:** terminou **Reign in Hell** (13ª fase). Faltam 3 fases para o fim: Things You Wouldn't Believe, The Summit e The Monster.
+- **Momento que marcou — o grande plot twist:** a Mara quer transformar todos os humanos em criações dela, implantando em cada um implantes corrompidos para que todos fiquem do jeito que ela quer. E no cyberspace da fase, o Arquiteto revelou ao Jack: ele não nasceu — sempre foi um Ghostrunner, nunca teve uma vida antes, não tem implantes... porque **ele é um implante**. O Jack não nasceu: foi criado.
