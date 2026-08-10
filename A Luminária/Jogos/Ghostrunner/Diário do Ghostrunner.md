@@ -7,5 +7,6 @@
 
 - **Progresso:** campanha avançando; a Zoe (amiga do Jack) encontrou uma pista de um amigo que está em crise na torre e foi atrás dela — mesmo desconfiando que podia ser uma armadilha.
 - **Momento que marcou:** a decisão da Zoe de seguir a pista mesmo com o risco; ficou a dúvida se ela vai sobreviver.
+- **Momento difícil:** numa arena da antepenúltima fase, passou ~30 min tentando limpar os inimigos numa posição bem desvantajosa — uma das partes mais difíceis do jogo, contando os bosses. Estresse real, mas conseguiu passar.
 - **Impressão:** jogo está quebrando a sequência de drops; João está se divertindo de verdade e empolgado com o guia de colecionáveis.
 - **Conquistas:** 14/45 no total — ver [[Guia de conquistas do Ghostrunner]].
