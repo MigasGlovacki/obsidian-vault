@@ -1,8 +1,8 @@
 # Guia de conquistas do [[Ghostrunner]]
 
 - **Escopo:** Campanha base + DLC **[[Project_Hel]]**.
-- **Conquistas:** 7/45
-	- **Campanha base:** 7/34
+- **Conquistas:** 14/45
+	- **Campanha base:** 14/34
 	- **DLC:** 0/11
 - **Dificuldade:** 6/10
 - **Tempo estimado**: 18h
@@ -78,7 +78,7 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 
 - [ ] **Finish Line** — complete a subida da Torre (final da campanha).
 - [x] **Out Of Order** — destrua Tom.
-- [ ] **Back To Hell** — derrote Hel.
+- [x] **Back To Hell** — derrote Hel.
 - [ ] **Artificial Selection** — derrote a Guardiã das Chaves/Keymaster.
 - [x] **Running Out Of Breath** — salve os moradores do Setor Cinco em **Breathe In**; vem ao restaurar os ventiladores e concluir o puzzle do Cybervoid.
 - [ ] **Perfection** — desbloqueie o potencial completo; vem naturalmente ao obter **Invasão/Overlord**, após Hel, em **Reign in Hell**.
@@ -112,9 +112,9 @@ As localizações e checklists de cada item ficam em [[Ghostrunner — Coletáve
 
 - [ ] **Triple A** — 3 inimigos com um Blink. Em **Things You Wouldn’t Believe**, no primeiro quarto, há plataforma com cinco Wardens: aterrisse do trilho, dash à direita, alinhe três e use Blink. Módulos **Range** e **Area** ajudam; se só matar dois, reinicie pelo checkpoint.
 - [ ] **Wave Of Mutilation** — 3 inimigos com um Ímpeto/Surge. Na mesma plataforma de cinco Wardens, alinhe três; módulos **Range, Size e Speed** ajudam.
-- [ ] **Unstoppable Force** — 3 inimigos com um Tufão/Tempest. Na mesma plataforma, chegue perto do Warden da direita e solte o Tufão; corpos lançados também podem matar outros. Módulo **Range** ajuda.
+- [x] **Unstoppable Force** — 3 inimigos com um Tufão/Tempest. Na mesma plataforma, chegue perto do Warden da direita e solte o Tufão; corpos lançados também podem matar outros. Módulo **Range** ajuda.
 - [ ] **Neuromancer** — force inimigos a matar 4 aliados com Invasão/Overlord. Depois de ganhar a habilidade, use-a nos Wardens da plataforma de cinco em **Things You Wouldn’t Believe**; não precisam ser quatro mortes consecutivas.
-- [ ] **Why Not Both** — use duas habilidades diferentes em 10 s. Com energia cheia, use Tufão ou Ímpeto, morra de propósito em um abismo (a morte repõe energia), respawne e use a outra rapidamente. Blink/Invasão dependem de alvo; Tufão + Ímpeto é a dupla simples.
+- [x] **Why Not Both** — use duas habilidades diferentes em 10 s. Com energia cheia, use Tufão ou Ímpeto, morra de propósito em um abismo (a morte repõe energia), respawne e use a outra rapidamente. Blink/Invasão dependem de alvo; Tufão + Ímpeto é a dupla simples.
 - [x] **Homerunner** — mate com um projétil refletido pelo Tufão. Espere o clarão de disparo de um inimigo armado e solte Tufão no caminho do tiro; a janela é mais generosa que a da espada.
 - [ ] **Sticks and Stones** *(Project_Hel)* — equipe **Deflexão: Absorção** e encha a barra de Fúria defletindo tiros. Não gaste Fúria durante a tentativa; procure um atirador seguro e devolva consistentemente.
 - [ ] **One Of Those Days** *(Project_Hel)* — permaneça 20 s em Fúria. Entre em Fúria já numa arena com vários projéteis/abates disponíveis e mantenha a corrente de ações que sustenta o medidor.
@@ -125,7 +125,7 @@ As localizações e checklists de cada item ficam em [[Ghostrunner — Coletáve
 - [x] **I Call It Luck** — bloqueie 5 projéteis consecutivos com espada. Para esse especificamente, **retire Deflexão: Refletir**: refletir não registra como “bloquear”. Use inimigo armado isolado e reaja ao clarão da arma.
 - [ ] **Push It To The Limit** — complete o tabuleiro PCS-GR sem casas vazias (as quatro casas X não contam). Só é possível perto do fim, após liberar todas as habilidades e o tabuleiro inteiro. Não precisa de uma combinação única: reorganize as peças como Tetris até cobrir tudo.
 - [x] **Longrunner** — percorra 42 km; já obtida.
-- [ ] **Where Are My Keys** — mate 1.000 inimigos. Deve vir pela segunda metade; se faltar, repita uma arena e deixe um inimigo vivo para o encontro reaparecer completo no próximo reset.
+- [x] **Where Are My Keys** — mate 1.000 inimigos. Deve vir pela segunda metade; se faltar, repita uma arena e deixe um inimigo vivo para o encontro reaparecer completo no próximo reset.
 
 ## Project_Hel — chefes e desafios complementares
 
