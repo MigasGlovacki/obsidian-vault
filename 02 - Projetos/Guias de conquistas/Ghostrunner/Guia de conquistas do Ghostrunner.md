@@ -1,8 +1,8 @@
 # Guia de conquistas do [[Ghostrunner]]
 
 - **Escopo:** Campanha base + DLC **[[Project_Hel]]**.
-- **Conquistas:** 14/45
-	- **Campanha base:** 14/34
+- **Conquistas:** 23/45
+	- **Campanha base:** 23/34
 	- **DLC:** 0/11
 - **Dificuldade:** 6/10
 - **Tempo estimado**: 18h
@@ -76,12 +76,12 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 
 ## Campanha base
 
-- [ ] **Finish Line** — complete a subida da Torre (final da campanha).
+- [x] **Finish Line** — complete a subida da Torre (final da campanha).
 - [x] **Out Of Order** — destrua Tom.
 - [x] **Back To Hell** — derrote Hel.
-- [ ] **Artificial Selection** — derrote a Guardiã das Chaves/Keymaster.
+- [x] **Artificial Selection** — derrote a Guardiã das Chaves/Keymaster.
 - [x] **Running Out Of Breath** — salve os moradores do Setor Cinco em **Breathe In**; vem ao restaurar os ventiladores e concluir o puzzle do Cybervoid.
-- [ ] **Perfection** — desbloqueie o potencial completo; vem naturalmente ao obter **Invasão/Overlord**, após Hel, em **Reign in Hell**.
+- [x] **Perfection** — desbloqueie o potencial completo; vem naturalmente ao obter **Invasão/Overlord**, após Hel, em **Reign in Hell**.
 
 ## Project_Hel
 
@@ -98,10 +98,10 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 
 As localizações e checklists de cada item ficam em [[Ghostrunner — Colecionáveis e 100%]]. Aqui ficam apenas as conquistas, para que cada uma exista uma única vez no tracker.
 
-- [ ] **One Man's Trash** — encontre os 35 artefatos da campanha base.
-- [ ] **Fine Addition** — encontre as 15 espadas/pinturas de katana.
-- [ ] **About Adam** — encontre os 7 áudios do Adam.
-- [ ] **Junkrunner** — complete os 57 coletáveis da campanha base.
+- [x] **One Man's Trash** — encontre os 35 artefatos da campanha base.
+- [x] **Fine Addition** — encontre as 15 espadas/pinturas de katana.
+- [x] **About Adam** — encontre os 7 áudios do Adam.
+- [x] **Junkrunner** — complete os 57 coletáveis da campanha base.
 - [ ] **Everyone Needs A Hobby** *(Project_Hel)* — complete os 25 itens do DLC.
 
 ---
@@ -111,9 +111,9 @@ As localizações e checklists de cada item ficam em [[Ghostrunner — Colecion�
 ## Habilidades e kills em grupo
 
 - [ ] **Triple A** — 3 inimigos com um Blink. Em **Things You Wouldn’t Believe**, no primeiro quarto, há plataforma com cinco Wardens: aterrisse do trilho, dash à direita, alinhe três e use Blink. Módulos **Range** e **Area** ajudam; se só matar dois, reinicie pelo checkpoint.
-- [ ] **Wave Of Mutilation** — 3 inimigos com um Ímpeto/Surge. Na mesma plataforma de cinco Wardens, alinhe três; módulos **Range, Size e Speed** ajudam.
+- [x] **Wave Of Mutilation** — 3 inimigos com um Ímpeto/Surge. Na mesma plataforma de cinco Wardens, alinhe três; módulos **Range, Size e Speed** ajudam.
 - [x] **Unstoppable Force** — 3 inimigos com um Tufão/Tempest. Na mesma plataforma, chegue perto do Warden da direita e solte o Tufão; corpos lançados também podem matar outros. Módulo **Range** ajuda.
-- [ ] **Neuromancer** — force inimigos a matar 4 aliados com Invasão/Overlord. Depois de ganhar a habilidade, use-a nos Wardens da plataforma de cinco em **Things You Wouldn’t Believe**; não precisam ser quatro mortes consecutivas.
+- [x] **Neuromancer** — force inimigos a matar 4 aliados com Invasão/Overlord. Depois de ganhar a habilidade, use-a nos Wardens da plataforma de cinco em **Things You Wouldn’t Believe**; não precisam ser quatro mortes consecutivas.
 - [x] **Why Not Both** — use duas habilidades diferentes em 10 s. Com energia cheia, use Tufão ou Ímpeto, morra de propósito em um abismo (a morte repõe energia), respawne e use a outra rapidamente. Blink/Invasão dependem de alvo; Tufão + Ímpeto é a dupla simples.
 - [x] **Homerunner** — mate com um projétil refletido pelo Tufão. Espere o clarão de disparo de um inimigo armado e solte Tufão no caminho do tiro; a janela é mais generosa que a da espada.
 - [ ] **Sticks and Stones** *(Project_Hel)* — equipe **Deflexão: Absorção** e encha a barra de Fúria defletindo tiros. Não gaste Fúria durante a tentativa; procure um atirador seguro e devolva consistentemente.
