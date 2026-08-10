@@ -6,7 +6,8 @@
 ## Sessão 1 — semana de 03 a 09/08/2026
 
 - **Progresso:** campanha avançando; a Zoe (amiga do Jack) encontrou uma pista de um amigo que está em crise na torre e foi atrás dela — mesmo desconfiando que podia ser uma armadilha.
+- **Coletáveis:** 46/57 na campanha base (completos até **The Forbidden Zone**, a antepenúltima das 14 fases). Faltam os das duas últimas: Reign in Hell e Things You Wouldn't Believe.
 - **Momento que marcou:** a decisão da Zoe de seguir a pista mesmo com o risco; ficou a dúvida se ela vai sobreviver.
-- **Momento difícil:** numa arena da antepenúltima fase, passou ~30 min tentando limpar os inimigos numa posição bem desvantajosa — uma das partes mais difíceis do jogo, contando os bosses. Estresse real, mas conseguiu passar.
+- **Momento difícil:** arena final de **The Forbidden Zone** (antepenúltima fase), passou ~30 min tentando limpar os inimigos numa posição bem desvantajosa — uma das partes mais difíceis do jogo, contando os bosses. Estresse real, mas conseguiu passar.
 - **Impressão:** jogo está quebrando a sequência de drops; João está se divertindo de verdade e empolgado com o guia de colecionáveis.
 - **Conquistas:** 14/45 no total — ver [[Guia de conquistas do Ghostrunner]].
