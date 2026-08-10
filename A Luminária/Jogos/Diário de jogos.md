@@ -9,6 +9,7 @@
 
 ## Em andamento
 - [[Diário do Ghostrunner]] — campanha base em progresso, 14/45 conquistas.
+- [[Diário do Geometry Dash]] — comfort game e desafio próprio; marcos de demons e fases zeradas.
 
 ## Arquivo
 - *(espaço para os próximos jogos)*
