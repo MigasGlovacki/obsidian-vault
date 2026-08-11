@@ -71,7 +71,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 - **STARPUNK — positiva e tranquila.** João se divertiu com o flow da fase e destacou o sync muito bom com a música.
 - **Space Circles — positiva e mais fácil na wave do que o esperado.** João achou o cubo inicial mais difícil que o de Problematic e a ship exigente por pedir inputs precisos; a wave foi a parte mais tranquila.
-- **weird — concluída em 10/08/2026 (Easy Demon).** Impressão a confirmar com João.
+- **weird — tranquila e mais fácil que a anterior.** João achou a fase bem tranquila (mais fácil que MUNDUS SANGUINANS); o final era o ponto de atenção — ship subindo com orbs (algo que ele ainda está se acostumando) e um cubo com pulo único que ele errava bastante nos treinos, mas acertou na run oficial.
 ## Como eu posso escolher uma fase para você depois
 
 Quando você me disser que quer jogar um pouco, eu posso escolher pelo treino do dia:
