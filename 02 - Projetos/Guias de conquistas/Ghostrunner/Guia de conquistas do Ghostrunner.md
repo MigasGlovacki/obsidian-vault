@@ -1,8 +1,8 @@
 # Guia de conquistas do [[Ghostrunner]]
 
 - **Escopo:** Campanha base + DLC **[[Project_Hel]]**.
-- **Conquistas:** 31/45
-	- **Campanha base:** 31/34
+- **Conquistas:** 34/45
+	- **Campanha base:** 34/34 ✅
 	- **DLC:** 0/11
 - **Dificuldade:** 6/10
 - **Tempo estimado**: 18h
@@ -55,8 +55,8 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 - [x] **Wallrunner** — 74 mortes logo após saltar de uma parede. Faça ataques aéreos saindo de wall-run sempre que houver inimigos; tende a vir naturalmente até **Breathe In**.
 - [x] **Strike** — derrube um Drone sobre 3 inimigos de uma vez. Em **Things You Wouldn’t Believe**, cerca de 3/4 da fase, há uma arena com 4 Drones, Keys e Shifters; leve o Drone do fundo à esquerda para a plataforma com dois Keys e espere um Shifter aparecer lá. Se não agruparem 3, caia e reinicie o checkpoint.
 - [x] **Improvise Adapt Overrun** — mate um sniper sem se aproximar. Em **Echoes**, use as coberturas antes do vão central e acerte o sniper de longe com **Tufão** (de preferência com alcance) ou Ímpeto.
-- [ ] **Preemptive Strike** — mate um Divisor antes da divisão. Em **Things You Wouldn’t Believe**, no fim da fase, elimine o Slugger elevado; do lado direito da borda, acerte o Divisor do outro lado com Ímpeto equipado com tamanho/alcance.
-- [ ] **Hit Me If You Can** — bloqueie cinco ataques seguidos de Protetores/Wardens. O primeiro Warden de **Echoes** fica isolado: fique perto, observe quando ele recua e bloqueie o avanço; não o mate antes das cinco defesas.
+- [x] **Preemptive Strike** — mate um Divisor antes da divisão. Em **Things You Wouldn’t Believe**, no fim da fase, elimine o Slugger elevado; do lado direito da borda, acerte o Divisor do outro lado com Ímpeto equipado com tamanho/alcance. Alternativa que funcionou na prática (João): em vez de matar o Slugger, **hackeie-o com Invasão/Overlord** e deixe que ele pule em cima do Divisor — o impacto mata antes da divisão.
+- [x] **Hit Me If You Can** — bloqueie cinco ataques seguidos de Protetores/Wardens. O primeiro Warden de **Echoes** fica isolado: fique perto, observe quando ele recua e bloqueie o avanço; não o mate antes das cinco defesas.
 - [x] **R Is For Running** — termine uma fase sem morrer. **An Awakening** é a escolha mais curta e segura. Memorize o trajeto e jogue sem pressa.
 - [x] **More Than Human** — 23 mortes seguidas sem morrer. Pode combinar com a tentativa sem mortes em **An Awakening**: reinicie a fase depois de uma corrida limpa e mantenha-se vivo; os abates consecutivos das corridas contam. Alternativa: início de **Things You Wouldn’t Believe** com shurikens e a plataforma dos Wardens.
 - [x] **Upgrades Not Mandatory** — 10 mortes seguidas sem usar Reforço Sensorial. No começo de **Things You Wouldn’t Believe**, após a plataforma inicial há uma sala com 10 Wrecks e uma reposição de shurikens: circule pelo lado de fora das caixas e elimine todos sem apertar o Reforço Sensorial (Blink também conta — o que invalida é o Reforço).
@@ -90,7 +90,7 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 
 ## Conclusão
 
-- [ ] **GR Project Complete** — obtenha todas as outras conquistas do conjunto-base. Na Steam, confirme a lista: as 11 do Project_Hel são um bloco adicional e não devem impedir este desbloqueio da campanha original.
+- [x] **GR Project Complete** — obtenha todas as outras conquistas do conjunto-base. Na Steam, confirme a lista: as 11 do Project_Hel são um bloco adicional e não devem impedir este desbloqueio da campanha original.
 
 ---
 

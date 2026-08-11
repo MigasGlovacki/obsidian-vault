@@ -34,3 +34,11 @@
 - **Momento que marcou — duas conquistas no mesmo lugar:** na sala dos 10 Wrecks do começo de *Things You Wouldn't Believe*, João alinhou um monte de inimigos e cortou todo mundo num golpe só com o Blink — **Triple A** na hora. Resetou o checkpoint no mesmo spot e repetiu a limpeza sem Reforço Sensorial: **Upgrades Not Mandatory**. Dois troféus na mesma sala, com o reset funcionando como replay instantâneo.
 - **Impressão:** "bem legais as conquistas desse jogo, tô gostando bastante" — a limpeza está rendendo e o formato das conquistas está agradando de verdade.
 - **Próximas da base:** **Hit Me If You Can** (Warden isolado de *Echoes*) e **Preemptive Strike** (Divisor no fim de *Things You Wouldn't Believe*); depois disso, só a **GR Project Complete** para fechar a campanha base e entrar no **Project_Hel**.
+
+## Sessão 5 — 11/08/2026 (campanha base 100%! 🏆)
+
+- **Conquistas:** +3 → **34/45** (campanha base **34/34**): **Hit Me If You Can**, **Preemptive Strike** e **GR Project Complete**.
+- **Momento que marcou — a jogada de mestre:** na **Preemptive Strike**, João trocou a rota do guia por uma estratégia própria: em vez de matar o Slugger elevado, ele **hackeou o inimigo com Invasão/Overlord** e o Slugger pulou em cima do Divisor, matando-o antes da divisão. Uma conquista técnica resolvida com criatividade — e a **GR Project Complete** caiu junto na mesma jogada.
+- **Hit Me If You Can:** saiu certinho como o guia ensinava — bloqueio dos 5 ataques do Warden isolado de *Echoes*, sem matar ele no meio.
+- **Impressão:** a estratégia alternativa funcionou melhor que a rota padrão; campanha base fechada em 100% no mesmo dia da limpeza. Fica o registro: vale a pena explorar o Invasão em desafios de precisão.
+- **Próxima fronteira:** **Project_Hel** (0/11) — quando João quiser mergulhar na DLC.
