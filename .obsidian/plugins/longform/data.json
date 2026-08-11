@@ -1,10 +1,20 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Longform/Green Affection/Index.md",
+  "selectedDraftVaultPath": "Longform/Green Afection/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2026-08-11T00:30:24.151Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Green Afection/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
     {
       "start": "2026-08-10T02:36:30.036Z",
       "total": 0,
@@ -334,19 +344,6 @@
     },
     {
       "start": "2026-05-01T18:28:50.456Z",
-      "total": 0,
-      "drafts": {
-        "Our Time Together/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Capa": 0,
-            "1.1 Despertar-Joao": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-04-30T04:11:06.588Z",
       "total": 0,
       "drafts": {
         "Our Time Together/Index.md": {
