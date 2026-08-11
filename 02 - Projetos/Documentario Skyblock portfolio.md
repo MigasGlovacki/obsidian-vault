@@ -29,25 +29,18 @@ tags:
 
 ### 🎙️ Narração (EN)
 
-> Every great world begins with a single step.
-> 
-> But in Skyblock...
-> 
-> there isn't even a world.
-> 
-> Just a tiny island...
-> 
-> suspended above an endless void.
-> 
-> No villages.
-> 
-> No caves.
-> 
-> No second chances.
-> 
-> Only the resources you're given...
-> 
-> and whatever you're able to create.
+```
+Every great world begins with a single step.
+But in Skyblock...
+there isn't even a world.
+Just a tiny island...
+suspended above an endless void.
+No villages.
+No caves.
+No second chances.
+Only the resources you're given...
+and whatever you're able to create.
+```
 
 ---
 
@@ -63,17 +56,19 @@ tags:
 
 ### 🎙️ Narração
 
-> This was everything I owned.
-> 
-> One tree.
-> 
-> One chest.
-> 
-> A bucket of lava.
-> 
-> A bucket of water.
-> 
-> And one mistake away from losing everything.
+```
+This was everything I owned.
+
+One tree.
+
+One chest.
+
+A bucket of lava.
+
+One block of ice.
+
+And one mistake away from losing everything.
+```
 
 ---
 
@@ -93,13 +88,15 @@ Som ambiente.
 
 ### 🎙️ Narração
 
-> Before I could think about expanding...
-> 
-> I needed something much more important.
-> 
-> A renewable source of stone.
-> 
-> This simple machine would become the foundation for everything that came next.
+```
+Before I could think about expanding...
+
+I needed something much more important.
+
+A renewable source of stone.
+
+This simple machine would become the foundation for everything that came next.
+```
 
 ---
 
@@ -113,15 +110,17 @@ Som ambiente.
 
 ### 🎙️ Narração
 
-> Progress in Skyblock isn't measured in chunks explored.
-> 
-> It's measured...
-> 
-> one block at a time.
-> 
-> Every new platform meant more room to survive...
-> 
-> and fewer chances to fall into the void.
+```
+Progress in Skyblock isn't measured in chunks explored.
+
+It's measured...
+
+one block at a time.
+
+Every new platform meant more room to survive...
+
+and fewer chances to fall into the void.
+```
 
 ---
 
@@ -141,17 +140,19 @@ Filtro vermelho.
 
 ### 🎙️ Narração
 
-> Of course...
-> 
-> Skyblock has a way of reminding you...
-> 
-> that confidence can be dangerous.
-> 
-> Sometimes...
-> 
-> all it takes...
-> 
-> is one single mob.
+```
+Of course...
+
+Skyblock has a way of reminding you...
+
+that confidence can be dangerous.
+
+Sometimes...
+
+all it takes...
+
+is one single mob.
+```
 
 _(Nesse momento você pode colocar o meme, record scratch, zoom, etc.)_
 
@@ -172,19 +173,21 @@ Replay mostrando tudo acontecendo.
 
 ### 🎙️ Narração
 
-> Little by little...
-> 
-> the island stopped feeling empty.
-> 
-> Every tree planted...
-> 
-> every block mined...
-> 
-> every resource collected...
-> 
-> pushed the island one step further from survival...
-> 
-> and closer to becoming a home.
+```
+Little by little...
+
+the island stopped feeling empty.
+
+Every tree planted...
+
+every block mined...
+
+every resource collected...
+
+pushed the island one step further from survival...
+
+and closer to becoming a home.
+```
 
 ---
 
@@ -201,11 +204,13 @@ Replay Mod.
 
 ### 🎙️ Narração
 
-> Once survival was no longer a daily struggle...
-> 
-> I finally had the freedom to build something that wasn't just practical...
-> 
-> but beautiful.
+```
+Once survival was no longer a daily struggle...
+
+I finally had the freedom to build something that wasn't just practical...
+
+but beautiful.
+```
 
 ---
 
@@ -224,23 +229,25 @@ Vários takes cinematográficos.
 
 ### 🎙️ Narração
 
-> One hundred days ago...
-> 
-> this place was nothing more than a lonely patch of dirt...
-> 
-> floating above an endless void.
-> 
-> Today...
-> 
-> it's proof that even the smallest beginning...
-> 
-> can become something extraordinary...
-> 
-> with enough patience...
-> 
-> creativity...
-> 
-> and determination.
+```
+One hundred days ago...
+
+this place was nothing more than a lonely patch of dirt...
+
+floating above an endless void.
+
+Today...
+
+it's proof that even the smallest beginning...
+
+can become something extraordinary...
+
+with enough patience...
+
+creativity...
+
+and determination.
+```
 
 ---
 
@@ -258,13 +265,15 @@ Fade to black.
 
 ### 🎙️ Narração
 
-> After one hundred days...
-> 
-> the void no longer felt empty.
-> 
-> It felt...
-> 
-> like home.
+```
+After one hundred days...
+
+the void no longer felt empty.
+
+It felt...
+
+like home.
+```
 
 ---
 
@@ -279,5 +288,4 @@ A câmera continua se afastando.
 A ilha fica cada vez menor.
 
 Até desaparecer completamente no vazio.
-
 
