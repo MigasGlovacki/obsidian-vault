@@ -27,11 +27,11 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual:** weird — **concluída em 11/08/2026** ✅ (próxima fase a escolher com a Moni)
-- **Foco:** Ship & Wave — alternar entre controle suave de ship e microajustes de wave sem carregar tensão de um modo para o outro.
-- **Impressão inicial:** João fez uma prática completa; a fase é estranha no flow, mas parece mais fácil que MUNDUS SANGUINANS e deve ir de boa.
-- **Objetivo da sessão:** aprender a rota e transformar essa familiaridade inicial em consistência na fase normal.
-- **Ao completar:** registrar a impressão do João e escolher a próxima fase conforme o que ele quiser desenvolver.
+- **Fase atual:** Tabasco (talia) — foco **Overall**
+- **Foco:** leitura, transições e consistência com ritmo moderno; não depender só de decorar.
+- **Impressão inicial:** escolhida após o "weird" (11/08) para melhorar a skill geral.
+- **Objetivo da sessão:** revisão geral — ler a fase em tempo real, transições limpas e consistência.
+- **Ao completar:** registrar a impressão do João e marcar 8/29 no checklist.
 ## Checklist do tier Beginner
 
 | Feita | Fase               | Criador(es)                   | Foco do GDDP          | O que isso treina na gameplay                                                                                                                                                |
