@@ -27,3 +27,10 @@
 - **Conquistas:** +3 → **26/45** (campanha base 26/34): **R Is For Running**, **More Than Human** e **Push It To The Limit**.
 - **Momento difícil:** More Than Human exigiu **6 restarts do primeiro capítulo** — um inimigo específico derrubava a sequência toda vez; no fim, a persistência venceu.
 - **Impressão:** sessão de limpeza eficiente seguindo o roadmap da build de Surge; próximas ficam para outra sessão.
+
+## Sessão 4 — 11/08/2026 (limpeza pós-campanha)
+
+- **Conquistas:** +5 → **31/45** (campanha base 31/34): **Running Wild**, **Triple A**, **Upgrades Not Mandatory**, **Strike** e **Improvise Adapt Overrun**.
+- **Momento que marcou — duas conquistas no mesmo lugar:** na sala dos 10 Wrecks do começo de *Things You Wouldn't Believe*, João alinhou um monte de inimigos e cortou todo mundo num golpe só com o Blink — **Triple A** na hora. Resetou o checkpoint no mesmo spot e repetiu a limpeza sem Reforço Sensorial: **Upgrades Not Mandatory**. Dois troféus na mesma sala, com o reset funcionando como replay instantâneo.
+- **Impressão:** "bem legais as conquistas desse jogo, tô gostando bastante" — a limpeza está rendendo e o formato das conquistas está agradando de verdade.
+- **Próximas da base:** **Hit Me If You Can** (Warden isolado de *Echoes*) e **Preemptive Strike** (Divisor no fim de *Things You Wouldn't Believe*); depois disso, só a **GR Project Complete** para fechar a campanha base e entrar no **Project_Hel**.

@@ -1,8 +1,8 @@
 # Guia de conquistas do [[Ghostrunner]]
 
 - **Escopo:** Campanha base + DLC **[[Project_Hel]]**.
-- **Conquistas:** 26/45
-	- **Campanha base:** 26/34
+- **Conquistas:** 31/45
+	- **Campanha base:** 31/34
 	- **DLC:** 0/11
 - **Dificuldade:** 6/10
 - **Tempo estimado**: 18h
@@ -53,14 +53,14 @@ Ainda assim, há conquistas **sensíveis à situação**. Vale tentar quando a f
 - [x] **Can't Run Can't Hide** — 5 mortes por habilidade em inimigos ainda sob o Orbe Defensor. Não quebre o orbe azul: Blink, Tufão ou Ímpeto atravessam o escudo. Os três primeiros combates de **The Climb** são o melhor lugar.
 - [x] **Sword To A Gunfight** — equipe **Deflexão: Refletir** e devolva 30 projéteis para matar. Faça naturalmente contra inimigos isolados; aproxime-se para facilitar a mira do rebote.
 - [x] **Wallrunner** — 74 mortes logo após saltar de uma parede. Faça ataques aéreos saindo de wall-run sempre que houver inimigos; tende a vir naturalmente até **Breathe In**.
-- [ ] **Strike** — derrube um Drone sobre 3 inimigos de uma vez. Em **Things You Wouldn’t Believe**, cerca de 3/4 da fase, há uma arena com 4 Drones, Keys e Shifters; leve o Drone do fundo à esquerda para a plataforma com dois Keys e espere um Shifter aparecer lá. Se não agruparem 3, caia e reinicie o checkpoint.
-- [ ] **Improvise Adapt Overrun** — mate um sniper sem se aproximar. Em **Echoes**, use as coberturas antes do vão central e acerte o sniper de longe com **Tufão** (de preferência com alcance) ou Ímpeto.
+- [x] **Strike** — derrube um Drone sobre 3 inimigos de uma vez. Em **Things You Wouldn’t Believe**, cerca de 3/4 da fase, há uma arena com 4 Drones, Keys e Shifters; leve o Drone do fundo à esquerda para a plataforma com dois Keys e espere um Shifter aparecer lá. Se não agruparem 3, caia e reinicie o checkpoint.
+- [x] **Improvise Adapt Overrun** — mate um sniper sem se aproximar. Em **Echoes**, use as coberturas antes do vão central e acerte o sniper de longe com **Tufão** (de preferência com alcance) ou Ímpeto.
 - [ ] **Preemptive Strike** — mate um Divisor antes da divisão. Em **Things You Wouldn’t Believe**, no fim da fase, elimine o Slugger elevado; do lado direito da borda, acerte o Divisor do outro lado com Ímpeto equipado com tamanho/alcance.
 - [ ] **Hit Me If You Can** — bloqueie cinco ataques seguidos de Protetores/Wardens. O primeiro Warden de **Echoes** fica isolado: fique perto, observe quando ele recua e bloqueie o avanço; não o mate antes das cinco defesas.
 - [x] **R Is For Running** — termine uma fase sem morrer. **An Awakening** é a escolha mais curta e segura. Memorize o trajeto e jogue sem pressa.
 - [x] **More Than Human** — 23 mortes seguidas sem morrer. Pode combinar com a tentativa sem mortes em **An Awakening**: reinicie a fase depois de uma corrida limpa e mantenha-se vivo; os abates consecutivos das corridas contam. Alternativa: início de **Things You Wouldn’t Believe** com shurikens e a plataforma dos Wardens.
-- [ ] **Upgrades Not Mandatory** — 10 mortes seguidas sem usar Reforço Sensorial. No começo de **Things You Wouldn’t Believe**, após a plataforma inicial há uma sala com 10 Wrecks e uma reposição de shurikens: circule pelo lado de fora das caixas e elimine todos com shurikens, sem apertar o Reforço Sensorial.
-- [ ] **Running Wild** — em 1 s, faça impulso + wall-run + deslize + transposição (gap jammer). Ordem mais confiável: **impulso → deslize → transposição diretamente numa parede → wall-run**. O salto só registra wall-run se vier após a transposição; tente num gancho que termine em parede.
+- [x] **Upgrades Not Mandatory** — 10 mortes seguidas sem usar Reforço Sensorial. No começo de **Things You Wouldn’t Believe**, após a plataforma inicial há uma sala com 10 Wrecks e uma reposição de shurikens: circule pelo lado de fora das caixas e elimine todos sem apertar o Reforço Sensorial (Blink também conta — o que invalida é o Reforço).
+- [x] **Running Wild** — em 1 s, faça impulso + wall-run + deslize + transposição (gap jammer). Ordem mais confiável: **impulso → deslize → transposição diretamente numa parede → wall-run**. O salto só registra wall-run se vier após a transposição; tente num gancho que termine em parede.
 
 ### Project_Hel — objetivos de missão (não perdem o DLC, mas exigem replay limpo)
 
@@ -110,7 +110,7 @@ As localizações e checklists de cada item ficam em [[Ghostrunner — Colecion�
 
 ## Habilidades e kills em grupo
 
-- [ ] **Triple A** — 3 inimigos com um Blink. Em **Things You Wouldn’t Believe**, no primeiro quarto, há plataforma com cinco Wardens: aterrisse do trilho, dash à direita, alinhe três e use Blink. Módulos **Range** e **Area** ajudam; se só matar dois, reinicie pelo checkpoint.
+- [x] **Triple A** — 3 inimigos com um Blink. Em **Things You Wouldn’t Believe**, no primeiro quarto, há plataforma com cinco Wardens: aterrisse do trilho, dash à direita, alinhe três e use Blink. Módulos **Range** e **Area** ajudam; se só matar dois, reinicie pelo checkpoint. Alternativa que funcionou na prática: na sala dos 10 Wrecks, alinhe um grupo e corte com um Blink só.
 - [x] **Wave Of Mutilation** — 3 inimigos com um Ímpeto/Surge. Na mesma plataforma de cinco Wardens, alinhe três; módulos **Range, Size e Speed** ajudam.
 - [x] **Unstoppable Force** — 3 inimigos com um Tufão/Tempest. Na mesma plataforma, chegue perto do Warden da direita e solte o Tufão; corpos lançados também podem matar outros. Módulo **Range** ajuda.
 - [x] **Neuromancer** — force inimigos a matar 4 aliados com Invasão/Overlord. Depois de ganhar a habilidade, use-a nos Wardens da plataforma de cinco em **Things You Wouldn’t Believe**; não precisam ser quatro mortes consecutivas.
