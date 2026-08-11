@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-11T14:51:05.835Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Green Afection/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2026-08-11T00:30:24.151Z",
       "total": 0,
       "drafts": {
@@ -331,19 +341,6 @@
     },
     {
       "start": "2026-05-02T23:46:15.208Z",
-      "total": 0,
-      "drafts": {
-        "Our Time Together/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Capa": 0,
-            "1.1 Despertar-Joao": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-05-01T18:28:50.456Z",
       "total": 0,
       "drafts": {
         "Our Time Together/Index.md": {
