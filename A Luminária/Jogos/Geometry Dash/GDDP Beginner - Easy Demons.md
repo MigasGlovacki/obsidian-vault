@@ -27,7 +27,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual:** weird — **concluída em 10/08/2026** ✅ (próxima fase a escolher com a Moni)
+- **Fase atual:** weird — **concluída em 11/08/2026** ✅ (próxima fase a escolher com a Moni)
 - **Foco:** Ship & Wave — alternar entre controle suave de ship e microajustes de wave sem carregar tensão de um modo para o outro.
 - **Impressão inicial:** João fez uma prática completa; a fase é estranha no flow, mas parece mais fácil que MUNDUS SANGUINANS e deve ir de boa.
 - **Objetivo da sessão:** aprender a rota e transformar essa familiaridade inicial em consistência na fase normal.
@@ -47,7 +47,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 | [ ]   | X                  | TriAxis                       | Overall               | Fundamentos antigos de demon: timings simples, ship, ball, cube e paciência com gameplay 2.0.                                                                                |
 | [ ]   | Buried Angel       | f3lixsram                     | Fast GM Switches      | Trocas rápidas de modo de jogo; reagir limpo a portal atrás de portal.                                                                                                       |
 | [ ]   | MAYMORY            | ItzKiba                       | Memorization          | Memorização leve: criar mapa mental da fase e não depender só da primeira leitura.                                                                                           |
-- [x]   | weird              | llertt                        | Ship & Wave           | Controle fino de ship e wave no mesmo nível; alternar entre voar suave e ajustar rápido. **Concluída em 10/08/2026** (Easy Demon) após run 93–100.                             |
+- [x]   | weird              | llertt                        | Ship & Wave           | Controle fino de ship e wave no mesmo nível; alternar entre voar suave e ajustar rápido. **Concluída em 11/08/2026** (Easy Demon) após run 93–100.                             |
 | [ ]   | CHALK              | BrainETR                      | Timings               | Cliques mais precisos, pouca margem de erro e disciplina para praticar pontos específicos.                                                                                   |
 | [ ]   | BITBLEXIT          | Alphirox                      | Fast Paced & High CPS | Gameplay acelerada e CPS mais alto; sustentar ritmo sem tensionar demais a mão.                                                                                              |
 | [ ]   | ALLOY              | Crysticai                     | Swing & Wave          | Mistura de swing e wave; aprender a trocar entre inércia e microcontrole.                                                                                                    |
