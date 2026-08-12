@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
+                "file": "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moedas das fases oficiais"
+              "title": "Diário do Minecraft"
             }
           }
         ],
@@ -267,8 +267,10 @@
   },
   "active": "c9eb512a46e057c6",
   "lastOpenFiles": [
-    "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
+    "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
+    "A Luminária/Jogos/Minecraft",
+    "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "A Luminária/Jogos/Geometry Dash/MoniDash - Dificuldades dos Demons.md",
     "A Luminária/Jogos/Diário de jogos.md",
@@ -297,12 +299,10 @@
     "02 - Projetos/Guias de conquistas/Ghostrunner",
     "02 - Projetos/Guias de conquistas",
     "A Luminária/00 - Início.md",
-    "A Luminária/Projetos/Portfólio de edição - samples.md",
     "A Luminária/Jogos/Ghostrunner",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/tutors.schema.json",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.49.07.png",
     "Attachments/2026-05-14_20.47.15.png",
