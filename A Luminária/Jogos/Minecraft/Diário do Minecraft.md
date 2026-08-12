@@ -12,7 +12,10 @@
 
 ## Coordenadas importantes
 
+**Formato: X, Y**
+
 - **Casa:** -3419, -5608
+- **Portal do End:** -2289, 769
 
 ## Próximo objetivo: resolver comida
 
