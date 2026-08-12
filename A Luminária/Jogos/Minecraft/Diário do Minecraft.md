@@ -12,7 +12,7 @@
 
 ## Coordenadas importantes
 
-- **Casa:** -3419, -56
+- **Casa:** -3419, -5608
 
 ## Próximo objetivo: resolver comida
 

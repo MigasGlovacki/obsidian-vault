@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
+                "file": "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -265,7 +265,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9eb512a46e057c6",
+  "active": "ec0085ee7b65a191",
   "lastOpenFiles": [
     "A Luminária/Jogos/Diário de jogos.md",
     "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
