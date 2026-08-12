@@ -7,27 +7,27 @@
 ---
 
 ## Stereo Madness
-- [ ] **Moeda 1 — 50%** (cubo) — Depois da primeira seção de nave: pule 2× nas duas primeiras colunas, deslize pelo vão da terceira e pule de novo (ou pule 3× e desça pela quarta coluna).
-- [ ] **Moeda 2 — 74%** (cubo) — Após quatro plataformas estreitas, pule 4× numa linha de blocos descendentes e pule do penúltimo bloco.
-- [ ] **Moeda 3 — 98%** (nave) — Na segunda seção de nave, passe o primeiro par de obstáculos e entre na fenda perto do segundo obstáculo do teto; o fundo fica vermelho e abre passagem estreita com spikes.
+- [x] **Moeda 1 — 50%** (cubo) — Depois da primeira seção de nave: pule 2× nas duas primeiras colunas, deslize pelo vão da terceira e pule de novo (ou pule 3× e desça pela quarta coluna).
+- [x] **Moeda 2 — 74%** (cubo) — Após quatro plataformas estreitas, pule 4× numa linha de blocos descendentes e pule do penúltimo bloco.
+- [x] **Moeda 3 — 98%** (nave) — Na segunda seção de nave, passe o primeiro par de obstáculos e entre na fenda perto do segundo obstáculo do teto; o fundo fica vermelho e abre passagem estreita com spikes.
 
 ## Back On Track
-- [ ] **Moeda 1 — 41%** (cubo) — Após descer um lance de plataformas, pule 2× em duas plataformas e deslize até um pad de gravidade escondido que lança na moeda + portal de gravidade.
-- [ ] **Moeda 2 — 55%** (nave) — Desvie dos dois primeiros obstáculos e voe pelo vão do terceiro.
-- [ ] **Moeda 3 — 84%** (cubo) — Após três colunas de blocos, pule 2× em plataformas estreitas e deslize pra plataforma escondida abaixo da rota; pule o vão pra segunda plataforma (moeda) e o pad devolve.
+- [x] **Moeda 1 — 41%** (cubo) — Após descer um lance de plataformas, pule 2× em duas plataformas e deslize até um pad de gravidade escondido que lança na moeda + portal de gravidade.
+- [x] **Moeda 2 — 55%** (nave) — Desvie dos dois primeiros obstáculos e voe pelo vão do terceiro.
+- [x] **Moeda 3 — 84%** (cubo) — Após três colunas de blocos, pule 2× em plataformas estreitas e deslize pra plataforma escondida abaixo da rota; pule o vão pra segunda plataforma (moeda) e o pad devolve.
 
 ## Polargeist
-- [ ] **Moeda 1 — 44%** (nave) — Voe perto do teto (moeda protegida por blocos embaixo); desça assim que pegar.
-- [ ] **Moeda 2 — 63%** (cubo) — Deslize por colunas, suba uma série de plataformas e deslize da quarta pra uma plataforma fina; pule pra outra e atravesse a coluna exposta por um pad.
-- [ ] **Moeda 3 — 77%** (cubo) — A famosa: pule o mais cedo possível pra acertar pad de gravidade escondido, portal de gravidade, orb pra moeda e orb na volta.
+- [x] **Moeda 1 — 44%** (nave) — Voe perto do teto (moeda protegida por blocos embaixo); desça assim que pegar.
+- [x] **Moeda 2 — 63%** (cubo) — Deslize por colunas, suba uma série de plataformas e deslize da quarta pra uma plataforma fina; pule pra outra e atravesse a coluna exposta por um pad.
+- [x] **Moeda 3 — 77%** (cubo) — A famosa: pule o mais cedo possível pra acertar pad de gravidade escondido, portal de gravidade, orb pra moeda e orb na volta.
 
 ## Dry Out
-- [ ] **Moeda 1 — 29%** (cubo) — Após descer plataformas com três spikes acima, pule pra próxima plataforma e deslize em cima da moeda; continue pulando até o pad.
-- [ ] **Moeda 2 — 62%** (cubo) — Após o segmento antigravidade e o segundo orb, suba 2 plataformas e a plataforma suspensa com spikes; caia na moeda e pule de novo.
-- [ ] **Moeda 3 — 80%** (nave) — Na segunda parte da nave com obstáculos alternados, passe os três primeiros e voe acima do quarto, perto do teto.
+- [x] **Moeda 1 — 29%** (cubo) — Após descer plataformas com três spikes acima, pule pra próxima plataforma e deslize em cima da moeda; continue pulando até o pad.
+- [x] **Moeda 2 — 62%** (cubo) — Após o segmento antigravidade e o segundo orb, suba 2 plataformas e a plataforma suspensa com spikes; caia na moeda e pule de novo.
+- [x] **Moeda 3 — 80%** (nave) — Na segunda parte da nave com obstáculos alternados, passe os três primeiros e voe acima do quarto, perto do teto.
 
 ## Base After Base
-- [ ] **Moeda 1 — 22%** (cubo) — Após um orb amarelo sobre três spikes, deslize por duas plataformas e desça pela seção aberta de uma coluna grande (moeda + pad).
+- [x] **Moeda 1 — 22%** (cubo) — Após um orb amarelo sobre três spikes, deslize por duas plataformas e desça pela seção aberta de uma coluna grande (moeda + pad).
 - [ ] **Moeda 2 — 47%** (cubo) — Após dois spikes acima, pule pra próxima plataforma e pule de novo limpando um spike, caindo em portal de gravidade + moeda; espere deslizar pra cima até outro portal.
 - [ ] **Moeda 3 — 67%** (nave) — Entre na passagem, passe três spikes e voe pra cima numa fenda; moeda no caminho da saída.
 
@@ -53,23 +53,23 @@
 
 ## xStep
 - [ ] **Moeda 1 — 21%** (nave) — Após dois obstáculos-pit, voe rente sobre o terceiro, caindo levemente pra moeda, e suba na hora.
-- [ ] **Moeda 2 — 53%** (nave) — Na passagem, quando subir pela segunda vez, voe pra baixo pelo vão da estrutura, suba, pegue a moeda e saia pelo fim.
+- [x] **Moeda 2 — 53%** (nave) — Na passagem, quando subir pela segunda vez, voe pra baixo pelo vão da estrutura, suba, pegue a moeda e saia pelo fim.
 - [ ] **Moeda 3 — 59%** (cubo) — Após o terceiro pad de gravidade, pule perto do spike pequeno, orb de gravidade caindo pra cima (moeda) e, na volta, orb de pulo imediato.
 
 ## Clutterfunk
-- [ ] **Moeda 1 — 31%** (nave) — Após o primeiro obstáculo, voe acima do 4º e 5º obstáculos, colado no teto.
-- [ ] **Moeda 2 — 65%** (nave) — De volta ao tamanho normal, pule o terceiro portal de gravidade voando sobre uma serra e pelo vão da coluna (moeda), sobre outra serra e entre no 4º portal.
-- [ ] **Moeda 3 — 86%** (cubo) — Na estrutura de três degraus + pad: bata nos 2 primeiros orbs, no pad e no 3º orb, errando o 4º pra cair nas plataformas com serras; pule em sequência (moeda na 2ª plataforma), orb de gravidade depois da 3ª.
+- [x] **Moeda 1 — 31%** (nave) — Após o primeiro obstáculo, voe acima do 4º e 5º obstáculos, colado no teto.
+- [x] **Moeda 2 — 65%** (nave) — De volta ao tamanho normal, pule o terceiro portal de gravidade voando sobre uma serra e pelo vão da coluna (moeda), sobre outra serra e entre no 4º portal.
+- [x] **Moeda 3 — 86%** (cubo) — Na estrutura de três degraus + pad: bata nos 2 primeiros orbs, no pad e no 3º orb, errando o 4º pra cair nas plataformas com serras; pule em sequência (moeda na 2ª plataforma), orb de gravidade depois da 3ª.
 
 ## Theory of Everything
-- [ ] **Moeda 1 — 30%** (UFO) — Após passar sobre estrutura larga, suba por uma serra, atravesse a coluna falsa perto do teto e desça sobre outra serra (moeda).
-- [ ] **Moeda 2 — 56%** (nave) — Evite três obstáculos e voe rente ao chão sob o quarto.
+- [x] **Moeda 1 — 30%** (UFO) — Após passar sobre estrutura larga, suba por uma serra, atravesse a coluna falsa perto do teto e desça sobre outra serra (moeda).
+- [x] **Moeda 2 — 56%** (nave) — Evite três obstáculos e voe rente ao chão sob o quarto.
 - [ ] **Moeda 3 — 83%** (cubo) — Após dois orbs, pule da plataforma pra cair entre serras na moeda (junto a um pad); o segundo pad lança e um orb devolve.
 
 ## Electroman Adventures
-- [ ] **Moeda 1 — 12%** (cubo) — Após dois orbs amarelos, pule 4× (a 2ª atravessa blocos destrutíveis), orb pra moeda, deslize por bloco destrutível e caia noutro orb.
-- [ ] **Moeda 2 — 19%** (nave) — Após seis conjuntos de serras, voe pra baixo numa estrutura com spikes perto do chão (moeda em cavidade em arco).
-- [ ] **Moeda 3 — 91%** (bola) — Após as decorações de rosto, fique pra baixo e entre na passagem de spikes alternados, flipando 6×.
+- [x] **Moeda 1 — 12%** (cubo) — Após dois orbs amarelos, pule 4× (a 2ª atravessa blocos destrutíveis), orb pra moeda, deslize por bloco destrutível e caia noutro orb.
+- [x] **Moeda 2 — 19%** (nave) — Após seis conjuntos de serras, voe pra baixo numa estrutura com spikes perto do chão (moeda em cavidade em arco).
+- [x] **Moeda 3 — 91%** (bola) — Após as decorações de rosto, fique pra baixo e entre na passagem de spikes alternados, flipando 6×.
 
 ## Clubstep
 - [ ] **Moeda 1 — 9%** (cubo) — Na diagonal de três orbs, bata no segundo pra entrar no vão do obstáculo com spikes; suba, orb + orb de gravidade pra voltar.
@@ -92,9 +92,9 @@
 - [ ] **Moeda 3 — 86%** (nave) — Após duas estruturas quadradas, desça por baixo da terceira.
 
 ## Theory of Everything 2
-- [ ] **Moeda 1 — 13%** (nave) — Após o portal de gravidade amarelo, segure pra baixo sob a pilha de blocos invisíveis (moeda) e volte à rota.
-- [ ] **Moeda 2 — 65%** (wave) — No terceiro corredor diagonal, entre na rampa falsa (moeda) e volte.
-- [ ] **Moeda 3 — 84%** (cubo) — Bata em dois orbs e no orb com decoração de cruz; pule tarde pra moeda e pule de novo na borda da última plataforma.
+- [x] **Moeda 1 — 13%** (nave) — Após o portal de gravidade amarelo, segure pra baixo sob a pilha de blocos invisíveis (moeda) e volte à rota.
+- [x] **Moeda 2 — 65%** (wave) — No terceiro corredor diagonal, entre na rampa falsa (moeda) e volte.
+- [x] **Moeda 3 — 84%** (cubo) — Bata em dois orbs e no orb com decoração de cruz; pule tarde pra moeda e pule de novo na borda da última plataforma.
 
 ## Geometrical Dominator
 - [ ] **Moeda 1 — 17%** (robô) — Passe pelo orb amarelo, caia na plataforma pequena e boost imediato pra área de dois blocos (moeda escondida); voe pro céu, pad azul de gravidade e volta.
@@ -102,13 +102,13 @@
 - [ ] **Moeda 3 — 92%** (nave) — Pilar móvel com duas aberturas: entre pela passagem inferior (moeda). Dica: grude no teto ou solte o controle ao passar o 1º obstáculo móvel.
 
 ## Deadlocked
-- [ ] **Moeda 1 — 43%** (cubo, requer chave) — Na primeira mini-nave (~19%), suba pra pegar a chave acima dos thwomps; ela abre a passagem secreta no cubo em 42%. Sem chave, fica bloqueado.
+- [x] **Moeda 1 — 43%** (cubo, requer chave) — Na primeira mini-nave (~19%), suba pra pegar a chave acima dos thwomps; ela abre a passagem secreta no cubo em 42%. Sem chave, fica bloqueado.
 - [ ] **Moeda 2 — 53%** (robô) — No pilar de dois blocos, não pule em cima: caia e pule logo depois pra moeda, voltando por bloco que some (mais fácil que a rota normal).
-- [ ] **Moeda 3 — 66%** (UFO) — Nos monstros de laser: fique perto do topo antes do primeiro laser, evite a lâmina giratória e pegue a moeda.
+- [x] **Moeda 3 — 66%** (UFO) — Nos monstros de laser: fique perto do topo antes do primeiro laser, evite a lâmina giratória e pegue a moeda.
 
 ## Fingerdash
-- [ ] **Moeda 1 — 42%** (aranha) — No vão da moeda: dois taps rápidos pra pegá-la sem bater nas paredes/spikes.
-- [ ] **Moeda 2 — 55%** (nave) — Voe reto entre as bolas de fogo e caia assim que pegar a moeda.
+- [x] **Moeda 1 — 42%** (aranha) — No vão da moeda: dois taps rápidos pra pegá-la sem bater nas paredes/spikes.
+- [x] **Moeda 2 — 55%** (nave) — Voe reto entre as bolas de fogo e caia assim que pegar a moeda.
 - [ ] **Moeda 3 — 79%** (aranha, requer 10 mini-moedas) — Colete todas as 10 mini-moedas na seção de wave (68–78%); a moeda aparece no início da sequência de aranha. Se faltar alguma, ela some.
 
 ## Dash
