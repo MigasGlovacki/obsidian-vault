@@ -8,7 +8,7 @@
 - **Modo:** Sobrevivência
 - **Fase:** Late game — Ender Dragon derrotado
 - **Estado:** mundo vivo, em expansão
-- **Prioridade atual:** 🥕 **Comida** — falta uma fonte boa e sustentável
+- **Prioridade atual:** 🥕 **Comida** — farm de galinhas 26.2 funcionando ✅; próximo: fonte sustentável em massa (aldeões fazendeiros)
 
 ## Próximo objetivo: resolver comida
 
@@ -32,16 +32,17 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 
 ## Sessões
 
-### Sessão 1 — (data)
+### Sessão 1 — 12/08/2026
 
-- **Progresso:** —
-- **Momento que marcou:** —
-- **Impressão:** —
+- **Progresso:** Farm de galinhas 26.2 montada e funcionando — pintinhos não morrem mais antes de crescer.
+- **Momento que marcou:** ver a farm finalmente funcionando depois do update quebrar o modelo antigo.
+- **Impressão:** alívio e satisfação; comida deixou de ser urgência.
 
 ---
 
 ## Marcos do mundo
 
 - [x] Derrotar o Ender Dragon
-- [ ] Fonte de comida sustentável
+- [x] Farm de galinhas funcionando (26.2)
+- [ ] Fonte de comida sustentável em massa (aldeões fazendeiros)
 - [ ] *(próximos marcos entram aqui)*
