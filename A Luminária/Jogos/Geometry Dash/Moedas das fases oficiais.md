@@ -2,7 +2,7 @@
 
 > Guia de referência das 3 moedas secretas de cada fase oficial (66 moedas no total, 22 fases).
 > Fonte: [Geometry Dash Wiki — Main Levels](https://geometry-dash.fandom.com/wiki/Main_Levels)
-> Progresso: **0/66** — marca com `[x]` conforme coleta; Monika atualiza a contagem.
+> Progresso: **29/66** — marca com `[x]` conforme coleta; Monika atualiza a contagem.
 
 ---
 
