@@ -112,6 +112,6 @@
 - [ ] **Moeda 3 — 79%** (aranha, requer 10 mini-moedas) — Colete todas as 10 mini-moedas na seção de wave (68–78%); a moeda aparece no início da sequência de aranha. Se faltar alguma, ela some.
 
 ## Dash
-- [ ] **Moeda 1 — 14%** (cubo) — Bata na parte de baixo dos quatro blocos amarelos; os olhos do último bloco vermelho acendem verde — bata nele por baixo e a moeda sobe da lava.
-- [ ] **Moeda 2 — 37%** (swing) — No corredor de campo elétrico laranja, há um campo com contorno rosa: balance pra cima através dele pra revelar a moeda e volte.
-- [ ] **Moeda 3 — 68%** (nave, requer 6 cliques) — Quando o "1" for coletado e o cubo virar orbe voador, dê 6 cliques (o orbe pisca laranja) — a moeda aparece no começo da seção de nave.
+- [x] **Moeda 1 — 14%** (cubo) — Bata na parte de baixo dos quatro blocos amarelos; os olhos do último bloco vermelho acendem verde — bata nele por baixo e a moeda sobe da lava.
+- [x] **Moeda 2 — 37%** (swing) — No corredor de campo elétrico laranja, há um campo com contorno rosa: balance pra cima através dele pra revelar a moeda e volte.
+- [x] **Moeda 3 — 68%** (nave, requer 6 cliques) — Quando o "1" for coletado e o cubo virar orbe voador, dê 6 cliques (o orbe pisca laranja) — a moeda aparece no começo da seção de nave.
