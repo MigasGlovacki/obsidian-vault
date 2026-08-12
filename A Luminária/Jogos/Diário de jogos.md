@@ -11,6 +11,7 @@
 - [[Diário do Ghostrunner]] — campanha base 100% (34/34); falta a DLC Project_Hel (0/11).
 - [[Diário do Geometry Dash]] — comfort game e desafio próprio; marcos de demons e fases zeradas.
 - [[Diário do GRIS]] — platina tranquila em andamento, ~4–6h.
+- [[Diário do Minecraft]] — mundo de sobrevivência late game (dragão derrotado); prioridade: comida.
 
 ## Arquivo
 - *(espaço para os próximos jogos)*
