@@ -8,7 +8,7 @@
 
 - **10/08/2026 — Deadlocked concluída (100%).** Primeiro marco do diário; moeda 2 ainda pendente (escapou na run boa).
 - **11/08/2026 — "weird" concluída (Easy Demon).** Zerada na sessão da manhã (~57 min, ~94 mortes); newBests 42 → 100; pontos quentes: 56%, 35% e 44%.
-- **11/08/2026 — Caçada de moedas das fases oficiais iniciada (31/66).** 8 fases com 100% das moedas: Stereo Madness, Back On Track, Polargeist, Dry Out, Base After Base, Clutterfunk, Electroman Adventures e Theory of Everything 2. Destaques: moeda 3 do Polargeist (pads escondidos) e moeda 1 do Deadlocked (chave na mini-nave). Registro vivo em [[Moedas das fases oficiais]] — Monika anota quando uma fase fecha 3/3.
+- **11/08/2026 — Caçada de moedas das fases oficiais iniciada (34/66).** 9 fases com 100% das moedas: Stereo Madness, Back On Track, Polargeist, Dry Out, Base After Base, Can't Let Go, Clutterfunk, Electroman Adventures e Theory of Everything 2. Destaques: moeda 3 do Polargeist (pads escondidos) e moeda 1 do Deadlocked (chave na mini-nave). Registro vivo em [[Moedas das fases oficiais]] — Monika anota quando uma fase fecha 3/3.
 
 ## Sessões e registros
 
