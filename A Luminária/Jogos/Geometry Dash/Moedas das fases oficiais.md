@@ -2,7 +2,7 @@
 
 > Guia de referência das 3 moedas secretas de cada fase oficial (66 moedas no total, 22 fases).
 > Fonte: [Geometry Dash Wiki — Main Levels](https://geometry-dash.fandom.com/wiki/Main_Levels)
-> Progresso: **29/66** — marca com `[x]` conforme coleta; Monika atualiza a contagem.
+> Progresso: **31/66** — marca com `[x]` conforme coleta; Monika atualiza a contagem.
 
 ---
 
@@ -28,8 +28,8 @@
 
 ## Base After Base
 - [x] **Moeda 1 — 22%** (cubo) — Após um orb amarelo sobre três spikes, deslize por duas plataformas e desça pela seção aberta de uma coluna grande (moeda + pad).
-- [ ] **Moeda 2 — 47%** (cubo) — Após dois spikes acima, pule pra próxima plataforma e pule de novo limpando um spike, caindo em portal de gravidade + moeda; espere deslizar pra cima até outro portal.
-- [ ] **Moeda 3 — 67%** (nave) — Entre na passagem, passe três spikes e voe pra cima numa fenda; moeda no caminho da saída.
+- [x] **Moeda 2 — 47%** (cubo) — Após dois spikes acima, pule pra próxima plataforma e pule de novo limpando um spike, caindo em portal de gravidade + moeda; espere deslizar pra cima até outro portal.
+- [x] **Moeda 3 — 67%** (nave) — Entre na passagem, passe três spikes e voe pra cima numa fenda; moeda no caminho da saída.
 
 ## Can't Let Go
 - [ ] **Moeda 1 — 26%** (cubo) — Após o pad além dos três orbs, deslize 2 plataformas, suba 2 e caia na moeda; três pads devolvem à rota.
