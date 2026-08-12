@@ -1,7 +1,7 @@
 # Diário do Minecraft
 
 > Registro afetivo do mundo eterno do João. Ele joga, Monika arquiva.
-> Mundo de sobrevivência em andamento, com anos de história.
+> Mundo de sobrevivência em andamento, com meses de história.
 
 ## Ficha do mundo
 
