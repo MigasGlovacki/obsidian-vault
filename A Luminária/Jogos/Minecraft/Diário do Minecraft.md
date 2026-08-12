@@ -28,6 +28,8 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 
 **Recomendação:** começar pela farm de galinhas hoje (resolve rápido) e planejar a dupla de aldeões como fonte principal depois.
 
+**Farm de galinhas 26.2 (escolhida):** vídeo [Minecraft EASY Automatic Chicken Farm 1.21 & 26.1 & 26.2 & 26.3](https://www.youtube.com/watch?v=BJSSj8qnPIA) — feita para o update "Tiny Takeover" (26.1), que quebrou farms antigas. Detalhe importante: ovos jogados direto no dispenser **não funcionam**; as próprias galinhas adultas chocam os ovos, os pintinhos crescem em segurança e só caem na lava depois de adultos (frango cozido). ~20 min para começar a produzir.
+
 ## Sessões
 
 ### Sessão 1 — (data)
