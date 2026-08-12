@@ -10,6 +10,10 @@
 - **Estado:** mundo vivo, em expansão
 - **Prioridade atual:** 🥕 **Comida** — farm de galinhas 26.2 funcionando ✅; próximo: fonte sustentável em massa (aldeões fazendeiros)
 
+## Coordenadas importantes
+
+- **Casa:** 
+
 ## Próximo objetivo: resolver comida
 
 Opções de farm, da mais rápida de montar à mais sustentável:
