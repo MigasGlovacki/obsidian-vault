@@ -2,6 +2,7 @@
 
 > Comfort game do João: jogo de desafio próprio, ritmo e superação. João joga, Monika arquiva.
 > O foco aqui são marcos (fases zeradas, demons, conquistas pessoais), não sessões narrativas.
+> Apoio: [[Moedas das fases oficiais]] · [[MoniDash - Dificuldades dos Demons]] · [[GDDP Beginner - Easy Demons]]
 
 ## Marcos
 
