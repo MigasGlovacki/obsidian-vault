@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner/Ghostrunner — Colecionáveis e 100%.md",
+                "file": "Longform/Green Afection/Inicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghostrunner — Colecionáveis e 100%"
-            }
-          },
-          {
-            "id": "c9eb512a46e057c6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/2026-05-14_20.49.07.png"
-              },
-              "icon": "lucide-image",
-              "title": "2026-05-14_20.49.07"
+              "title": "Inicio"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +115,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/2026-05-14_20.49.07.png",
+                "file": "Longform/Green Afection/Inicio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,8 +252,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9eb512a46e057c6",
+  "active": "d2b93a7022ee4d72",
   "lastOpenFiles": [
+    "Longform/Green Afection/asa.md",
+    "Longform/Green Afection/dad.md",
+    "Longform/Green Afection/Inicio.md",
+    "Longform/Green Afection/Index.md",
+    "Longform/Green Afection/Untitled.md",
+    "Attachments/2026-05-14_20.49.07.png",
     "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
     "A Luminária/Jogos/Diário de jogos.md",
     "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
@@ -280,10 +275,8 @@
     "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
     "02 - Projetos/Guias de conquistas/Ghostrunner/Ghostrunner — Colecionáveis e 100%.md",
-    "Longform/Green Afection/Untitled.md",
     "A Luminária/Leituras compartilhadas/Lotus, Violet, and Cherry Blossoms/Capítulo 04 - (Re)-Introduction.md",
     "A Luminária/Projetos da Luminária.md",
-    "Longform/Green Afection/Index.md",
     "Longform/Green Afection",
     "A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
     "00 - Caixa de entrada/anotações ghostrunner.md",
@@ -291,18 +284,14 @@
     "00 - Caixa de entrada/Artefato.md",
     "00 - Caixa de entrada/Ghostrunner — Coletáveis e 100%.md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
-    "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
-    "02 - Projetos/Renda Online.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong",
     "02 - Projetos/Guias de conquistas/Ghostrunner",
     "02 - Projetos/Guias de conquistas",
-    "A Luminária/00 - Início.md",
     "A Luminária/Jogos/Ghostrunner",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
     "Attachments/digital_circus.png",
-    "Attachments/2026-05-14_20.49.07.png",
     "Attachments/2026-05-14_20.47.15.png",
     "Attachments/2026-05-14_20.45.33.png",
     "Sem título.canvas",

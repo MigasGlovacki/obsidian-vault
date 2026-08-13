@@ -3,6 +3,7 @@ longform:
   format: scenes
   title: Green Afection
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Inicio
   ignoredFiles: []
 ---
