@@ -1,3 +1,4 @@
+Personagens: [[João Kuroda]]
 # Capitulo 1
 
 João chegou ao seu apartamento, com algumas sacolas em mãos. Era o dia de fazer as compras para o apartamento, apenas o essencial.

@@ -7,12 +7,12 @@
   "sessions": [
     {
       "start": "2026-08-13T05:42:25.601Z",
-      "total": 148,
+      "total": 150,
       "drafts": {
         "Longform/Green Afection/Index.md": {
-          "total": 148,
+          "total": 150,
           "scenes": {
-            "Inicio": 148
+            "Inicio": 150
           }
         }
       }
