@@ -45,6 +45,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Momento que marcou:** ver a farm finalmente funcionando depois do update quebrar o modelo antigo.
 - **Impressão:** alívio e satisfação; comida deixou de ser urgência.
 
+### Sessão 2 — 12/08/2026
+
+- **Progresso:** Continuação da terraformação da montanha da casa; planície artificial moldada no sopé para a futura vila.
+- **Momento que marcou:** planejar a vila própria — trazendo villagers de propósito, construída à mão, não encontrada.
+- **Impressão:** empolgação com o projeto; casa no topo da montanha, caminho descendo pra planície, grama pra deixar tudo bonito.
+
 ---
 
 ## Marcos do mundo
@@ -52,4 +58,5 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - [x] Derrotar o Ender Dragon
 - [x] Farm de galinhas funcionando (26.2)
 - [ ] Fonte de comida sustentável em massa (aldeões fazendeiros)
+- [ ] Construir a vila própria na planície (terraformação em andamento) e trazer villagers
 - [ ] *(próximos marcos entram aqui)*
