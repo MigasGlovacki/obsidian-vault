@@ -68,4 +68,5 @@
 - **Progresso:** planejamento da Fase 3 em andamento — praça central com poço (base circular de cobblestone + cobertura de madeira escura), caminhos de terra em cruz saindo da praça, casa grande medieval como edificação principal.
 - **Momento que marcou:** a vila nascendo — o poço como coração do conjunto e os caminhos definindo os lotes.
 - **Impressão:** empolgação com a composição; a praça ainda está vazia, esperando os prédios.
+- **Extra:** aprendeu sozinho a ferramenta de elevação — terreno moldado em terraços circulares ao redor da praça, com caminho subindo ao platô (habilidade da Fase 3 na prática!).
 - **Próximo passo:** preencher os quadrantes com construções variadas (celeiro, casinha, barracas de mercado), vegetação e iluminação.
