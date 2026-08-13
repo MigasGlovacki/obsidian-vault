@@ -6,4 +6,6 @@ João chega ao seu apartamento, com algumas sacolas em mãos. Hoje era o dia de 
 
 Ao se virar, olhou o apartamento por um breve seguno. Sabia que não havia ninguem pois morava sozinho, mas mesmo assim sempre avisava quando chegava. Fazia ele se sentir melhor, era o que pensava.
 
-Ele deixou as compras na bancada da cozinha, depois ele iria arrumar tu
+Ele deixou as compras na bancada da cozinha, depois ele iria arrumar tudo. Naquele momento, ele havia algo mais importante para resolver.
+
+Então se direcionou ao seu quarto e ligou o seu computador. Era um computador rasoavelmente forte, com uma placa de vid
