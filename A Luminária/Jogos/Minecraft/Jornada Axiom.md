@@ -20,7 +20,7 @@
 
 - [x] **Fase 0 — Fundação** · instalar Fabric + Axiom, mundo criativo, atalhos (Right Shift = Editor, Left Alt = menu, Ctrl+Z = desfazer) · *ferramenta funcionando*
 - [x] **Fase 1 — Casa Caixa (~10x8)** · seleção, fill, deletar vãos · *casa com paredes, teto, porta e janela — pode ser feia, só precisa existir*
-- [ ] **Fase 2 — Casa com Alma** · paleta de 3–4 blocos, profundidade nas paredes, telhado de 2 águas, copy/paste/rotate/flip · *a mesma casa, agora com caráter*
+- [x] **Fase 2 — Casa com Alma** · paleta de 3–4 blocos, profundidade nas paredes, telhado de 2 águas, copy/paste/rotate/flip · *a mesma casa, agora com caráter*
 - [ ] **Fase 3 — Vilarejo** · 4–5 construções juntas, caminhos, terreno (sculpt/smooth) · *um conjunto que conta história*
 - [ ] **Fase 4 — Marco** · torre/igreja/castelo, simetria espelhada, repetição em massa · *edifício que domina a paisagem*
 - [ ] **Fase 5 — Cidade** · planejamento urbano, 2–3 distritos, hierarquia de ruas, praça, iluminação · *primeira cidade*
@@ -55,3 +55,10 @@
 - **Momento que marcou:** a primeira construção com o Axiom — selecionar, preencher e apagar vãos sem colocar bloco por bloco.
 - **Impressão:** divertido; ainda se acostumando com os controles, mas empolgado.
 - **Próximo passo:** Fase 2 — Casa com Alma (paleta, profundidade, telhado de 2 águas, copy/flip).
+
+### Sessão 2 — Casa com Alma pronta (13/08/2026)
+
+- **Progresso:** Fase 2 concluída — casa de 2 andares estilo medieval: telhado A-frame bem inclinado com moldura de stone brick, gable frontal, pilares de carvalho escuro, janelas com vidro, floreiras com trapdoors, caminho de cobblestone/gravel e chaminé.
+- **Momento que marcou:** descobrir a ferramenta Extrude (esticar faces com um clique) e o truque do Path com escadas automáticas — telhado rápido e com acabamento.
+- **Impressão:** orgulho da casa; a silhueta deixou de ser caixa e virou casa de verdade.
+- **Próximo passo:** Fase 3 — Vilarejo (4–5 construções, caminhos, terreno).
