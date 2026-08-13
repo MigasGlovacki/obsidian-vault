@@ -9,6 +9,7 @@
 - **Fase:** Late game — Ender Dragon derrotado
 - **Estado:** mundo vivo, em expansão
 - **Prioridade atual:** 🥕 **Comida** — farm de galinhas 26.2 funcionando ✅; próximo: fonte sustentável em massa (aldeões fazendeiros)
+- **Treino paralelo:** 🏗️ [[Jornada Axiom]] — construção criativa com o mod Axiom (começou 13/08/2026)
 
 ## Coordenadas importantes
 
