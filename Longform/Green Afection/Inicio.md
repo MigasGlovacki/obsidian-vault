@@ -8,6 +8,6 @@ Ao se virar, olhou o apartamento por um breve seguno. Sabia que não havia ningu
 
 Ele deixou as compras na bancada da cozinha, depois ele iria arrumar tudo. Naquele momento, ele havia algo mais importante para resolver.
 
-Então se direcionou ao seu quarto e ligou o seu computador. Era um computador rasoavelmente forte, com uma CPU e GPU decentes bastante memoria RAM. Para o seu trabalho, aquilo bastava.
+Então se direcionou ao seu quarto e ligou o seu computador. Era um computador rasoavelmente forte, com uma CPU e GPU decentes bastante memoria RAM. Para o seu trabalho de editor de videos, aquilo bastava.
 
-Quando abriu seus emails, 
+Porém antes de abrir qualquer programa, ele viu um icone que 
