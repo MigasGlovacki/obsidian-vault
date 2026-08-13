@@ -53,14 +53,12 @@
             "id": "c9eb512a46e057c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/2026-05-14_20.49.07.png"
               },
-              "icon": "lucide-file",
-              "title": "Diário do Minecraft"
+              "icon": "lucide-image",
+              "title": "2026-05-14_20.49.07"
             }
           }
         ],
@@ -211,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
+                "file": "Attachments/2026-05-14_20.49.07.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -265,10 +263,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec0085ee7b65a191",
+  "active": "c9eb512a46e057c6",
   "lastOpenFiles": [
-    "A Luminária/Jogos/Diário de jogos.md",
     "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
+    "A Luminária/Jogos/Diário de jogos.md",
     "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
     "A Luminária/Jogos/Minecraft",
     "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
