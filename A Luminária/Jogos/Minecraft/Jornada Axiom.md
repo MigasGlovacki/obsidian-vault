@@ -62,3 +62,10 @@
 - **Momento que marcou:** descobrir a ferramenta Extrude (esticar faces com um clique) e o truque do Path com escadas automáticas — telhado rápido e com acabamento.
 - **Impressão:** orgulho da casa; a silhueta deixou de ser caixa e virou casa de verdade.
 - **Próximo passo:** Fase 3 — Vilarejo (4–5 construções, caminhos, terreno).
+
+### Sessão 3 — A ideia da vila (13/08/2026)
+
+- **Progresso:** planejamento da Fase 3 em andamento — praça central com poço (base circular de cobblestone + cobertura de madeira escura), caminhos de terra em cruz saindo da praça, casa grande medieval como edificação principal.
+- **Momento que marcou:** a vila nascendo — o poço como coração do conjunto e os caminhos definindo os lotes.
+- **Impressão:** empolgação com a composição; a praça ainda está vazia, esperando os prédios.
+- **Próximo passo:** preencher os quadrantes com construções variadas (celeiro, casinha, barracas de mercado), vegetação e iluminação.
