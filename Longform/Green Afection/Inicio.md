@@ -4,4 +4,6 @@ João chega ao seu apartamento, com algumas sacolas em mãos. Hoje era o dia de 
 
 — Cheguei… — Fala enquanto fechava a porta.
 
-Ao se virar, olhou o apartamento por um breve seguno. Sabia que não havia ninguem pois morava sozinho, mas mesmo assim sempre avisava quando chegava. Faz
+Ao se virar, olhou o apartamento por um breve seguno. Sabia que não havia ninguem pois morava sozinho, mas mesmo assim sempre avisava quando chegava. Fazia ele se sentir melhor, era o que pensava.
+
+Ele deixou as compras na bancada da cozinha, depois ele iria arrumar tu
