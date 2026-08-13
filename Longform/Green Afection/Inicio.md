@@ -12,4 +12,6 @@ Então se direcionou ao seu quarto e ligou o seu computador. Era um computador r
 
 Porém antes de abrir qualquer programa, ele viu um icone que cohecia muito bem.
 
-— Será que eu faço isso junto com ela?
+*Será que eu faço isso junto com ela?*
+
+
