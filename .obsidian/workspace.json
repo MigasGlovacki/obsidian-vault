@@ -53,12 +53,14 @@
             "id": "591a913e50755f38",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "02 - Projetos/Documentario Skyblock portfolio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-file",
+              "title": "Documentario Skyblock portfolio"
             }
           }
         ],
