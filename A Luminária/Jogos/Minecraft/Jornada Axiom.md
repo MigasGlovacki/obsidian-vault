@@ -36,6 +36,12 @@
 - Delete — apagar seleção
 - `/whynoaxiom` — se o item do slot 10 não aparecer
 
+## Truques do Axiom (doc oficial)
+
+- **Fill (Ctrl+F)** — preenche a seleção ativa com um bloco: Box Select (left-click num canto, right-click no oposto) e Ctrl+F. Fechar vãos em segundos.
+- **Path/Line + "Use Stairs and Slabs"** — desenha linhas acompanhando a inclinação com escadas/lajes automáticas. Perfeito pra telhados, caminhos e bordas curvas (DDA tem largura ajustável).
+- **Extrude** — right-click numa face estica ela, left-click encolhe (o modo "displace" move superfícies de 1 bloco em vez de duplicar). Ótimo pra expandir paredes e telhados.
+
 ## Diário da jornada
 
 ### Sessão 0 — Planejamento (13/08/2026)
