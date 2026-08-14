@@ -9,6 +9,7 @@
 - **10/08/2026 — Deadlocked concluída (100%).** Primeiro marco do diário; moeda 2 ainda pendente (escapou na run boa).
 - **11/08/2026 — "weird" concluída (Easy Demon).** Zerada na sessão da manhã (~57 min, ~94 mortes); newBests 42 → 100; pontos quentes: 56%, 35% e 44%.
 - **11/08/2026 — Caçada de moedas das fases oficiais iniciada (34/66).** 9 fases com 100% das moedas: Stereo Madness, Back On Track, Polargeist, Dry Out, Base After Base, Can't Let Go, Clutterfunk, Electroman Adventures e Theory of Everything 2. Destaques: moeda 3 do Polargeist (pads escondidos) e moeda 1 do Deadlocked (chave na mini-nave). Registro vivo em [[Moedas das fases oficiais]] — Monika anota quando uma fase fecha 3/3.
+- **14/08/2026 — MOAI concluída (Event level #25).** Primeiro Event level zerado no diário: Insane (9★), por SeniorSaturno, lançado em 24/07/2026; música "Moai Samurai" (Exyl, Teminite e Creo). Não é demon — marco de fase de evento.
 
 ## Sessões e registros
 
@@ -18,3 +19,4 @@
 - **11/08/2026 — Tabasco (sessão curta de validação do MoniDash):** 3 tentativas de teste do pipeline (1 reset, 1 morte no começo em x≈626, 1 saída). Sessão capturada com o filtro "Apenas Demons" ativo e entregue automaticamente ao hub.
 - **11/08/2026 — Tabasco (2ª sessão — treino do final na cópia "Tabasco sp"):** 8 tentativas com start position (x≈16k+), melhor em **x=21340**; 7/8 mortes em **ship** (objs 458/218, incl. mini ship). Confirma o final como ponto de atenção; sessão entregue pelo MoniDash e agrupada com a fase oficial.
 - **Convenção de cópias SP:** cópias de treino salvas no editor como "Fase SP" ou "Fase Start Position" são agrupadas com a fase oficial na telemetria do MoniDash (a partir de 11/08/2026).
+- **14/08/2026 — MOAI (Event level #25, sem telemetria):** passou a fase de evento atual completa — Insane 9★, criada por SeniorSaturno (ID 145493833), música "Moai Samurai". Registro por fala, sem dados de tentativas/mortes; detalhe opcional: a fase tem 3 moedas, se quiser caçar depois.
