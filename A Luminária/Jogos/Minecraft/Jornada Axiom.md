@@ -25,6 +25,7 @@
 - [ ] **Fase 4 — Marco** · torre/igreja/castelo, simetria espelhada, repetição em massa · *edifício que domina a paisagem*
 - [ ] **Fase 5 — Cidade** · planejamento urbano, 2–3 distritos, hierarquia de ruas, praça, iluminação · *primeira cidade*
 - [ ] **Fase 6 — Artista** (pós-cidade) · terreno orgânico, interiores, mood, scripting Lua · *construção que é quase pintura*
+- 🗺️ **Projeto futuro:** [[Projeto FireRed Map]] — recriar Kanto no Minecraft (o grande teste das skills da jornada)
 
 ## Atalhos essenciais
 
