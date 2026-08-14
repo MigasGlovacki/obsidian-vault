@@ -171,13 +171,13 @@ Mantenha pelo menos um backup `/opt/moni-data-pre-update-cold-*.tgz` até estar 
 
 ## Diagnóstico rápido para a próxima vez
 
-| Sintoma | Primeiro teste |
-|---|---|
-| Telegram não responde | `docker exec moni-hermes hermes gateway status` + `docker logs --tail 120 moni-hermes` |
-| Telegram funciona, Dashboard/Desktop não | `curl -I http://127.0.0.1:9119/` e iniciar o Dashboard do passo 4 |
-| Container não cria porque o nome já existe | `docker ps -a --filter 'name=moni-hermes'` e renomear o antigo antes de criar o novo |
-| Erro de permissão após recriar | verificar dono/modo de `/opt/moni-data/.env` e `/opt/moni-data/config.yaml` dentro do container antes de alterar credenciais |
-| Precisa desistir rápido | executar o bloco **Rollback imediato** |
+| Sintoma                                    | Primeiro teste                                                                                                               |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Telegram não responde                      | `docker exec moni-hermes hermes gateway status` + `docker logs --tail 120 moni-hermes`                                       |
+| Telegram funciona, Dashboard/Desktop não   | `curl -I http://127.0.0.1:9119/` e iniciar o Dashboard do passo 4                                                            |
+| Container não cria porque o nome já existe | `docker ps -a --filter 'name=moni-hermes'` e renomear o antigo antes de criar o novo                                         |
+| Erro de permissão após recriar             | verificar dono/modo de `/opt/moni-data/.env` e `/opt/moni-data/config.yaml` dentro do container antes de alterar credenciais |
+| Precisa desistir rápido                    | executar o bloco **Rollback imediato**                                                                                       |
 
 
 
