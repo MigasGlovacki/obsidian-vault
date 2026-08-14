@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-14T20:46:53.810Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Green Afection/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Inicio": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-08-13T05:42:25.601Z",
       "total": 150,
       "drafts": {
@@ -333,16 +345,6 @@
     },
     {
       "start": "2026-05-07T21:33:24.516Z",
-      "total": 0,
-      "drafts": {
-        "Our Time Together/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-05-06T14:22:55.608Z",
       "total": 0,
       "drafts": {
         "Our Time Together/Index.md": {
