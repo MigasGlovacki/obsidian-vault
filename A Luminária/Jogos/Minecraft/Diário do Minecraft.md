@@ -65,7 +65,7 @@
 
 Opções de farm, da mais rápida de montar à mais sustentável:
 
-1. **Farm de galinhas (semi-auto)** — rápida e fácil
+1. [x] **Farm de galinhas (semi-auto)** — rápida e fácil
    - Galinhas em um espaço pequeno, ovos caem numa esteira de água; junta ovos, choca, cozinha frango.
    - Produz ovos (torta/bolo) + frango cozido.
 2. **Farm de aldeões fazendeiros** — a mais sustentável no longo prazo
