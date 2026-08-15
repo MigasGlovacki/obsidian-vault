@@ -21,6 +21,7 @@
 - **Pale Garden** (primeira vez visto; floresta escura + carvalhos pálidos): -1218, -2522
 - **Floresta de sakura (grande, maior que a da casa)** : -769, -2899
 - **Ice peaks / Farm de gelo compacto** (portal Nether planejado): 1855, -6499
+- **Geiser/sulfur do update novo** (perto da farm de gelo): 2089, -6521
 
 ## Plano: corredor do Nether casa → End
 
@@ -109,6 +110,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Progresso:** Link do portal da casa → portal das snow peaks (ice peaks) feito no Nether. Farm de gelo compacto agora a poucos passos de casa via Nether.
 - **Momento que marcou:** primeiro portal "dedicado" montado pra acelerar o dia a dia.
 - **Impressão:** satisfação; a farm de gelo virou recurso de acesso rápido, e a base do túnel Nether (casa ↔ gelo ↔ End) está formada. Falta construir as pistas de barco.
+
+### Sessão 7 — 14/08/2026
+
+- **Progresso:** Achou o **geiser de sulfur do update novo** (bioma dos vulcões/enxofre) pertinho da farm de gelo — cristais amarelos com água. Coordenadas guardadas.
+- **Momento que marcou:** ver uma feature nova do 26.2 pela primeira vez (não é todo dia que o mundo mostra algo inédito).
+- **Impressão:** empolgação; quer explorar/extrair o que esse geiser tem pra oferecer.
 
 ---
 
