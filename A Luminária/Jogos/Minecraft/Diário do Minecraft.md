@@ -20,6 +20,7 @@
 - **Templo de Guardian no mar** (futura farm de guardian): -2815, -3866
 - **Pale Garden** (primeira vez visto; floresta escura + carvalhos pálidos): -1218, -2522
 - **Floresta de sakura (grande, maior que a da casa)** : -769, -2899
+- **Ice peaks / Farm de gelo compacto** (portal Nether planejado): 1855, -6499
 
 ## Plano: corredor do Nether casa → End
 
@@ -30,7 +31,8 @@
 | 🏠 Portal casa | -3419, -5608 | -427, -701 |
 | 🌋 Portal Nether casa | — | -427, -701 |
 | 🌋 Portal Nether → End | — | -286, 96 |
-| 🚪 Portal de saída na stronghold | montar **dentro** da stronghold, perto de -2289, 769 | — |
+|| 🚪 Portal de saída na stronghold | montar **dentro** da stronghold, perto de -2289, 769 | — |
+|| 🧊 **Farm de gelo compacto** | 1855, -6499 | 232, -812 |
 
 **Passo a passo:**
 1. Portal da casa já existente entra no Nether em `-427, -701`.
@@ -95,6 +97,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Progresso:** Desceu até a stronghold e montou o **portal de saída do Nether dentro dela**, bem na frente do portal do End. Plano de link no Nether está completo do lado destino.
 - **Momento que marcou:** o portal abriu certinho, exatamente onde queria — stronghold
 - **Impressão:** agora o End está "pronto pra usar" assim que a pista de gelo no Nether conectar de casa.
+
+### Sessão 5 — 14/08/2026
+
+- **Progresso:** Primeira extração de gelo compacto no ice peaks (coordenadas `1855, -6499`). Pegou **15 stacks** (~960 blocos) mas esqueceu os shulkers — retornou pra casa pra pegar mais. Planeja fazer **portal Nether dedicado** no local pra farm infinito de gelo.
+- **Momento que marcou:** ver o tamanho do ice peaks — bem maior que o da casa, vai render gelo pra vários projetos.
+- **Impressão:** um pouco de perrengue (esqueceu os shulkers kkk), mas local excelente e ideia do portal vai valer a pena no futuro.
 
 ---
 
