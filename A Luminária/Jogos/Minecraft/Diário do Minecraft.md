@@ -13,13 +13,33 @@
 
 ## Coordenadas importantes
 
-**Formato: X, Y**
+**Formato: X, Z**
 
 - **Casa:** -3419, -5608
 - **Portal do End:** -2289, 769
 - **Templo de Guardian no mar** (futura farm de guardian): -2815, -3866
 - **Pale Garden** (primeira vez visto; floresta escura + carvalhos pálidos): -1218, -2522
 - **Floresta de sakura (grande, maior que a da casa)** : -769, -2899
+
+## Plano: corredor do Nether casa → End
+
+> Objetivo: ir da casa ao End **sem gastar foguete**. Nether = 1 bloco por 8 no mundo normal, então só X e Z importam no link (÷8); o Y não.
+
+| Place | Mundo normal | No Nether (÷8) |
+|---|---|---|
+| 🏠 Portal casa | -3419, -5608 | -427, -701 |
+| 🌋 Portal Nether casa | — | -427, -701 |
+| 🌋 Portal Nether → End | — | -286, 96 |
+| 🚪 Portal de saída na stronghold | montar **dentro** da stronghold, perto de -2289, 769 | — |
+
+**Passo a passo:**
+1. Portal da casa já existente entra no Nether em `-427, -701`.
+2. Andar/cavar corredor ~800 blocos no Nether até `-286, 96` (vs ~6.500 no mundo normal — 8× mais rápido).
+3. Descer na stronghold (em `-2289, 769`) por escavação ou seguindo o eye of ender.
+4. Montar o portal de saída **dentro da stronghold**, junto ao portal do End.
+5. Ativar com obsidião+isqueiro: linka no `-286, 96` e sai já de frente pro portal do End.
+
+> ⚠️ Portal do Nether no mundo normal **não abre sozinho dentro da stronghold** — ele gera na superfície/caverna próxima. Por isso o passo 4 monta o portal dentro da stronghold. E o portal do End não é conectável via Nether (só ativa com os olhos de ender), então "sair de frente dele" é via stronghold, não por portal.
 
 ## Próximo objetivo: resolver comida
 
