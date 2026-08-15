@@ -45,9 +45,10 @@
 - Deslocamento no Nether: ΔX +141 (leste), ΔZ +797 (sul) de casa `-427, -701` → End `-286, 96`.
 - Razão: **1 X a cada ~5,65 Z** (alternar `6 Z → 1 X` na maioria, `5 Z → 1 X` de vez em quando).
 - Distância: **~809 blocos** de comprimento diagonal.
-- Gelo total (trilho 3 de largura): **~2.427 blocos de gelo azul**.
+- Gelo total (trilho 3 de largura): **~2.427 blocos de gelo**.
 - Stacks (64/bloco): 1 fileira = 12 stacks + 41 (13 slots) | trilho 3x = 37 stacks + 59 (**38 slots**).
-- Ideia: navegar reto olhando pra frente, deslizando entre X e Z; as 3 de largura dão folga pra não destravar. Faixa central de gelo azul + laterais de gelo, paredes de contenção nas bordas.
+- **Material escolhido: gelo compacto (packed ice)**, extraído do bioma de ice peaks perto de casa — de graça, não precisa craftar; levemente mais lento que o azul mas rápido. Colher com picareta **Silk Touch** (sem ela vira água) e não derrete com luz (ok no Nether).
+- Ideia: navegar reto olhando pra frente, deslizando entre X e Z; as 3 de largura dão folga pra não destravar. Faixa central de gelo + laterais de gelo, paredes de contenção nas bordas.
 
 ## Próximo objetivo: resolver comida
 
