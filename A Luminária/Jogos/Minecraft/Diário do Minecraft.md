@@ -19,6 +19,7 @@
 - **Portal do End:** -2289, 769
 - **Templo de Guardian no mar** (futura farm de guardian): -2815, -3866
 - **Pale Garden** (primeira vez visto; floresta escura + carvalhos pálidos): -1218, -2522
+- **Floresta de sakura (grande, maior que a da casa)** : -769, -2899
 
 ## Próximo objetivo: resolver comida
 
