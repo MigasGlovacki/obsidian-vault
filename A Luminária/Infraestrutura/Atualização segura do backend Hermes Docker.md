@@ -2,7 +2,7 @@
 
 > **Regra principal:** como o Hermes roda em Docker, a atualização é feita no **host da VPS** puxando uma imagem e recriando o container. **Não usar `hermes update` dentro do container.**
 >
-> Última revisão: 28/07/2026. A instalação em produção está em **Hermes Agent v0.19.0 (2026.7.20)**. Nesta atualização, o Telegram voltou automaticamente, mas o Dashboard/Desktop precisou ser iniciado de novo como processo separado — isso agora faz parte do checklist.
+> Última revisão: 14/08/2026. A instalação em produção está em **Hermes Agent v0.20.1 (2026.8.13)** (atualizada via `luminaria-update`, tag `v2026.8.13`).
 
 ## Mapa rápido da instalação
 
@@ -10,7 +10,7 @@
 |---|---|
 | Container ativo | `moni-hermes` |
 | Dados persistentes | `/opt/moni-data` no host → `/opt/data` no container |
-| Imagem-alvo usada na última atualização | `nousresearch/hermes-agent:v2026.7.20` |
+| Imagem-alvo usada na última atualização | `nousresearch/hermes-agent:v2026.8.13` |
 | Gateway | comando do container: `gateway run` |
 | Portas | `8642:8642` e `127.0.0.1:9119:9119` |
 | Dashboard | porta interna `9119`, protegido por login; processo separado do gateway |
@@ -192,4 +192,12 @@ sudo /opt/moni-data/deploy/luminaria-update vAAAA.M.D
 ```
 
 O script baixa a imagem, faz backup frio, recria pelo Compose e valida versão/gateway/Dashboard; se falhar localmente, tenta voltar à imagem anterior. Testar Telegram e Desktop antes de limpar backups.
+
+> **PITFALL (14/08/2026):** O `docker compose stop` no meio do update é **normal** — é o passo do backup frio. **NÃO** rodar `docker start moni-hermes` nesse momento; isso religa o container antigo e a atualização não aplica. Para não depender de a pessoa esperar olhando a tela, rodar em background com log:
+> ```bash
+> sudo bash -c 'nohup /opt/moni-data/deploy/luminaria-update v2026.8.13 > /opt/moni-data/update-log.txt 2>&1 & echo rodando; sleep 2; tail -5 /opt/moni-data/update-log.txt'
+> ```
+> Depois conferir com `tail -20 /opt/moni-data/update-log.txt` (esperar aparecer `SUCCESS`).
+> O aviso `Stale gateway_state.json / process is gone` após o recreate é benigno (estado antigo apontando pra PID morto).
+> **Progresso do backup (14/08/2026):** o `luminaria-update` agora mostra barrinha de progresso do backup (usa `pv` se instalado: `sudo apt-get install -y pv` → barrinha com %; senão, spinner ASCII). Nunca mais deixa o backup em silêncio.
 
