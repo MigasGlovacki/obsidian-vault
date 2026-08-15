@@ -17,6 +17,8 @@
 
 - **Casa:** -3419, -5608
 - **Portal do End:** -2289, 769
+- **Templo de Guardian no mar** (futura farm de guardian): -2815, -3866
+- **Pale Garden** (primeira vez visto; floresta escura + carvalhos pálidos): -1218, -2522
 
 ## Próximo objetivo: resolver comida
 
@@ -51,6 +53,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Progresso:** Continuação da terraformação da montanha da casa; planície artificial moldada no sopé para a futura vila.
 - **Momento que marcou:** planejar a vila própria — trazendo villagers de propósito, construída à mão, não encontrada.
 - **Impressão:** empolgação com o projeto; casa no topo da montanha, caminho descendo pra planície, grama pra deixar tudo bonito.
+
+### Sessão 3 — 14/08/2026
+
+- **Progresso:** Primeira exploração do **Pale Garden** (bioma novo, junto à floresta escura); achou no mar também um **templo de Guardian** pra farm futura.
+- **Momento que marcou:** ver o bioma cinza de carvalho pálido pela primeira vez de verdade.
+- **Impressão:** bioma bonito e meio misterioso; coordenadas guardadas pra voltar a construir/colher madeira pálida e fazer a farm de guardian.
 
 ---
 
