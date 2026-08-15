@@ -55,11 +55,17 @@
 
 **Variante — pista diagonal de barco casa → ice peaks (3x de largura):**
 - Deslocamento no Nether: ΔX +659 (leste), ΔZ **-111** (norte) de casa `-427, -701` → ice peaks `232, -812`.
-- Razão: **~5,94 X a cada 1 Z** (a cada `6 X → 1 Z` na maioria, ocasionalmente `5 X → 1 Z` pra fechar exato).
+- Razão: **~5,94 X a cada 1 Z**.
+- **Contagens exatas:** ▶️ **104×** `6 X → 1 Z` + ▶️ **7×** `5 X → 1 Z` = 111 passos (chega exato no portal). Distribuir os 7 "de 5" a cada ~15–16 passos (ex: 15, 31, 46, 61, 76, 91, 106) pra manter reto.
 - Distância: **~668 blocos** de comprimento diagonal.
 - Gelo total (trilho 3 de largura): **~2.004 blocos de gelo**.
 - Stacks (64/bloco): trilho 3x = 31 stacks + 20 (**32 slots**).
-- Já tem **15 stacks** (~960 blocos) da primeira extração → faltam **~1.044 blocos** (~16,5 stacks) pra completar. 2 shulkers levam tudo.
+- Já tem **2 shulkers + 15 stacks** (~4.416 blocos) → cobre a pista do ice peaks e quase toda a do End.
+
+**Variante — pista diagonal de barco casa → End (3x de largura, contagens exatas):**
+- Deslocamento no Nether: ΔX +141 (leste), ΔZ +797 (sul) de casa `-427, -701` → End `-286, 96`.
+- **Contagens exatas:** ▶️ **92×** `6 Z → 1 X` + ▶️ **49×** `5 Z → 1 X` = 141 passos (chega exato).
+- Distância: **~809 blocos** | Gelo 3x: **~2.427 blocos** | Stacks: 37 + 59 (**38 slots**).
 
 ## Próximo objetivo: resolver comida
 
