@@ -31,8 +31,8 @@
 | 🏠 Portal casa | -3419, -5608 | -427, -701 |
 | 🌋 Portal Nether casa | — | -427, -701 |
 | 🌋 Portal Nether → End | — | -286, 96 |
-|| 🚪 Portal de saída na stronghold | montar **dentro** da stronghold, perto de -2289, 769 | — |
-|| 🧊 **Farm de gelo compacto** | 1855, -6499 | 232, -812 |
+| 🚪 Portal de saída na stronghold | montar **dentro** da stronghold, perto de -2289, 769 | — |
+| 🧊 **Farm de gelo compacto** | 1855, -6499 | 232, -812 |
 
 **Passo a passo:**
 1. Portal da casa já existente entra no Nether em `-427, -701`.
