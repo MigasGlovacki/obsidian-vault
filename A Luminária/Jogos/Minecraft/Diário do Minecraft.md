@@ -41,6 +41,14 @@
 
 > ⚠️ Portal do Nether no mundo normal **não abre sozinho dentro da stronghold** — ele gera na superfície/caverna próxima. Por isso o passo 4 monta o portal dentro da stronghold. E o portal do End não é conectável via Nether (só ativa com os olhos de ender), então "sair de frente dele" é via stronghold, não por portal.
 
+**Variante escolhida — pista diagonal de barco (3x de largura):**
+- Deslocamento no Nether: ΔX +141 (leste), ΔZ +797 (sul) de casa `-427, -701` → End `-286, 96`.
+- Razão: **1 X a cada ~5,65 Z** (alternar `6 Z → 1 X` na maioria, `5 Z → 1 X` de vez em quando).
+- Distância: **~809 blocos** de comprimento diagonal.
+- Gelo total (trilho 3 de largura): **~2.427 blocos de gelo azul**.
+- Stacks (64/bloco): 1 fileira = 12 stacks + 41 (13 slots) | trilho 3x = 37 stacks + 59 (**38 slots**).
+- Ideia: navegar reto olhando pra frente, deslizando entre X e Z; as 3 de largura dão folga pra não destravar. Faixa central de gelo azul + laterais de gelo, paredes de contenção nas bordas.
+
 ## Próximo objetivo: resolver comida
 
 Opções de farm, da mais rápida de montar à mais sustentável:
