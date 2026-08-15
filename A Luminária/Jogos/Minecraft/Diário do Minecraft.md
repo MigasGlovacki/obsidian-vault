@@ -104,6 +104,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Momento que marcou:** ver o tamanho do ice peaks — bem maior que o da casa, vai render gelo pra vários projetos.
 - **Impressão:** um pouco de perrengue (esqueceu os shulkers kkk), mas local excelente e ideia do portal vai valer a pena no futuro.
 
+### Sessão 6 — 14/08/2026
+
+- **Progresso:** Link do portal da casa → portal das snow peaks (ice peaks) feito no Nether. Farm de gelo compacto agora a poucos passos de casa via Nether.
+- **Momento que marcou:** primeiro portal "dedicado" montado pra acelerar o dia a dia.
+- **Impressão:** satisfação; a farm de gelo virou recurso de acesso rápido, e a base do túnel Nether (casa ↔ gelo ↔ End) está formada. Falta construir as pistas de barco.
+
 ---
 
 ## Marcos do mundo
