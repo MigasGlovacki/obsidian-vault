@@ -53,6 +53,14 @@
 - **Material escolhido: gelo compacto (packed ice)**, extraído do bioma de ice peaks perto de casa — de graça, não precisa craftar; levemente mais lento que o azul mas rápido. Colher com picareta **Silk Touch** (sem ela vira água) e não derrete com luz (ok no Nether).
 - Ideia: navegar reto olhando pra frente, deslizando entre X e Z; as 3 de largura dão folga pra não destravar. Faixa central de gelo + laterais de gelo, paredes de contenção nas bordas.
 
+**Variante — pista diagonal de barco casa → ice peaks (3x de largura):**
+- Deslocamento no Nether: ΔX +659 (leste), ΔZ **-111** (norte) de casa `-427, -701` → ice peaks `232, -812`.
+- Razão: **~5,94 X a cada 1 Z** (a cada `6 X → 1 Z` na maioria, ocasionalmente `5 X → 1 Z` pra fechar exato).
+- Distância: **~668 blocos** de comprimento diagonal.
+- Gelo total (trilho 3 de largura): **~2.004 blocos de gelo**.
+- Stacks (64/bloco): trilho 3x = 31 stacks + 20 (**32 slots**).
+- Já tem **15 stacks** (~960 blocos) da primeira extração → faltam **~1.044 blocos** (~16,5 stacks) pra completar. 2 shulkers levam tudo.
+
 ## Próximo objetivo: resolver comida
 
 Opções de farm, da mais rápida de montar à mais sustentável:
