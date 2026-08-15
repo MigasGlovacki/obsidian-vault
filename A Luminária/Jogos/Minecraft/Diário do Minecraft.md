@@ -90,6 +90,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Momento que marcou:** ver o bioma cinza de carvalho pálido pela primeira vez de verdade.
 - **Impressão:** bioma bonito e meio misterioso; coordenadas guardadas pra voltar a construir/colher madeira pálida e fazer a farm de guardian.
 
+### Sessão 4 — 14/08/2026
+
+- **Progresso:** Desceu até a stronghold e montou o **portal de saída do Nether dentro dela**, bem na frente do portal do End. Plano de link no Nether está completo do lado destino.
+- **Momento que marcou:** o portal abriu certinho, exatamente onde queria — stronghold
+- **Impressão:** agora o End está "pronto pra usar" assim que a pista de gelo no Nether conectar de casa.
+
 ---
 
 ## Marcos do mundo
