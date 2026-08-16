@@ -53,7 +53,12 @@
 - Distância: **~800 blocos** diagonal.
 - Gelo total (trilho 3 de largura): **2.400 blocos = 37 stacks + 32**.
 - **Material escolhido: gelo compacto (packed ice)**, extraído do bioma de ice peaks perto de casa — de graça, não precisa craftar; levemente mais lento que o azul mas rápido. Colher com picareta **Silk Touch** (sem ela vira água) e não derrete com luz (ok no Nether).
-- **Status da construção (parado):** ✅ 13 das 14 repetições do ciclo grande feitas. Falta: 1× `8 seis + 1 cinco` + fecho `7 seis + 1 cinco` (≈ mais 17 passos até a stronghold).
+- **Status da construção: ✅ COMPLETA** (16/08/2026). A pista de gelo casa → stronghold está terminada no mundo original.
+- **Método de construção (preferido pelo João):** Axiom path → esquema Litematica → construir no original.
+  1. Desenha a ponte numa **cópia do mundo** usando a ferramenta **path do Axiom**.
+  2. Salva o resultado como **esquema no Litematica**.
+  3. Reconstrói por cima dela no **mundo original** seguindo o esquema.
+  - Muito mais rápido e visual do que marcar passo a passo; virou o padrão do João pra pontes.
 - Ideia: navegar reto olhando pra frente, deslizando entre X e Z; as 3 de largura dão folga pra não destravar. Faixa central de gelo + laterais de gelo, paredes de contenção nas bordas.
 
 **Variante — pista diagonal de barco casa → ice peaks (3x de largura):**
@@ -146,6 +151,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Momento que marcou:** acertar o ponto exato de onde a pista deve nascer no hub circular (a stronghold desvia só ~9,6° pra leste do sul; antes tinha calculado pra fora do hub, no canto de um quadrado).
 - **Impressão:** satisfação de ter o rumo garantido na nota; construção da pista quase no fim — falta o fecho final pra stronghold.
 
+### Sessão 10 — 16/08/2026
+
+- **Progresso:** Adotou um fluxo novo de construção com o **Axiom** e o **Litematica**: desenha a ponte numa cópia do mundo com a ferramenta path do Axiom, salva como esquema no Litematica, e reconstrói por cima no mundo original. Com isso **terminou a pista de gelo casa → stronghold** (o que tinha parado no passo 13/14 da Sessão 9).
+- **Momento que marcou:** ver a ferramenta path do Axiom desenhar a ponte e a pista literalmente "montar sozinha" no mundo original pelo esquema.
+- **Impressão:** empolgação com o método novo — achou um fluxo que forja pontes rápido e visual; virou o padrão dele pra construção de caminhos.
+
 ---
 
 ## Marcos do mundo
@@ -153,6 +164,7 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - [x] Derrotar o Ender Dragon
 - [x] Farm de galinhas funcionando (26.2)
 - [x] Farm de XP de endermen no End
+- [x] Corredor de gelo casa → stronghold completo (16/08/2026)
 - [ ] Fonte de comida sustentável em massa (aldeões fazendeiros)
 - [ ] Construir a vila própria na planície (terraformação em andamento) e trazer villagers
 - [ ] *(próximos marcos entram aqui)*
