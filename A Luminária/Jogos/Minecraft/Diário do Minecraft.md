@@ -44,13 +44,16 @@
 
 > ⚠️ Portal do Nether no mundo normal **não abre sozinho dentro da stronghold** — ele gera na superfície/caverna próxima. Por isso o passo 4 monta o portal dentro da stronghold. E o portal do End não é conectável via Nether (só ativa com os olhos de ender), então "sair de frente dele" é via stronghold, não por portal.
 
-**Variante escolhida — pista diagonal de barco (3x de largura):**
-- Deslocamento no Nether: ΔX +137 (leste), ΔZ +809 (sul) de casa `-423, -713` → End `-286, 96`.
-- Razão: **1 X a cada ~5,90 Z** (alternar `6 Z → 1 X` na maioria, `5 Z → 1 X` de vez em quando).
-- Distância: **~821 blocos** de comprimento diagonal.
-- Gelo total (trilho 3 de largura): **~2.427 blocos de gelo**.
-- Stacks (64/bloco): 1 fileira = 12 stacks + 41 (13 slots) | trilho 3x = 37 stacks + 59 (**38 slots**).
+**Variante escolhida — pista diagonal de barco (3x de largura), casa → stronghold:**
+- **Início:** `-420, -693` (borda sul do hub do portal da casa, raio 20, ~3 blocos a leste do eixo). De lá a pista é quase em linha reta pro sol, levemente leste.
+- **Destino:** `-286, 96` (stronghold). Deslocamento: ΔX +134 (leste), ΔZ +789 (sul).
+- Razão: **1 X a cada ~5,89 Z** (0,17 X por Z).
+- Contagens brutas: **119× `6Z→1X` + 15× `5Z→1X`** = 134 passos.
+- **Ciclo de construção:** ▶️ **14× `8 seis + 1 cinco`** (cada = 8× `6Z→1X` + 1× `5Z→1X`, 9 passos), depois **fecho `7 seis + 1 cinco`** (8 passos). Total 134 passos exatos.
+- Distância: **~800 blocos** diagonal.
+- Gelo total (trilho 3 de largura): **2.400 blocos = 37 stacks + 32**.
 - **Material escolhido: gelo compacto (packed ice)**, extraído do bioma de ice peaks perto de casa — de graça, não precisa craftar; levemente mais lento que o azul mas rápido. Colher com picareta **Silk Touch** (sem ela vira água) e não derrete com luz (ok no Nether).
+- **Status da construção (parado):** ✅ 13 das 14 repetições do ciclo grande feitas. Falta: 1× `8 seis + 1 cinco` + fecho `7 seis + 1 cinco` (≈ mais 17 passos até a stronghold).
 - Ideia: navegar reto olhando pra frente, deslizando entre X e Z; as 3 de largura dão folga pra não destravar. Faixa central de gelo + laterais de gelo, paredes de contenção nas bordas.
 
 **Variante — pista diagonal de barco casa → ice peaks (3x de largura):**
@@ -136,6 +139,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Progresso:** Linkou o **portal do Nether da stronghold** — ativou o portal no Nether do lado destino (a stronghold é o ponto de acesso preferido pro End). Já tem **farm de XP de endermen** montada no End há um bom tempo.
 - **Momento que marcou:** o portal do Nether da stronghold acendeu e conectou de frente pro caminho do portal do End.
 - **Impressão:** o mapa já tava zerado (dragão derrotado) — o corredor/portal é mais conveniência de retorno e acesso rápido do que necessidade pra zerar.
+
+### Sessão 9 — 15/08/2026
+
+- **Progresso:** calculou o caminho definitivo da pista de barco casa → stronghold a partir do ponto de início (`-420, -693`, borda sul do hub raio 20) → `-286, 96`; ~800 blocos, ciclo `14× (8 seis + 1 cinco) + fecho (7 seis + 1 cinco)`. Começou a construir a pista de gelo e **parou no passo 13 das 14 primeiras repetições**.
+- **Momento que marcou:** acertar o ponto exato de onde a pista deve nascer no hub circular (a stronghold desvia só ~9,6° pra leste do sul; antes tinha calculado pra fora do hub, no canto de um quadrado).
+- **Impressão:** satisfação de ter o rumo garantido na nota; construção da pista quase no fim — falta o fecho final pra stronghold.
 
 ---
 
