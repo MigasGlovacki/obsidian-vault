@@ -27,12 +27,11 @@
 
 > Objetivo: ir da casa ao End **sem gastar foguete**. Nether = 1 bloco por 8 no mundo normal, então só X e Z importam no link (÷8); o Y não.
 
-| Place                            | Mundo normal                              | No Nether (÷8) |
-| -------------------------------- | ----------------------------------------- | -------------- |
-| 🏠 Portal casa                   | -3419, -5608                              | -427, -701     |
-| 🌋 Portal Nether → End           | -2289, 769                                | -286, 96       |
-| 🚪 Portal de saída na stronghold | montar **dentro** da stronghold, perto de | —              |
-| 🧊 **Farm de gelo compacto**     | 1855, -6499                               | 232, -812      |
+| Place                        | Mundo normal | No Nether (÷8) |
+| ---------------------------- | ------------ | -------------- |
+| 🏠 Portal casa               | -3419, -5608 | -427, -701     |
+| 🌋 Portal Nether → End       | -2289, 769   | -286, 96       |
+| 🧊 **Farm de gelo compacto** | 1855, -6499  | 232, -812      |
 
 **Passo a passo:**
 1. Portal da casa já existente entra no Nether em `-427, -701`.
