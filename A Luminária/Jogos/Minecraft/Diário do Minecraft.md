@@ -129,6 +129,12 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 - **Momento que marcou:** ver uma feature nova do 26.2 pela primeira vez (não é todo dia que o mundo mostra algo inédito).
 - **Impressão:** empolgação; quer explorar/extrair o que esse geiser tem pra oferecer.
 
+### Sessão 8 — 15/08/2026
+
+- **Progresso:** Linkou o **portal do Nether da stronghold** — ativou o portal no Nether do lado destino, fechando o elo casa → nether → stronghold/End. O corredor agora está "ligado" dos dois lados.
+- **Momento que marcou:** o portal do Nether da stronghold acendeu e conectou de frente pro portal do End.
+- **Impressão:** o End está oficialmente de portas abertas pra quando a pista de gelo (ou outra rota) estiver pronta — falta agora construir/caminhar o trecho físico do corredor.
+
 ---
 
 ## Marcos do mundo
