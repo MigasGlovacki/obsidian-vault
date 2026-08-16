@@ -131,9 +131,9 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 
 ### Sessão 8 — 15/08/2026
 
-- **Progresso:** Linkou o **portal do Nether da stronghold** — ativou o portal no Nether do lado destino, fechando o elo casa → nether → stronghold/End. O corredor agora está "ligado" dos dois lados.
-- **Momento que marcou:** o portal do Nether da stronghold acendeu e conectou de frente pro portal do End.
-- **Impressão:** o End está oficialmente de portas abertas pra quando a pista de gelo (ou outra rota) estiver pronta — falta agora construir/caminhar o trecho físico do corredor.
+- **Progresso:** Linkou o **portal do Nether da stronghold** — ativou o portal no Nether do lado destino (a stronghold é o ponto de acesso preferido pro End). Já tem **farm de XP de endermen** montada no End há um bom tempo.
+- **Momento que marcou:** o portal do Nether da stronghold acendeu e conectou de frente pro caminho do portal do End.
+- **Impressão:** o mapa já tava zerado (dragão derrotado) — o corredor/portal é mais conveniência de retorno e acesso rápido do que necessidade pra zerar.
 
 ---
 
@@ -141,6 +141,7 @@ Opções de farm, da mais rápida de montar à mais sustentável:
 
 - [x] Derrotar o Ender Dragon
 - [x] Farm de galinhas funcionando (26.2)
+- [x] Farm de XP de endermen no End
 - [ ] Fonte de comida sustentável em massa (aldeões fazendeiros)
 - [ ] Construir a vila própria na planície (terraformação em andamento) e trazer villagers
 - [ ] *(próximos marcos entram aqui)*
