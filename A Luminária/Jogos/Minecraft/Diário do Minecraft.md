@@ -31,7 +31,7 @@
 | Place                        | Mundo normal | No Nether (÷8) |
 | ---------------------------- | ------------ | -------------- |
 | 🏠 Portal casa               | -3419, -5608 | **-423, -713** *(coords exatas da print; o ÷8 teórico daria -427, -701, mas o portal real sai em -423, -713)* |
-| 🚪 **Ponto de início do caminho** (borda do hub, raio 41) | — | **-416, -673** (alternativa simples: -423, -672) |
+| 🚪 **Ponto de início do caminho** (canto SE do hub, diâmetro 41 = ±20) | — | **-403, -693** |
 | 🌋 Portal Nether → End       | -2289, 769   | -286, 96       |
 | 🧊 **Farm de gelo compacto** | 1855, -6499  | 232, -812      |
 
