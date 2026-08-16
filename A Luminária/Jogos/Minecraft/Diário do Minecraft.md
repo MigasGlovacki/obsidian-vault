@@ -16,6 +16,7 @@
 **Formato: X, Z**
 
 - **Casa:** -3419, -5608
+- **Portal Nether da casa (coords exatas da print):** -423, -713
 - **Portal do End:** -2289, 769
 - **Templo de Guardian no mar** (futura farm de guardian): -2815, -3866
 - **Pale Garden** (primeira vez visto; floresta escura + carvalhos pálidos): -1218, -2522
@@ -29,12 +30,13 @@
 
 | Place                        | Mundo normal | No Nether (÷8) |
 | ---------------------------- | ------------ | -------------- |
-| 🏠 Portal casa               | -3419, -5608 | -427, -701     |
+| 🏠 Portal casa               | -3419, -5608 | **-423, -713** *(coords exatas da print; o ÷8 teórico daria -427, -701, mas o portal real sai em -423, -713)* |
+| 🚪 **Ponto de início do caminho** (borda do hub, raio 41) | — | **-416, -673** (alternativa simples: -423, -672) |
 | 🌋 Portal Nether → End       | -2289, 769   | -286, 96       |
 | 🧊 **Farm de gelo compacto** | 1855, -6499  | 232, -812      |
 
 **Passo a passo:**
-1. Portal da casa já existente entra no Nether em `-427, -701`.
+1. Portal da casa já existente entra no Nether em `-423, -713` (coords reais da print).
 2. Andar/cavar corredor ~800 blocos no Nether até `-286, 96` (vs ~6.500 no mundo normal — 8× mais rápido).
 3. Descer na stronghold (em `-2289, 769`) por escavação ou seguindo o eye of ender.
 4. Montar o portal de saída **dentro da stronghold**, junto ao portal do End.
@@ -43,27 +45,27 @@
 > ⚠️ Portal do Nether no mundo normal **não abre sozinho dentro da stronghold** — ele gera na superfície/caverna próxima. Por isso o passo 4 monta o portal dentro da stronghold. E o portal do End não é conectável via Nether (só ativa com os olhos de ender), então "sair de frente dele" é via stronghold, não por portal.
 
 **Variante escolhida — pista diagonal de barco (3x de largura):**
-- Deslocamento no Nether: ΔX +141 (leste), ΔZ +797 (sul) de casa `-427, -701` → End `-286, 96`.
-- Razão: **1 X a cada ~5,65 Z** (alternar `6 Z → 1 X` na maioria, `5 Z → 1 X` de vez em quando).
-- Distância: **~809 blocos** de comprimento diagonal.
+- Deslocamento no Nether: ΔX +137 (leste), ΔZ +809 (sul) de casa `-423, -713` → End `-286, 96`.
+- Razão: **1 X a cada ~5,90 Z** (alternar `6 Z → 1 X` na maioria, `5 Z → 1 X` de vez em quando).
+- Distância: **~821 blocos** de comprimento diagonal.
 - Gelo total (trilho 3 de largura): **~2.427 blocos de gelo**.
 - Stacks (64/bloco): 1 fileira = 12 stacks + 41 (13 slots) | trilho 3x = 37 stacks + 59 (**38 slots**).
 - **Material escolhido: gelo compacto (packed ice)**, extraído do bioma de ice peaks perto de casa — de graça, não precisa craftar; levemente mais lento que o azul mas rápido. Colher com picareta **Silk Touch** (sem ela vira água) e não derrete com luz (ok no Nether).
 - Ideia: navegar reto olhando pra frente, deslizando entre X e Z; as 3 de largura dão folga pra não destravar. Faixa central de gelo + laterais de gelo, paredes de contenção nas bordas.
 
 **Variante — pista diagonal de barco casa → ice peaks (3x de largura):**
-- Deslocamento no Nether: ΔX +659 (leste), ΔZ **-111** (norte) de casa `-427, -701` → ice peaks `232, -812`.
-- Razão: **~5,94 X a cada 1 Z**.
-- **Ciclo de construção:** ▶️ **7×** o bloco `14 seis + 1 cinco`, depois **6 seis**. Total: 104 seis + 7 cincos = 111 passos (exato).
-- Distância: **~668 blocos**.
-- Gelo total (trilho 3 de largura): **~2.004 blocos** | Stacks: 32 slots.
+- Deslocamento no Nether: ΔX +655 (leste), ΔZ **-99** (norte) de casa `-423, -713` → ice peaks `232, -812`.
+- Razão: **~6,61 X a cada 1 Z**.
+- **Ciclo de construção:** ▶️ **61×** `7 X + 1 Z`, depois **38×** `6 X + 1 Z`. Total: 655 X + 99 Z = 99 passos (exato).
+- Distância: **~662 blocos**.
+- Gelo total (trilho 3 de largura): **~1.986 blocos** | Stacks: ~31.
 - Já tem **2 shulkers + 15 stacks** (~4.416 blocos) → cobre a pista do ice peaks e quase toda a do End.
 
 **Variante — pista diagonal de barco casa → End (3x de largura):**
-- Deslocamento no Nether: ΔX +141 (leste), ΔZ +797 (sul) de casa `-427, -701` → End `-286, 96`.
-- Razão: **~5,65 Z a cada 1 X**.
-- **Ciclo de construção:** ▶️ **45×** o bloco `2 seis + 1 cinco`, depois **`5,5,6,5,5,6`** (4 cincos + 2 seis). Total: 92 seis + 49 cincos = 141 passos (exato).
-- Distância: **~809 blocos** | Gelo 3x: **~2.427 blocos** | Stacks: 38 slots.
+- Deslocamento no Nether: ΔX +137 (leste), ΔZ +809 (sul) de casa `-423, -713` → End `-286, 96`.
+- Razão: **~5,90 Z a cada 1 X**.
+- **Ciclo de construção:** ▶️ **124×** `6 Z + 1 X`, depois **13×** `5 Z + 1 X`. Total: 809 Z + 137 X = 137 passos (exato).
+- Distância: **~821 blocos** | Gelo 3x: **~2.427 blocos** | Stacks: 38 slots.
 
 ## Próximo objetivo: resolver comida
 
