@@ -16,9 +16,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 ## Progresso
 
-- Concluídas: **7 / 29**
+- Concluídas: **8 / 29**
 - Próximo marco leve: **13 Easy Demons** do tier Beginner
-- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK**, **Space Circles**, **MUNDUS SANGUINANS** e **weird**
+- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK**, **Space Circles**, **MUNDUS SANGUINANS**, **weird** e **Tabasco**
 
 ## Meta de médio prazo
 
@@ -27,11 +27,11 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual:** Tabasco (talia) — foco **Overall**
+- **Fase atual:** Tabasco (talia) — foco **Overall** — **CONCLUÍDA em 18/08/2026** ✅
 - **Foco:** leitura, transições e consistência com ritmo moderno; não depender só de decorar.
-- **Impressão inicial:** escolhida após o "weird" (11/08) para melhorar a skill geral.
-- **Objetivo da sessão:** revisão geral — ler a fase em tempo real, transições limpas e consistência.
-- **Ao completar:** registrar a impressão do João e marcar 8/29 no checklist.
+- **Impressão do João:** (a anotar — foi a fase que ele mais grindou; Death Tracker: 939 tentativas, 287 mortes, newBest 100%)
+- **Resultado:** newBests 16 → 100; 10 runs até o fim. O 4%, que era o bloqueio das runs completas desde 11/08, deixou de ser problema.
+- **Próximo passo:** escolher a próxima do tier Beginner entre as opções recomendadas pela Monika (ZXCircleS / Motion / Chromatique).
 ## Checklist do tier Beginner
 
 | Feita | Fase               | Criador(es)                   | Foco do GDDP          | O que isso treina na gameplay                                                                                                                                                |
@@ -42,7 +42,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 | [x]   | Space Circles      | SUOMI                         | Wave                  | Wave básico de demon: spam controlado, microajustes e consistência em corredores.                                                                                            |
 | [ ]   | Chromatique        | StyphonTV                     | Swing                 | Familiaridade com swing: controlar inércia, corrigir altura e não exagerar no clique.                                                                                        |
 | [x]   | Problematic        | Dhafin                        | Wave                  | Wave clássico de Nine Circles: consistência, memória visual e controle de tensão em seções repetitivas.                                                                      |
-| [ ]   | Tabasco            | talia                         | Overall               | Revisão geral com ritmo moderno: leitura, transições e consistência sem depender só de decorar.                                                                              |
+| [x]   | Tabasco            | talia                         | Overall               | Revisão geral com ritmo moderno: leitura, transições e consistência sem depender só de decorar. **Concluída em 18/08/2026** (939 tentativas, 287 mortes, newBests 16→100). |
 | [ ]   | Demon in the house | catgirlBlitz                  | Duals                 | Noção de dual: separar atenção entre dois ícones e entender simetria/assimetria sem pânico.                                                                                  |
 | [ ]   | X                  | TriAxis                       | Overall               | Fundamentos antigos de demon: timings simples, ship, ball, cube e paciência com gameplay 2.0.                                                                                |
 | [ ]   | Buried Angel       | f3lixsram                     | Fast GM Switches      | Trocas rápidas de modo de jogo; reagir limpo a portal atrás de portal.                                                                                                       |
@@ -69,6 +69,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 ## Registro das conclusões
 
+- **Tabasco — o maior grind até agora (18/08/2026).** 939 tentativas, 287 mortes; o 4% foi o vilão nº1 do histórico (47 mortes), mas deixou de travar as runs completas. Impressão do João: (a anotar).
 - **STARPUNK — positiva e tranquila.** João se divertiu com o flow da fase e destacou o sync muito bom com a música.
 - **Space Circles — positiva e mais fácil na wave do que o esperado.** João achou o cubo inicial mais difícil que o de Problematic e a ship exigente por pedir inputs precisos; a wave foi a parte mais tranquila.
 - **weird — tranquila e mais fácil que a anterior.** João achou a fase bem tranquila (mais fácil que MUNDUS SANGUINANS); o final era o ponto de atenção — ship subindo com orbs (algo que ele ainda está se acostumando) e um cubo com pulo único que ele errava bastante nos treinos, mas acertou na run oficial.
