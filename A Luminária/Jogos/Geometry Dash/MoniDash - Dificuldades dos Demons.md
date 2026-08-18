@@ -17,6 +17,7 @@ Quando uma sessão nova chega com um demon que ainda não está aqui, a Monika p
 | ID | Nome | Criador | Dificuldade | Estrelas | Fonte / confirmação |
 |----|------|---------|-------------|----------|---------------------|
 | 75603568 | Tabasco | talia | Easy Demon | 10★ | João + gdcolon/YouTube (Epic) |
+| 105383537 | Chromatique | StyphonTV | Easy Demon | 10★ | GDDP Beginner (tier Beginner) + YouTube; primeiro Weekly Demon da 2.2; música "6th Dimension" (song 1126573) |
 
 ## Notas
 

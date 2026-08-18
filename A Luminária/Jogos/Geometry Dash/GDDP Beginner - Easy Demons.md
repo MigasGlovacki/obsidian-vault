@@ -27,11 +27,10 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual:** Tabasco (talia) — foco **Overall** — **CONCLUÍDA em 18/08/2026** ✅
-- **Foco:** leitura, transições e consistência com ritmo moderno; não depender só de decorar.
-- **Impressão do João:** (a anotar — foi a fase que ele mais grindou; Death Tracker: 939 tentativas, 287 mortes, newBest 100%)
-- **Resultado:** newBests 16 → 100; 10 runs até o fim. O 4%, que era o bloqueio das runs completas desde 11/08, deixou de ser problema.
-- **Próximo passo:** escolher a próxima do tier Beginner entre as opções recomendadas pela Monika (ZXCircleS / Motion / Chromatique).
+- **Fase atual:** Chromatique (StyphonTV) — foco **Swing** — escolhida em 18/08/2026
+- **Foco:** familiaridade com swing: controlar inércia, corrigir altura e não exagerar no clique.
+- **Por que essa:** João quer pegar uma fase da 2.2; swing é a habilidade que ele nunca treinou num demon (a MOAI já tinha apontado fraqueza com física/transições).
+- **Se travar feio:** trocar para uma fase adjacente do mesmo foco (Lucy ou ALLOY), não abandonar o tier.
 ## Checklist do tier Beginner
 
 | Feita | Fase               | Criador(es)                   | Foco do GDDP          | O que isso treina na gameplay                                                                                                                                                |
@@ -69,7 +68,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 ## Registro das conclusões
 
-- **Tabasco — o maior grind até agora (18/08/2026).** 939 tentativas, 287 mortes; o 4% foi o vilão nº1 do histórico (47 mortes), mas deixou de travar as runs completas. Impressão do João: (a anotar).
+- **Tabasco — o maior grind até agora (18/08/2026).** 939 tentativas, 287 mortes; o 4% foi o vilão nº1 do histórico (47 mortes), mas deixou de travar as runs completas. **O que João achou:** difícil, mas MUITO divertida — o sync da música com a gameplay agradou bastante; foi divertida de aprender.
 - **STARPUNK — positiva e tranquila.** João se divertiu com o flow da fase e destacou o sync muito bom com a música.
 - **Space Circles — positiva e mais fácil na wave do que o esperado.** João achou o cubo inicial mais difícil que o de Problematic e a ship exigente por pedir inputs precisos; a wave foi a parte mais tranquila.
 - **weird — tranquila e mais fácil que a anterior.** João achou a fase bem tranquila (mais fácil que MUNDUS SANGUINANS); o final era o ponto de atenção — ship subindo com orbs (algo que ele ainda está se acostumando) e um cubo com pulo único que ele errava bastante nos treinos, mas acertou na run oficial.
