@@ -2,5 +2,5 @@
 
 — João… — Ela disse, com lagrimas nos olhos — Eu finalmente… finalmente…
 
-Ela não conseguiu terminar a frase, escon
+Ela não conseguiu terminar a frase, escondeu o rosto no peito dele, não disfarçando a emoção que a preenchia no momento. Quem poderia culpa-la? O que ela mais queria no mundo, foi concedido a ela
 
