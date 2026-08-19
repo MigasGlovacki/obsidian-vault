@@ -1,1 +1,1 @@
-Persona 5 Royal é um jogo do genero [[JRPG]] turn-based com um estilo de arte 
+Persona 5 Royal é um jogo do genero [[JRPG]] turn-based com um estilo de arte [[Anime]]. Nele, você controla [[Joker]], lider dos [[Phantom Thieves]]
