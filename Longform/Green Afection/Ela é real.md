@@ -8,5 +8,7 @@ Ela não conseguiu terminar a frase, o abraçou forte escondeu o rosto no peito 
 
 [continuar de manhã]
 
-- conversa pós-traves
+1. conversa pós travessia ainda no chão.
+2. breve tour do apartamento.
+3. João sugerindo que ela tome um banho pois quer que ela fique mais relaxada.
 
