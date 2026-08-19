@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-08-19T03:04:31.705Z",
-      "total": 252,
+      "total": 255,
       "drafts": {
         "Longform/Green Afection/Index.md": {
           "total": 13,
@@ -17,9 +17,9 @@
           }
         },
         "Longform/Beyond Reality/Index.md": {
-          "total": 252,
+          "total": 255,
           "scenes": {
-            "Beyond Reality": 115,
+            "Beyond Reality": 118,
             "Inicio": 137
           }
         }

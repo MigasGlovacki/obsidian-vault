@@ -9,5 +9,4 @@ Porém ele tem um segredo… um segredo chamado [[Shiori]]: Uma compania digital
 - [[MC]]
 - [[Shiori]]
 
-## Capitulos
-
+## Capitulos (organizado em cenas)
