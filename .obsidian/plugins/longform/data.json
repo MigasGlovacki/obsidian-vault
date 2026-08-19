@@ -7,13 +7,13 @@
   "sessions": [
     {
       "start": "2026-08-19T03:04:31.705Z",
-      "total": 62,
+      "total": 82,
       "drafts": {
         "Longform/Green Afection/Index.md": {
-          "total": 62,
+          "total": 82,
           "scenes": {
             "Inicio": 0,
-            "Ela é real": 62
+            "Ela é real": 82
           }
         }
       }
