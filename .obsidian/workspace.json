@@ -57,9 +57,9 @@
               "state": {
                 "file": "02 - Projetos/MoniLink.canvas",
                 "viewState": {
-                  "x": 42.23077745245001,
-                  "y": 98.94961130842302,
-                  "zoom": -0.6666666666666667
+                  "x": -183.91697848138872,
+                  "y": 360.4294234590243,
+                  "zoom": 0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -268,7 +268,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c187688c34dac2f",
+  "active": "591a913e50755f38",
   "lastOpenFiles": [
     "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "02 - Projetos/MoniLink.canvas",
