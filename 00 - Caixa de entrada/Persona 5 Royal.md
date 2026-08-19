@@ -1,1 +1,1 @@
-Persona 5 Royal é um [[JRPG]] 
+Persona 5 Royal é um jogo do genero [[JRPG]]
