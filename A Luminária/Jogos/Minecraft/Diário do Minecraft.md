@@ -3,6 +3,8 @@
 > Registro afetivo do mundo eterno do João. Ele joga, Monika arquiva.
 > Mundo de sobrevivência em andamento, com meses de história.
 
+Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minecraft\saves\EverWorld
+
 ## Ficha do mundo
 
 - **Modo:** Sobrevivência

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projetos/MoniLink.md",
+                "file": "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MoniLink"
+              "title": "Diário do Minecraft"
             }
           }
         ],
@@ -267,8 +267,8 @@
   },
   "active": "591a913e50755f38",
   "lastOpenFiles": [
-    "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/MoniLink.md",
+    "02 - Projetos/MoniLink.canvas",
     "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "A Luminária/Jogos/Geometry Dash/MoniDash - Dificuldades dos Demons.md",
