@@ -1,3 +1,4 @@
 {
-  "format": "DD MMMM, YYYY"
+  "format": "DD MMMM, YYYY",
+  "folder": "01 - Diario"
 }
