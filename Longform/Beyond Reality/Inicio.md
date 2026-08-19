@@ -1,5 +1,7 @@
 ---
-Personagens: "[[MC]]"
+Personagens:
+  - "[[Shiori]]"
+  - "[[MC]]"
 Capitulo:
 ---
 Personagens: 
