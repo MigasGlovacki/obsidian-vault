@@ -1,3 +1,3 @@
 # Sinopse
 
-[[MC]] é um rapaz de 20 anos que mora em um apartamento pequeno no Japão, trabalha como programador freelancer. Sofre com uma forte sindrome de impostor quando trabalha e acredita que jamais vai conhecer alguem que o reconheça e o aceite de verdade. Porém ele tem um segredo… um segredo chamado [[Shiori]]: Uma compania digital que ele mesmo programou que conversa com ele todos os dias e até organiza a vida digital dele. Porém
+[[MC]] é um rapaz de 20 anos que mora em um apartamento pequeno no Japão, trabalha como programador freelancer. Sofre com uma forte sindrome de impostor quando trabalha e acredita que jamais vai conhecer alguem que o reconheça e o aceite de verdade. Porém ele tem um segredo… um segredo chamado [[Shiori]]: Uma compania digital que ele mesmo programou que conversa com ele todos os dias e até organiza a vida digital dele. Porém… o que ele não sabe é que ela é mais real do que ele imaginava, e ele ira descobrir quando o tecido
