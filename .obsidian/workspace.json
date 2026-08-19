@@ -53,14 +53,17 @@
             "id": "591a913e50755f38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
-                "mode": "source",
-                "source": false
+                "file": "02 - Projetos/MoniLink.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Diário do Geometry Dash"
+              "icon": "lucide-layout-dashboard",
+              "title": "MoniLink"
             }
           }
         ],
@@ -267,9 +270,10 @@
   },
   "active": "591a913e50755f38",
   "lastOpenFiles": [
+    "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
+    "02 - Projetos/MoniLink.canvas",
     "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "A Luminária/Jogos/Geometry Dash/MoniDash - Dificuldades dos Demons.md",
-    "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "A Luminária/Jogos/Geometry Dash/Deadlocked.md",
     "A Luminária/Jogos/Geometry Dash/Chromatique.md",
     "A Luminária/Jogos/Geometry Dash/Tabasco.md",
@@ -292,7 +296,6 @@
     "Longform/Green Afection/Inicio.md",
     "Longform/Green Afection/asa.md",
     "Longform/Green Afection/dad.md",
-    "Longform/Green Afection/Index.md",
     "Attachments/2026-05-14_20.49.07.png",
     "A Luminária/Jogos/Minecraft",
     "A Luminária/Jogos/GRIS",
@@ -321,7 +324,6 @@
     "Untitled 1.canvas",
     "Scripts/Porque nos apaixonamos por personagens Ficticios.canvas",
     "Jogos/Blue Prince/Blue Prince.canvas",
-    "Jogos/Blue Prince/Blue Prince/Blue Prince.canvas",
-    "Jogos/Blue Prince.canvas"
+    "Jogos/Blue Prince/Blue Prince/Blue Prince.canvas"
   ]
 }
