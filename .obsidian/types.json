@@ -4,7 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "longform": "text",
-    "Capitulo": "number",
-    "Personagens": "text"
+    "Capitulo": "number"
   }
 }
