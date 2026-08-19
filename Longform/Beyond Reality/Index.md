@@ -7,5 +7,10 @@ longform:
   scenes:
     - Beyond Reality
     - Inicio
-  ignoredFiles: []
+  sceneTemplate: _templates_/Cenas.md
+  ignoredFiles:
+    - Inicio
+    - Sinopse
+    - MC
+    - Shiori
 ---
