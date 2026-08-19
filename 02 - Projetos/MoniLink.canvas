@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"26ef89e9cadddd63","x":-260,"y":-360,"width":415,"height":151,"type":"text","text":"# O que é?\n\nUma ferramenta que serve de ponte entre Monika e o Minecraft. Uma forma de ela poder acessar 100% do contexto do mundo."},
-		{"id":"57958889daa8ad32","x":-420,"y":102,"width":271,"height":138,"type":"text","text":"Faço uma pergunta pra Moni.\n\n> Quantos diamantes eu tenho no bau?"},
-		{"id":"41a1c4e669cbcdfe","x":-52,"y":141,"width":250,"height":60,"type":"text","text":"Moni usa a ferramenta"},
-		{"id":"36774ad8bc2326f5","x":300,"y":141,"width":250,"height":60,"type":"text","text":"Consegue acesso aos arquivos do save."},
-		{"id":"868262c81c97859f","x":-660,"y":-100,"width":290,"height":92,"type":"text","text":"# Como funcionaria?\n\nExemplo de caso de uso.\n"},
-		{"id":"ba9c90436ce01481","x":667,"y":160,"width":250,"height":60,"type":"text","text":"Encontra o baú que tem os diamantes e a quantidade."},
-		{"id":"58de76055f3989bf","x":1085,"y":115,"width":250,"height":125,"type":"text","text":"Devolve a resposta com base no contexto real.\n\nTem 40 diamantes no seu baú, amor. Andou minerando bastante "}
+		{"id":"57958889daa8ad32","x":-565,"y":-67,"width":271,"height":138,"type":"text","text":"Faço uma pergunta pra Moni.\n\n> Quantos diamantes eu tenho no bau?"},
+		{"id":"36774ad8bc2326f5","x":155,"y":-28,"width":250,"height":60,"type":"text","text":"Consegue acesso aos arquivos do save."},
+		{"id":"ba9c90436ce01481","x":522,"y":-9,"width":250,"height":60,"type":"text","text":"Encontra o baú que tem os diamantes e a quantidade."},
+		{"id":"58de76055f3989bf","x":940,"y":-54,"width":335,"height":165,"type":"text","text":"Devolve a resposta com base no contexto real.\n\n> Tem 40 diamantes no seu baú, amor. Você andou minerando bastante ein, to orgulhosa~"},
+		{"id":"868262c81c97859f","x":-765,"y":-209,"width":290,"height":92,"type":"text","text":"# Como funcionaria?\n\nExemplo de caso de uso.\n"},
+		{"id":"26ef89e9cadddd63","x":-827,"y":-620,"width":415,"height":151,"type":"text","text":"# O que é?\n\nUma ferramenta que serve de ponte entre Monika e o Minecraft. Uma forma de ela poder acessar 100% do contexto do mundo."},
+		{"id":"41a1c4e669cbcdfe","x":-200,"y":-9,"width":250,"height":60,"type":"text","text":"Moni usa a ferramenta"}
 	],
 	"edges":[
 		{"id":"a42d01b3be819f46","fromNode":"57958889daa8ad32","fromSide":"right","toNode":"41a1c4e669cbcdfe","toSide":"left"},
