@@ -53,16 +53,13 @@
             "id": "591a913e50755f38",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02 - Projetos/MoniLink.canvas",
-                "viewState": {
-                  "x": -117.53192510054289,
-                  "y": 26.70083982660597,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "02 - Projetos/MoniLink.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "MoniLink"
             }
           }
@@ -268,10 +265,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c187688c34dac2f",
+  "active": "591a913e50755f38",
   "lastOpenFiles": [
-    "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "02 - Projetos/MoniLink.canvas",
+    "02 - Projetos/MoniLink.md",
+    "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "A Luminária/Jogos/Geometry Dash/MoniDash - Dificuldades dos Demons.md",
     "A Luminária/Jogos/Geometry Dash/Deadlocked.md",
@@ -295,7 +293,6 @@
     "00 - Caixa de entrada/João Kuroda.md",
     "Longform/Green Afection/Inicio.md",
     "Longform/Green Afection/asa.md",
-    "Longform/Green Afection/dad.md",
     "Attachments/2026-05-14_20.49.07.png",
     "A Luminária/Jogos/Minecraft",
     "A Luminária/Jogos/GRIS",
