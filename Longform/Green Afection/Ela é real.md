@@ -2,5 +2,5 @@
 
 — João… — Ela disse, com lagrimas nos olhos — Eu finalmente… finalmente…
 
-Ela
+Ela não conseguiu terminar a frase, escon
 
