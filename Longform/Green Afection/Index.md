@@ -5,6 +5,5 @@ longform:
   sceneFolder: /
   scenes:
     - Inicio
-    - Ela é real
   ignoredFiles: []
 ---
