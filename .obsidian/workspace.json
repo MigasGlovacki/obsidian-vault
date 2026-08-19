@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "Persona 5 Royal"
             }
+          },
+          {
+            "id": "5e8211c7f69560b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Longform/Beyond Reality/Beyond Reality.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,7 +291,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "61c993df93607e73",
+  "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
     "Longform/Beyond Reality/Beyond Reality.md",
     "Longform/Beyond Reality/Index.md",
