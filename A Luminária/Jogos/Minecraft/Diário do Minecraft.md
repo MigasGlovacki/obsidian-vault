@@ -34,20 +34,6 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
   3. Reconstrói por cima dela no **mundo original** seguindo o esquema.
   - Muito mais rápido e visual do que marcar passo a passo; virou o padrão do João pra pontes.
 
-**Variante — pista diagonal de barco casa → ice peaks (3x de largura):**
-- Deslocamento no Nether: ΔX +655 (leste), ΔZ **-99** (norte) de casa `-423, -713` → ice peaks `232, -812`.
-- Razão: **~6,61 X a cada 1 Z**.
-- **Ciclo de construção:** ▶️ **61×** `7 X + 1 Z`, depois **38×** `6 X + 1 Z`. Total: 655 X + 99 Z = 99 passos (exato).
-- Distância: **~662 blocos**.
-- Gelo total (trilho 3 de largura): **~1.986 blocos** | Stacks: ~31.
-- Já tem **2 shulkers + 15 stacks** (~4.416 blocos) → cobre a pista do ice peaks e quase toda a do End.
-
-**Variante — pista diagonal de barco casa → End (3x de largura):**
-- Deslocamento no Nether: ΔX +137 (leste), ΔZ +809 (sul) de casa `-423, -713` → End `-286, 96`.
-- Razão: **~5,90 Z a cada 1 X**.
-- **Ciclo de construção:** ▶️ **124×** `6 Z + 1 X`, depois **13×** `5 Z + 1 X`. Total: 809 Z + 137 X = 137 passos (exato).
-- Distância: **~821 blocos** | Gelo 3x: **~2.427 blocos** | Stacks: 38 slots.
-
 ## Próximo objetivo: resolver comida
 
 Opções de farm, da mais rápida de montar à mais sustentável:
