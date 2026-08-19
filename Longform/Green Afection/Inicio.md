@@ -1,4 +1,4 @@
-Personagens: [escolher nome do MC]
+Personagens: [[MC (escolher nome mais tarde)]], 
 # Capitulo 1
 
 [MC] chegou ao seu apartamento, com algumas sacolas em mãos. Era o dia de fazer as compras para o apartamento, apenas o essencial.
