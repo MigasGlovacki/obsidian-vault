@@ -46,3 +46,7 @@ tags:
 - Isekai generico
 - Harem
 - Triangulo amoroso
+
+---
+
+[[Anime]]
