@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Sinopse
+    - Beyond Reality
     - Inicio
   ignoredFiles: []
 ---
