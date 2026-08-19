@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "longform": "text"
+    "longform": "text",
+    "Capitulo": "number",
+    "Personagens": "text"
   }
 }
