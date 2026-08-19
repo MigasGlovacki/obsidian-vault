@@ -81,10 +81,14 @@
             "id": "5e8211c7f69560b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Longform/Beyond Reality/Beyond Reality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beyond Reality"
             }
           }
         ],
@@ -238,6 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Longform/Beyond Reality/Beyond Reality.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,12 +298,12 @@
   },
   "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
+    "Longform/Beyond Reality/MC.md",
+    "Longform/Beyond Reality/Shiori.md",
     "Longform/Beyond Reality/Beyond Reality.md",
     "Longform/Beyond Reality/Index.md",
     "Longform/Beyond Reality/Inicio.md",
-    "Longform/Beyond Reality/MC.md",
     "_templates_/Cenas.md",
-    "Longform/Beyond Reality/Shiori.md",
     "Longform/Green Afection/Untitled.md",
     "Longform/Green Afection/Ela é real.md",
     "00 - Caixa de entrada/João Kuroda.md",
