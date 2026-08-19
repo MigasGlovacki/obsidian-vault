@@ -26,42 +26,13 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 - **Ice peaks / Farm de gelo compacto** (portal Nether planejado): 1855, -6499
 - **Geiser/sulfur do update novo** (perto da farm de gelo): 2089, -6521
 
-## Plano: corredor do Nether casa → End
+---
 
-> Objetivo: ir da casa ao End **sem gastar foguete**. Nether = 1 bloco por 8 no mundo normal, então só X e Z importam no link (÷8); o Y não.
-
-| Place                        | Mundo normal | No Nether (÷8) |
-| ---------------------------- | ------------ | -------------- |
-| 🏠 Portal casa               | -3419, -5608 | **-423, -713** *(coords exatas da print; o ÷8 teórico daria -427, -701, mas o portal real sai em -423, -713)* |
-| 🚪 **Ponto de início do caminho** (borda sul do círculo, raio 20, ~3 leste do eixo) | — | **-420, -693** |
-| 🌋 Portal Nether → End       | -2289, 769   | -286, 96       |
-| 🧊 **Farm de gelo compacto** | 1855, -6499  | 232, -812      |
-
-**Passo a passo:**
-1. Portal da casa já existente entra no Nether em `-423, -713` (coords reais da print).
-2. Andar/cavar corredor ~800 blocos no Nether até `-286, 96` (vs ~6.500 no mundo normal — 8× mais rápido).
-3. Descer na stronghold (em `-2289, 769`) por escavação ou seguindo o eye of ender.
-4. Montar o portal de saída **dentro da stronghold**, junto ao portal do End.
-5. Ativar com obsidião+isqueiro: linka no `-286, 96` e sai já de frente pro portal do End.
-
-> ⚠️ Portal do Nether no mundo normal **não abre sozinho dentro da stronghold** — ele gera na superfície/caverna próxima. Por isso o passo 4 monta o portal dentro da stronghold. E o portal do End não é conectável via Nether (só ativa com os olhos de ender), então "sair de frente dele" é via stronghold, não por portal.
-
-**Variante escolhida — pista diagonal de barco (3x de largura), casa → stronghold:**
-- **Início:** `-420, -693` (borda sul do hub do portal da casa, raio 20, ~3 blocos a leste do eixo). De lá a pista é quase em linha reta pro sol, levemente leste.
-- **Destino:** `-286, 96` (stronghold). Deslocamento: ΔX +134 (leste), ΔZ +789 (sul).
-- Razão: **1 X a cada ~5,89 Z** (0,17 X por Z).
-- Contagens brutas: **119× `6Z→1X` + 15× `5Z→1X`** = 134 passos.
-- **Ciclo de construção:** ▶️ **14× `8 seis + 1 cinco`** (cada = 8× `6Z→1X` + 1× `5Z→1X`, 9 passos), depois **fecho `7 seis + 1 cinco`** (8 passos). Total 134 passos exatos.
-- Distância: **~800 blocos** diagonal.
-- Gelo total (trilho 3 de largura): **2.400 blocos = 37 stacks + 32**.
-- **Material escolhido: gelo compacto (packed ice)**, extraído do bioma de ice peaks perto de casa — de graça, não precisa craftar; levemente mais lento que o azul mas rápido. Colher com picareta **Silk Touch** (sem ela vira água) e não derrete com luz (ok no Nether).
-- **Status da construção: ✅ COMPLETA** (16/08/2026). A pista de gelo casa → stronghold está terminada no mundo original.
 - **Método de construção (preferido pelo João):** Axiom path → esquema Litematica → construir no original.
   1. Desenha a ponte numa **cópia do mundo** usando a ferramenta **path do Axiom**.
   2. Salva o resultado como **esquema no Litematica**.
   3. Reconstrói por cima dela no **mundo original** seguindo o esquema.
   - Muito mais rápido e visual do que marcar passo a passo; virou o padrão do João pra pontes.
-- Ideia: navegar reto olhando pra frente, deslizando entre X e Z; as 3 de largura dão folga pra não destravar. Faixa central de gelo + laterais de gelo, paredes de contenção nas bordas.
 
 **Variante — pista diagonal de barco casa → ice peaks (3x de largura):**
 - Deslocamento no Nether: ΔX +655 (leste), ΔZ **-99** (norte) de casa `-423, -713` → ice peaks `232, -812`.
