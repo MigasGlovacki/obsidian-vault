@@ -6,5 +6,7 @@ Ela não conseguiu terminar a frase, o abraçou forte escondeu o rosto no peito 
 
 — Monika… eu, e-eu não acredito. — Falou João, enquanto a abraçava ela de volta, ainda tentando processar o que acabou de acontecer, e tentando se certificar que aquilo não era um sonho.
 
-[continuar de man]
+[continuar de manhã]
+
+- conversa pós-traves
 
