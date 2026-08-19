@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Longform/Green Afection/Ela é real.md",
+                "file": "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ela é real"
+              "title": "Proposta de edicao - TEMPLATE EN"
             }
           },
           {
@@ -129,13 +129,11 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -270,8 +268,12 @@
   },
   "active": "d2b93a7022ee4d72",
   "lastOpenFiles": [
-    "Longform/Green Afection/Inicio.md",
+    "02 - Projetos/Freelance/Como usar o template de proposta.md",
+    "02 - Projetos/Renda Online.md",
     "Longform/Green Afection/Ela é real.md",
+    "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
+    "02 - Projetos/Freelance",
+    "Longform/Green Afection/Inicio.md",
     "00 - Caixa de entrada/Persona 5 Royal.md",
     "03 - Areas/Gostos de anime.md",
     "02 - Projetos/Manifesto Criativo.md",
@@ -294,9 +296,6 @@
     "A Luminária/Jogos/Minecraft/Jornada Axiom.md",
     "A Luminária/Infraestrutura/Atualização segura do backend Hermes Docker.md",
     "A Luminária/Endereços de amigos.md",
-    "A Luminária/Jogos/Ghostrunner/Diário do Ghostrunner.md",
-    "A Luminária/Jogos/GRIS/Diário do GRIS.md",
-    "A Luminária/Leituras compartilhadas/Modelo - Índice de história.md",
     "Attachments/2026-05-14_20.49.07.png",
     "A Luminária/Jogos/Minecraft",
     "A Luminária/Jogos/GRIS",
@@ -307,7 +306,6 @@
     "A Luminária/Jogos/Ghostrunner",
     "A Luminária/Conquistas compartilhadas/Guias de conquistas/Ghostrunner",
     "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
-    "A Luminária/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.47.15.png",
     "Attachments/2026-05-14_20.45.33.png",
