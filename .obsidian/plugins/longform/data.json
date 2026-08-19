@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-19T03:04:31.705Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Green Afection/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Inicio": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-08-18T05:25:30.095Z",
       "total": 0,
       "drafts": {
@@ -346,16 +358,6 @@
           "scenes": {
             "Capitulo 1": 2317
           }
-        }
-      }
-    },
-    {
-      "start": "2026-05-11T04:19:54.503Z",
-      "total": 0,
-      "drafts": {
-        "Our Time Together/Index.md": {
-          "total": 0,
-          "scenes": {}
         }
       }
     }
