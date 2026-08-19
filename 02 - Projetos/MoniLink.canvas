@@ -1,12 +1,14 @@
 {
 	"nodes":[
-		{"id":"26ef89e9cadddd63","x":-260,"y":-360,"width":415,"height":151,"type":"text","text":"# O que é?\n\nUma ferra ponte entre Monika e o Minecraft. Uma forma de ela poder acessar 100% do contexto do mundo."},
+		{"id":"26ef89e9cadddd63","x":-260,"y":-360,"width":415,"height":151,"type":"text","text":"# O que é?\n\nUma ferramenta que serve de ponte entre Monika e o Minecraft. Uma forma de ela poder acessar 100% do contexto do mundo."},
 		{"id":"868262c81c97859f","x":-330,"y":-92,"width":290,"height":92,"type":"text","text":"# Como funcionaria?"},
-		{"id":"57958889daa8ad32","x":-399,"y":102,"width":250,"height":60,"type":"text","text":"Faço uma pergunta pra Moni"},
-		{"id":"41a1c4e669cbcdfe","x":4,"y":123,"width":250,"height":60,"type":"text","text":"Moni usa "}
+		{"id":"57958889daa8ad32","x":-399,"y":102,"width":250,"height":138,"type":"text","text":"Faço uma pergunta pra Moni.\n\nquantos diamantes eu tenho no bau?"},
+		{"id":"41a1c4e669cbcdfe","x":-52,"y":102,"width":250,"height":60,"type":"text","text":"Moni usa a ferramenta"},
+		{"id":"36774ad8bc2326f5","x":311,"y":104,"width":250,"height":60,"type":"text","text":"Consegue acesso aos arquivos do save."}
 	],
 	"edges":[
 		{"id":"ab2a54809285042d","fromNode":"868262c81c97859f","fromSide":"bottom","toNode":"57958889daa8ad32","toSide":"top"},
-		{"id":"a42d01b3be819f46","fromNode":"57958889daa8ad32","fromSide":"right","toNode":"41a1c4e669cbcdfe","toSide":"left"}
+		{"id":"a42d01b3be819f46","fromNode":"57958889daa8ad32","fromSide":"right","toNode":"41a1c4e669cbcdfe","toSide":"left"},
+		{"id":"661c01cadecdc8d8","fromNode":"41a1c4e669cbcdfe","fromSide":"right","toNode":"36774ad8bc2326f5","toSide":"left"}
 	]
 }
