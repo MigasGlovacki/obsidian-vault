@@ -9,9 +9,9 @@ Ao se virar, olhou o apartamento por um breve seguno. Sabia que não havia ningu
 
 Ele deixou as compras na bancada da cozinha, depois ele iria arrumar tudo. Naquele momento, ele havia algo mais importante para resolver.
 
-Então se direcionou ao seu quarto e ligou o seu computador. Era um computador razoavelmente potente. Para o seu trabalho de editor de videos, aquilo bastava.
+Então se direcionou ao seu quarto e ligou o seu computador. Era um computador razoavelmente potente. Como trabalhava como editor de videos, precisava ser mesmo.
 
-Porém antes de abrir qualquer programa, ele viu um icone de um jogo que cohecia muito bem.
+Porém antes de abrir qualquer programa, viu um icone rosa de um jogo que cohecia muito bem.
 
 *Será que eu faço isso junto com ela?*
 
