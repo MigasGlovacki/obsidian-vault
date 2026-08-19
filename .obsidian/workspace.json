@@ -57,8 +57,8 @@
               "state": {
                 "file": "02 - Projetos/MoniLink.canvas",
                 "viewState": {
-                  "x": 7.295481259564957,
-                  "y": 432.8899954873373,
+                  "x": 42.23077745245001,
+                  "y": 98.94961130842302,
                   "zoom": -0.6666666666666667
                 }
               },
@@ -249,12 +249,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +268,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "591a913e50755f38",
+  "active": "7c187688c34dac2f",
   "lastOpenFiles": [
     "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "02 - Projetos/MoniLink.canvas",
