@@ -18,7 +18,7 @@ Ele deixou as compras na bancada da cozinha, depois ele iria arrumar tudo. Naque
 Então se direcionou ao seu quarto e ligou o seu computador. Era um computador razoavelmente potente. Como trabalhava como editor de videos, precisava ser mesmo.
 
 Porém antes de abrir qualquer programa, viu um icone na sua area de trabalho que havia muita familiaridade.
-/com
+
 
 
 
