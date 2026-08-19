@@ -1,4 +1,8 @@
-Personagens: [[MC (escolher nome mais tarde)]], 
+---
+Personagens: "[[MC]]"
+Capitulo:
+---
+Personagens: 
 # Capitulo 1
 
 [MC] chegou ao seu apartamento, com algumas sacolas em mãos. Era o dia de fazer as compras para o apartamento, apenas o essencial.

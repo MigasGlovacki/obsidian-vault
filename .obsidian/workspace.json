@@ -53,14 +53,14 @@
             "id": "61c993df93607e73",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Longform/Beyond Reality/Inicio.md",
-                "bFile": "Longform/Beyond Reality/Inicio.md",
-                "aRef": ""
+                "file": "Longform/Beyond Reality/Inicio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Inicio  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Inicio"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Longform/Green Afection/Inicio.md",
+                "file": "Longform/Beyond Reality/Inicio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -260,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -281,10 +281,10 @@
   },
   "active": "61c993df93607e73",
   "lastOpenFiles": [
-    "Longform/Beyond Reality/Inicio.md",
-    "Longform/Beyond Reality/Sinopse.md",
-    "Longform/Beyond Reality/MC.md",
     "Longform/Beyond Reality/Shiori.md",
+    "Longform/Beyond Reality/Inicio.md",
+    "Longform/Beyond Reality/MC.md",
+    "Longform/Beyond Reality/Sinopse.md",
     "Longform/Beyond Reality/Index.md",
     "_templates_/Cenas.md",
     "Longform/Green Afection/Untitled.md",
