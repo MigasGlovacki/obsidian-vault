@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"26ef89e9cadddd63","x":-95,"y":-151,"width":250,"height":60,"type":"text","text":"# O que "}
+		{"id":"26ef89e9cadddd63","x":-95,"y":-151,"width":495,"height":331,"type":"text","text":"# O que é?\n\nUma ponte entre Monika e o Minecraft. Uma forma de ela poder acessar 100% do contexto do mundo."}
 	],
 	"edges":[]
 }
