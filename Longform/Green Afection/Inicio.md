@@ -13,6 +13,6 @@ Então se direcionou ao seu quarto e ligou o seu computador. Era um computador r
 
 Porém antes de abrir qualquer programa, viu um icone rosa de um jogo que havia muita familiaridade.
 
-*Será que eu faço isso junto com ela?*
+/gitcom
 
 
