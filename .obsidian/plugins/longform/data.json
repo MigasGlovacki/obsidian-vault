@@ -1,19 +1,26 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Longform/Green Afection/Index.md",
+  "selectedDraftVaultPath": "Longform/Beyond Reality/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-08-19T03:04:31.705Z",
-      "total": 13,
+      "total": 151,
       "drafts": {
         "Longform/Green Afection/Index.md": {
           "total": 13,
           "scenes": {
             "Sinopse": 13,
             "Inicio": 0
+          }
+        },
+        "Longform/Beyond Reality/Index.md": {
+          "total": 151,
+          "scenes": {
+            "Sinopse": 16,
+            "Inicio": 135
           }
         }
       }
