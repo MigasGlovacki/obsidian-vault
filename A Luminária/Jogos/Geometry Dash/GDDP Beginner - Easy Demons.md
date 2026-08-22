@@ -27,10 +27,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual:** ~~Chromatique (StyphonTV) — foco **Swing**~~ → **concluída (21/08/2026)**
-- **Foco cumprido:** familiaridade com swing — controlar inércia, corrigir altura e não exagerar no clique. ✅ (o swing agradou João, principalmente o trecho pós *climb the tower*)
-- **Por que essa:** João queria uma fase da 2.2; swing era a habilidade que ele nunca tinha treinado num demon.
-- **Próxima (21/08/2026):** **ALLOY** (Crysticai, foco **Swing & Wave**). Escolha do João: a wave é o modo mais forte dele atualmente e ele quer masterizar, enquanto o swing ele quer melhorar — a ALLOY treina os dois juntos.
+- **Fase atual (21/08/2026):** **ALLOY** (Crysticai, foco **Swing & Wave**).
+- **Por que essa:** escolha do João — a wave é o modo mais forte dele atualmente e ele quer masterizar, enquanto o swing ele quer melhorar; a ALLOY treina os dois juntos.
+- **Próxima:** a definir quando terminar essa.
 ## Checklist do tier Beginner
 
 | Feita | Fase               | Criador(es)                   | Foco do GDDP          | O que isso treina na gameplay                                                                                                                                                |
