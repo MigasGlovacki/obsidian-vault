@@ -16,9 +16,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 ## Progresso
 
-- Concluídas: **8 / 29**
+- Concluídas: **9 / 29**
 - Próximo marco leve: **13 Easy Demons** do tier Beginner
-- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK**, **Space Circles**, **MUNDUS SANGUINANS**, **weird** e **Tabasco**
+- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK**, **Space Circles**, **MUNDUS SANGUINANS**, **weird**, **Tabasco** e **Chromatique**
 
 ## Meta de médio prazo
 
@@ -27,10 +27,10 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual:** Chromatique (StyphonTV) — foco **Swing** — escolhida em 18/08/2026
-- **Foco:** familiaridade com swing: controlar inércia, corrigir altura e não exagerar no clique.
-- **Por que essa:** João quer pegar uma fase da 2.2; swing é a habilidade que ele nunca treinou num demon (a MOAI já tinha apontado fraqueza com física/transições).
-- **Se travar feio:** trocar para uma fase adjacente do mesmo foco (Lucy ou ALLOY), não abandonar o tier.
+- **Fase atual:** ~~Chromatique (StyphonTV) — foco **Swing**~~ → **concluída (21/08/2026)**
+- **Foco cumprido:** familiaridade com swing — controlar inércia, corrigir altura e não exagerar no clique. ✅ (o swing agradou João, principalmente o trecho pós *climb the tower*)
+- **Por que essa:** João queria uma fase da 2.2; swing era a habilidade que ele nunca tinha treinado num demon.
+- **Próxima (a combinar):** realçar swing ainda mais em **Lucy** ou **ALLOY** (mesmo foco), ou variar para outro treino do tier.
 ## Checklist do tier Beginner
 
 | Feita | Fase               | Criador(es)                   | Foco do GDDP          | O que isso treina na gameplay                                                                                                                                                |
@@ -39,7 +39,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 | [ ]   | Speed Racer        | ZenthicAlpha                  | Speed Changes         | Adaptação a mudanças de velocidade; não clicar por reflexo antigo quando o ritmo muda.                                                                                       |
 | [x]   | STARPUNK           | Ferdefunky                    | Nerve Control         | Manter calma em partes longas/visuais, especialmente quando a run começa a ficar “boa demais para perder”.                                                                   |
 | [x]   | Space Circles      | SUOMI                         | Wave                  | Wave básico de demon: spam controlado, microajustes e consistência em corredores.                                                                                            |
-| [ ]   | Chromatique        | StyphonTV                     | Swing                 | Familiaridade com swing: controlar inércia, corrigir altura e não exagerar no clique.                                                                                        |
+| [x]   | Chromatique        | StyphonTV                     | Swing                 | Familiaridade com swing: controlar inércia, corrigir altura e não exagerar no clique. **Concluída em 21/08/2026** (1.291 tentativas oficiais + 57 SP = 1.348 combinadas, newBests 12→100). |
 | [x]   | Problematic        | Dhafin                        | Wave                  | Wave clássico de Nine Circles: consistência, memória visual e controle de tensão em seções repetitivas.                                                                      |
 | [x]   | Tabasco            | talia                         | Overall               | Revisão geral com ritmo moderno: leitura, transições e consistência sem depender só de decorar. **Concluída em 18/08/2026** (939 tentativas, 287 mortes, newBests 16→100). |
 | [ ]   | Demon in the house | catgirlBlitz                  | Duals                 | Noção de dual: separar atenção entre dois ícones e entender simetria/assimetria sem pânico.                                                                                  |
@@ -69,6 +69,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 ## Registro das conclusões
 
 - **Tabasco — o maior grind até agora (18/08/2026).** 939 tentativas, 287 mortes; o 4% foi o vilão nº1 do histórico (47 mortes), mas deixou de travar as runs completas. **O que João achou:** difícil, mas MUITO divertida — o sync da música com a gameplay agradou bastante; foi divertida de aprender.
+- **Chromatique — a realização da 2.2 (21/08/2026).** 1.348 tentativas combinadas (1.291 oficiais + 57 SP). Era a fase de Easy Demon com mecânicas novas da 2.2 que João quis zerar desde que viu a atualização anos atrás. **O que João achou:** muito legal — a gameplay é boa e o **swing** depois da *climb the tower* foi bem prazeroso (não complicado, só gostoso de jogar). A parte *climb the tower* do meio foi confusa no começo, mas "cresceu" com a prática. Única dor: o **final com a Spider** — a tela piscando o tempo todo dificultou aprender e a decoração quase deu um ataque epilético (não é a gameplay em si, é o visual).
 - **STARPUNK — positiva e tranquila.** João se divertiu com o flow da fase e destacou o sync muito bom com a música.
 - **Space Circles — positiva e mais fácil na wave do que o esperado.** João achou o cubo inicial mais difícil que o de Problematic e a ship exigente por pedir inputs precisos; a wave foi a parte mais tranquila.
 - **weird — tranquila e mais fácil que a anterior.** João achou a fase bem tranquila (mais fácil que MUNDUS SANGUINANS); o final era o ponto de atenção — ship subindo com orbs (algo que ele ainda está se acostumando) e um cubo com pulo único que ele errava bastante nos treinos, mas acertou na run oficial.
