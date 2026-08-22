@@ -9,7 +9,7 @@
 - [[Deadlocked]] — oficial, **zerada (10/08)**
 - [[weird]] — Easy Demon, **zerada (11/08)** — ~94 mortes, newBests 42 → 100
 - [[MOAI]] — Event level #25, **zerada (14/08)** — Insane 9★
-- [[Chromatique]] — **em progresso** — best do início 19%; final já fechado 6× (de 70%)
+- [[Chromatique]] — oficial, **zerada (21/08)** — 1.291 tentativas + 57 de treino SP (1.348 combinadas)
 
 ## Apoio
 - [[Moedas das fases oficiais]] · [[MoniDash - Dificuldades dos Demons]] · [[GDDP Beginner - Easy Demons]]
