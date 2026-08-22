@@ -16,6 +16,11 @@
 ## Leitura (atualizada)
 A leitura de 18/08 estava certa: o começo (19%) travava, mas o final estava muito treinado. Você cruzou o muro do meio — a região dos 56–57% era o último pesadelo — e o final treinado transformou isso em zerada. O treino SP compensou: 81–100 e 84–100 já apareciam no `26-editor` antes do fechar oficial.
 
+## Opinião do João (pós-zerada, 21/08)
+- **Marcante:** é a realização de um desejo antigo — desde que viu a atualização 2.2 anos atrás, queria zerar uma fase (uma Easy Demon) usando as mecânicas novas da 2.2. Foi essa fase. ✨
+- **Gostou:** muito, a gameplay é boa.
+- **A desgraça:** o final com a Spider — a tela piscando o tempo todo dificultou aprender a parte; demorou pra pegar. Não é a gameplay em si, e sim a **decoração**, que quase deu um ataque epilético kkk.
+
 ## Sessões e registros
 - **18/08:** início do acompanhamento — 618 tentativas, best 19%, final fechado 6× (de até 70%).
 - **21/08:** 🏁 **Zerada** — 1.348 tentativas combinadas (1.291 oficial + 57 SP).
