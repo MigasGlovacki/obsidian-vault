@@ -30,7 +30,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Fase atual:** ~~Chromatique (StyphonTV) — foco **Swing**~~ → **concluída (21/08/2026)**
 - **Foco cumprido:** familiaridade com swing — controlar inércia, corrigir altura e não exagerar no clique. ✅ (o swing agradou João, principalmente o trecho pós *climb the tower*)
 - **Por que essa:** João queria uma fase da 2.2; swing era a habilidade que ele nunca tinha treinado num demon.
-- **Próxima (a combinar):** realçar swing ainda mais em **Lucy** ou **ALLOY** (mesmo foco), ou variar para outro treino do tier.
+- **Próxima (21/08/2026):** **ALLOY** (Crysticai, foco **Swing & Wave**). Escolha do João: a wave é o modo mais forte dele atualmente e ele quer masterizar, enquanto o swing ele quer melhorar — a ALLOY treina os dois juntos.
 ## Checklist do tier Beginner
 
 | Feita | Fase               | Criador(es)                   | Foco do GDDP          | O que isso treina na gameplay                                                                                                                                                |
