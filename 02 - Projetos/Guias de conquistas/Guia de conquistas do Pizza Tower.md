@@ -1,13 +1,13 @@
 # Guia de conquistas do Pizza Tower
 
-> **Escopo:** Steam AppID `2231450` — base game (Tour De Pizza), sem DLC de gameplay.
-> **Progresso:** `0/74`
-> **Dificuldade:** Média–Alta — coletar é fácil; o peso real está nos P-ranks por mundo (execução precisa).
-> **Tempo estimado:** ~46h (qualificado — os P-ranks e a busca de 101% fazem variar muito; depende bastante de habilidade).
-> **Conquistas online?** Não — single-player.
-> **Conquistas perdíveis?** Sim — mas quase todas são só *sensíveis a situação*: condições de tempo / "não se machucar" que você recupera reprisando a fase pela **seleção de fase** (existe). As únicas realmente condicionadas são as **2 de evento de Halloween** (Pumpkin Munchkin e Tricksy), que só destravam no nível sazonal Tricky Treat e podem ficar inacessíveis se a janela do evento não estiver ativa.
-> **Convenção de idioma:** instruções, dicas e observações em PT-BR; nomes de conquistas sempre no inglês oficial da Steam.
-> **Rota recomendada:** jogue a campanha em ordem capturando as condições de tempo e "sem se machucar" já na primeira passada (são mais fáceis no fluxo). Depois volte para coleta/locais que faltaram, então os **S-ranks** e, por fim, os **P-ranks por mundo** (o maior desafio — veja o vídeo de rota).
+- **Escopo:** Steam AppID `2231450` — base game (Tour De Pizza), sem DLC de gameplay.
+- **Progresso:** `0/74`
+- **Dificuldade:** Média–Alta — coletar é fácil; o peso real está nos P-ranks por mundo (execução precisa).
+- **Tempo estimado:** ~46h (qualificado — os P-ranks e a busca de 101% fazem variar muito; depende bastante de habilidade).
+- **Conquistas online?** Não — single-player.
+- **Conquistas perdíveis?** Sim — mas quase todas são só *sensíveis a situação*: condições de tempo / "não se machucar" que você recupera reprisando a fase pela **seleção de fase** (existe). As únicas realmente condicionadas são as **2 de evento de Halloween** (Pumpkin Munchkin e Tricksy), que só destravam no nível sazonal Tricky Treat e podem ficar inacessíveis se a janela do evento não estiver ativa.
+- **Convenção de idioma:** instruções, dicas e observações em PT-BR; nomes de conquistas sempre no inglês oficial da Steam.
+- **Rota recomendada:** jogue a campanha em ordem capturando as condições de tempo e "sem se machucar" já na primeira passada (são mais fáceis no fluxo). Depois volte para coleta/locais que faltaram, então os **S-ranks** e, por fim, os **P-ranks por mundo** (o maior desafio — veja o vídeo de rota).
 
 ## Índice
 
