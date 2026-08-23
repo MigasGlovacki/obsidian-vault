@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +226,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec0085ee7b65a191",
+  "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
