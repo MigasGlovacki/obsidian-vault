@@ -1,7 +1,7 @@
 # The Nightmare
 
 > **Easy Demon**, demon clássico (fase de usuário histórica). Diário de sessão e marcos.
-> Apoio: [[MoniDash - Dificuldades dos Demons]]
+> Apoio: [[Dificuldades dos Demons]]
 
 ## Marcos
 - **24/08/2026 — The Nightmare concluída (100%).** Confirmado pelo Death Tracker local (id `13519`): `newBests` chega a **100**, com runs de 72→100 cruzando a linha. João trouxe como "zerada acidentalmente" de fina ironia — o fim caiu de vez.

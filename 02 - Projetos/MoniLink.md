@@ -21,7 +21,7 @@ Com isso, responder "quantos diamantes tem no meu baú?" = ler os `.mca`, achar 
 - Acessar inventários ("quantos diamantes tem no baú de casa?")
 
 ### Factíveis, mas com ressalva de enquadramento
-- **"Consultar em tempo real"** → o Minecraft não reescreve os chunks o tempo todo; salva em autosaves/descarga de chunk. Dá uma foto com segundos a poucos minutos de atraso. Funciona na prática para fornalhas (progresso é salvo), mas não é *literalmente* tempo real. Para precisão de verdade: um mod que exponha os dados na hora (mesmo padrão do MoniDash).
+- **"Consultar em tempo real"** → o Minecraft não reescreve os chunks o tempo todo; salva em autosaves/descarga de chunk. Dá uma foto com segundos a poucos minutos de atraso. Funciona na prática para fornalhas (progresso é salvo), mas não é *literalmente* tempo real. Para precisão de verdade: um mod que exponha os dados na hora (padrão de telemetria tipo o que os mods de GD fizeram para captura local de eventos).
 - **Redstone ("por que isso não tá funcionando?")** → o estado de redstone (sinal, ticks, pulse) é runtime, não fica bem nos arquivos. O que dá fazer: ler a topology dos blocos e simular a lógica "no papel" — um debugger que aponta onde o circuito quebra. Trabalho de simulação, não "só ler o save".
 - **"Visão contextual de parte do mapa" ("o que acha dessa casa?")** → na prática é *renderizar* os chunks numa imagem (mcmap e ferramentas análogas). Aí a Monika vê o render com a visão de imagem. Entregável separado da leitura NBT, com arquitetura própria.
 
