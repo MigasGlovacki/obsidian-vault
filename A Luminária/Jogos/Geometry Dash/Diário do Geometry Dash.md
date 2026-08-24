@@ -10,6 +10,7 @@
 - [[weird]] — Easy Demon, **zerada (11/08)** — ~94 mortes, newBests 42 → 100
 - [[MOAI]] — Event level #25, **zerada (14/08)** — Insane 9★
 - [[Chromatique]] — oficial, **zerada (21/08)** — 1.291 tentativas + 57 de treino SP (1.348 combinadas)
+- [[The Nightmare]] — Easy Demon, **zerada (24/08)** — newBests 2 → 100
 
 ## Apoio
 - [[Moedas das fases oficiais]] · [[MoniDash - Dificuldades dos Demons]] · [[GDDP Beginner - Easy Demons]]
