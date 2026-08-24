@@ -13,7 +13,7 @@
 - [[The Nightmare]] — Easy Demon, **zerada (24/08)** — newBests 2 → 100
 
 ## Apoio
-- [[Moedas das fases oficiais]] · [[Dificuldades dos Demons]] · [[GDDP Beginner - Easy Demons]] · [[GDDL - Minha conta e progresso]]
+- [[Moedas das fases oficiais]] · [[Dificuldades dos Demons]] · [[GDDP Beginner - Easy Demons]] · [[GDDL - Minha conta e progresso]] · [[Cardápio de fases]]
 
 ## Convenções
 - **Cópias SP:** cópias de treino salvas no editor como "Fase SP" ou "Fase Start Position" são agrupadas com a fase oficial na telemetria (a partir de 11/08/2026); no diário da fase, ficam anotadas separadamente como treino.
