@@ -8,7 +8,7 @@
 |------|---------|--------|-------------|-------------|
 | Galinhas 26.2 | ovos + frango cozido | ✅ funcionando | — | — |
 | Gelo compacto | gelo | ✅ funcionando (portal dedicado) | `1855, -6499` | — |
-| Endermen (End) | XP | ✅ funcionando | End | — |
+| Endermen (End) | XP | ✅ funcionando | End | — | → [[Otimização Farm de Enderman]] |
 
 ## Planejadas / em construção
 
