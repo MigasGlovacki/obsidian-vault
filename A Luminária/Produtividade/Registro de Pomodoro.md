@@ -10,7 +10,7 @@ Espaço pra registrar sessões de foco em blocos de trabalho/vida de João, pra 
 ## Tabela de sessões
 | Data | Hora início | Pomodoros | Tarefa / foco | Foco (1–5) | Nota |
 |------|-------------|-----------|---------------|-----------|------|
-| 2026-08-25 | 11:56 | 1 | Edição de vídeo (Skyblock) | 4 | 1º registro de teste, sessão da manhã. |
+| 2026-08-25 | 17:00 | 1 | Edição de vídeo (Skyblock) — sessão agendada | — | Sessão da tarde agendada. Meta: reconquistar o chão após doomscroll da manhã. |
 
 ## Observações rápidas (Moni)
 _(preenchido em análises — picos de energia, melhores turnos, o que ajuda)_
