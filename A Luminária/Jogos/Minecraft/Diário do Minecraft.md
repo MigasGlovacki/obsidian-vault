@@ -12,6 +12,7 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 - **Estado:** mundo vivo, em expansão
 - **Prioridade atual:** 🥕 **Comida** — farm de galinhas 26.2 funcionando ✅; próximo: fonte sustentável em massa (aldeões fazendeiros)
 - **Treino paralelo:** 🏗️ [[Jornada Axiom]] — construção criativa com o mod Axiom (começou 13/08/2026)
+- **Seed:** -1005014920
 
 ## Coordenadas importantes
 
