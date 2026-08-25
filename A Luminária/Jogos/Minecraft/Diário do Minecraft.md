@@ -26,6 +26,7 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 - **Floresta de sakura (grande, maior que a da casa)** : -769, -2899
 - **Ice peaks / Farm de gelo compacto** (portal Nether planejado): 1855, -6499
 - **Geiser/sulfur do update novo** (perto da farm de gelo): 2089, -6521
+- **Campo de cogumelos / mooshroom** (bioma mushroom fields; ensopado infinito, via Nether ÷8): -14007, -10880 (~11.8km NW da casa; portal Nether dedicado planejado)
 
 ---
 
