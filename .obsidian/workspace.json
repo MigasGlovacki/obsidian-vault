@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
+                "file": "A Luminária/Jogos/Minecraft/Diário do Minecraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDDP Beginner - Easy Demons"
+              "title": "Diário do Minecraft"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "byModifiedTime",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "mine"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -227,6 +227,7 @@
   },
   "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
+    "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "A Luminária/Produtividade/Registro de Pomodoro.md",
     "A Luminária/Produtividade",
     "A Luminária/Jogos/Geometry Dash/MOAI.md",
@@ -247,7 +248,6 @@
     "A Luminária/Jogos/Minecraft/EverWorld",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
-    "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
     "A Luminária/Jogos/Geometry Dash/Tabasco.md",
     "A Luminária/Jogos/Geometry Dash/Deadlocked.md",
