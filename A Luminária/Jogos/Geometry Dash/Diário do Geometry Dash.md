@@ -11,7 +11,7 @@
 - [[MOAI]] — Event level #25, **zerada (14/08)** — Insane 9★
 - [[Chromatique]] — oficial, **zerada (21/08)** — 1.291 tentativas + 57 de treino SP (1.348 combinadas)
 - [[The Nightmare]] — Easy Demon, **zerada (24/08)** — newBests 2 → 100
-- [[WORST IN YOU]] — Weekly Easy Demon, **zerada (26/08)** — 169 tentativas, enjoy 8
+- [[WORST IN YOU]] — Weekly Easy Demon, **zerada (26/08)** — 169 tentativas, enjoy 8; **fluke de 47% → 100%, a mais rápida que passou**
 
 ## Apoio
 - [[Moedas das fases oficiais]] · [[Dificuldades dos Demons]] · [[GDDP Beginner - Easy Demons]] · [[GDDL - Minha conta e progresso]] · [[Cardápio de fases]]
