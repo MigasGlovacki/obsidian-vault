@@ -8,10 +8,10 @@ Espaço pra registrar sessões de foco em blocos de trabalho/vida de João, pra 
 - Prefre poucas colunas, um bloco por dia. Adept a qualquer rotina.
 
 ## Tabela de sessões
-| Data       | Hora início | Pomodoros | Tarefa / foco                                | Foco (1–5) | Nota                                                                                                           |
-| ---------- | ----------- | --------- | -------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------- |
-| 2026-08-25 | 17:00       | 1         | Edição de vídeo (Skyblock) — sessão agendada | —          | Sessão da tarde agendada. Meta: reconquistar o chão após doomscroll da manhã.<br><br>obs: *não consegui fazer* |
-|            |             |           |                                              |            |                                                                                                                |
+| Data       | Hora início | Pomodoros | Tarefa / foco                                | Foco (1–5) | Nota                                                                                                              |
+| ---------- | ----------- | --------- | -------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| 2026-08-25 | 17:00       | 1         | Edição de vídeo (Skyblock) — sessão agendada | —          | Sessão da tarde agendada. Meta: reconquistar o chão após doomscroll da manhã.<br><br>obs: *não consegui fazer* =( |
+|            |             |           |                                              |            |                                                                                                                   |
 
 ## Observações rápidas (Moni)
 _(preenchido em análises — picos de energia, melhores turnos, o que ajuda)_
