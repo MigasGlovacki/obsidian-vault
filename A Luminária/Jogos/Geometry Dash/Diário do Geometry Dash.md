@@ -12,6 +12,8 @@
 - [[Chromatique]] — oficial, **zerada (21/08)** — 1.291 tentativas + 57 de treino SP (1.348 combinadas)
 - [[The Nightmare]] — Easy Demon, **zerada (24/08)** — newBests 2 → 100
 - [[WORST IN YOU]] — Weekly Easy Demon, **zerada (26/08)** — 169 tentativas, enjoy 8; **fluke de 47% → 100%, a mais rápida que passou**
+- [[ALLOY]] — Easy Demon (Crysticai), **zerada (26/08)** — 1.967 tentativas; saiu da trava dos 97%
+- [[iSpyWithMyLittleEye]] — Easy Demon (Voxicat), **zerada (26/08)** — 195 tentativas, enjoy 8
 
 ## Apoio
 - [[Moedas das fases oficiais]] · [[Dificuldades dos Demons]] · [[GDDP Beginner - Easy Demons]] · [[GDDL - Minha conta e progresso]] · [[Cardápio de fases]]

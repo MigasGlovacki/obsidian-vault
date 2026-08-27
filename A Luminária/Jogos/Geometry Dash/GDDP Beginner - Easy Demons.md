@@ -16,9 +16,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 
 ## Progresso
 
-- Concluídas: **9 / 29**
+- Concluídas: **10 / 29**
 - Próximo marco leve: **13 Easy Demons** do tier Beginner
-- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK**, **Space Circles**, **MUNDUS SANGUINANS**, **weird**, **Tabasco** e **Chromatique**
+- Já feitas: **iS**, **Problematic**, **NothinG**, **STARPUNK**, **Space Circles**, **MUNDUS SANGUINANS**, **weird**, **Tabasco**, **Chromatique** e **ALLOY**
 
 ## Meta de médio prazo
 
@@ -27,9 +27,8 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual (21/08/2026):** **ALLOY** (Crysticai, foco **Swing & Wave**).
-- **Por que essa:** escolha do João — a wave é o modo mais forte dele atualmente e ele quer masterizar, enquanto o swing ele quer melhorar; a ALLOY treina os dois juntos.
-- **Próxima:** a definir quando terminar essa.
+- **Fase atual (26/08/2026):** ALLOY desencalhou dos 97% → concluída em 26/08. Próxima fase a definir.
+- **Próxima:** a definir; ajustar foco na skill que ficou menos trabalhada com o fim da ALLOY.
 ## Checklist do tier Beginner
 
 | Feita | Fase               | Criador(es)                   | Foco do GDDP          | O que isso treina na gameplay                                                                                                                                                |
@@ -48,7 +47,7 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 | [x]   | weird              | llertt                        | Ship & Wave           | Controle fino de ship e wave no mesmo nível; alternar entre voar suave e ajustar rápido. **Concluída em 11/08/2026** (Easy Demon) após run 93–100.                             |
 | [ ]   | CHALK              | BrainETR                      | Timings               | Cliques mais precisos, pouca margem de erro e disciplina para praticar pontos específicos.                                                                                   |
 | [ ]   | BITBLEXIT          | Alphirox                      | Fast Paced & High CPS | Gameplay acelerada e CPS mais alto; sustentar ritmo sem tensionar demais a mão.                                                                                              |
-| [ ]   | ALLOY              | Crysticai                     | Swing & Wave          | Mistura de swing e wave; aprender a trocar entre inércia e microcontrole.                                                                                                    |
+| [x]   | ALLOY              | Crysticai                     | Swing & Wave          | Mistura de swing e wave; aprender a trocar entre inércia e microcontrole. **Concluída em 26/08/2026** (1.967 tentativas; saiu da trava dos 97%). |
 | [ ]   | Death Moon         | Caustic                       | Nerve Control         | Consistência em fase longa e icônica; segurar a ansiedade perto do final.                                                                                                    |
 | [ ]   | Adrenaline Rush    | Gonixel                       | Fast Paced & Learny   | Aprender uma fase rápida por partes; transformar caos visual em sequência conhecida.                                                                                         |
 | [x]   | NothinG            | iriswolfx                     | Ship & Timings        | Ship com timings: controle de altura, entradas limpas e confiança em cliques mais espaçados.                                                                                 |
@@ -72,6 +71,8 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **STARPUNK — positiva e tranquila.** João se divertiu com o flow da fase e destacou o sync muito bom com a música.
 - **Space Circles — positiva e mais fácil na wave do que o esperado.** João achou o cubo inicial mais difícil que o de Problematic e a ship exigente por pedir inputs precisos; a wave foi a parte mais tranquila.
 - **weird — tranquila e mais fácil que a anterior.** João achou a fase bem tranquila (mais fácil que MUNDUS SANGUINANS); o final era o ponto de atenção — ship subindo com orbs (algo que ele ainda está se acostumando) e um cubo com pulo único que ele errava bastante nos treinos, mas acertou na run oficial.
+- **ALLOY — desencalhou da trava (26/08/2026).** A fase que era a "atual" saiu dos 97% e foi concluída em 1.967 tentativas. Como era o foco de treino de Swing & Wave, marcou o fechamento de uma trava que vinha prendendo a progressão, não apenas mais uma zen.
+- **iSpyWithMyLittleEye — rápida e gostosa (26/08/2026).** Marcada no GDDL como concluída com 195 tentativas e enjoy 8. Fechou junto com a ALLOY, um segundo marco da mesma linha.
 ## Como eu posso escolher uma fase para você depois
 
 Quando você me disser que quer jogar um pouco, eu posso escolher pelo treino do dia:

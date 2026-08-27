@@ -16,17 +16,19 @@ Registro da minha conta no **GD Demon Ladder** (gdladder.com) e dos dados que im
 
 ## Resumo
 
-- **Submissions:** 23 no total → **14 completas (100%)** + **9 em progresso**
+- **Submissions:** 24 no total → **16 completas (Easy)** + **1 oficial (Deadlock)** + **7 em progresso**
 - **Média de aproveitamento registrada:** 7/10
-- **Destaque:** Weekly da semana concluída — **WORST IN YOU** (169 tentativas, Enjoyment 8)
-- **No quase:** ALLOY em **97%** (1953 tentativas)
+- **Destaque:** semana dupla — **ALLOY** desencalhou dos 97% e **iSpyWithMyLittleEye** fechou junto (26/08)
+- **No quase:** DeCode 17%
 
-## Completas (14)
+## Completas (16)
 
 Marcadas como 100% na minha conta do GDDL:
 
 | Fase | Dificuldade | ID |
 | ---- | ----------- | -- |
+| ALLOY | Easy | 123617195 |
+| iSpyWithMyLittleEye | Easy | 89886591 |
 | WORST IN YOU (Weekly 26/08) | Easy | 146189972 |
 | The Nightmare | Easy | 13519 |
 | Problematic | Easy | 6300721 |
@@ -44,12 +46,10 @@ Marcadas como 100% na minha conta do GDDL:
 
 > Observação: no diário do Geometry Dash, nem todas essas aparecem como marco — o diário registra só os marcos grandes (fases zeradas, demons marcantes), enquanto o GDDL guarda tudo o que importei. Por isso as duas listas não batem 1 para 1.
 
-## Em progresso (9)
+## Em progresso (7)
 
 | Fase | Dificuldade | Progresso |
 | ---- | ----------- | --------- |
-| ALLOY | Easy | 97% |
-| iSpyWithMyLittleEye | Easy | 50% |
 | Fast n Spicy | Easy | 32% |
 | Volcano | Easy | 25% |
 | DeCode | Easy | 17% |
