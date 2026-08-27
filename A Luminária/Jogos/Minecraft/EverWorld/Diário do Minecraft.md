@@ -97,6 +97,12 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 - **Momento que marcou:** ver a ferramenta path do Axiom desenhar a ponte e a pista literalmente "montar sozinha" no mundo original pelo esquema.
 - **Impressão:** empolgação com o método novo — achou um fluxo que forja pontes rápido e visual; virou o padrão dele pra construção de caminhos.
 
+### Sessão 11 — 27/08/2026
+
+- **Progresso:** Organizou os projetos do EverWorld em plano de prioridades (nota [[EverWorld]]). Terraformação da montanha vira o foco; mob farm logo atrás pra pólvora/foguete; depois vilarejo (muros → casas → buscar villagers) e, por fim, produção (cana, mud/concreto, Guardian).
+- **Momento que marcou:** destravar que o *mud* dos caminhos dá pra *fazer* com terra + água — a própria terraformação gera o matêriô.
+- **Impressão:** cabeça mais limpa; cada projeto agora tem hora e ordem, sem virar bagunça.
+
 ---
 
 ## Marcos do mundo
