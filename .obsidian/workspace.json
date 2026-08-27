@@ -11,14 +11,10 @@
             "id": "5e8211c7f69560b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Luminária/Jogos/Minecraft/EverWorld/EverWorld.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "EverWorld"
+              "title": "New tab"
             }
           }
         ]
@@ -227,12 +223,17 @@
   },
   "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
+    "A Luminária/Jogos/Minecraft/EverWorld/EverWorld.md",
+    "02 - Projetos/EverWorld/Farms.md",
+    "02 - Projetos/EverWorld/EverWorld.md",
+    "02 - Projetos/EverWorld/Diário do Minecraft.md",
+    "02 - Projetos/EverWorld/Construções.md",
+    "02 - Projetos/EverWorld",
     "A Luminária/Jogos/Minecraft/EverWorld/Construções.md",
     "A Luminária/Jogos/Minecraft/EverWorld/Diário do Minecraft.md",
     "A Luminária/Jogos/Minecraft/EverWorld/Farms.md",
     "A Luminária/Jogos/Diário de jogos.md",
     "A Luminária/Jogos/Minecraft/Jornada Axiom.md",
-    "A Luminária/Jogos/Minecraft/EverWorld/EverWorld.md",
     "A Luminária/Jogos/Minecraft/EverWorld/Otimização Farm de Enderman.md",
     "A Luminária/Jogos/Geometry Dash/User coins fáceis - criadores.md",
     "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
@@ -250,11 +251,7 @@
     "A Luminária/Jogos/Geometry Dash/Chromatique.md",
     "A Luminária/Jogos/Geometry Dash/The Nightmare.md",
     "A Luminária/Jogos/Geometry Dash/Dificuldades dos Demons.md",
-    "A Luminária/Jogos/Geometry Dash/MoniDash - Dificuldades dos Demons.md",
-    "A Luminária/Jogos/GRIS/Diário do GRIS.md",
-    "02 - Projetos/Guias de conquistas/Guia de conquistas do Pizza Tower.md",
     "A Luminária/Jogos/Minecraft/EverWorld",
-    "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
     "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/Freelance",
     "Attachments/2026-05-14_20.49.07.png",
@@ -264,7 +261,6 @@
     "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong",
     "02 - Projetos/Guias de conquistas/Ghostrunner",
     "02 - Projetos/Guias de conquistas",
-    "A Luminária/Jogos/Ghostrunner",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.47.15.png",
     "Attachments/2026-05-14_20.45.33.png",
