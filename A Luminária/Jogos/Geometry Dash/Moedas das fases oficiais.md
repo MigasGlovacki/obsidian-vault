@@ -97,9 +97,9 @@
 - [x] **Moeda 3 — 84%** (cubo) — Bata em dois orbs e no orb com decoração de cruz; pule tarde pra moeda e pule de novo na borda da última plataforma.
 
 ## Geometrical Dominator
-- [ ] **Moeda 1 — 17%** (robô) — Passe pelo orb amarelo, caia na plataforma pequena e boost imediato pra área de dois blocos (moeda escondida); voe pro céu, pad azul de gravidade e volta.
-- [ ] **Moeda 2 — 47%** (robô) — No bloco arco-íris saindo da plataforma azul/roxa, pule de novo em altura máxima pra moeda — senão cai sem ela ou morre na serra.
-- [ ] **Moeda 3 — 92%** (nave) — Pilar móvel com duas aberturas: entre pela passagem inferior (moeda). Dica: grude no teto ou solte o controle ao passar o 1º obstáculo móvel.
+- [x] **Moeda 1 — 17%** (robô) — Passe pelo orb amarelo, caia na plataforma pequena e boost imediato pra área de dois blocos (moeda escondida); voe pro céu, pad azul de gravidade e volta.
+- [x] **Moeda 2 — 47%** (robô) — No bloco arco-íris saindo da plataforma azul/roxa, pule de novo em altura máxima pra moeda — senão cai sem ela ou morre na serra.
+- [x] **Moeda 3 — 92%** (nave) — Pilar móvel com duas aberturas: entre pela passagem inferior (moeda). Dica: grude no teto ou solte o controle ao passar o 1º obstáculo móvel.
 
 ## Deadlocked
 - [x] **Moeda 1 — 43%** (cubo, requer chave) — Na primeira mini-nave (~19%), suba pra pegar a chave acima dos thwomps; ela abre a passagem secreta no cubo em 42%. Sem chave, fica bloqueado.
