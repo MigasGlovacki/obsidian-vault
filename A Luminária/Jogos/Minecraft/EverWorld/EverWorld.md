@@ -26,6 +26,7 @@
 
 ### 🌱 Produção e acabamento (tempo livre)
 - [ ] **Upgrade da cana de açúcar** — expandir setor funcionando pra baixo
+- [ ] **Upgrade da farm de Endermen** (End) — destravar gargalo de armazenamento e melhorar o campo de spawn pra render mais XP
 - [ ] **Barro / mud pros caminhos** — mud vem de manguezal / céu caverna lush; ou *fazer* mud com garrafinha d'água ou balde na terra (a terraformação gera terra à roldana → vira mud quase de graça)
 - [ ] **Farm de concreto** — pro visual das construções
 - [ ] **Farm de Guardian** (templo no mar, `-2815, -3866`) — a mais dispensável, depois das outras
