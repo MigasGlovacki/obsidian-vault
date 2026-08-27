@@ -27,8 +27,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **Caminho:** consolidar Space Circles e outras waves do GDDP; a gente escolhe os desafios seguintes depois de conquistar Nine Circles, com base no que essa jornada revelar.
 ## Sessão atual
 
-- **Fase atual (26/08/2026):** ALLOY desencalhou dos 97% → concluída em 26/08. Próxima fase a definir.
-- **Próxima:** a definir; ajustar foco na skill que ficou menos trabalhada com o fim da ALLOY.
+- **Fase atual (26/08/2026):** **Death Moon** (Caustic, foco **Nerve Control**).
+- **Por que essa:** falam muito bem dela e o João quer melhorar o **controle de nervos** — fase longa e icônica, boa pra segurar a ansiedade perto do final (após o desgaste da wave final da ALLOY, treinar a cabeça mais do que a mão).
+- **Próxima:** a definir quando concluir essa.
 ## Checklist do tier Beginner
 
 | Feita | Fase               | Criador(es)                   | Foco do GDDP          | O que isso treina na gameplay                                                                                                                                                |
