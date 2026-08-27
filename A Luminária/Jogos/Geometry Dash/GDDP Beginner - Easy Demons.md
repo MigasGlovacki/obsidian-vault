@@ -71,8 +71,9 @@ Checklist simples para quando eu quiser “dar uma volta” no Geometry Dash sem
 - **STARPUNK — positiva e tranquila.** João se divertiu com o flow da fase e destacou o sync muito bom com a música.
 - **Space Circles — positiva e mais fácil na wave do que o esperado.** João achou o cubo inicial mais difícil que o de Problematic e a ship exigente por pedir inputs precisos; a wave foi a parte mais tranquila.
 - **weird — tranquila e mais fácil que a anterior.** João achou a fase bem tranquila (mais fácil que MUNDUS SANGUINANS); o final era o ponto de atenção — ship subindo com orbs (algo que ele ainda está se acostumando) e um cubo com pulo único que ele errava bastante nos treinos, mas acertou na run oficial.
-- **ALLOY — desencalhou da trava (26/08/2026).** A fase que era a "atual" saiu dos 97% e foi concluída em 1.967 tentativas. Como era o foco de treino de Swing & Wave, marcou o fechamento de uma trava que vinha prendendo a progressão, não apenas mais uma zen.
-- **iSpyWithMyLittleEye — rápida e gostosa (26/08/2026).** Marcada no GDDL como concluída com 195 tentativas e enjoy 8. Fechou junto com a ALLOY, um segundo marco da mesma linha.
+- **iSpyWithMyLittleEye — bem de boa (26/08/2026).** João gostou bastante da fase: decoração meio complicada visualmente, mas a gameplay é **justa e legal**. Contraste com a ALLOY na mesma semana mostra que nem a dificuldade do GDDL diz muito sobre a experiência.
+- **ALLOY — o desbalanceamento do 50% (26/08/2026).** João não gostou da fase. A parte de swing que "todo mundo fala que é difícil" não foi o problema pra ele; o **chokepoint foi a wave do final** — gameplay esquisita, muita troca de gravidade e lugares apertados. Sofreu muito ali, a ponto de *questionar as próprias habilidades de wave* mesmo sendo o modo mais forte dele, o que achou desbalanceado: do 0 ao 50% é tranquilo, depois complica do nada. Prefere a **Chromatique** como experiência de swing.
+  - **Lição:** o desgaste na wave final é mais sinal de equilíbrio ruim da fase do que de regressão de skill — a forte continua forte, foi a fase que treinou fora de hora.
 ## Como eu posso escolher uma fase para você depois
 
 Quando você me disser que quer jogar um pouco, eu posso escolher pelo treino do dia:
