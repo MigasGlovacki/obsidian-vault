@@ -14,13 +14,13 @@
 
 ### ⚓ Fundação (em andamento agora)
 - [x] **Terraformação da montanha da casa** — quebrar a montanha até o sopé descer pro lado da vila (`-3419, -5608`). *Projeto atual.*
-	- [ ] Substituir todos os blocos de pedra por blocos de grama
+	- [x] Substituir todos os blocos de pedra por blocos de grama
 	- [x] Ferramentas reservas para diminuir ida e volta para o end
 	- [ ] Farmar grama baixa para colocar na montanha terraformada
 
 ### ⚙️ Força-motriz (destrava o resto)
 - [ ] **Mob farm** — pólvora pra foguete (elytra = deslocamento rápido pra tudo abaixo). Mais valor cedo.
-  - bônus: arco era do End; pólvora também serve pra TNT e firework cele.
+  - bônus: arco era do End; pólvora também serve pra TNT e firework .
 
 ### 🏗️ Vilarejo (depende da terraformação pronta)
 - [ ] **Muros da vila**
