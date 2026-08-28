@@ -19,8 +19,8 @@
 	- [ ] Farmar grama baixa para colocar na montanha terraformada
 
 ### ⚙️ Força-motriz (destrava o resto)
-- [ ] **Mob farm** — pólvora pra foguete (elytra = deslocamento rápido pra tudo abaixo). Mais valor cedo.
-  - bônus: arco era do End; pólvora também serve pra TNT e firework .
+- [ ] **Mob farm** — pólvora pra foguete (elytra = deslocamento rápido pra tudo abaixo). Mais valor cedo
+  - pólvora também serve pra TNT
 
 ### 🏗️ Vilarejo (depende da terraformação pronta)
 - [ ] **Muros da vila**
