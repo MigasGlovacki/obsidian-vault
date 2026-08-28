@@ -14,7 +14,8 @@
 
 ### ⚓ Fundação (em andamento agora)
 - [ ] **Terraformação da montanha da casa** — quebrar a montanha até o sopé descer pro lado da vila (`-3419, -5608`). *Projeto atual.*
-	- [ ] Ferramentas reservas para diminuir ida e volta para o end.
+	- [ ] Ferramentas reservas para diminuir ida e volta para o end
+	- [ ] Farmar grama baixa para colocar na montanha terraformada
 
 ### ⚙️ Força-motriz (destrava o resto)
 - [ ] **Mob farm** — pólvora pra foguete (elytra = deslocamento rápido pra tudo abaixo). Mais valor cedo.
