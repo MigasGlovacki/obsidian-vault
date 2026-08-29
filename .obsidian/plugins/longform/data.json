@@ -6,6 +6,19 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-29T16:31:55.374Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Beyond Reality/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Beyond Reality": 0,
+            "Inicio": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-08-28T23:26:45.459Z",
       "total": 0,
       "drafts": {
@@ -362,18 +375,6 @@
         "Our Time Together/Index.md": {
           "total": 0,
           "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-05-24T20:52:11.523Z",
-      "total": 0,
-      "drafts": {
-        "Our Time Together/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Capitulo 1": 0
-          }
         }
       }
     }
