@@ -6,8 +6,10 @@ Vou listar nessa nota todos os objetivos do mapa que vierem em mente e vou deixa
 
 ## Objetivos Desorganizados
 
-Aqui eu vou listar tudo que vier em mente de forma aleatoria, sem nenhuma organização, em formato de braindump.
+Aqui eu vou listar tudo que vier em mente de forma aleatoria, sem nenhuma organização, em formato de braindump em **bullet points**.
 
 
-## Objetivos organiz
+## Objetivos organizados
+
+Aqui Monika ira organizar os objetivos em ordem de prioridade pra me ajudar a sempre saber o proximo passo
 
