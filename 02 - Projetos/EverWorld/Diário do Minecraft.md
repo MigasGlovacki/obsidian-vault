@@ -15,7 +15,6 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 
 ## Coordenadas importantes
 
-
 | Nome | X     | Z     |
 | ---- | ----- | ----- |
 | Casa | -3419 | -5608 |
