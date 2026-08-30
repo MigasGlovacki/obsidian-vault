@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projetos/EverWorld/Objetivos.md",
+                "file": "02 - Projetos/EverWorld/informações de mundo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objetivos"
+              "title": "informações de mundo"
             }
           }
         ]
@@ -227,11 +227,24 @@
   },
   "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
+    "02 - Projetos/EverWorld/Objetivos.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 11 — 27-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 10 — 16-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 09 — 15-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 08 — 15-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 07 — 14-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 05 — 14-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 06 — 14-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 03 — 14-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 04 — 14-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 02 — 12-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria/Sessão 01 — 12-08-2026.md",
+    "02 - Projetos/EverWorld/progressão diaria",
+    "02 - Projetos/EverWorld/informações de mundo.md",
     "02 - Projetos/EverWorld/EverWorld.md",
     "02 - Projetos/EverWorld/Diário do Minecraft.md",
     "02 - Projetos/EverWorld/Construções.md",
     "02 - Projetos/EverWorld/Farms.md",
-    "02 - Projetos/EverWorld/Objetivos.md",
     "00 - Caixa de entrada/Untitled.md",
     "A Luminária/Jogos/Minecraft/EverWorld/EverWorld.md",
     "02 - Projetos/EverWorld",
@@ -242,19 +255,7 @@
     "A Luminária/Jogos/Minecraft/Jornada Axiom.md",
     "A Luminária/Jogos/Minecraft/EverWorld/Otimização Farm de Enderman.md",
     "A Luminária/Jogos/Geometry Dash/User coins fáceis - criadores.md",
-    "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
-    "A Luminária/Jogos/Geometry Dash/Diário do Geometry Dash.md",
-    "A Luminária/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
-    "A Luminária/Jogos/Geometry Dash/Cardápio de fases.md",
-    "A Luminária/Jogos/Geometry Dash/Tabasco.md",
-    "A Luminária/Jogos/Geometry Dash/GDDL - Minha conta e progresso.md",
-    "A Luminária/Endereços de amigos.md",
-    "A Luminária/Produtividade/Registro de Pomodoro.md",
-    "A Luminária/Jogos/Geometry Dash/WORST IN YOU.md",
     "A Luminária/Produtividade",
-    "A Luminária/Jogos/Geometry Dash/MOAI.md",
-    "A Luminária/Jogos/Geometry Dash/weird.md",
-    "A Luminária/Jogos/Geometry Dash/Chromatique.md",
     "A Luminária/Jogos/Minecraft/EverWorld",
     "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/Freelance",
@@ -264,7 +265,6 @@
     "Longform/Beyond Reality",
     "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong",
     "02 - Projetos/Guias de conquistas/Ghostrunner",
-    "02 - Projetos/Guias de conquistas",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.47.15.png",
     "Attachments/2026-05-14_20.45.33.png",

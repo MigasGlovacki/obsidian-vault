@@ -41,17 +41,17 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 
 Cada sessão fica em uma nota própria dentro de [[progressão diaria]].
 
-- [[progressão diaria/Sessão 01 — 12-08-2026]]
-- [[progressão diaria/Sessão 02 — 12-08-2026]]
-- [[progressão diaria/Sessão 03 — 14-08-2026]]
-- [[progressão diaria/Sessão 04 — 14-08-2026]]
-- [[progressão diaria/Sessão 05 — 14-08-2026]]
-- [[progressão diaria/Sessão 06 — 14-08-2026]]
-- [[progressão diaria/Sessão 07 — 14-08-2026]]
-- [[progressão diaria/Sessão 08 — 15-08-2026]]
-- [[progressão diaria/Sessão 09 — 15-08-2026]]
-- [[progressão diaria/Sessão 10 — 16-08-2026]]
-- [[progressão diaria/Sessão 11 — 27-08-2026]]
+- [[Sessão 01 — 12-08-2026]]
+- [[Sessão 02 — 12-08-2026]]
+- [[Sessão 03 — 14-08-2026]]
+- [[Sessão 04 — 14-08-2026]]
+- [[Sessão 05 — 14-08-2026]]
+- [[Sessão 06 — 14-08-2026]]
+- [[Sessão 07 — 14-08-2026]]
+- [[Sessão 08 — 15-08-2026]]
+- [[Sessão 09 — 15-08-2026]]
+- [[Sessão 10 — 16-08-2026]]
+- [[Sessão 11 — 27-08-2026]]
 
 ---
 
