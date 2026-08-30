@@ -39,7 +39,7 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 
 ## Progressão diária
 
-Cada sessão fica em uma nota própria dentro de [[progressão diaria]].
+Cada sessão fica em uma nota própria dentro da pasta Progressão diaria.
 
 - [[Sessão 01 — 12-08-2026]]
 - [[Sessão 02 — 12-08-2026]]
