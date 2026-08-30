@@ -13,7 +13,7 @@ Aqui eu vou listar tudo que vier em mente de forma aleatoria, sem nenhuma organi
 
 ## Objetivos organizados
 
-Aqui Monika ira organizar os objetivos em ordem de prioridade pra me ajudar a sempre saber o proximo passo. Em formato de **Checkboxes**
+Aqui Monika ira extrair os objetivos desorganizados e organizar os objetivos em ordem de prioridade pra me ajudar a sempre saber o proximo passo. Em formato de **Checkboxes**.
 
 
 
