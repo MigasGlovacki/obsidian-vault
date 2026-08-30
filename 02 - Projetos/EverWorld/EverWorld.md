@@ -1,10 +1,10 @@
 # EverWorld — Índice
 
-> Hub do mundo eterno (vanilla) do João. Diário de sessões e marcos cronológicos ficam na nota [[Diário do Minecraft]]; aqui centralizo o estado atual por área.
+> Hub do mundo eterno (vanilla) do João. Informações do mundo e progressão diária ficam nas notas relacionadas; aqui centralizo o estado atual por área.
 
 **Seed/mundo:** Sobrevivência · late game (Ender Dragon derrotado)
 **Local:** `C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minecraft\saves\EverWorld`
-**Linha do tempo & sessões:** → [[Diário do Minecraft]]
+**Informações do mundo & sessões:** → [[informações de mundo]]
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Marcos do mundo
 
-Checklist consolidado (detalhes/fotos no [[Diário do Minecraft]]):
+Checklist consolidado (detalhes/fotos em [[informações de mundo]]):
 
 - [x] Derrotar o Ender Dragon
 - [x] Farm de galinhas 26.2 funcionando
@@ -37,7 +37,7 @@ Checklist consolidado (detalhes/fotos no [[Diário do Minecraft]]):
 2. Salvar como **esquema Litematica**
 3. Reconstruir no **original** seguindo o esquema
 
-(Detalhe completo em [[Diário do Minecraft]] e [[Jornada Axiom]])
+(Detalhe completo em [[informações de mundo]] e [[Jornada Axiom]])
 
 ---
 *Manter conciso: é o ponto de partida. Seções mudam conforme João joga.*
