@@ -15,19 +15,17 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 
 ## Coordenadas importantes
 
-| Nome | X     | Z     |
-| ---- | ----- | ----- |
-| Casa | -3419 | -5608 |
-
-
-- **Portal Nether da casa (coords exatas da print):** -423, -713
-- **Portal do End:** -2289, 769
-- **Templo de Guardian no mar** (futura farm de guardian): -2815, -3866
-- **Pale Garden** (primeira vez visto; floresta escura + carvalhos pálidos): -1218, -2522
-- **Floresta de sakura (grande, maior que a da casa)** : -769, -2899
-- **Ice peaks / Farm de gelo compacto** (portal Nether planejado): 1855, -6499
-- **Geiser/sulfur do update novo** (perto da farm de gelo): 2089, -6521
-- **Campo de cogumelos / mooshroom** (bioma mushroom fields; ensopado infinito, via Nether ÷8): -14007, -10880 (~11.8km NW da casa; portal Nether dedicado planejado)
+| Nome | X | Z | Observações |
+|---|---:|---:|---|
+| Casa | -3419 | -5608 | Base atual e futura vila |
+| Portal Nether da casa | -423 | -713 | Coordenadas exatas da print |
+| Portal do End | -2289 | 769 | Stronghold; acesso ao End |
+| Templo de Guardian no mar | -2815 | -3866 | Futura farm de Guardian |
+| Pale Garden | -1218 | -2522 | Primeira área encontrada; floresta escura e carvalhos pálidos |
+| Floresta de sakura | -769 | -2899 | Grande; maior que a da casa |
+| Ice Spikes / farm de gelo compacto | 1855 | -6499 | Portal Nether planejado |
+| Gêiser de enxofre | 2089 | -6521 | Feature do update novo; perto da farm de gelo |
+| Campo de cogumelos / mooshroom | -14007 | -10880 | Bioma mushroom fields; ensopado infinito; portal Nether dedicado planejado; ~11,8 km NW da casa |
 
 ---
 
