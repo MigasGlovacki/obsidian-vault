@@ -10,7 +10,8 @@ Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de or
 
 - Começar a planejar uma nova base perto onde esta a minha casa e futura vila. Por causa do problema de armazenamento.
 - Criar uma farm de grama baixa.
-- 
+- Mover a farm de galinhas temporariamente para outro lugar para n atrapalhar a construção da vila
+- Planejar e delimitar a area da vila com muralhas de c
 
 ---
 
