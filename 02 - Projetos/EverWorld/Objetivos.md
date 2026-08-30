@@ -6,10 +6,7 @@
 
 ## Objetivos desorganizados
 
-Liste aqui tudo que vier à mente, sem precisar decidir prioridade.
-
-- Fazer o caminho de gelo para o Ice Spikes no Nether
-- Terminar o terreno onde vai ficar a vila
+Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
 ---
 
