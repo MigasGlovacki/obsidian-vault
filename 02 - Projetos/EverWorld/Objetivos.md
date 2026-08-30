@@ -8,7 +8,8 @@ Vou listar nessa nota todos os objetivos do mapa que vierem em mente e vou deixa
 
 Aqui eu vou listar tudo que vier em mente de forma aleatoria, sem nenhuma organização, em formato de braindump em **bullet points**.
 
-- Fazer a po
+- Fazer o caminho de gelo para o ice-spikes no nether
+- Terminar o terreno onde vai ficar a vila
 
 ## Objetivos organizados
 
