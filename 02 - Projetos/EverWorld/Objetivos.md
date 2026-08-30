@@ -8,7 +8,7 @@
 
 Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
-- coletar esponja no templo para secar inundações subterraneas (pq tem muita parte debaixo de casa submer)
+- coletar esponja no templo para secar inundações subterraneas (pq tem muita parte debaixo de casa submersa e irá atrapalhar na construção)
 
 ---
 
