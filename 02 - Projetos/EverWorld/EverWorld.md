@@ -8,38 +8,11 @@
 
 ---
 
-## 🎯 Plano atual — prioridades (organizado 27/08/2026)
-
-> Guia vivo de foco. Marcar `[x]` conforme fechar. A ordem guarda dependências: pólvora destrava deslocamento rápido (elytra + foguete), que destrava o resto.
-
-### ⚓ Fundação (em andamento agora)
-- [x] **Terraformação da montanha da casa** — quebrar a montanha até o sopé descer pro lado da vila (`-3419, -5608`). *Projeto atual.*
-	- [x] Substituir todos os blocos de pedra por blocos de grama
-	- [x] Ferramentas reservas para diminuir ida e volta para o end
-	- [ ] Farmar grama baixa para colocar na montanha terraformada
-
-### ⚙️ Força-motriz (destrava o resto)
-- [ ] **Mob farm** — pólvora pra foguete (elytra = deslocamento rápido pra tudo abaixo). Mais valor cedo
-  - pólvora também serve pra TNT
-
-### 🏗️ Vilarejo (depende da terraformação pronta)
-- [ ] **Muros da vila**
-- [ ] **Casas dos villagers**
-- [ ] **Buscar villagers da casa antiga** — portal perto do End, mesmo corredor do portal do Nether do End (`2289, 769`), só passar um pouco
-
-### 🌱 Produção e acabamento (tempo livre)
-- [ ] **Upgrade da cana de açúcar** — expandir setor funcionando pra baixo
-- [ ] **Upgrade da farm de Endermen** (End) — destravar gargalo de armazenamento e melhorar o campo de spawn pra render mais XP
-- [ ] **Barro / mud pros caminhos** — mud vem de manguezal / céu caverna lush; ou *fazer* mud com garrafinha d'água ou balde na terra (a terraformação gera terra à roldana → vira mud quase de graça)
-- [ ] **Farm de concreto** — pro visual das construções
-- [ ] **Farm de Guardian** (templo no mar, `-2815, -3866`) — a mais dispensável, depois das outras
-
----
-
 ## Áreas
 
 - 🌾 [[Farms]] — farms ativas, planejadas e status
 - 🏗️ [[Construções]] — construções, terraformações e vila
+- [[Objetivos]] — Objetivos de forma organizada
 
 ## Marcos do mundo
 
