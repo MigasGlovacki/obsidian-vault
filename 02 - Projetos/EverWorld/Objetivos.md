@@ -9,6 +9,8 @@
 Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
 - Começar a planejar uma nova base perto onde esta a minha casa e futura vila. Por causa do problema de armazenamento.
+- Criar uma farm de grama baixa.
+- 
 
 ---
 
