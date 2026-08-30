@@ -16,12 +16,11 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 ## Coordenadas importantes
 
 
-| Nome |     |
-| ---- | --- |
-|      |     |
+| Nome | X     | Z     |
+| ---- | ----- | ----- |
+| Casa | -3419 | -5608 |
 
 
-- **Casa:** -3419, -5608
 - **Portal Nether da casa (coords exatas da print):** -423, -713
 - **Portal do End:** -2289, 769
 - **Templo de Guardian no mar** (futura farm de guardian): -2815, -3866
