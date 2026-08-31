@@ -6,6 +6,19 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-31T12:55:56.847Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Beyond Reality/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Beyond Reality": 0,
+            "Inicio": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-08-30T12:10:05.071Z",
       "total": 0,
       "drafts": {
@@ -366,16 +379,6 @@
           "scenes": {}
         },
         "Longform/Green Affection/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-07-31T02:22:25.519Z",
-      "total": 0,
-      "drafts": {
-        "Green Afection/Index.md": {
           "total": 0,
           "scenes": {}
         }
