@@ -10,7 +10,7 @@ Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de or
 
 - Mega base decidida. dentro de uma outra montanha proxima a futura vila (em baixo de casa tinha muita caverna submersa)
 - criar uma farm de ferro (A base vai usar MUITO funil pro item sorter)
-- 
+- Clonar a farm de villager da antiga casa perto da casa atual
 
 ---
 

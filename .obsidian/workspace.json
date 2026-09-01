@@ -11,10 +11,14 @@
             "id": "5e8211c7f69560b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02 - Projetos/EverWorld/Objetivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objetivos"
             }
           }
         ]
@@ -222,8 +226,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a0c9e9d2e3c9f04",
+  "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
+    "02 - Projetos/EverWorld/informações de mundo.md",
+    "02 - Projetos/EverWorld/EverWorld.md",
+    "02 - Projetos/EverWorld/Farms.md",
+    "02 - Projetos/EverWorld/Construções.md",
     "Longform/Emerald Eyes/1. casa.md",
     "Longform/Emerald Eyes/Index.md",
     "Longform/Emerald Eyes",
@@ -234,10 +242,6 @@
     "Longform/Beyond Reality/Shiori.md",
     "02 - Projetos/EverWorld/Objetivos.md",
     "02 - Projetos/Documentario Skyblock portfolio.md",
-    "02 - Projetos/EverWorld/Construções.md",
-    "02 - Projetos/EverWorld/Farms.md",
-    "02 - Projetos/EverWorld/EverWorld.md",
-    "02 - Projetos/EverWorld/informações de mundo.md",
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 11 — 27-08-2026.md",
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 10 — 16-08-2026.md",
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 09 — 15-08-2026.md",
