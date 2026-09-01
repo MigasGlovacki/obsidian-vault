@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-09-01T05:48:05.167Z",
-      "total": 9,
+      "total": 19,
       "drafts": {
         "Longform/Beyond Reality/Index.md": {
           "total": 0,
@@ -21,9 +21,9 @@
           "scenes": {}
         },
         "Longform/Emerald Eyes/Index.md": {
-          "total": 9,
+          "total": 19,
           "scenes": {
-            "1. casa": 9
+            "1. casa": 19
           }
         }
       }
