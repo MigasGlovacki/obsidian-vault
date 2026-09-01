@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Longform/Emerald Eyes/Index.md",
+                "file": "Longform/Emerald Eyes/1. casa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "1. casa"
             }
           }
         ]
@@ -227,9 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "874d287a1917f958",
+  "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
     "Longform/Emerald Eyes/Index.md",
+    "Longform/Emerald Eyes/1. casa.md",
     "Longform/Emerald Eyes",
     "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
     "Longform/Beyond Reality/Inicio.md",
@@ -256,7 +257,6 @@
     "02 - Projetos/EverWorld/Progressão diaria",
     "02 - Projetos/EverWorld/Diário do Minecraft.md",
     "00 - Caixa de entrada/Untitled.md",
-    "A Luminária/Jogos/Minecraft/EverWorld/EverWorld.md",
     "02 - Projetos/EverWorld",
     "A Luminária/Produtividade",
     "A Luminária/Jogos/Minecraft/EverWorld",
