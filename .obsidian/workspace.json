@@ -11,14 +11,10 @@
             "id": "5e8211c7f69560b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Longform/Emerald Eyes/1. casa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. casa"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -89,8 +85,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,10 +222,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e8211c7f69560b5",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
-    "Longform/Emerald Eyes/Index.md",
     "Longform/Emerald Eyes/1. casa.md",
+    "Longform/Emerald Eyes/Index.md",
     "Longform/Emerald Eyes",
     "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
     "Longform/Beyond Reality/Inicio.md",
