@@ -1,10 +1,31 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Longform/Beyond Reality/Index.md",
+  "selectedDraftVaultPath": "Longform/Emerald Eyes/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2026-09-01T05:48:05.167Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Beyond Reality/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Beyond Reality": 0,
+            "Inicio": 0
+          }
+        },
+        "Emerald Eyes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Longform/Emerald Eyes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
     {
       "start": "2026-08-31T12:55:56.847Z",
       "total": 0,
@@ -364,20 +385,6 @@
       "start": "2026-08-01T03:10:50.948Z",
       "total": 0,
       "drafts": {
-        "Longform/Green Affection/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-07-31T03:19:19.150Z",
-      "total": 0,
-      "drafts": {
-        "Longform/Green Afection/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
         "Longform/Green Affection/Index.md": {
           "total": 0,
           "scenes": {}
