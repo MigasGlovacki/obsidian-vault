@@ -6,6 +6,25 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-09-02T13:51:34.733Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Beyond Reality/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Beyond Reality": 0,
+            "Inicio": 0
+          }
+        },
+        "Longform/Emerald Eyes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1. casa": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-09-01T05:48:05.167Z",
       "total": 79,
       "drafts": {
@@ -375,16 +394,6 @@
     },
     {
       "start": "2026-08-02T21:32:08.305Z",
-      "total": 0,
-      "drafts": {
-        "Longform/Green Affection/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2026-08-01T03:10:50.948Z",
       "total": 0,
       "drafts": {
         "Longform/Green Affection/Index.md": {
