@@ -8,10 +8,6 @@
 
 Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
-- Mega base decidida. dentro de uma outra montanha proxima a futura vila (em baixo de casa tinha muita caverna submersa)
-- criar uma farm de ferro (A base vai usar MUITO funil pro item sorter)
-- Clonar a farm de villager da antiga casa perto da casa atual
-
 ---
 
 ## Objetivos organizados
@@ -21,9 +17,11 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
 ### 1. Resolver a infraestrutura da base — prioridade imediata
 
 - [ ] **Planejar uma nova base próxima da casa e da futura vila** — resolver o problema atual de armazenamento
+  - [x] Decidir a mega base dentro de outra montanha próxima à futura vila — evitar a área sob a casa atual, que tem muitas cavernas submersas
   - [ ] Definir a função da nova base e o que precisa ser armazenado
   - [ ] Escolher e delimitar o local
   - [ ] Construir o espaço de armazenamento
+- [ ] **Criar uma farm de ferro** — prioridade por causa do grande consumo de funis no item sorter da base
 
 ### 2. Fundação e organização da vila
 
@@ -54,6 +52,7 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
 
 ### 5. Estrutura da vila e villagers
 
+- [ ] **Clonar a farm de villagers da antiga casa** — manter a produção perto da casa atual antes de desmontar ou mover a estrutura
 - [ ] **Construir as casas dos villagers** dentro da área delimitada
 - [ ] **Buscar villagers da casa antiga** — portal próximo ao End, no mesmo corredor do portal do Nether (`2289, 769`)
 - [ ] **Estabelecer comida sustentável em massa** com aldeões fazendeiros
