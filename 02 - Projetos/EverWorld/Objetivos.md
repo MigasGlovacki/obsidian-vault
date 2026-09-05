@@ -10,7 +10,7 @@ Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de or
 
 - Me preparar para explorar todos os templos de guardian perto da minha casa (cerca de 6) e pegar as esponjas.
 - Fazer uma farm de trigo (para fazer packed mud no futuro)
-- Salvar coordenada do bioma de mangue (-6770, -6838)
+- Salvar coordenada do bioma de mangue (-6770, -6838) (pode salvar e marcar como concluido pra mim, Moni)
 
 ---
 
