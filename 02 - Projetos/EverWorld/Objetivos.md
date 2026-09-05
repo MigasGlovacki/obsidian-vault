@@ -8,6 +8,8 @@
 
 Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
+- Explorar todos os templos de guardian perto da minha casa (ce)
+
 ---
 
 ## Objetivos organizados
