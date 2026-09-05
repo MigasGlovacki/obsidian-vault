@@ -13,8 +13,7 @@ Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de or
 <<<<<<< HEAD
 - Salvar coordenada do bioma de mangue (-6770, -6838) (pode salvar e marcar como concluido pra mim, Moni)
 - Construir a mega-base no mapa survival (atualmente em construção/planejamento no criativo para coletar o esquema dps, mais detalhes em [[Planejamento da Mega Base]])
-=======
->>>>>>> origin/main
+
 
 ---
 

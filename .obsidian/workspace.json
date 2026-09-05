@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Objetivos"
             }
-          },
-          {
-            "id": "101ddd21ade52e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,17 +225,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "101ddd21ade52e67",
+  "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
-    "02 - Projetos/EverWorld/Objetivos.md",
-    "conflict-files-obsidian-git.md",
     "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
-    "Mapa Eterno — Documentação da Mega Base 1.md",
-    "Mapa Eterno — Documentação da Mega Base.md",
-    "02 - Projetos/EverWorld/informações de mundo.md",
     "02 - Projetos/EverWorld/EverWorld.md",
+    "02 - Projetos/EverWorld/informações de mundo.md",
     "02 - Projetos/EverWorld/Farms.md",
     "02 - Projetos/EverWorld/Construções.md",
+    "02 - Projetos/MoniLink.md",
+    "02 - Projetos/MoniLink.canvas",
+    "02 - Projetos/EverWorld/Objetivos.md",
+    "conflict-files-obsidian-git.md",
+    "Mapa Eterno — Documentação da Mega Base 1.md",
+    "Mapa Eterno — Documentação da Mega Base.md",
     "Longform/Emerald Eyes/1. casa.md",
     "Longform/Emerald Eyes/Index.md",
     "Longform/Emerald Eyes",
@@ -269,12 +255,10 @@
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 05 — 14-08-2026.md",
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 06 — 14-08-2026.md",
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 03 — 14-08-2026.md",
-    "02 - Projetos/EverWorld/Progressão diaria/Sessão 04 — 14-08-2026.md",
     "02 - Projetos/EverWorld/Progressão diaria",
     "02 - Projetos/EverWorld",
     "A Luminária/Produtividade",
     "A Luminária/Jogos/Minecraft/EverWorld",
-    "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/Freelance",
     "Attachments/2026-05-14_20.49.07.png",
     "A Luminária/Jogos/Minecraft",
