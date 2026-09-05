@@ -10,8 +10,6 @@ Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de or
 
 - Me preparar para explorar todos os templos de guardian perto da minha casa (cerca de 6) e pegar as esponjas.
 - Fazer uma farm de trigo (para fazer packed mud no futuro)
-- Salvar coordenada do bioma de mangue (-6770, -6838) (pode salvar e marcar como concluido pra mim, Moni)
-- Construir a mega-base no mapa survival (atualmente em construção/planejamento no criativo para coletar a esquematica dps, mais detalhes em)
 
 ---
 
@@ -26,6 +24,7 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
   - [ ] Definir a função da nova base e o que precisa ser armazenado
   - [ ] Escolher e delimitar o local
   - [ ] Construir o espaço de armazenamento
+  - [ ] Construir a mega-base no survival a partir da esquemática planejada no criativo
 - [ ] **Criar uma farm de ferro** — prioridade por causa do grande consumo de funis no item sorter da base
 
 ### 2. Fundação e organização da vila
@@ -51,6 +50,8 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
 
 ### 4. Exploração e tesouros
 
+- [x] **Registrar o bioma de mangue** (`-6770, -6838`)
+- [ ] **Explorar os cerca de seis templos de Guardian perto da casa** e coletar as esponjas
 - [ ] **Ir atrás dos tesouros dos mapas do tesouro encontrados** — sem dependência explícita; não bloqueia os projetos estruturais
 
 ### 5. Pólvora e deslocamento
@@ -69,6 +70,7 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
 
 ### 7. Produção e melhorias
 
+- [ ] **Fazer uma farm de trigo** — produzir trigo para fazer packed mud no futuro
 - [ ] **Fazer upgrade da farm de Endermen** — melhorar o campo de spawn e resolver o gargalo de armazenamento
 - [ ] **Produzir barro/mud para os caminhos** — aproveitar a terra gerada pela terraformação
 - [ ] **Construir uma farm de concreto** — materiais para o visual das construções
