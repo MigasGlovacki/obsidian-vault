@@ -9,6 +9,7 @@
 Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
 - Me preparar para explorar todos os templos de guardian perto da minha casa (cerca de 6) e pegar as esponjas.
+- Fazer uma farm de trigo (para fazer )
 
 ---
 
