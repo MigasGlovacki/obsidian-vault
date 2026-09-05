@@ -8,13 +8,6 @@
 
 Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
-- Me preparar para explorar todos os templos de guardian perto da minha casa (cerca de 6) e pegar as esponjas.
-- Fazer uma farm de trigo (para fazer packed mud no futuro)
-<<<<<<< HEAD
-- Salvar coordenada do bioma de mangue (-6770, -6838) (pode salvar e marcar como concluido pra mim, Moni)
-- Construir a mega-base no mapa survival (atualmente em construção/planejamento no criativo para coletar o esquema dps, mais detalhes em [[Planejamento da Mega Base]])
-
-
 ---
 
 ## Objetivos organizados
@@ -28,7 +21,7 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
   - [ ] Definir a função da nova base e o que precisa ser armazenado
   - [ ] Escolher e delimitar o local
   - [ ] Construir o espaço de armazenamento
-  - [ ] Construir a mega-base no survival a partir da esquemática planejada no criativo
+  - [ ] Construir a mega-base no survival a partir da esquemática planejada no criativo — ver [[Planejamento da Mega Base]]
 - [ ] **Criar uma farm de ferro** — prioridade por causa do grande consumo de funis no item sorter da base
 
 ### 2. Fundação e organização da vila
@@ -91,4 +84,6 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
 
 Quando surgir uma ideia nova, coloque primeiro em **Objetivos desorganizados**. Depois, Monika ajuda a remover duplicatas, identificar dependências e mover o item para a seção organizada.
 
-*Atualizado em 30/08/2026.*
+*Atualizado em 05/09/2026.*
+
+*Nota: os objetivos novos de explorar os templos de Guardian e criar uma farm de trigo foram organizados a partir do braindump desta sessão.*
