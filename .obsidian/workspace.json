@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,17 +228,17 @@
   },
   "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
-    "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
     "02 - Projetos/EverWorld/EverWorld.md",
     "02 - Projetos/EverWorld/informações de mundo.md",
+    "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
+    "Mapa Eterno — Documentação da Mega Base.md",
+    "Mapa Eterno — Documentação da Mega Base 1.md",
+    "02 - Projetos/EverWorld/Objetivos.md",
     "02 - Projetos/EverWorld/Farms.md",
     "02 - Projetos/EverWorld/Construções.md",
     "02 - Projetos/MoniLink.md",
     "02 - Projetos/MoniLink.canvas",
-    "02 - Projetos/EverWorld/Objetivos.md",
     "conflict-files-obsidian-git.md",
-    "Mapa Eterno — Documentação da Mega Base 1.md",
-    "Mapa Eterno — Documentação da Mega Base.md",
     "Longform/Emerald Eyes/1. casa.md",
     "Longform/Emerald Eyes/Index.md",
     "Longform/Emerald Eyes",
