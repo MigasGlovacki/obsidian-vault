@@ -6,6 +6,25 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-09-07T18:16:22.785Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Emerald Eyes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1. casa": 0
+          }
+        },
+        "Longform/Beyond Reality/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Beyond Reality": 0,
+            "Inicio": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-09-05T06:01:30.578Z",
       "total": 0,
       "drafts": {
@@ -398,16 +417,6 @@
             "1.2 Conversa sobre literatura e jogos": 1194,
             "1.3 A travessia": 1402
           }
-        }
-      }
-    },
-    {
-      "start": "2026-08-03T15:37:56.157Z",
-      "total": 0,
-      "drafts": {
-        "Longform/Green Affection/Index.md": {
-          "total": 0,
-          "scenes": {}
         }
       }
     }
