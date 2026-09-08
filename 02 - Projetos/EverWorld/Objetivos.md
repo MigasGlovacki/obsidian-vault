@@ -22,7 +22,7 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
   - [ ] Escolher e delimitar o local
   - [ ] Construir o espaço de armazenamento
   - [ ] Construir a mega-base no survival a partir da esquemática planejada no criativo — ver [[Planejamento da Mega Base]]
-- [ ] **Criar uma farm de ferro** — prioridade por causa do grande consumo de funis no item sorter da base
+- [x] **Criar uma farm de ferro** — prioridade por causa do grande consumo de funis no item sorter da base
 
 ### 2. Fundação e organização da vila
 
