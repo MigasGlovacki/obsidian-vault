@@ -210,17 +210,17 @@ A Ala Sul funciona como o **backend operacional da Mega Base**.
 
 Enquanto Oeste/Leste são principalmente áreas onde itens são encontrados, Sul concentra sistemas que **recebem, processam e administram itens**.
 
-| # | Sistema |
-|---|---|
-| **S1** | Unsorted Storage |
-| **S2** | Bulk Storage |
-| **S3** | Shulker Management |
-| **S4** | Input / Item Processing |
-| **S5** | Smelting |
-| **S6** | Crafting & Workshop |
+| #      | Sistema                       |
+| ------ | ----------------------------- |
+| **S1** | Unsorted Storage              |
+| **S2** | Bulk Storage                  |
+| **S3** | Shulker Management            |
+| **S4** | Input / Item Processing       |
+| **S5** | Smelting                      |
+| **S6** | Crafting & Workshop           |
 | **S7** | Maintenance / Redstone Access |
-| **S8** | Expansão / Sistema futuro |
-| **S9** | Reserva |
+| **S8** | Expansão / Sistema futuro     |
+| **S9** | Reserva                       |
 
 ---
 
@@ -257,6 +257,8 @@ Exemplos:
 - outros materiais produzidos em massa
 
 Evita utilizar dezenas de módulos convencionais para itens com produção industrial.
+
+Tambem um sistema semi-automatico para refill de autosorter usando o sistema, onde eu aperto o botão do material escolhido e então os itens saem do bulk para o auto sorter.
 
 ---
 
