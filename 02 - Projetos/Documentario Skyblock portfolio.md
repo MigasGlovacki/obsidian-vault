@@ -58,15 +58,10 @@ and whatever you're able to create.
 
 ```
 This was everything I owned.
-
 One tree.
-
 One chest.
-
 A bucket of lava.
-
 One block of ice.
-
 And one mistake away from losing everything.
 ```
 
@@ -90,11 +85,8 @@ Som ambiente.
 
 ```
 Before I could think about expanding...
-
 I needed something much more important.
-
 A renewable source of stone.
-
 This simple machine would become the foundation for everything that came next.
 ```
 
@@ -112,13 +104,9 @@ This simple machine would become the foundation for everything that came next.
 
 ```
 Progress in Skyblock isn't measured in chunks explored.
-
 It's measured...
-
 one block at a time.
-
 Every new platform meant more room to survive...
-
 and fewer chances to fall into the void.
 ```
 
@@ -142,15 +130,10 @@ Filtro vermelho.
 
 ```
 Of course...
-
 Skyblock has a way of reminding you...
-
 that confidence can be dangerous.
-
 Sometimes...
-
 all it takes...
-
 is one single mob.
 ```
 
