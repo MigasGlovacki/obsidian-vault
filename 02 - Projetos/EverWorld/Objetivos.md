@@ -8,10 +8,6 @@
 
 Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
-- construir um conduto (com o coração do mar que eu adquiri em um mapa do tesouro)
-	- faltam 7 nautilos.
-	- Ja adquiri blocos de prismarinho em uma exploração de um templo do mar
-
 ---
 
 ## Objetivos organizados
@@ -51,6 +47,7 @@ A ordem considera dependências, valor para o mundo e continuidade do projeto at
 
 ### 4. Exploração e tesouros
 
+- [ ] **Construir um conduto** — já possui o coração do mar e blocos de prismarinho; faltam 7 nautilos
 - [x] **Registrar o bioma de mangue** (`-6770, -6838`)
 - [ ] **Explorar os cerca de seis templos de Guardian perto da casa** e coletar as esponjas
 - [ ] **Ir atrás dos tesouros dos mapas do tesouro encontrados** — sem dependência explícita; não bloqueia os projetos estruturais
