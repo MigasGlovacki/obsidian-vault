@@ -8,6 +8,10 @@
 
 Liste aqui tudo que vier à mente, sem precisar decidir prioridade. Depois de organizar os itens, esta seção fica limpa para receber novos objetivos.
 
+- construir um conduto (com o coração do mar que eu adquiri em um mapa do tesouro)
+	- faltam 7 nautilos.
+	- Ja adquiri blocos de prismarinho em uma exploração de um templo do mar
+
 ---
 
 ## Objetivos organizados
