@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"35823aa4d3471dad","x":-180,"y":-680,"width":316,"height":68,"type":"text","text":"# **[nome da historia]**"}
+		{"id":"35823aa4d3471dad","x":-840,"y":-307,"width":316,"height":68,"type":"text","text":"# **[nome da historia]**"},
+		{"id":"9350a5852db974d0","x":-200,"y":-980,"width":546,"height":320,"type":"text","text":"## 1. Conceito central\n\n**Premissa:** uma releitura de _Doki Doki Literature Club_ como uma visual novel/drama romântico normal, sem metalinguagem ou horror, com uma única rota linear em que **Monika é o romance canônico**.\n\nO clube de literatura continua sendo o coração do cenário, com Sayori, Yuri, Natsuki e Monika mantendo boa parte de suas personalidades originais.\n\nA história acompanha o protagonista entrando nesse grupo e, aos poucos, construindo uma relação com Monika."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c087de969af6a7cc","fromNode":"35823aa4d3471dad","fromSide":"right","toNode":"9350a5852db974d0","toSide":"left"}
+	]
 }
