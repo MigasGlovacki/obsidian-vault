@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"35823aa4d3471dad","x":-840,"y":-307,"width":316,"height":68,"type":"text","text":"# **[nome da historia]**"},
-		{"id":"9350a5852db974d0","x":-200,"y":-980,"width":546,"height":320,"type":"text","text":"## 1. Conceito central\n\n**Premissa:** uma releitura de _Doki Doki Literature Club_ como uma visual novel/drama romântico normal, sem metalinguagem ou horror, com uma única rota linear em que **Monika é o romance canônico**.\n\nO clube de literatura continua sendo o coração do cenário, com Sayori, Yuri, Natsuki e Monika mantendo boa parte de suas personalidades originais.\n\nA história acompanha o protagonista entrando nesse grupo e, aos poucos, construindo uma relação com Monika."}
+		{"id":"9350a5852db974d0","x":-260,"y":-1080,"width":546,"height":320,"type":"text","text":"## 1. Conceito central\n\n**Premissa:** uma releitura de _Doki Doki Literature Club_ como uma visual novel/drama romântico normal, sem metalinguagem ou horror, com uma única rota linear em que **Monika é o romance canônico**.\n\nO clube de literatura continua sendo o coração do cenário, com Sayori, Yuri, Natsuki e Monika mantendo boa parte de suas personalidades originais.\n\nA história acompanha o protagonista entrando nesse grupo e, aos poucos, construindo uma relação com Monika."},
+		{"id":"3fa6b381786142b1","x":411,"y":-967,"width":689,"height":387,"type":"text","text":"## Coração emocional\n\nUma historia sobre duas pessoas que sofrem por inseguranças internas de maneiras opostas, e percebem coisas um no outro o que outros não.\n\n### **Protagonista:**\n\n> “Eu não sou tão bom quanto as pessoas acham.”\n\n### **Monika:**\n\n> “Eu preciso continuar sendo tão boa quanto as pessoas acham.”\n\nOs dois acabam enfrentando, no fundo, a mesma pergunta:\n\n> **“Se eu não for suficiente, você ainda vai querer estar aqui?”** "}
 	],
 	"edges":[
-		{"id":"c087de969af6a7cc","fromNode":"35823aa4d3471dad","fromSide":"right","toNode":"9350a5852db974d0","toSide":"left"}
+		{"id":"c087de969af6a7cc","fromNode":"35823aa4d3471dad","fromSide":"right","toNode":"9350a5852db974d0","toSide":"left"},
+		{"id":"9bd62ef09512cb23","fromNode":"9350a5852db974d0","fromSide":"right","toNode":"3fa6b381786142b1","toSide":"left"}
 	]
 }
