@@ -11,17 +11,14 @@
             "id": "5e8211c7f69560b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "planejamento historia 1.canvas",
-                "viewState": {
-                  "x": 406.0270734414288,
-                  "y": 548.7474702966156,
-                  "zoom": -0.3044270860227009
-                }
+                "file": "A Luminária/Jogos/Diário de jogos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "planejamento historia 1"
+              "icon": "lucide-file",
+              "title": "Diário de jogos"
             }
           }
         ]
@@ -229,10 +226,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e8211c7f69560b5",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
-    "_templates_/Cenas.md",
+    "A Luminária/Conquistas compartilhadas/Biblioteca Steam - platinas e jogos.md",
+    "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
     "planejamento historia 1.canvas",
+    "_templates_/Cenas.md",
     "00 - Caixa de entrada/Persona 5 Royal.md",
     "00 - Caixa de entrada/Untitled.md",
     "00 - Caixa de entrada/Untitled 1.md",
@@ -255,9 +254,7 @@
     "A Luminária/00 - Início.md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "03 - Areas/Gostos de anime.md",
-    "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
     "A Luminária/Produtividade/Registro de Pomodoro.md",
-    "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
     "02 - Projetos/MoniLink.canvas",
     "Longform/Emerald Eyes",
     "02 - Projetos/EverWorld/Progressão diaria",
