@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Hub do Vault.md",
+                "file": "A Luminária/Continuidade/Mapa da continuidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Hub do Vault"
+              "title": "Mapa da continuidade"
             }
           }
         ],
@@ -243,6 +243,8 @@
   },
   "active": "4ce9eabd398c7577",
   "lastOpenFiles": [
+    "00 - Hub do Vault.md",
+    "A Luminária/00 - Início.md",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
     "03 - Areas/Relações/README.md",
     "03 - Areas/Relações/Endereços de amigos.md",
@@ -272,7 +274,6 @@
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/20-cerulean-cave-liga-round-2.md",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/19-pos-game-five-seven-island.md",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/18-pos-game-four-six-island.md",
-    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/17-indigo-plateau-liga.md",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/tutors.schema.json",
