@@ -49,13 +49,13 @@ Rodada 4 — Modelo × Força de raciocínio
    - [ ] D. Pequeno + High (certa)
 
 9. Você quer avaliar um vídeo de Minecraft de 25 minutos e sugerir melhorias de edição. Precisa considerar storytelling, ritmo, humor, uso de música, clareza visual, personalidade do criador e como diferentes mudanças afetariam a experiência geral. Você possui três vídeos de referência do estilo desejado.
-   - [ ] A. Grande + Medium
+   - [ ] A. Grande + Medium (certa)
    - [ ] B. Médio + High
-   - [ ] C. Grande + High
+   - [x] C. Grande + High
    - [ ] D. Grande + Low
 
 10. Um serviço distribuído apresenta corrupção de dados aproximadamente uma vez por semana. Existem cinco microsserviços, filas assíncronas, retries, operações potencialmente não idempotentes, replicação eventual e logs incompletos. Você precisa formular hipóteses, definir uma estratégia de investigação e propor correções que não criem novos problemas de consistência.
-   - [ ] A. Grande + High
+   - [x] A. Grande + High (certa)
    - [ ] B. Grande + Medium
    - [ ] C. Médio + High
    - [ ] D. Grande + Low
