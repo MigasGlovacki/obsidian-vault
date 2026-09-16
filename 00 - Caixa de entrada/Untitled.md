@@ -1,91 +1,61 @@
-# Quiz 1
+Rodada 3 — As fronteiras
 
-1. Você tem 300 nomes de arquivos como video_final (1).mp4 e quer renomeá-los seguindo exatamente o padrão video_001.mp4, video_002.mp4 etc. Não há exceções.
-   
-   C. Depende principalmente do tamanho dos arquivos
+1. Você tem 2.000 arquivos de SFX. Os nomes são inconsistentes, como boom_final2.wav, impact-heavy-03.wav e metal_hit_NEW.wav. Quer organizá-los em 12 categorias previamente definidas. Cada arquivo pode ser classificado apenas pelo nome; alguns nomes são vagos, mas a maioria é clara. Os arquivos são independentes entre si.
+   - [ ] A. Médio (correta)
+   - [ ] B. Híbrido
+   - [x] C. Pequeno
+   - [ ] D. Grande
 
-2. Um aplicativo apresenta um bug intermitente: às vezes usuários são desconectados, não há erro claro nos logs e isso começou depois de três mudanças diferentes no backend. Você quer descobrir a causa e propor uma correção.
+2. Você possui 10.000 comentários de um canal e quer descobrir os principais motivos pelos quais espectadores abandonam os vídeos. Primeiro é necessário classificar comentários relevantes; depois cruzar os padrões encontrados com retenção por timestamp e formular hipóteses sobre causas possíveis.
+   - [ ] A. Pequeno
+   - [ ] B. Médio
+   - [ ] C. Grande
+   - [ ] D. Híbrido
 
-   C. Grande
-
-3. Você fornece um texto de 8.000 palavras em português e pede uma tradução fiel para inglês, preservando parágrafos e nomes próprios. Não há adaptação criativa nem regras especiais.
-
+3. Você fornece um script convencional de 220 linhas e diz: Separe esta classe grande em componentes menores, reduza duplicação e mantenha exatamente o comportamento atual. Existem testes automatizados cobrindo as funções principais e nenhuma dependência externa incomum.
    A. Pequeno
+   B. Médio
+   C. Híbrido
+   D. Grande
 
-4. Você tem 120 itens para distribuir em 12 categorias. Há regras sobre famílias que devem permanecer juntas, exceções para certos itens, prioridades entre regras conflitantes e a posição de um item pode obrigar a reorganização de outros.
-
+4. Você tem uma planilha com 30.000 prospects. Para cada linha, já existem valores padronizados de inscritos, visualizações médias, dias desde o último vídeo e idioma. O ICP é uma fórmula completamente explícita baseada somente nesses campos. Você quer marcar cada linha como Dentro ou Fora do ICP.
+   A. Pequeno
+   B. Médio
    C. Grande
+   D. Híbrido
 
-5. Você fornece uma tabela com Nome, Idade e Cidade e pede para adicionar uma coluna Maior de idade contendo Sim quando Idade ≥ 18 e Não caso contrário.
-
-   C. Medio
-
-6. Você pergunta: Devo reescrever meu sistema atual ou continuar melhorando a arquitetura existente? Há milhares de linhas de código, dívida técnica, requisitos futuros incertos, custos de migração e risco de interromper usuários atuais.
-   
+5. Você quer decidir se deve aceitar um novo formato de projeto para clientes de edição. Há estimativas de tempo por vídeo, preço, número esperado de revisões, impacto no portfólio e capacidade semanal. Os números estão disponíveis, mas você precisa comparar trade-offs e montar uma recomendação operacional. Não há grandes incertezas nem dezenas de dependências.
+   A. Pequeno
    B. Grande
+   C. Médio
+   D. Híbrido
 
-7. Você pede: Transforme todas estas datas de DD/MM/AAAA para AAAA-MM-DD. Todas as entradas são válidas e seguem exatamente o mesmo formato.
-   
-   D. Pequeno
-
-7. Você tem um script de 150 linhas que funciona, mas ficou difícil de manter. Quer reorganizá-lo em funções melhores, reduzir duplicação e deixar a estrutura mais clara, sem alterar o comportamento. O código é relativamente convencional e não possui dependências complexas.
-   
-   A. Grande, porque qualquer refatoração exige o modelo mais forte
-   
-
-8. Você pede para analisar 40 canais do YouTube, verificar vários critérios de um ICP, eliminar duplicados existentes em um CRM, investigar sinais de necessidade de editor e registrar apenas candidatos que satisfaçam o conjunto de regras.
-   
-   D. Grande
-
-9. Você tem um e-mail pronto e pede apenas: Corrija erros de ortografia e pontuação sem mudar palavras, tom ou estrutura.
-  
-   D. Pequeno
-
----
-
-## Quiz 2
-
-Rodada 2 — Complexidade escondida
-
-1. Você recebe um CSV com 80.000 linhas e precisa remover todas as linhas em que status = cancelled. A coluna existe em todas as linhas, os valores são padronizados e não há exceções.
-
-   B. Pequeno
-
-
-2. Um cliente manda apenas: Deixa esse vídeo mais dinâmico. Você possui o vídeo bruto, mas ele não explicou o que considera dinâmico, qual referência prefere nem quais elementos podem ser removidos.
-   A. Grande
-
-
-3. Você fornece 25 páginas de texto e pede: Substitua todas as ocorrências exatas de João por Miguel. Não altere mais nada.
-
+6. Um sistema possui 600 itens organizados por famílias e categorias. Você quer adicionar 80 itens novos. As regras globais já estão documentadas, mas inserir alguns itens pode deslocar posições existentes. Você também precisa produzir a lista final completa com todas as 680 posições.
+   A. Híbrido
    B. Médio
+   C. Grande
+   D. Pequeno
 
-
-4. Você pergunta somente: Onde devo colocar o cache? O sistema possui navegador, CDN, API, banco de dados, autenticação, dados que mudam em frequências diferentes e requisitos de consistência ainda não totalmente definidos.
-
-   D. Grande
-
-5. Você fornece 5.000 produtos com preço em dólares e pede para multiplicar todos os preços por uma taxa de câmbio já fornecida de 5,40, arredondando cada resultado para duas casas decimais. Todos os preços são válidos.
-
-   D. Médio, porque cálculos financeiros exigem necessariamente raciocínio intermediário
-
-6. Um programa falha apenas cerca de uma vez a cada 500 execuções concorrentes. Não existe stack trace útil. Há acesso compartilhado a estado, chamadas de rede assíncronas e três serviços podem alterar o mesmo registro.
-
-   D. Grande
-
-7. Você fornece uma transcrição de 40.000 palavras e pede apenas para dividir o texto em parágrafos sempre que houver exatamente a sequência [BREAK], removendo essa sequência do resultado. Não há outras regras.
-  
-   C. Pequeno
-
-
-8. Você possui um sistema de armazenamento com 400 tipos de itens. A pergunta é apenas: Onde coloco este novo item? Porém existem categorias, famílias, posições reservadas, regras de proximidade, capacidade limitada e mudanças anteriores que devem continuar consistentes.
+7. Você tem um vídeo de gameplay já editado. Quer detectar automaticamente todos os silêncios maiores que 1,2 segundo e criar marcadores exatamente no início de cada silêncio. O limiar e a definição de silêncio já estão especificados numericamente.
    A. Pequeno
-   
+   B. Híbrido
+   C. Grande
+   D. Médio
 
-9. Você fornece 1.000 descrições de produtos e uma lista fechada de cinco categorias com definições claras e exemplos. Cada descrição pertence inequivocamente a exatamente uma categoria, e não existem regras relacionando um produto aos demais.
-   A. Médio
+8. Você pergunta: Qual parte deste vídeo está chata? O vídeo tem 18 minutos. Não existem dados de retenção, referência de estilo ou critérios objetivos. A resposta deve considerar narrativa, ritmo, repetição, clareza e expectativa provável do público.
+   A. Pequeno
+   B. Híbrido
+   C. Grande
+   D. Médio
 
+9. Você tem 50.000 e-mails e quer extrair de cada um apenas remetente, data e assunto, todos presentes em campos estruturados e consistentes. Depois quer um relatório que identifique mudanças importantes no padrão de comunicação ao longo de três anos e proponha explicações possíveis.
+   A. Grande
+   B. Pequeno
+   C. Híbrido
+   D. Médio
 
-10. Você pergunta: Por que as pessoas abandonam meu aplicativo nesta tela? Há analytics, gravações de sessões, entrevistas com usuários, resultados de testes A/B e várias mudanças de produto feitas ao mesmo tempo. Nenhuma fonte isolada fornece a resposta.
-
-   B. Médio
+10. Você pede para alterar uma única função de 12 linhas em um sistema grande. Porém essa função participa de autenticação, é chamada por sete serviços, possui efeitos colaterais no banco de dados e precisa manter compatibilidade com clientes antigos.
+   A. Pequeno
+   B. Grande
+   C. Médio
+   D. Híbrido
