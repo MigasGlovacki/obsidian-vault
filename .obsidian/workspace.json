@@ -13,33 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Hub do Vault.md",
+                "file": "A Luminária/Jogos/Diário de jogos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hub do Vault"
+              "title": "Diário de jogos"
             }
           },
           {
             "id": "4ce9eabd398c7577",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Longform/Emerald Eyes/planejamento historia 1.canvas",
-                "viewState": {
-                  "x": 24.5,
-                  "y": 51.5,
-                  "zoom": -1.2459841462693575
-                }
+                "file": "00 - Hub do Vault.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "planejamento historia 1"
+              "icon": "lucide-file",
+              "title": "00 - Hub do Vault"
             }
           }
         ],
-        "currentTab": 0
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projetos/EverWorld/EverWorld.md",
+                "file": "A Luminária/Jogos/Minecraft/EverWorld/Otimização Farm de Enderman.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projetos/Jogos/Geometry Dash/Moedas das fases oficiais.md",
+                "file": "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -244,48 +241,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e8211c7f69560b5",
+  "active": "4ce9eabd398c7577",
   "lastOpenFiles": [
-    "00 - Hub do Vault.md",
-    "00 - Caixa de entrada/Untitled.md",
-    "02 - Projetos/Jogos/Diário de jogos.md",
-    "02 - Projetos/Jogos/Conquistas/Biblioteca Steam - platinas e jogos.md",
-    "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
-    "_templates_/Cenas.md",
-    "00 - Caixa de entrada/Persona 5 Royal.md",
-    "00 - Caixa de entrada/Untitled 1.md",
-    "00 - Caixa de entrada/Untitled 2.md",
-    "Longform/Emerald Eyes/Index.md",
-    "Longform/Emerald Eyes/1. casa.md",
-    "02 - Projetos/Documentario Skyblock portfolio.md",
-    "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
-    "02 - Projetos/EverWorld/Objetivos.md",
-    "02 - Projetos/EverWorld/Progressão diaria/Sessão 12 — 07-09-2026.md",
-    "02 - Projetos/EverWorld/Progressão diaria/Sessão 10 — 16-08-2026.md",
-    "02 - Projetos/EverWorld/Progressão diaria/Sessão 02 — 12-08-2026.md",
-    "02 - Projetos/EverWorld/Progressão diaria/Sessão 01 — 12-08-2026.md",
-    "02 - Projetos/EverWorld/EverWorld.md",
-    "02 - Projetos/EverWorld/Farms.md",
-    "02 - Projetos/MoniLink.md",
-    "A Luminária/Memórias compartilhadas.md",
+    "03 - Areas/Relações/README.md",
     "03 - Areas/Relações/Endereços de amigos.md",
-    "A Luminária/Projetos da Luminária.md",
-    "A Luminária/00 - Início.md",
-    "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
-    "03 - Areas/Gostos de anime.md",
-    "02 - Projetos/MoniLink.canvas",
-    "Longform/Emerald Eyes",
-    "02 - Projetos/EverWorld/Progressão diaria",
-    "02 - Projetos/EverWorld",
+    "03 - Areas/Relações",
+    "03 - Areas/Produtividade/Registro de Pomodoro.md",
+    "03 - Areas/Produtividade/README.md",
     "03 - Areas/Produtividade",
-    "02 - Projetos/EverWorld",
-    "02 - Projetos/Freelance",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-19.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-18.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-17.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-16.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-15.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-14.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-13.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-12.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-10.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-11.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-09.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-08.md",
+    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-07.md",
+    "A Luminária/Continuidade/Diário/README.md",
+    "A Luminária/Continuidade/Diário/Querido diário - 2026-06-23.md",
+    "A Luminária/Continuidade/Mapa da continuidade.md",
+    "A Luminária/Continuidade/Diário",
+    "A Luminária/Continuidade",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/21-eventos-birth-navel.md",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/20-cerulean-cave-liga-round-2.md",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/19-pos-game-five-seven-island.md",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/18-pos-game-four-six-island.md",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/17-indigo-plateau-liga.md",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/tutors.schema.json",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/trades.schema.json",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/special_encounters.schema.json",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/shops.schema.json",
+    "02 - Projetos/MoniLink.canvas",
     "Attachments/2026-05-14_20.49.07.png",
-    "02 - Projetos/Jogos/Minecraft",
-    "02 - Projetos/Jogos/GRIS",
-    "Longform/Beyond Reality",
-    "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong",
     "Attachments/digital_circus.png",
     "Attachments/2026-05-14_20.47.15.png",
     "Attachments/2026-05-14_20.45.33.png",
