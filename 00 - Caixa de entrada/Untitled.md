@@ -21,23 +21,23 @@ Rodada 4 — Modelo × Força de raciocínio
 4. Um script de 180 linhas às vezes gera um arquivo vazio. Você conhece o código inteiro, consegue reproduzir o problema e há três hipóteses plausíveis. Para encontrar a causa é necessário seguir o fluxo de estado, eliminar hipóteses e verificar em que condição o arquivo é sobrescrito. Não há arquitetura externa complexa.
    - [ ] A. Grande + High
    - [ ] B. Grande + Low
-   - [ ] C. Médio + High
+   - [x] C. Médio + High (certa)
    - [ ] D. Pequeno + Low
 
 5. Você fornece uma transcrição de 12.000 palavras de um vídeo e pede: Reescreva isso como um roteiro natural e envolvente, mantendo todos os fatos, removendo repetições e preservando meu jeito de falar. Não há necessidade de pesquisar informações externas.
-   - [ ] A. Grande + Low
+   - [x] A. Grande + Low
    - [ ] B. Médio + Medium
    - [ ] C. Pequeno + High
-   - [ ] D. Grande + Medium
+   - [ ] D. Grande + Medium (certa)
 
 6. Você precisa escolher entre três arquiteturas para um sistema novo. Existem requisitos de latência, custo, consistência, escalabilidade, segurança, facilidade de manutenção e migração futura. Alguns requisitos entram em conflito e decisões em uma camada alteram as opções disponíveis em outras.
-   - [ ] A. Grande + High
+   - [x] A. Grande + High (certa)
    - [ ] B. Pequeno + High
    - [ ] C. Médio + High
    - [ ] D. Grande + Low
 
 7. Você fornece 600 descrições curtas de sound effects e 15 categorias com definições claras e exemplos. Alguns nomes são ambíguos e exigem interpretação, mas cada classificação é independente e não altera nenhuma outra.
-   - [ ] A. Médio + Low
+   - [x] A. Médio + Low (certa)
    - [ ] B. Pequeno + High
    - [ ] C. Médio + High
    - [ ] D. Grande + Low
@@ -45,8 +45,8 @@ Rodada 4 — Modelo × Força de raciocínio
 8. Você tem uma função matemática de poucas linhas e suspeita que exista um erro de arredondamento em um caso de borda. A especificação é precisa, há cinco exemplos e você quer provar qual comportamento está correto para todas as condições possíveis daquele domínio pequeno.
    - [ ] A. Grande + High
    - [ ] B. Pequeno + Low
-   - [ ] C. Grande + Low
-   - [ ] D. Pequeno + High
+   - [x] C. Grande + Low
+   - [ ] D. Pequeno + High (certa)
 
 9. Você quer avaliar um vídeo de Minecraft de 25 minutos e sugerir melhorias de edição. Precisa considerar storytelling, ritmo, humor, uso de música, clareza visual, personalidade do criador e como diferentes mudanças afetariam a experiência geral. Você possui três vídeos de referência do estilo desejado.
    - [ ] A. Grande + Medium
