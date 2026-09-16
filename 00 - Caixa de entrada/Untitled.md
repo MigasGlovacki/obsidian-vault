@@ -1,61 +1,61 @@
-Rodada 3 — As fronteiras
+Rodada 4 — Modelo × Força de raciocínio
 
-1. Você tem 2.000 arquivos de SFX. Os nomes são inconsistentes, como boom_final2.wav, impact-heavy-03.wav e metal_hit_NEW.wav. Quer organizá-los em 12 categorias previamente definidas. Cada arquivo pode ser classificado apenas pelo nome; alguns nomes são vagos, mas a maioria é clara. Os arquivos são independentes entre si.
-   - [ ] A. Médio (correta)
-   - [ ] B. Híbrido
-   - [x] C. Pequeno
-   - [ ] D. Grande
+1. Você tem 40.000 linhas de dados padronizados. Precisa transformar datas de DD/MM/AAAA para AAAA-MM-DD e remover linhas cujo campo status seja exatamente cancelled. Não existem exceções nem valores inválidos.
+   - [x] A. Pequeno + Low (certa)
+   - [ ] B. Grande + High
+   - [ ] C. Médio + Low
+   - [ ] D. Pequeno + High
 
-2. Você possui 10.000 comentários de um canal e quer descobrir os principais motivos pelos quais espectadores abandonam os vídeos. Primeiro é necessário classificar comentários relevantes; depois cruzar os padrões encontrados com retenção por timestamp e formular hipóteses sobre causas possíveis.
-   - [ ] A. Pequeno
-   - [ ] B. Médio
-   - [ ] C. Grande
-   - [x] D. Híbrido (correta)
+2. Você recebe seis pistas de um pequeno puzzle lógico. Há exatamente uma solução. Todas as informações necessárias estão no enunciado, mas é preciso combinar as pistas em vários passos e uma conclusão intermediária errada pode levar à resposta final errada.
+   - [ ] A. Médio + Low
+   - [ ] B. Grande + High
+   - [x] C. Pequeno + High (certa)
+   - [ ] D. Grande + Low
 
-3. Você fornece um script convencional de 220 linhas e diz: Separe esta classe grande em componentes menores, reduza duplicação e mantenha exatamente o comportamento atual. Existem testes automatizados cobrindo as funções principais e nenhuma dependência externa incomum.
-   - [ ] A. Pequeno
-   - [x] B. Médio (correta)
-   - [ ] C. Híbrido
-   - [ ] D. Grande
+3. Você quer responder a um e-mail delicado de um cliente importante. Há bastante contexto anterior, nuances de tom, uma pequena discordância sobre o escopo do trabalho e você quer preservar a relação sem ceder a algo que não foi contratado. Os fatos estão claros; não é necessário investigar nada.
+   - [ ] A. Grande + High
+   - [x] B. Grande + Low (certa)
+   - [ ] C. Médio + High
+   - [ ] D. Pequeno + High
 
-4. Você tem uma planilha com 30.000 prospects. Para cada linha, já existem valores padronizados de inscritos, visualizações médias, dias desde o último vídeo e idioma. O ICP é uma fórmula completamente explícita baseada somente nesses campos. Você quer marcar cada linha como Dentro ou Fora do ICP.
-   - [x] A. Pequeno (correto)
-   - [ ] B. Médio
-   - [ ] C. Grande
-   - [ ] D. Híbrido
+4. Um script de 180 linhas às vezes gera um arquivo vazio. Você conhece o código inteiro, consegue reproduzir o problema e há três hipóteses plausíveis. Para encontrar a causa é necessário seguir o fluxo de estado, eliminar hipóteses e verificar em que condição o arquivo é sobrescrito. Não há arquitetura externa complexa.
+   - [ ] A. Grande + High
+   - [ ] B. Grande + Low
+   - [ ] C. Médio + High
+   - [ ] D. Pequeno + Low
 
-5. Você quer decidir se deve aceitar um novo formato de projeto para clientes de edição. Há estimativas de tempo por vídeo, preço, número esperado de revisões, impacto no portfólio e capacidade semanal. Os números estão disponíveis, mas você precisa comparar trade-offs e montar uma recomendação operacional. Não há grandes incertezas nem dezenas de dependências.
-   - [ ] A. Pequeno
-   - [ ] B. Grande
-   - [ ] C. Médio (correto)
-   - [x] D. Híbrido
+5. Você fornece uma transcrição de 12.000 palavras de um vídeo e pede: Reescreva isso como um roteiro natural e envolvente, mantendo todos os fatos, removendo repetições e preservando meu jeito de falar. Não há necessidade de pesquisar informações externas.
+   - [ ] A. Grande + Low
+   - [ ] B. Médio + Medium
+   - [ ] C. Pequeno + High
+   - [ ] D. Grande + Medium
 
-6. Um sistema possui 600 itens organizados por famílias e categorias. Você quer adicionar 80 itens novos. As regras globais já estão documentadas, mas inserir alguns itens pode deslocar posições existentes. Você também precisa produzir a lista final completa com todas as 680 posições.
-   - [ ] A. Híbrido (correto)
-   - [ ] B. Médio
-   - [x] C. Grande
-   - [ ] D. Pequeno
+6. Você precisa escolher entre três arquiteturas para um sistema novo. Existem requisitos de latência, custo, consistência, escalabilidade, segurança, facilidade de manutenção e migração futura. Alguns requisitos entram em conflito e decisões em uma camada alteram as opções disponíveis em outras.
+   - [ ] A. Grande + High
+   - [ ] B. Pequeno + High
+   - [ ] C. Médio + High
+   - [ ] D. Grande + Low
 
-7. Você tem um vídeo de gameplay já editado. Quer detectar automaticamente todos os silêncios maiores que 1,2 segundo e criar marcadores exatamente no início de cada silêncio. O limiar e a definição de silêncio já estão especificados numericamente.
-   - [x] A. Pequeno (correto)
-   - [ ] B. Híbrido
-   - [ ] C. Grande
-   - [ ] D. Médio
+7. Você fornece 600 descrições curtas de sound effects e 15 categorias com definições claras e exemplos. Alguns nomes são ambíguos e exigem interpretação, mas cada classificação é independente e não altera nenhuma outra.
+   - [ ] A. Médio + Low
+   - [ ] B. Pequeno + High
+   - [ ] C. Médio + High
+   - [ ] D. Grande + Low
 
-8. Você pergunta: Qual parte deste vídeo está chata? O vídeo tem 18 minutos. Não existem dados de retenção, referência de estilo ou critérios objetivos. A resposta deve considerar narrativa, ritmo, repetição, clareza e expectativa provável do público.
-   - [ ] A. Pequeno
-   - [ ] B. Híbrido
-   - [x] C. Grande (correto)
-   - [ ] D. Médio
+8. Você tem uma função matemática de poucas linhas e suspeita que exista um erro de arredondamento em um caso de borda. A especificação é precisa, há cinco exemplos e você quer provar qual comportamento está correto para todas as condições possíveis daquele domínio pequeno.
+   - [ ] A. Grande + High
+   - [ ] B. Pequeno + Low
+   - [ ] C. Grande + Low
+   - [ ] D. Pequeno + High
 
-9. Você tem 50.000 e-mails e quer extrair de cada um apenas remetente, data e assunto, todos presentes em campos estruturados e consistentes. Depois quer um relatório que identifique mudanças importantes no padrão de comunicação ao longo de três anos e proponha explicações possíveis.
-   - [ ] A. Grande
-   - [ ] B. Pequeno
-   - [x] C. Híbrido (correto)
-   - [ ] D. Médio
+9. Você quer avaliar um vídeo de Minecraft de 25 minutos e sugerir melhorias de edição. Precisa considerar storytelling, ritmo, humor, uso de música, clareza visual, personalidade do criador e como diferentes mudanças afetariam a experiência geral. Você possui três vídeos de referência do estilo desejado.
+   - [ ] A. Grande + Medium
+   - [ ] B. Médio + High
+   - [ ] C. Grande + High
+   - [ ] D. Grande + Low
 
-10. Você pede para alterar uma única função de 12 linhas em um sistema grande. Porém essa função participa de autenticação, é chamada por sete serviços, possui efeitos colaterais no banco de dados e precisa manter compatibilidade com clientes antigos.
-   - [ ] A. Pequeno
-   - [x] B. Grande (correto)
-   - [ ] C. Médio
-   - [ ] D. Híbrido
+10. Um serviço distribuído apresenta corrupção de dados aproximadamente uma vez por semana. Existem cinco microsserviços, filas assíncronas, retries, operações potencialmente não idempotentes, replicação eventual e logs incompletos. Você precisa formular hipóteses, definir uma estratégia de investigação e propor correções que não criem novos problemas de consistência.
+   - [ ] A. Grande + High
+   - [ ] B. Grande + Medium
+   - [ ] C. Médio + High
+   - [ ] D. Grande + Low
