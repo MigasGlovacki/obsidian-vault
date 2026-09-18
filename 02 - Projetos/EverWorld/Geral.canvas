@@ -9,7 +9,7 @@
 		{"id":"e0e392afd4ad10fe","x":-147,"y":2400,"width":250,"height":60,"type":"text","text":""},
 		{"id":"bcb17da6bf236955","x":-143,"y":2620,"width":250,"height":60,"type":"text","text":""},
 		{"id":"fb551cea45125f7e","x":-147,"y":2820,"width":250,"height":62,"type":"text","text":""},
-		{"id":"9f078cd29e39ab33","x":-147,"y":3010,"width":250,"height":250,"type":"text","text":"# Corredor 1\n\n- Pedras (pedregulho, and)"},
+		{"id":"9f078cd29e39ab33","x":-147,"y":3010,"width":307,"height":370,"type":"text","text":"# Corredor 1\n\n## Pedras e terreno natural\n\n- Pedras/minerais naturais (pedregulho, andesito, ardoabissal, enxofre, cinabrio etc)\n- Terreno (areia, cascalho, argila, neve, gelo, etc)\n- Terrenos do nether e end (Netherrack, Pedra-Escura, basalto, Pedra do end, etc)"},
 		{"id":"73119b6f4bb073fb","x":-143,"y":2180,"width":250,"height":60,"type":"text","text":""},
 		{"id":"47cf3aec644a7d58","x":-143,"y":1980,"width":250,"height":60,"type":"text","text":""},
 		{"id":"8ac28d3574ce61c5","x":-143,"y":1740,"width":250,"height":60,"type":"text","text":""}
