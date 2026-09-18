@@ -29,9 +29,9 @@
               "state": {
                 "file": "02 - Projetos/EverWorld/Geral.canvas",
                 "viewState": {
-                  "x": 1152.8463147579191,
-                  "y": -1329.054247652615,
-                  "zoom": -0.3333333333333334
+                  "x": 500.4930182093733,
+                  "y": 2799.0257714440627,
+                  "zoom": -0.6908691795767528
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -246,9 +246,12 @@
   },
   "active": "4ce9eabd398c7577",
   "lastOpenFiles": [
-    "02 - Projetos/EverWorld/Geral.canvas",
-    "02 - Projetos/EverWorld/EverWorld.md",
+    "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
     "02 - Projetos/EverWorld/Objetivos.md",
+    "02 - Projetos/EverWorld/Geral.canvas",
+    "02 - Projetos/EverWorld/Construções.md",
+    "02 - Projetos/EverWorld/Farms.md",
+    "02 - Projetos/EverWorld/EverWorld.md",
     "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
     "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
     "00 - Hub do Vault.md",
@@ -273,8 +276,6 @@
     "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-10.md",
     "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-11.md",
     "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-09.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-08.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-07.md",
     "A Luminária/Continuidade/Diário",
     "A Luminária/Continuidade",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
