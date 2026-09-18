@@ -25,14 +25,17 @@
             "id": "4ce9eabd398c7577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02 - Projetos/EverWorld/Objetivos.md",
-                "mode": "source",
-                "source": false
+                "file": "02 - Projetos/EverWorld/Geral.canvas",
+                "viewState": {
+                  "x": 1152.8463147579191,
+                  "y": -1329.054247652615,
+                  "zoom": -0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "Objetivos"
+              "icon": "lucide-layout-dashboard",
+              "title": "Geral"
             }
           }
         ],
@@ -243,6 +246,9 @@
   },
   "active": "4ce9eabd398c7577",
   "lastOpenFiles": [
+    "02 - Projetos/EverWorld/Geral.canvas",
+    "02 - Projetos/EverWorld/EverWorld.md",
+    "02 - Projetos/EverWorld/Objetivos.md",
     "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
     "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
     "00 - Hub do Vault.md",
@@ -269,11 +275,8 @@
     "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-09.md",
     "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-08.md",
     "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-07.md",
-    "A Luminária/Continuidade/Diário/README.md",
-    "A Luminária/Continuidade/Diário/Querido diário - 2026-06-23.md",
     "A Luminária/Continuidade/Diário",
     "A Luminária/Continuidade",
-    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/walkthrough/21-eventos-birth-navel.md",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/tutors.schema.json",
@@ -297,7 +300,6 @@
     "Worldbuilding.canvas",
     "Roteiros/Untitled.canvas",
     "Untitled 1.canvas",
-    "Scripts/Porque nos apaixonamos por personagens Ficticios.canvas",
-    "Jogos/Blue Prince/Blue Prince.canvas"
+    "Scripts/Porque nos apaixonamos por personagens Ficticios.canvas"
   ]
 }
