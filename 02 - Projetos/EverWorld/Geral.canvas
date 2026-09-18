@@ -1,18 +1,19 @@
 {
 	"nodes":[
 		{"id":"f43b5895782a697b","type":"file","file":"02 - Projetos/EverWorld/Objetivos.md","x":960,"y":-1840,"width":840,"height":2800},
-		{"id":"4c6b8b3348a15640","x":1520,"y":2400,"width":250,"height":85,"type":"text","text":"# HUB DA BASE"},
-		{"id":"69a2e3067466b172","x":724,"y":2411,"width":276,"height":169,"type":"text","text":"# Ala Leste\n\n## Ala da construção\n\nAqui ficam todos os blocos do jogo para builds no mundo.\n\nTanto blocos, como variantes."},
+		{"id":"4c6b8b3348a15640","x":1520,"y":2340,"width":250,"height":145,"type":"text","text":"# HUB DA BASE\n\nCentro da base que da acesso as quatro alas de armazenamento"},
+		{"id":"69a2e3067466b172","x":724,"y":2360,"width":276,"height":220,"type":"text","text":"# Ala Leste\n\n## Ala da construção\n\nAqui ficam todos os blocos do jogo para builds no mundo.\n\nTanto blocos, como variantes."},
 		{"id":"28315545ec2bc280","x":2442,"y":2403,"width":250,"height":60,"type":"text","text":"# Ala oeste"},
 		{"id":"2fa3b5d18ae9be4f","x":1531,"y":3010,"width":250,"height":60,"type":"text","text":"# Ala Sul"},
 		{"id":"21a5f55fbecbd64f","x":1513,"y":1871,"width":250,"height":60,"type":"text","text":"# Ala norte"},
 		{"id":"e0e392afd4ad10fe","x":-147,"y":2400,"width":250,"height":60,"type":"text","text":""},
-		{"id":"bcb17da6bf236955","x":-143,"y":2620,"width":250,"height":60,"type":"text","text":""},
-		{"id":"fb551cea45125f7e","x":-147,"y":2820,"width":250,"height":62,"type":"text","text":""},
-		{"id":"9f078cd29e39ab33","x":-147,"y":3010,"width":307,"height":370,"type":"text","text":"# Corredor 1\n\n## Pedras e terreno natural\n\n- Pedras/minerais naturais (pedregulho, andesito, ardoabissal, enxofre, cinabrio etc)\n- Terreno (areia, cascalho, argila, neve, gelo, etc)\n- Terrenos do nether e end (Netherrack, Pedra-Escura, basalto, Pedra do end, etc)"},
+		{"id":"9f078cd29e39ab33","x":-147,"y":3010,"width":307,"height":390,"type":"text","text":"# Corredor 1\n## Pedras e terreno natural\n- Pedras/minerais naturais (pedregulho, andesito, ardoabissal, enxofre, cinabrio, etc)\n- Terreno (areia, cascalho, argila, neve, gelo, etc)\n- Terrenos do nether e end (Netherrack, Pedra-Escura, basalto, Pedra do end, etc)"},
 		{"id":"73119b6f4bb073fb","x":-143,"y":2180,"width":250,"height":60,"type":"text","text":""},
 		{"id":"47cf3aec644a7d58","x":-143,"y":1980,"width":250,"height":60,"type":"text","text":""},
-		{"id":"8ac28d3574ce61c5","x":-143,"y":1740,"width":250,"height":60,"type":"text","text":""}
+		{"id":"8ac28d3574ce61c5","x":-143,"y":1740,"width":250,"height":60,"type":"text","text":""},
+		{"id":"fb551cea45125f7e","x":-147,"y":2720,"width":307,"height":240,"type":"text","text":"# Corredor 2\n## Alvenaria & blocos trabalhados\n- Tijolos\n- Variantes talhadas\n- Blocos Polidos"},
+		{"id":"bcb17da6bf236955","x":-147,"y":2496,"width":250,"height":60,"type":"text","text":""},
+		{"id":"cb24a46b97903328","x":1700,"y":2560,"width":250,"height":60,"type":"text","text":"Entrada da base pelo primeiro andar pelo sul"}
 	],
 	"edges":[
 		{"id":"734a1e58470719f9","fromNode":"4c6b8b3348a15640","fromSide":"left","toNode":"69a2e3067466b172","toSide":"right"},
@@ -25,6 +26,7 @@
 		{"id":"a06f93b41d5e5d8b","fromNode":"69a2e3067466b172","fromSide":"left","toNode":"e0e392afd4ad10fe","toSide":"right"},
 		{"id":"6b8b72ec334ef9d2","fromNode":"69a2e3067466b172","fromSide":"left","toNode":"73119b6f4bb073fb","toSide":"right"},
 		{"id":"6686b38e4d1ee7e5","fromNode":"69a2e3067466b172","fromSide":"left","toNode":"47cf3aec644a7d58","toSide":"right"},
-		{"id":"1fcc95b9d41cfcb5","fromNode":"69a2e3067466b172","fromSide":"left","toNode":"8ac28d3574ce61c5","toSide":"right"}
+		{"id":"1fcc95b9d41cfcb5","fromNode":"69a2e3067466b172","fromSide":"left","toNode":"8ac28d3574ce61c5","toSide":"right"},
+		{"id":"ef8e2260b936215e","fromNode":"4c6b8b3348a15640","fromSide":"bottom","toNode":"cb24a46b97903328","toSide":"top"}
 	]
 }
