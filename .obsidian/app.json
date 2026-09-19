@@ -3,7 +3,7 @@
   "strictLineBreaks": false,
   "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "readableLineLength": true,
   "focusNewTab": true,
   "foldHeading": true,

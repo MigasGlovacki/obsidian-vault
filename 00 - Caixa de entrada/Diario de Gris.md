@@ -1,5 +1,5 @@
 ---
-created: 2026-09-19
+criado em: 2026-09-19
 tags:
   - diario
   - games

@@ -1,5 +1,5 @@
 ---
-created:
+criado em:
 tags:
   - diario
   - games
@@ -10,5 +10,5 @@ Aqui eu vou registrar toda a minha jornada em [NOME DO JOGO]
 
 ---
 
-## [dia] de [mês] de [ano]
+## [ctrl + D para inserir o dia atual]
 
