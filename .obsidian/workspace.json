@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projetos/EverWorld/informações de mundo.md",
+                "file": "02 - Projetos/EverWorld/Entradas mensais/Setembro de 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "informações de mundo"
+              "title": "Setembro de 2026"
             }
           }
         ]
@@ -228,14 +228,18 @@
   },
   "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
+    "02 - Projetos/EverWorld/Geral.canvas",
+    "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
+    "02 - Projetos/EverWorld/informações de mundo.md",
+    "02 - Projetos/EverWorld/EverWorld.md",
+    "00 - Hub do Vault.md",
+    "02 - Projetos/EverWorld/Construções.md",
+    "02 - Projetos/EverWorld/Farms.md",
+    "02 - Projetos/EverWorld/Objetivos.md",
     "02 - Projetos/EverWorld/Entradas mensais/Setembro de 2026.md",
     "01 - Diario/19 September, 2026.md",
     "02 - Projetos/EverWorld/Diario do Everworld.md",
     "02 - Projetos/Jogos/Diário de jogos.md",
-    "02 - Projetos/EverWorld/informações de mundo.md",
-    "02 - Projetos/EverWorld/Farms.md",
-    "02 - Projetos/EverWorld/Geral.canvas",
-    "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 04 — 14-08-2026.md",
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 01 — 12-08-2026.md",
     "02 - Projetos/EverWorld/Progressão diaria/Sessão 05 — 14-08-2026.md",
@@ -250,11 +254,6 @@
     "02 - Projetos/Jogos/Geometry Dash/GDDL - Minha conta e progresso.md",
     "00 - Caixa de entrada/Persona 5 Royal.md",
     "00 - Caixa de entrada/Untitled.md",
-    "A Luminária/Continuidade/Mapa da continuidade.md",
-    "00 - Caixa de entrada/iSpyWithMyLittleEye.md",
-    "_templates_/Nota rápida.md",
-    "_templates_/Cenas.md",
-    "_templates_/Nota estruturada.md",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
     "03 - Areas/Relações",
     "03 - Areas/Produtividade",

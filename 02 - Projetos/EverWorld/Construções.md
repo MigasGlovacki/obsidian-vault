@@ -4,11 +4,11 @@
 
 ## Em destaque
 
-| Projeto | Status | Local | Notas |
-|---------|--------|-------|-------|
-| Pista de gelo casa → stronghold | ✅ completo (16/08/2026) | Nether | Feita com Axiom path |
-| Terraformação da montanha da casa | 🔄 em andamento | `-3419, -5608` | Planície artificial no sopé |
-| Vila própria | 📋 planejada | sopé da montanha | Construída à mão + villagers; não encontrada |
+| Projeto                           | Status                  | Local            | Notas                                        |
+| --------------------------------- | ----------------------- | ---------------- | -------------------------------------------- |
+| Pista de gelo casa → stronghold   | ✅ completo (16/08/2026) | Nether           | Feita com Axiom path                         |
+| Terraformação da montanha da casa | 🔄 em andamento         | `-3419, -5608`   | Planície artificial no sopé                  |
+| Vila própria                      | 📋 planejada            | sopé da montanha | Construída à mão + villagers; não encontrada |
 
 ## Banco de idéias / futuras
 

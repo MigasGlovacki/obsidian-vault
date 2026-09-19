@@ -25,23 +25,3 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 | Ice Spikes / farm de gelo compacto |   1855 |  -6499 | Portal Nether planejado                                                                         |
 | Gêiser de enxofre                  |   2089 |  -6521 | Feature do update novo; perto da farm de gelo                                                   |
 
-
----
-
-- **Método de construção (preferido pelo João):** Axiom path → esquema Litematica → construir no original.
-  1. Desenha a ponte numa **cópia do mundo** usando a ferramenta **path do Axiom**.
-  2. Salva o resultado como **esquema no Litematica**.
-  3. Reconstrói por cima dela no **mundo original** seguindo o esquema.
-  - Muito mais rápido e visual do que marcar passo a passo; virou o padrão do João pra pontes.
-
----
-
-## Marcos do mundo
-
-- [x] Derrotar o Ender Dragon
-- [x] Farm de galinhas funcionando (26.2)
-- [x] Farm de XP de endermen no End
-- [x] Corredor de gelo casa → stronghold completo (16/08/2026)
-- [ ] Fonte de comida sustentável em massa (aldeões fazendeiros)
-- [ ] Construir a vila própria na planície (terraformação em andamento) e trazer villagers
-- [ ] *(próximos marcos entram aqui)*
