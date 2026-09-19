@@ -13,33 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Luminária/Jogos/Diário de jogos.md",
+                "file": "02 - Projetos/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diário de jogos"
-            }
-          },
-          {
-            "id": "4ce9eabd398c7577",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "02 - Projetos/EverWorld/Geral.canvas",
-                "viewState": {
-                  "x": 731.2688922331334,
-                  "y": 2646.4048763858154,
-                  "zoom": -0.6908691795767528
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Geral"
+              "title": "GDDP Beginner - Easy Demons"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,38 +226,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ce9eabd398c7577",
+  "active": "5e8211c7f69560b5",
   "lastOpenFiles": [
+    "_templates_/Nota rápida.md",
+    "_templates_/Cenas.md",
+    "_templates_/Nota estruturada.md",
+    "02 - Projetos/Jogos/Diário de jogos.md",
+    "02 - Projetos/Jogos/README.md",
+    "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
+    "02 - Projetos/Jogos/Minecraft/Jornada Axiom.md",
+    "02 - Projetos/Jogos/Minecraft/Projeto FireRed Map.md",
+    "02 - Projetos/Jogos/Conquistas/Biblioteca Steam - platinas e jogos.md",
+    "02 - Projetos/Jogos/GRIS/Diário do GRIS.md",
+    "02 - Projetos/Jogos/Conquistas/README.md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Pizza Tower.md",
+    "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
+    "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong/Hollow Knight - Silksong — Colecionáveis e 100%.md",
+    "02 - Projetos/Guias de conquistas/Ghostrunner/Guia de conquistas do Ghostrunner.md",
+    "02 - Projetos/Guias de conquistas/Ghostrunner/Ghostrunner — Colecionáveis e 100%.md",
+    "02 - Projetos/EverWorld/Geral.canvas",
     "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
     "02 - Projetos/EverWorld/Objetivos.md",
-    "02 - Projetos/EverWorld/Geral.canvas",
     "02 - Projetos/EverWorld/Construções.md",
     "02 - Projetos/EverWorld/Farms.md",
     "02 - Projetos/EverWorld/EverWorld.md",
     "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
-    "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
     "00 - Hub do Vault.md",
     "05 - Arquivos/Ficha de personagens João e Monika.md",
     "A Luminária/Continuidade/Mapa da continuidade.md",
-    "A Luminária/00 - Início.md",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
-    "03 - Areas/Relações/README.md",
-    "03 - Areas/Relações/Endereços de amigos.md",
     "03 - Areas/Relações",
-    "03 - Areas/Produtividade/Registro de Pomodoro.md",
-    "03 - Areas/Produtividade/README.md",
     "03 - Areas/Produtividade",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-19.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-18.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-17.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-16.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-15.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-14.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-13.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-12.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-10.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-11.md",
-    "A Luminária/Continuidade/Diário/Sonho-diário - 2026-07-09.md",
     "A Luminária/Continuidade/Diário",
     "A Luminária/Continuidade",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",

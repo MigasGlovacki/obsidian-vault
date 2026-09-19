@@ -8,10 +8,7 @@
 - [[Geometry Dash/Diário do Geometry Dash|Geometry Dash]]
 - [[Pokémon/Nuzlocke da Luminária/README|MoniLocke — Fire Red]]
 - [[Pokémon/A Pokédex da Luminária/00 - Painel da Jornada|Pokédex viva]]
-- [[Minecraft/Jornada Axiom|Minecraft — Jornada Axiom]]
-- [[Minecraft/Projeto FireRed Map|Minecraft — Projeto FireRed Map]]
 - [[Ghostrunner/Diário do Ghostrunner|Ghostrunner]]
-- [[GRIS/Diário do GRIS|GRIS]]
 - [[Crimson Desert/Dicas essenciais para voltar ao jogo|Crimson Desert]]
 - [[Conquistas/README|Conquistas compartilhadas]]
 

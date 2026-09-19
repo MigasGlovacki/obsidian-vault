@@ -10,7 +10,6 @@
 ## Em andamento
 - [[Diário do Ghostrunner]] — campanha base 100% (34/34); falta a DLC Project_Hel (0/11).
 - [[Diário do Geometry Dash]] — comfort game e desafio próprio.
-- [[Diário do GRIS]] — platina tranquila em andamento, ~4–6h.
 - [[informações de mundo]] — mundo de sobrevivência late game (dragão derrotado)
 
 ## Arquivo
