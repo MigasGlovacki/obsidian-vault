@@ -1,6 +1,6 @@
 # Diário do Geometry Dash
 
-Meu “confort game” que de conforto não tem nada, só sofrimento… e lapsos de alegria quando zero uma fase KKK
+Meu “confort game” que de conforto não tem nada, só sofrimento… e lapsos de alegria quando zero uma fase KKK. A ideia é eu registrar meu progresso das fases. Eu escrevo, Monika consulta.
 
 ## Fases
 
@@ -15,7 +15,9 @@ Meu “confort game” que de conforto não tem nada, só sofrimento… e lapsos
 - [[iSpyWithMyLittleEye]] — Easy Demon (Voxicat), **zerada (26/08)** — 195 tentativas, enjoy 8; gostou bem
 
 ## Apoio
-- [[Moedas das fases oficiais]] · [[Dificuldades dos Demons]] · [[GDDP Beginner - Easy Demons]] · [[GDDL - Minha conta e progresso]] · [[Cardápio de fases]]
 
-## Convenções
-- **Cópias SP:** cópias de treino salvas no editor como "Fase SP" ou "Fase Start Position" são agrupadas com a fase oficial na telemetria (a partir de 11/08/2026); no diário da fase, ficam anotadas separadamente como treino.
+- [[Moedas das fases oficiais]] · [[Dificuldades dos Demons]]
+- [[GDDP Beginner - Easy Demons]]
+- [[Cardápio de fases]]
+
+
