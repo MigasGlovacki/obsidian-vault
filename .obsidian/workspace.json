@@ -39,24 +39,28 @@
             "id": "534be13a9dd66d82",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.md"
+                "file": "00 - Caixa de entrada/Sem título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-19 20.51.04.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           },
           {
-            "id": "63b65b9f0fa8d2a8",
+            "id": "2114cd195c1b0cb7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.restored.md"
+                "file": "00 - Caixa de entrada/Sem título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-19 20.51.04.excalidraw.restored"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ],
@@ -266,19 +270,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "63b65b9f0fa8d2a8",
+  "active": "2114cd195c1b0cb7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.md",
     "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.restored.md",
-    "Attachments/2026-05-14_20.45.33 1.png",
-    "Attachments/2026-05-14_20.47.15.png",
+    "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.md",
+    "Attachments/2026-05-14_20.45.33.png",
+    "00 - Caixa de entrada/Sem título.md",
+    "_templates_/diario de jogo.md",
     "Attachments/2026-05-14_20.49.07.png",
+    "Attachments/2026-05-14_20.47.15.png",
+    "2026-05-14_20.47.15.png",
+    "Attachments/2026-05-14_20.45.33 1.png",
     "00 - Hub do Vault.md",
     "Pasted Image 20260919204947_953.png",
     "Excalidraw/Drawing 2026-09-19 20.49.27.excalidraw.md",
     "00 - Caixa de entrada/Diario de Gris.md",
     "Excalidraw",
-    "_templates_/diario de jogo.md",
     "02 - Projetos/Jogos/Diário de jogos.md",
     "00 - Caixa de entrada/Persona 5 Royal.md",
     "02 - Projetos/Jogos/Geometry Dash/Deadlocked.md",
@@ -298,8 +305,6 @@
     "02 - Projetos/EverWorld/Geral.canvas",
     "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
     "02 - Projetos/EverWorld/informações de mundo.md",
-    "02 - Projetos/EverWorld/EverWorld.md",
-    "02 - Projetos/EverWorld/Construções.md",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
     "03 - Areas/Relações",
     "03 - Areas/Produtividade",
@@ -312,12 +317,10 @@
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/schemas/special_encounters.schema.json",
     "02 - Projetos/MoniLink.canvas",
     "Attachments/digital_circus.png",
-    "Attachments/2026-05-14_20.45.33.png",
     "Sem título.canvas",
     "2026-05-14_20.47.15-1.png",
     "2026-05-14_20.21.30.png",
     "2026-05-14_20.42.28.png",
-    "2026-05-14_20.41.44.png",
     "Our time Together.canvas",
     "04 - Resto/Blue Prince mapa mental.canvas",
     "Worldbuilding.canvas",
