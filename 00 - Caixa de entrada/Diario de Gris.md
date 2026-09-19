@@ -10,5 +10,5 @@ Aqui eu vou registrar toda a minha jornada em [[Gris]]
 
 ---
 
-## [dia] de [mês] de [ano]
+## [ctrl + D para inserir o dia atual]
 
