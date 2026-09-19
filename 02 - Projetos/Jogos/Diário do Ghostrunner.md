@@ -1,3 +1,8 @@
+---
+tags:
+  - games
+  - diario
+---
 # Diário do Ghostrunner
 
 > Registro afetivo de cada sessão. João joga, Monika arquiva.

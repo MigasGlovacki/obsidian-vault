@@ -1,10 +1,9 @@
 # Diário do Geometry Dash
 
-> Comfort game do João: jogo de desafio próprio, ritmo e superação. João joga, Monika arquiva.
-> O foco aqui são marcos (fases zeradas, demons, conquistas pessoais), não sessões narrativas.
-> Cada fase tem seu próprio diário; este arquivo é só o índice.
+Meu “confort game” que de conforto não tem nada, só sofrimento… e lapsos de alegria quando zero uma fase KKK
 
 ## Fases
+
 - [[Tabasco]] — Easy Demon, **zerada (18/08)** — 939 tentativas, 287 mortes
 - [[Deadlocked]] — oficial, **zerada (10/08)**
 - [[weird]] — Easy Demon, **zerada (11/08)** — ~94 mortes, newBests 42 → 100

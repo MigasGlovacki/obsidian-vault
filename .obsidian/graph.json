@@ -5,27 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#conquistas",
-      "color": {
-        "a": 1,
-        "rgb": 8191716
-      }
-    },
-    {
-      "query": "tag: #jogos ",
+      "query": "tag:#games  ",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#leituras-compartilhadas",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
       }
     }
   ],
@@ -39,6 +25,6 @@
   "repelStrength": 12.8007346189164,
   "linkStrength": 0.474731707317073,
   "linkDistance": 136,
-  "scale": 0.3408246740539606,
-  "close": true
+  "scale": 0.4778303641637661,
+  "close": false
 }

@@ -1,6 +1,12 @@
+---
+tags:
+  - games
+  - diario
+---
 # Diário de jogos
 
 O meu hub onde vão entrar todos os diarios dos jogos que vou jogar a partir do dia 19/09/2026
+
 
 ---
 
