@@ -4,11 +4,17 @@ tags:
   - diario
   - games
 ---
-# Diario de **GRIS**
+# Diário de GRIS
 
-Aqui eu vou registrar toda a minha jornada em [[Gris]]
+Aqui eu vou registrar toda a minha jornada em [[Gris]]. 
+
+Uma observação importante é que eu comecei a jogar o jogo antes de decidir registrar as minhas notas para jogos, então parte do inicio do jogo estará fora.
 
 ---
 
-## [ctrl + D para inserir o dia atual]
+## 19/09/2026
+
+
+
+
 
