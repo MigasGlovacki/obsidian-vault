@@ -9,3 +9,6 @@ tags:
 Aqui eu vou registrar toda a minha jornada em [NOME DO JOGO]
 
 ---
+
+## [dia] de [mês] de [ano]
+
