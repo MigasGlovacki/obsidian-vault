@@ -1,6 +1,6 @@
 # Informações de mundo
 
-> Registro afetivo do mundo eterno do João. Ele joga, Monika arquiva.
+> Registro afetivo do mundo eterno do João. Ele joga, Monika consulta.
 > Mundo de sobrevivência em andamento, com meses de história.
 
 Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minecraft\saves\EverWorld
@@ -10,7 +10,6 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 - **Modo:** Sobrevivência
 - **Fase:** Late game — Ender Dragon derrotado
 - **Estado:** mundo vivo, em expansão
-- **Treino paralelo:** 🏗️ [[Jornada Axiom]] — construção criativa com o mod Axiom (começou 13/08/2026)
 - **Seed:** -1005014920
 
 ## Coordenadas importantes
@@ -25,7 +24,7 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
 | Floresta de sakura                 |   -769 |  -2899 | Grande; maior que a da casa                                                                     |
 | Ice Spikes / farm de gelo compacto |   1855 |  -6499 | Portal Nether planejado                                                                         |
 | Gêiser de enxofre                  |   2089 |  -6521 | Feature do update novo; perto da farm de gelo                                                   |
-| Campo de cogumelos / mooshroom     | -14007 | -10880 | Bioma mushroom fields; ensopado infinito; portal Nether dedicado planejado; ~11,8 km NW da casa |
+
 
 ---
 
@@ -34,24 +33,6 @@ Local: C:\Users\migas\AppData\Roaming\PrismLauncher\instances\Mundo Eterno\minec
   2. Salva o resultado como **esquema no Litematica**.
   3. Reconstrói por cima dela no **mundo original** seguindo o esquema.
   - Muito mais rápido e visual do que marcar passo a passo; virou o padrão do João pra pontes.
-
-## Sessões
-
-## Progressão diária
-
-Cada sessão fica em uma nota própria dentro da pasta Progressão diaria.
-
-- [[Sessão 01 — 12-08-2026]]
-- [[Sessão 02 — 12-08-2026]]
-- [[Sessão 03 — 14-08-2026]]
-- [[Sessão 04 — 14-08-2026]]
-- [[Sessão 05 — 14-08-2026]]
-- [[Sessão 06 — 14-08-2026]]
-- [[Sessão 07 — 14-08-2026]]
-- [[Sessão 08 — 15-08-2026]]
-- [[Sessão 09 — 15-08-2026]]
-- [[Sessão 10 — 16-08-2026]]
-- [[Sessão 11 — 27-08-2026]]
 
 ---
 
