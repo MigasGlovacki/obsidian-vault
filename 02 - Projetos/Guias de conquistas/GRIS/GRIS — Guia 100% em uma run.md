@@ -421,12 +421,12 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Sequência final
 
-- [ ] **Aceitação** — depois de voltar à superfície da água negra, cante diante do túmulo antes de continuar.
+- [x] **Aceitação** — depois de voltar à superfície da água negra, cante diante do túmulo antes de continuar.
 
 > [!example]- Referência visual — Aceitação
 > ![Local da conquista Aceitação](https://images.steamusercontent.com/ugc/798744783260306791/77B4FE6D6E5DE17C0895F2F4D203F6F5EC545DB9/)
 
-- [ ] **O Fim** — conclua o jogo.
+- [x] **O Fim** — conclua o jogo.
 
 ---
 
