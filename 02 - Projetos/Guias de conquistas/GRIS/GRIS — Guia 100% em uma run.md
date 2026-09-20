@@ -461,10 +461,10 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 # Conferência da platina/100%
 
-- [ ] **5/5** conquistas de história.
-- [ ] **5/5** desafios de capítulo.
-- [ ] **5/5** fases do luto.
-- [ ] **28/28** Lembranças.
+- [x] **5/5** conquistas de história.
+- [x] **5/5** desafios de capítulo.
+- [x] **5/5** fases do luto.
+- [x] **28/28** Lembranças.
 - [ ] **Infância** concluída.
 - [ ] Steam mostra **17/17 conquistas**.
 
