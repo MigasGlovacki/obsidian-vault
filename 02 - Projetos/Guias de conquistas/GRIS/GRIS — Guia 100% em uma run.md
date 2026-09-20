@@ -210,9 +210,9 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260591561/0B026C5617EC6A3AA9BFD9D1520A0B13BDF65C2F/)
 
-- [ ] **Quatro maçãs evidentes/automática — 4/8** — confirme a maçã da sequência inicial e deixe o amigo comer as três encontradas naturalmente na rota.
+- [x] **Quatro maçãs evidentes/automática — 4/8** — confirme a maçã da sequência inicial e deixe o amigo comer as três encontradas naturalmente na rota.
 
-- [ ] **Maçã perdível A** — conduza o amigo até a maçã mostrada na referência e espere ele comê-la.
+- [x] **Maçã perdível A** — conduza o amigo até a maçã mostrada na referência e espere ele comê-la.
 
 > [!example]- Referência visual — Maçã 1
 > ![Maçã perdível 1](https://images.steamusercontent.com/ugc/813375767284722937/A43F38022F547A6E8CAE59CDBE8EAE5BDEB18FCE/)
