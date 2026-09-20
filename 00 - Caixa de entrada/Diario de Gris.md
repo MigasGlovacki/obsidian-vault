@@ -40,4 +40,8 @@ Depois que eu terminei por lá e voltei para o hub, consegui terminar o caminho 
 
 Eu fui parar para de baixo d’agua, mas o mundo quase não havia cor, apenas preto, branco um azul da mesma tonalidade do cabelo da Gris. Eu fui subindo e finalmente cheguei em terra firme, e então comecei a escalar o que parecia (e era mesmo) uma estatua em pedaços (aparentemente essa estatua é importante pq ela aparece desde a primeira cutscene do jogo, talvez seja a mãe dela?)
 
-Quando cheguei ao topo, Gris começa a cantar, o que faz as partes da estatua começarem a se juntar
+Quando cheguei ao topo, Gris começa a cantar, o que faz as partes da estatua começarem a se juntar, mas o que tambem faz acordar o monstro que se manifesta atraves da agua daquela parte que era preta.
+
+A escuridao começa a engolir Gris, que não para de cantar até o ultimo segundo, e quando ela é totalmente engolida pela agua preta… A estatua acorda e começa a cantar tambem, o que afasta de vez a escuridão das duas.
+
+Nisso acontece um momento bem emocionante onde Gris abraça a estatua e a estatua solta uma lagrima dos olhos. Assim fazendo as duas retornarem para o ponto de origem, que e na ponte de estrelas, então Gris começa a subir, ao som do canto da estatua, e assim o jogo encerra, subindo os creditos
