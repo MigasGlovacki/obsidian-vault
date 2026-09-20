@@ -383,7 +383,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 #### Transição entre os ramos
 
-- [ ] **Lembrança 5/7** — desça pela direita no ponto indicado e cancele o salto dos pássaros vermelhos usando a forma de bloco.
+- [x] **Lembrança 5/7** — desça pela direita no ponto indicado e cancele o salto dos pássaros vermelhos usando a forma de bloco.
 
 > [!example]- Referência visual — Lembrança 5
 > ![Lembrança 5 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260757191/E5CE167F5BB4F96114435B80D765EC26678D0F5F/)
