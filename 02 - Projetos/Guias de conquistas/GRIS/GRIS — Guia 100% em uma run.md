@@ -74,7 +74,7 @@ progresso: 0/17
 
 ### Início do capítulo
 
-- [ ] **Lembrança 1/7** — logo depois de o título do jogo aparecer, desça e siga para a esquerda.
+- [x] **Lembrança 1/7** — logo depois de o título do jogo aparecer, desça e siga para a esquerda.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260356242/0727121C657A701045B97CF8F18136A6233632DC/)
@@ -162,7 +162,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 2
 > ![Lembrança 2 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260365186/865CD3CB332A545637AE2F639981E267CC48E65D/)
 
-- [ ] **Lembrança 3/7** — depois de obter a forma de bloco, volte para a esquerda e quebre o teto.
+- [x] **Lembrança 3/7** — depois de obter a forma de bloco, volte para a esquerda e quebre o teto.
 
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260371898/5771FA0FB3815F8EC8F6FAB49BF664B3DFD68D2A/)
@@ -174,7 +174,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Checkpoint 3 — Lembranças 5–7
 
-- [ ] **Lembrança 5/7** — depois de obter a estrela indicada, golpeie a plataforma para lançá-la ao outro lado e suba no moinho.
+- [x] **Lembrança 5/7** — depois de obter a estrela indicada, golpeie a plataforma para lançá-la ao outro lado e suba no moinho.
 
 > [!example]- Referência visual — Lembrança 5
 > ![Lembrança 5 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260415901/A4DDE4ED3DC4A6E3462CBBD2ABE1B6AA292045E8/)
@@ -184,7 +184,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 6
 > ![Lembrança 6 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260420345/DEFD623FCC1E800635A5E96BEA658A337874E99E/)
 
-- [ ] **Lembrança 7/7** — na estrela da esquerda, empurre o balão até o fundo usando o bloco. Suba depressa pelas escadas e quebre a rocha no topo.
+- [x] **Lembrança 7/7** — na estrela da esquerda, empurre o balão até o fundo usando o bloco. Suba depressa pelas escadas e quebre a rocha no topo.
 
 > [!example]- Referência visual — Lembrança 7
 > ![Lembrança 7 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260550910/6F5E1768D747DB61B326F2DDA5425CEAD41AE2AC/)
@@ -433,7 +433,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 2. Vá ao canto inferior esquerdo, onde o marcador do capítulo 1 mostra `1/2`.
 3. Entre na água usando a habilidade de nadar e procure a Lembrança.
 
-- [ ] **Capítulo 1 — Lembrança 2/2**.
+- [x] **Capítulo 1 — Lembrança 2/2**.
 
 > [!example]- Referência visual — Lembrança 2 do capítulo 1
 > ![Lembrança 2 do capítulo 1](https://images.steamusercontent.com/ugc/798744783260348928/007404CD8BE6A64D0565B9A55644AA33666A1680/)
