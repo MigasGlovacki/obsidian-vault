@@ -164,7 +164,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Estátua 9
 > ![Estátua Inuksuit 9](https://images.steamusercontent.com/ugc/813375767280626519/1B8AD92547F7AD89E7DF43DD94BAEC013C6420D9/)
 
-- [ ] **Inuksuit 10/14 — Estátua 10**
+- [x] **Inuksuit 10/14 — Estátua 10**
 
 > [!example]- Referência visual — Estátua 10
 > ![Estátua Inuksuit 10](https://images.steamusercontent.com/ugc/813375767280628090/E4EF556F9CF0D4653718F96C8EA8EDFF5DBCF459/)
@@ -174,7 +174,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 7
 > ![Lembrança 7 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260550910/6F5E1768D747DB61B326F2DDA5425CEAD41AE2AC/)
 
-- [ ] **Inuksuit 11/14 — Estátua 11**
+- [x] **Inuksuit 11/14 — Estátua 11**
 
 > [!example]- Referência visual — Estátua 11
 > ![Estátua Inuksuit 11](https://images.steamusercontent.com/ugc/813375767280631256/00DA13D9FD48C5EA4D37FDA15BCB1DBE94789CAB/)
