@@ -30,7 +30,7 @@ Foi uma perseguição emocionante, e quando eu pensei que o monstro fosse me peg
 
 A segunda parte da sessão se passou no céu, a mecânica principal era troca de gravidade, sempre que eu cruzava uma linha horizontal que havia naquela sessão, a gravidade invertia. 
 
-Depois de fazer alguns puzzles e pegar mais pontinhos brancos (q agr eu estou suspeitando que sejam estrelas se for parar pra pensar), consegui progredir mais, o que fez eu finalmente recuperar a voz da Gris. (o q até quebrou uma teoria minha que era as cores que faziam a voz dela voltar, pq sempre q eu pegava uma cor, a voz dela pouco a pouco voltava, mas pode ser q a teoria ainda tenha um fundo de verdade)
+Depois de fazer alguns puzzles e pegar mais pontinhos brancos (q agr eu estou suspeitando que sejam estrelas se for parar pra pensar), consegui progredir mais, o que fez eu finalmente recuperar a voz da Gris (o q até quebrou uma teoria minha que era as cores que faziam a voz dela voltar, pq sempre q eu pegava uma cor, a voz dela pouco a pouco voltava, mas pode ser q a teoria ainda tenha um fundo de verdade) e a voz dela parece ter poder de dar a vida, pois quando ela canta perto de flores murchas, elas floreciam na hora.
 
 ![[20260919213752_1.jpg|700]]
 
@@ -44,4 +44,6 @@ Quando cheguei ao topo, Gris começa a cantar, o que faz as partes da estatua co
 
 A escuridao começa a engolir Gris, que não para de cantar até o ultimo segundo, e quando ela é totalmente engolida pela agua preta… A estatua acorda e começa a cantar tambem, o que afasta de vez a escuridão das duas.
 
-Nisso acontece um momento bem emocionante onde Gris abraça a estatua e a estatua solta uma lagrima dos olhos. Assim fazendo as duas retornarem para o ponto de origem, que e na ponte de estrelas, então Gris começa a subir, ao som do canto da estatua, e assim o jogo encerra, subindo os creditos
+Nisso acontece um momento bem emocionante onde Gris abraça a estatua e a estatua solta uma lagrima dos olhos. Assim fazendo as duas retornarem para o ponto de origem, que e na ponte de estrelas, então Gris começa a subir, ao som do canto da estatua, e assim o jogo encerra, subindo os creditos.
+
+Agora sobre as minhas teorias: talvez aquele montro negro talvez fosse algum tipo de representação do medo da Gris? ou talvez se levar em consideração a aparencia final pode ser a sombra dela, tipo uma manifestação de pensamentos negativos? tipo a gente quando tem pensamentos negativos ou algo do gênero, e a estatua pode representar alguem que afasta essas forças negativas, como alguem querido
