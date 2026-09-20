@@ -194,7 +194,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 ### Fim do capítulo
 
 - [x] **Verde** — conclua o capítulo 2.
-- [ ] Confirme no marcador do capítulo: **7/7 Lembranças**.
+- [x] Confirme no marcador do capítulo: **7/7 Lembranças**.
 
 ---
 
@@ -205,7 +205,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Checkpoint 1 — amigo da floresta
 
-- [ ] **Lembrança 1/7** — suba todo o caminho até o topo.
+- [x] **Lembrança 1/7** — suba todo o caminho até o topo.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260591561/0B026C5617EC6A3AA9BFD9D1520A0B13BDF65C2F/)
@@ -234,14 +234,14 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 - [ ] **Maçãs** — confirme que a conquista apareceu depois que o amigo comer as oito maçãs.
 
-- [ ] **Lembrança 2/7** — ao buscar a estrela da esquerda, pegue a Lembrança antes da nova habilidade.
+- [x] **Lembrança 2/7** — ao buscar a estrela da esquerda, pegue a Lembrança antes da nova habilidade.
 
 > [!example]- Referência visual — Lembrança 2
 > ![Lembrança 2 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260595675/B585C71C434CA4F35DEA2617FB202390B3F375D5/)
 
 ### Checkpoint 2 — floresta e pássaro
 
-- [ ] **Lembrança 3/7** — depois do primeiro salto manual com pássaros vermelhos, siga à direita e quebre os vasos para revelar outros pássaros.
+- [x] **Lembrança 3/7** — depois do primeiro salto manual com pássaros vermelhos, siga à direita e quebre os vasos para revelar outros pássaros.
 
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260607063/BA8EAD2B71C5BCD4B29AC2E39A7592A5387A0082/)
