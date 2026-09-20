@@ -359,7 +359,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Checkpoint 3 — depois de aprender a cantar
 
-- [ ] **Aves 1 e 2/7** — são ativadas automaticamente quando você aprende a cantar.
+- [x] **Aves 1 e 2/7** — são ativadas automaticamente quando você aprende a cantar.
 
 > [!example]- Referência visual — Aves 1 e 2
 > ![Aves mágicas 1 e 2](https://images.steamusercontent.com/ugc/804369128315895847/80DF11BC55B28723E0B19AC59648A078E384D9C5/)
