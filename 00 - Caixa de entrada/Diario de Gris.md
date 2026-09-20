@@ -44,10 +44,12 @@ Quando cheguei ao topo, Gris começa a cantar, o que faz as partes da estatua co
 
 A escuridao começa a engolir Gris, que não para de cantar até o ultimo segundo, e quando ela é totalmente engolida pela agua preta… A estatua acorda e começa a cantar tambem, o que afasta de vez a escuridão das duas.
 
-
-
 Nisso acontece um momento bem emocionante onde Gris abraça a estatua e a estatua solta uma lagrima dos olhos. Assim fazendo as duas retornarem para o ponto de origem, que e na ponte de estrelas, então Gris começa a subir, ao som do canto da estatua, e assim o jogo encerra, subindo os creditos.
+
+![[20260919220726_1.jpg|700x393]]
 
 Agora sobre as minhas teorias: talvez aquele montro negro talvez fosse algum tipo de representação do medo da Gris? ou talvez se levar em consideração a aparencia final pode ser a sombra dela, tipo uma manifestação de pensamentos negativos? tipo a gente quando tem pensamentos negativos ou algo do gênero, e a estatua pode representar alguem que afasta essas forças negativas, como alguem querido.
 
-Talvez a mensagem desse jogo seja que por mais que você tente muito, não tem como resolver tudo sozinho, mas tambem que você não precisa resolver tudo sozinho. As pessoas proximas a você, se realmente gostam de você, vão te apoiar quando você mais precisar
+Talvez a mensagem desse jogo seja que por mais que você tente muito, não tem como resolver tudo sozinho, mas tambem que você não precisa resolver tudo sozinho. As pessoas proximas a você, se realmente gostam de você, vão te apoiar quando você mais precisar.
+
+Agora, a proxima parte dessa jornada vai ser pegar o resto das conquistas que faltam, mas isso fica pro João do futuro, o João do presente ta de saida, até pq ele escreveu bastante =)
