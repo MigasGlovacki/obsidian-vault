@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Caixa de entrada/Prompt pra imagem de platina.md",
+                "file": "04 - Referencias/Prompt pra imagem de platina.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Caixa de entrada/Prompt pra imagem de platina.md",
+                "file": "04 - Referencias/Prompt pra imagem de platina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -255,10 +255,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "164fa4a9e01af25c",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
     "04 - Referencias/Ghostrunner.md",
-    "00 - Caixa de entrada/Prompt pra imagem de platina.md",
+    "04 - Referencias/Prompt pra imagem de platina.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
     "02 - Projetos/Jogos/Diario de Gris.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",

@@ -5,8 +5,8 @@ Usar prompt em anexo com uma imagem da arte do jogo, logo, emblema da steam e pr
 como pegar:
 
 1. abrir: `C:\Program Files (x86)\Steam\appcache\librarycache`
-2. pesquisar a ID do jogo na busca da pasta (fica em)
-3. pegar o library_hero.jpg e logo.png
+2. pesquisar a ID do jogo na busca da pasta (fica em updates na parte de propriedades do jogo na steam)
+3. pegar o library_hero.jpg e logo.png e anexar ao prompt no chatGPT
 
 ---
 
