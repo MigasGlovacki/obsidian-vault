@@ -285,7 +285,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Antes do checkpoint 2
 
-- [ ] **Lembrança 1/5** — golpeie o cogumelo até levá-lo totalmente para a esquerda; os pássaros vermelhos revelarão o acesso.
+- [x] **Lembrança 1/5** — golpeie o cogumelo até levá-lo totalmente para a esquerda; os pássaros vermelhos revelarão o acesso.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260678738/7E2CE053A9579CD129300477422BB9F351FF831B/)
