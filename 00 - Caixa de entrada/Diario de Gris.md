@@ -24,7 +24,7 @@ Eu fiquei meio perdido mas não demorou muito para eu encontrar os pontinhos bra
 
 Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu liberar a cor amarela no jogo, tambem me dando uma conquista por isso na steam. Mas pouco tempo depois, quando eu estava voltando para superficie, aquele passaro preto que me havia atacado anteriormente voltou, e com uma nova forma de serpente ou algo assim.
 
-![[20260919210705_1.jpg|500x281]]
+![[20260919210705_1.jpg|700x393]]
 
 Foi uma perseguição emocionante, e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no ceu, ainda não suficiente para poder subir, mas quase.
 
@@ -36,5 +36,8 @@ Depois de fazer alguns puzzles e pegar mais pontinhos brancos (q agr eu estou su
 
 Depois que eu terminei por lá e voltei para o hub, consegui terminar o caminho de constelação e finalmente subir para onde eu tinha que ir… ou não porque aquele monstro voltou de novo, e dessa vez ele assumiu a aparencia de Gris e a enguliu para dentro da propria escuridão
 
-![[20260919220201_1.jpg|500x281]]
+![[20260919220201_1.jpg|700x393]]
 
+Eu fui parar para de baixo d’agua, mas o mundo quase não havia cor, apenas preto, branco um azul da mesma tonalidade do cabelo da Gris. Eu fui subindo e finalmente cheguei em terra firme, e então comecei a escalar o que parecia (e era mesmo) uma estatua em pedaços (aparentemente essa estatua é importante pq ela aparece desde a primeira cutscene do jogo, talvez seja a mãe dela?)
+
+Quando cheguei ao topo, Gris começa a cantar, o que faz as partes da estatua começarem a se juntar
