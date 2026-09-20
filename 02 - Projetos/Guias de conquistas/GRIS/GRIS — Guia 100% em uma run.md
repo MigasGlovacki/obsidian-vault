@@ -96,7 +96,7 @@ progresso: 0/17
 
 - [x] **Tempestade de areia** — depois de atravessar a última rajada usando a forma de bloco e chegar à área das estátuas curvadas, confirme que a conquista apareceu.
 
-- [ ] **Lembrança 4/7** — antes de descer quebrando o grande sino, vá para a direita e use a criatura de pedra. Suba as plataformas resistindo ao vento como bloco; na plataforma superior, deixe o vento empurrá-lo para a direita.
+- [x] **Lembrança 4/7** — antes de descer quebrando o grande sino, vá para a direita e use a criatura de pedra. Suba as plataformas resistindo ao vento como bloco; na plataforma superior, deixe o vento empurrá-lo para a esquerda.
 
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260401552/FABD7F9E72784F48FE603ABCD6FEFD386C974568/)
