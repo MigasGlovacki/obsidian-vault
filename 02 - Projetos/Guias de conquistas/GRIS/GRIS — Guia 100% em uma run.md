@@ -405,19 +405,19 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Ave 6 da rota
 > ![Ave mágica perto da Lembrança 6](https://images.steamusercontent.com/ugc/804369517281004087/7F5B38659C8985F8FA55EE267AC21BF42104C46A/)
 
-- [ ] **Ave 7/7** — depois de pegar a estrela da direita e antes de quebrar o chão, cante para a ave.
+- [x] **Ave 7/7** — depois de pegar a estrela da direita e antes de quebrar o chão, cante para a ave.
 
 > [!example]- Referência visual — Ave 7 da rota
 > ![Ave mágica depois da estrela direita](https://images.steamusercontent.com/ugc/804369517281011224/2B8E8CCCDBE6086DABAA6BF62964B6DD357F487C/)
 
-- [ ] **Aves mágicas** — confirme que a conquista apareceu depois de cantar para as sete aves.
+- [x] **Aves mágicas** — confirme que a conquista apareceu depois de cantar para as sete aves.
 
-- [ ] **Lembrança 7/7** — depois de pegar a estrela da direita, nade para baixo no ponto indicado.
+- [x] **Lembrança 7/7** — depois de pegar a estrela da direita, nade para baixo no ponto indicado.
 
 > [!example]- Referência visual — Lembrança 7
 > ![Lembrança 7 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260765606/0625FD6AC1981AE3BE2AA20F7D59360ADE5BDFB8/)
 
-- [ ] Confirme no marcador do capítulo: **7/7 Lembranças**.
+- [x] Confirme no marcador do capítulo: **7/7 Lembranças**.
 
 ### Sequência final
 
