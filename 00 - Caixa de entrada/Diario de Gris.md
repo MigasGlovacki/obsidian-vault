@@ -22,4 +22,8 @@ Eu fiquei meio perdido mas não demorou muito para eu encontrar os pontinhos bra
 
 ![[20260919205932_1.jpg|695]]
 
-Após mais um pouco de avanço, eu c
+Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu liberar a cor amarela no jogo, tambem me dando uma conquista por isso na steam. Mas pouco tempo depois, quando eu estava voltando para superficie, aquele passaro preto que me havia atacado anteriormente voltou, e com uma nova forma de serpente voadora ou algo assim.
+
+
+
+Foi uma perseguição emocionante, e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no ceu, ainda não suficiente para poder subir, mas quase
