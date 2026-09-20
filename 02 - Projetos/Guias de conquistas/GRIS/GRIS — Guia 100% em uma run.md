@@ -27,9 +27,9 @@ progresso: 0/17
 
 ### Conquistas — 0/17
 
-- [ ] **História:** Vermelho, Verde, Azul, Amarelo e O Fim — 0/5
+- [x] **História:** Vermelho, Verde, Azul, Amarelo e O Fim — 5/5
 - [ ] **Desafios de capítulo:** Tempestade de areia, Inuksuit, Maçãs, Enguia e Aves mágicas — 0/5
-- [ ] **Fases do luto:** Negação, Raiva, Barganha, Depressão e Aceitação — 0/5
+- [ ] **Fases do luto:** Negação, Raiva, Barganha, Depressão e Aceitação — 1/5
 - [ ] **Coleção:** Lembranças e Infância — 0/2
 
 ### Lembranças — 0/28
@@ -55,15 +55,15 @@ progresso: 0/17
 
 ### Caminho da terceira estrela
 
-- [ ] **Lembrança 1/2** — durante o caminho para a terceira estrela, pule para a esquerda.
+- [x] **Lembrança 1/2** — durante o caminho para a terceira estrela, pule para a esquerda.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 1](https://images.steamusercontent.com/ugc/798744783260332808/2E5B75E58F2B5779049352EC698B5EBA9A3BD758/)
 
 ### Fim do capítulo
 
-- [ ] **Vermelho** — conclua o capítulo 1.
-- [ ] Confirme no marcador do capítulo: **1/2 Lembranças**. A segunda será coletada na limpeza final.
+- [x] **Vermelho** — conclua o capítulo 1.
+- [x] Confirme no marcador do capítulo: **1/2 Lembranças**. A segunda será coletada na limpeza final.
 
 ---
 
