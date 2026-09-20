@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e8211c7f69560b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Projetos/Jogos/Diário de jogos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diário de jogos"
-            }
-          },
-          {
-            "id": "cc69f435478f2602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Hub do Vault.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00 - Hub do Vault"
-            }
-          },
-          {
-            "id": "534be13a9dd66d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Caixa de entrada/Sem título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título"
-            }
-          },
-          {
             "id": "2114cd195c1b0cb7",
             "type": "leaf",
             "state": {
@@ -77,8 +35,7 @@
               "title": "GRIS — Guia 100% em uma run"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,10 +242,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8a5fa145eabb57e",
+  "active": "2114cd195c1b0cb7",
   "lastOpenFiles": [
-    "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
+    "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "02 - Projetos/Guias de conquistas/GRIS",
     "00 - Caixa de entrada/Sem título.md",
     "02 - Projetos/Jogos/Diario de Gris.md",

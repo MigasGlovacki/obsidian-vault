@@ -72,16 +72,42 @@ progresso: 0/17
 > [!danger] Regra válida durante todo o capítulo
 > Para **Tempestade de areia**, não seja carregado por nenhuma rajada. Abrigue-se dentro das estruturas ou use a forma de bloco. Se for levado pelo vento, reinicie o checkpoint para não arriscar a conquista.
 
-### Início do capítulo
+### Checkpoint 1
 
 - [x] **Lembrança 1/7** — logo depois de o título do jogo aparecer, desça e siga para a esquerda.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260356242/0727121C657A701045B97CF8F18136A6233632DC/)
 
-### Checkpoint 2 — estátuas, Raiva e Lembranças 2–4
+- [x] **Lembrança 2/7** — na criatura de pedra em movimento, suba rapidamente até o topo e deslize até a Lembrança.
 
-Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e usando a habilidade. Marque cada uma na ordem apresentada pelo guia-base:
+> [!example]- Referência visual — Lembrança 2
+> ![Lembrança 2 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260365186/865CD3CB332A545637AE2F639981E267CC48E65D/)
+
+### Checkpoint 2 — forma de bloco, tempestade e Raiva
+
+- [x] **Lembrança 3/7** — depois de obter a forma de bloco, volte para a esquerda e quebre o teto.
+
+> [!example]- Referência visual — Lembrança 3
+> ![Lembrança 3 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260371898/5771FA0FB3815F8EC8F6FAB49BF664B3DFD68D2A/)
+
+- [ ] **Tempestade de areia** — depois de atravessar a última rajada usando a forma de bloco e chegar à área das estátuas curvadas, confirme que a conquista apareceu.
+
+- [ ] **Lembrança 4/7** — antes de descer quebrando o grande sino, vá para a direita e use a criatura de pedra. Suba as plataformas resistindo ao vento como bloco; na plataforma superior, deixe o vento empurrá-lo para a direita.
+
+> [!example]- Referência visual — Lembrança 4
+> ![Lembrança 4 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260401552/FABD7F9E72784F48FE603ABCD6FEFD386C974568/)
+
+- [ ] **Raiva** — na área em preto e branco, destrua as três estátuas frágeis. Evite usar o impacto de bloco sem necessidade. Faça primeiro as estátuas laterais e deixe a que o lança para fora da área por último.
+
+> [!example]- Referências visuais — as três estátuas de Raiva
+> ![Primeira estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028941802/D3E36ECF09D4F215D7C3605F251DE9C7E26811B7/)
+> ![Segunda estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028943498/050D4DE16B216491C3AA72F6AE1694995FB8CF70/)
+> ![Terceira estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028944872/DB444251EBE7D8DA2B9ADAA6AB909EB1FD890DF4/)
+
+### Checkpoint 3 — Inuksuit intercalado com Lembranças 5–7
+
+Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e usando a habilidade. A ordem abaixo acompanha a progressão do capítulo.
 
 - [ ] **Inuksuit 1/14 — Estátua 1**
 
@@ -108,6 +134,11 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Estátua 5
 > ![Estátua Inuksuit 5](https://images.steamusercontent.com/ugc/813375767280618768/25BB3BF6D0A1B4975271AAFE267CCBB51DCB96B3/)
 
+- [x] **Lembrança 5/7** — depois de obter a estrela indicada, golpeie a plataforma para lançá-la ao outro lado e suba no moinho.
+
+> [!example]- Referência visual — Lembrança 5
+> ![Lembrança 5 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260415901/A4DDE4ED3DC4A6E3462CBBD2ABE1B6AA292045E8/)
+
 - [ ] **Inuksuit 6/14 — Estátua 6**
 
 > [!example]- Referência visual — Estátua 6
@@ -123,6 +154,11 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Estátua 8
 > ![Estátua Inuksuit 8](https://images.steamusercontent.com/ugc/813375767280624447/E6878C6A786E20BB6B3FE39F6E0927C8E279CCBA/)
 
+- [ ] **Lembrança 6/7** — pule para a direita no ponto da imagem.
+
+> [!example]- Referência visual — Lembrança 6
+> ![Lembrança 6 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260420345/DEFD623FCC1E800635A5E96BEA658A337874E99E/)
+
 - [ ] **Inuksuit 9/14 — Estátua 9**
 
 > [!example]- Referência visual — Estátua 9
@@ -132,6 +168,11 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 > [!example]- Referência visual — Estátua 10
 > ![Estátua Inuksuit 10](https://images.steamusercontent.com/ugc/813375767280628090/E4EF556F9CF0D4653718F96C8EA8EDFF5DBCF459/)
+
+- [x] **Lembrança 7/7** — na estrela da esquerda, empurre o balão até o fundo usando o bloco. Suba depressa pelas escadas e quebre a rocha no topo.
+
+> [!example]- Referência visual — Lembrança 7
+> ![Lembrança 7 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260550910/6F5E1768D747DB61B326F2DDA5425CEAD41AE2AC/)
 
 - [ ] **Inuksuit 11/14 — Estátua 11**
 
@@ -150,48 +191,8 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 - [ ] **Inuksuit** — confirme que a conquista apareceu após destruir as 14 estátuas.
 
-- [ ] **Raiva** — na área em preto e branco, destrua as três estátuas frágeis. Evite usar o impacto de bloco sem necessidade. Faça primeiro as estátuas laterais e deixe a que o lança para fora da área por último.
-
-> [!example]- Referências visuais — as três estátuas de Raiva
-> ![Primeira estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028941802/D3E36ECF09D4F215D7C3605F251DE9C7E26811B7/)
-> ![Segunda estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028943498/050D4DE16B216491C3AA72F6AE1694995FB8CF70/)
-> ![Terceira estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028944872/DB444251EBE7D8DA2B9ADAA6AB909EB1FD890DF4/)
-
-- [x] **Lembrança 2/7** — na criatura de pedra em movimento, suba rapidamente até o topo e deslize até a Lembrança.
-
-> [!example]- Referência visual — Lembrança 2
-> ![Lembrança 2 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260365186/865CD3CB332A545637AE2F639981E267CC48E65D/)
-
-- [x] **Lembrança 3/7** — depois de obter a forma de bloco, volte para a esquerda e quebre o teto.
-
-> [!example]- Referência visual — Lembrança 3
-> ![Lembrança 3 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260371898/5771FA0FB3815F8EC8F6FAB49BF664B3DFD68D2A/)
-
-- [ ] **Lembrança 4/7** — antes de descer quebrando o grande sino, vá para a direita e use a criatura de pedra. Suba as plataformas resistindo ao vento como bloco; na plataforma superior, deixe o vento empurrá-lo para a direita.
-
-> [!example]- Referência visual — Lembrança 4
-> ![Lembrança 4 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260401552/FABD7F9E72784F48FE603ABCD6FEFD386C974568/)
-
-### Checkpoint 3 — Lembranças 5–7
-
-- [x] **Lembrança 5/7** — depois de obter a estrela indicada, golpeie a plataforma para lançá-la ao outro lado e suba no moinho.
-
-> [!example]- Referência visual — Lembrança 5
-> ![Lembrança 5 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260415901/A4DDE4ED3DC4A6E3462CBBD2ABE1B6AA292045E8/)
-
-- [ ] **Lembrança 6/7** — pule para a direita no ponto da imagem.
-
-> [!example]- Referência visual — Lembrança 6
-> ![Lembrança 6 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260420345/DEFD623FCC1E800635A5E96BEA658A337874E99E/)
-
-- [x] **Lembrança 7/7** — na estrela da esquerda, empurre o balão até o fundo usando o bloco. Suba depressa pelas escadas e quebre a rocha no topo.
-
-> [!example]- Referência visual — Lembrança 7
-> ![Lembrança 7 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260550910/6F5E1768D747DB61B326F2DDA5425CEAD41AE2AC/)
-
 ### Fim do capítulo
 
-- [ ] **Tempestade de areia** — confirme que concluiu todo o capítulo sem ser carregado pelo vento.
 - [ ] **Verde** — conclua o capítulo 2.
 - [ ] Confirme no marcador do capítulo: **7/7 Lembranças**.
 
