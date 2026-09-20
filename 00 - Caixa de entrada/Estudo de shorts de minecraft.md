@@ -18,6 +18,23 @@ Basicamente ele fala que a atualização wilderness bound foi lançada “right 
 ## Desenvolvimento
 
 1. Fala sobre as novas arvores enquanto mostra um take no novo biomas mostrando as arvores e dos novos blocos como a nova madeira e cores folhas, cada uma sendo mostrada sendo colocada no chão enquanto ele fala em ordem.
-2. Fala sobre os novos acampamentos e mapas de tesouro enquanto mostra em video cada um deles no ritmo que ele vai falando
-	1. quando ele fala acampamentos, mostr
+2. Fala sobre os novos acampamentos abandonados e mapas de tesouro enquanto mostra em video cada um deles no ritmo que ele vai falando
+	1. quando ele fala acampamentos, mostra o acampamento.
+	2. quando fala dos mapas, mostra ele abrindo o bau e pegando o mapa
+3. Fala das novas slabs de lã/concreto enquanto mostra elas no jogo colocando elas no chao
+4. fala dos novos cushions e cama de palha enquanto mostra elas no jogo
 
+## Fim
+
+Termina com um:
+
+> Subscribe, as…
+
+E recomeça o loop pro inicio
+
+---
+
+Observações:
+
+- Legendas atualizam por palavra, não por frase.
+- Musica ativa/alegre, nesse ele usa daquela metropole do mario odyssey que eu esqueci o nome no gancho a metade do desenvolvimento, ai muda pra outra copyright free, mas 
