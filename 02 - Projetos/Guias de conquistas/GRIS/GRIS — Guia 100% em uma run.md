@@ -452,7 +452,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 3. Entre pela abertura escondida na parede quebrada à esquerda.
 4. Cante diante do símbolo para iniciar a cena secreta.
 
-- [ ] **Infância** — assista à cena secreta.
+- [x] **Infância** — assista à cena secreta.
 
 > [!example]- Referência visual — entrada da sala secreta
 > ![Entrada da sala secreta de Infância](https://images.steamusercontent.com/ugc/798744783260778349/B4634B97804DBDC6BDD1727721688AB43FDDF815/)
@@ -465,8 +465,8 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 - [x] **5/5** desafios de capítulo.
 - [x] **5/5** fases do luto.
 - [x] **28/28** Lembranças.
-- [ ] **Infância** concluída.
-- [ ] Steam mostra **17/17 conquistas**.
+- [x] **Infância** concluída.
+- [x] Steam mostra **17/17 conquistas**.
 
 ## Fontes
 
