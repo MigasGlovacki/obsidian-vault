@@ -314,8 +314,8 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!danger] Não aceite nenhum ataque
 > Para **Enguia**, desvie de todos os ataques nos dois encontros. Quando ela tentar sugar Gris, espere um instante antes de voltar a apertar o botão de impulso. Se for atingido, reinicie o checkpoint.
 
-- [ ] Primeiro encontro com a enguia concluído sem ser atingido.
-- [ ] **Lembrança 4/5** — no trecho escuro depois do primeiro encontro, procure luzes fora do caminho principal; a Lembrança fica escondida à esquerda.
+- [x] Primeiro encontro com a enguia concluído sem ser atingido.
+- [x] **Lembrança 4/5** — no trecho escuro depois do primeiro encontro, procure luzes fora do caminho principal; a Lembrança fica escondida à esquerda.
 
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260715212/EE7243F2E0AB9A253D8D7AD94DB784311AACCFF0/)
