@@ -217,22 +217,22 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Maçã 1
 > ![Maçã perdível 1](https://images.steamusercontent.com/ugc/813375767284722937/A43F38022F547A6E8CAE59CDBE8EAE5BDEB18FCE/)
 
-- [ ] **Maçã perdível B** — quando o amigo subir para derrubar a pedra que bloqueia o caminho, volte rapidamente para a direita para fazê-lo seguir você.
+- [x] **Maçã perdível B** — quando o amigo subir para derrubar a pedra que bloqueia o caminho, volte rapidamente para a direita para fazê-lo seguir você.
 
 > [!example]- Referência visual — Maçã 2
 > ![Maçã perdível 2](https://images.steamusercontent.com/ugc/813375767284735963/C2A1248D40EAD5E07631C114021DFD7FF091E802/)
 
-- [ ] **Maçã perdível C** — leve o amigo até a maçã mostrada na referência.
+- [x] **Maçã perdível C** — leve o amigo até a maçã mostrada na referência.
 
 > [!example]- Referência visual — Maçã 3
 > ![Maçã perdível 3](https://images.steamusercontent.com/ugc/813375767284742330/C3C068D8C309A23097C1AD2DCE23383C2DFE3991/)
 
-- [ ] **Maçã perdível D** — depois do grande escorregador, reencontre o amigo e volte para a direita.
+- [x] **Maçã perdível D** — depois do grande escorregador, reencontre o amigo e volte para a direita.
 
 > [!example]- Referência visual — Maçã 4
 > ![Maçã perdível 4](https://images.steamusercontent.com/ugc/813375767284750725/432FACA6091F6A918DEF3D375139E55BA523BC45/)
 
-- [ ] **Maçãs** — confirme que a conquista apareceu depois que o amigo comer as oito maçãs.
+- [x] **Maçãs** — confirme que a conquista apareceu depois que o amigo comer as oito maçãs.
 
 - [x] **Lembrança 2/7** — ao buscar a estrela da esquerda, pegue a Lembrança antes da nova habilidade.
 
