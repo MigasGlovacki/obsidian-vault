@@ -302,12 +302,12 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260707674/3AF93BA9CCD2ACA279D6191E3F1F0D1EBD1A3450/)
 
-- [ ] **Depressão** — ainda na área das seis estrelas que acordam a tartaruga, nade diretamente para a escuridão abaixo e procure uma passagem pequena à esquerda.
+- [x] **Depressão** — ainda na área das seis estrelas que acordam a tartaruga, nade diretamente para a escuridão abaixo e procure uma passagem pequena à esquerda.
 
 > [!example]- Referência visual — Depressão
 > ![Local da conquista Depressão](https://images.steamusercontent.com/ugc/798744783260288500/B1D426F41C75F3C71EBEE60F397D7002FABE8CA8/)
 
-- [ ] **Amarelo** — reúna as seis estrelas, acorde a tartaruga e conclua a sequência que restaura a cor amarela.
+- [x] **Amarelo** — reúna as seis estrelas, acorde a tartaruga e conclua a sequência que restaura a cor amarela.
 
 ### Enguia — dois encontros
 
