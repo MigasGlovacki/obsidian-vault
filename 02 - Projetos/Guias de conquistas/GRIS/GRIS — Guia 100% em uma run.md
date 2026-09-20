@@ -129,7 +129,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Estátua 4
 > ![Estátua Inuksuit 4](https://images.steamusercontent.com/ugc/813375767280614905/A445DD355272912CBFF1405454D1A21941797179/)
 
-- [ ] **Inuksuit 5/14 — Estátua 5**
+- [x] **Inuksuit 5/14 — Estátua 5**
 
 > [!example]- Referência visual — Estátua 5
 > ![Estátua Inuksuit 5](https://images.steamusercontent.com/ugc/813375767280618768/25BB3BF6D0A1B4975271AAFE267CCBB51DCB96B3/)
@@ -139,27 +139,27 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 5
 > ![Lembrança 5 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260415901/A4DDE4ED3DC4A6E3462CBBD2ABE1B6AA292045E8/)
 
-- [ ] **Inuksuit 6/14 — Estátua 6**
+- [x] **Inuksuit 6/14 — Estátua 6**
 
 > [!example]- Referência visual — Estátua 6
 > ![Estátua Inuksuit 6](https://images.steamusercontent.com/ugc/813375767280620373/CC1D5642B942248CBC5947878E2461265575EDCA/)
 
-- [ ] **Inuksuit 7/14 — Estátua 7**
+- [x] **Inuksuit 7/14 — Estátua 7**
 
 > [!example]- Referência visual — Estátua 7
 > ![Estátua Inuksuit 7](https://images.steamusercontent.com/ugc/813375767280622901/4F91CD6EC143288FDE6CCE96B50025608A1B57E7/)
 
-- [ ] **Inuksuit 8/14 — Estátua 8**
+- [x] **Inuksuit 8/14 — Estátua 8**
 
 > [!example]- Referência visual — Estátua 8
 > ![Estátua Inuksuit 8](https://images.steamusercontent.com/ugc/813375767280624447/E6878C6A786E20BB6B3FE39F6E0927C8E279CCBA/)
 
-- [ ] **Lembrança 6/7** — pule para a direita no ponto da imagem.
+- [x] **Lembrança 6/7** — pule para a direita no ponto da imagem.
 
 > [!example]- Referência visual — Lembrança 6
 > ![Lembrança 6 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260420345/DEFD623FCC1E800635A5E96BEA658A337874E99E/)
 
-- [ ] **Inuksuit 9/14 — Estátua 9**
+- [x] **Inuksuit 9/14 — Estátua 9**
 
 > [!example]- Referência visual — Estátua 9
 > ![Estátua Inuksuit 9](https://images.steamusercontent.com/ugc/813375767280626519/1B8AD92547F7AD89E7DF43DD94BAEC013C6420D9/)
