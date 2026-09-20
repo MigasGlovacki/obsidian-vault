@@ -332,7 +332,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Fim do capítulo
 
-- [ ] Confirme no marcador do capítulo: **5/5 Lembranças**.
+- [x] Confirme no marcador do capítulo: **5/5 Lembranças**.
 
 ---
 
@@ -340,7 +340,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Antes do checkpoint 2
 
-- [ ] **Lembrança 1/7** — observe os pássaros vermelhos no teto. Suba, espere as paredes desaparecerem, caia sobre os pássaros e use-os para saltar.
+- [x] **Lembrança 1/7** — observe os pássaros vermelhos no teto. Suba, espere as paredes desaparecerem, caia sobre os pássaros e use-os para saltar.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260732039/B2B87D782F695EF8B609463586CC54F062EA6289/)
@@ -366,7 +366,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 #### Ramo esquerdo
 
-- [ ] **Lembrança 4/7** — siga à esquerda e cante para as flores vermelhas para subir.
+- [x] **Lembrança 4/7** — siga à esquerda e cante para as flores vermelhas para subir.
 
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260748678/05774F96C818FD9F5DDFA0D7AC2C55C58A1AC174/)
@@ -395,7 +395,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 #### Ramo direito
 
-- [ ] **Lembrança 6/7** — atravesse a parede falsa mostrada na referência.
+- [x] **Lembrança 6/7** — atravesse a parede falsa mostrada na referência.
 
 > [!example]- Referência visual — Lembrança 6
 > ![Lembrança 6 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260761268/7813FAD5676A5AC46CD3B2860F1F22F6EFF1E98B/)
