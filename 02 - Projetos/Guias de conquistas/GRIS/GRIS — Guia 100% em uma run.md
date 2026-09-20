@@ -348,14 +348,14 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 - [x] **Lembrança 2/7** — salte para o alto à esquerda no ponto da imagem.
 
 > [!example]- Referência visual — Lembrança 2
-> ![Lembrança 2 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260736704/813F8CB957B94B90201C1CA2A5F02992A28537C8/)
+> ![Lembrança 2 do capítulo 5|664x374](https://images.steamusercontent.com/ugc/798744783260736704/813F8CB957B94B90201C1CA2A5F02992A28537C8/)
 
 ### Checkpoint 2
 
-- [ ] **Lembrança 3/7** — na área esquerda que exige duas estrelas, atravesse a parede falsa.
+- [x] **Lembrança 3/7** — na área esquerda que exige duas estrelas, atravesse a parede falsa.
 
 > [!example]- Referência visual — Lembrança 3
-> ![Lembrança 3 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260743920/01FBBB74514FA2F5832303BE012E4EDEC88EDA6A/)
+> ![Lembrança 3 do capítulo 5|664x374](https://images.steamusercontent.com/ugc/798744783260743920/01FBBB74514FA2F5832303BE012E4EDEC88EDA6A/)
 
 ### Checkpoint 3 — depois de aprender a cantar
 
