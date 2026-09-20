@@ -246,7 +246,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260607063/BA8EAD2B71C5BCD4B29AC2E39A7592A5387A0082/)
 
-- [ ] **Lembrança 4/7** — depois da árvore grande com dois saltos de pássaros vermelhos, vá para a direita e quebre o chão.
+- [x] **Lembrança 4/7** — depois da árvore grande com dois saltos de pássaros vermelhos, vá para a direita e quebre o chão.
 
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260609941/B22E7F9F7197DD52576C752AF347C5B4DDEAB12E/)
