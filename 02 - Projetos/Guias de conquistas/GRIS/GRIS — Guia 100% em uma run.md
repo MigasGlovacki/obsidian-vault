@@ -371,7 +371,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260748678/05774F96C818FD9F5DDFA0D7AC2C55C58A1AC174/)
 
-- [ ] **Ave 3/7** — cante para a ave encontrada no mesmo caminho das flores vermelhas e da Lembrança 4.
+- [x] **Ave 3/7** — cante para a ave encontrada no mesmo caminho das flores vermelhas e da Lembrança 4.
 
 > [!example]- Referência visual — Ave 3 da rota
 > ![Ave mágica junto da Lembrança 4](https://images.steamusercontent.com/ugc/804369517281019373/FD4217FBF7A2484D47F6C736718693DF2DC2B8E4/)
@@ -388,7 +388,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 5
 > ![Lembrança 5 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260757191/E5CE167F5BB4F96114435B80D765EC26678D0F5F/)
 
-- [ ] **Ave 5/7** — cante antes do salto com as aves amarelas.
+- [x] **Ave 5/7** — cante antes do salto com as aves amarelas.
 
 > [!example]- Referência visual — Ave 5 da rota
 > ![Ave mágica antes das aves amarelas](https://images.steamusercontent.com/ugc/804369517281022559/820B2D5E2FED8E6E70C645DA77B80BCA49E04C4E/)
