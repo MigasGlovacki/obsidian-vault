@@ -4,4 +4,10 @@ Aqui eu vou colocar minhas notas sobre como são estruturados os shorts de minec
 
 ---
 
-!{}
+https://www.youtube.com/shorts/D0VCseUxQe8
+
+# Everything Added in Minecraft 26.3
+
+## Gancho
+
+Basicamente ele fala que a atualização wilderness bound foi lançada “right now” no minecraft.
