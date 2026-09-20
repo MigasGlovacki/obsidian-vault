@@ -157,7 +157,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > ![Segunda estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028943498/050D4DE16B216491C3AA72F6AE1694995FB8CF70/)
 > ![Terceira estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028944872/DB444251EBE7D8DA2B9ADAA6AB909EB1FD890DF4/)
 
-- [ ] **Lembrança 2/7** — na criatura de pedra em movimento, suba rapidamente até o topo e deslize até a Lembrança.
+- [x] **Lembrança 2/7** — na criatura de pedra em movimento, suba rapidamente até o topo e deslize até a Lembrança.
 
 > [!example]- Referência visual — Lembrança 2
 > ![Lembrança 2 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260365186/865CD3CB332A545637AE2F639981E267CC48E65D/)
