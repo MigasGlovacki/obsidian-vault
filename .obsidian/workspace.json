@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -285,7 +284,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8a5fa145eabb57e",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
     "00 - Caixa de entrada/Sem título.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
