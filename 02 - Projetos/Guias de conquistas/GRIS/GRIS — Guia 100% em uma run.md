@@ -74,6 +74,9 @@ progresso: 0/17
 
 ### Checkpoint 1
 
+> [!info] Divisão de checkpoint revisada
+> A Lembrança da criatura de pedra em movimento ainda pertence ao checkpoint 1; esta posição foi corrigida durante a run atual.
+
 - [x] **Lembrança 1/7** — logo depois de o título do jogo aparecer, desça e siga para a esquerda.
 
 > [!example]- Referência visual — Lembrança 1
@@ -91,7 +94,7 @@ progresso: 0/17
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260371898/5771FA0FB3815F8EC8F6FAB49BF664B3DFD68D2A/)
 
-- [ ] **Tempestade de areia** — depois de atravessar a última rajada usando a forma de bloco e chegar à área das estátuas curvadas, confirme que a conquista apareceu.
+- [x] **Tempestade de areia** — depois de atravessar a última rajada usando a forma de bloco e chegar à área das estátuas curvadas, confirme que a conquista apareceu.
 
 - [ ] **Lembrança 4/7** — antes de descer quebrando o grande sino, vá para a direita e use a criatura de pedra. Suba as plataformas resistindo ao vento como bloco; na plataforma superior, deixe o vento empurrá-lo para a direita.
 
@@ -201,25 +204,38 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 ## Capítulo 3 — Azul
 
 > [!warning] Maçãs
-> Faça o capítulo desde o início e deixe o amigo da floresta comer as sete maçãs. O guia destaca quatro fáceis de perder; as outras três ficam no caminho principal.
+> Faça o capítulo desde o início e deixe o amigo da floresta comer as **oito maçãs**. Uma ocorre na sequência em que ele começa a seguir Gris, três ficam evidentes na rota e quatro exigem atenção especial.
 
-### Antes da nova habilidade
+### Checkpoint 1 — amigo da floresta
 
-- [ ] **Maçãs do caminho 1–3/7** — deixe o amigo comer as três maçãs evidentes encontradas na rota principal.
 - [ ] **Lembrança 1/7** — suba todo o caminho até o topo.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260591561/0B026C5617EC6A3AA9BFD9D1520A0B13BDF65C2F/)
 
-- [ ] **Maçã perdível 4/7** — conduza o amigo até a maçã mostrada na referência e espere ele comê-la.
+- [ ] **Quatro maçãs evidentes/automática — 4/8** — confirme a maçã da sequência inicial e deixe o amigo comer as três encontradas naturalmente na rota.
+
+- [ ] **Maçã perdível A** — conduza o amigo até a maçã mostrada na referência e espere ele comê-la.
 
 > [!example]- Referência visual — Maçã 1
 > ![Maçã perdível 1](https://images.steamusercontent.com/ugc/813375767284722937/A43F38022F547A6E8CAE59CDBE8EAE5BDEB18FCE/)
 
-- [ ] **Maçã perdível 5/7** — quando o amigo subir para derrubar a pedra que bloqueia o caminho, volte rapidamente para a direita para fazê-lo seguir você.
+- [ ] **Maçã perdível B** — quando o amigo subir para derrubar a pedra que bloqueia o caminho, volte rapidamente para a direita para fazê-lo seguir você.
 
 > [!example]- Referência visual — Maçã 2
 > ![Maçã perdível 2](https://images.steamusercontent.com/ugc/813375767284735963/C2A1248D40EAD5E07631C114021DFD7FF091E802/)
+
+- [ ] **Maçã perdível C** — leve o amigo até a maçã mostrada na referência.
+
+> [!example]- Referência visual — Maçã 3
+> ![Maçã perdível 3](https://images.steamusercontent.com/ugc/813375767284742330/C3C068D8C309A23097C1AD2DCE23383C2DFE3991/)
+
+- [ ] **Maçã perdível D** — depois do grande escorregador, reencontre o amigo e volte para a direita.
+
+> [!example]- Referência visual — Maçã 4
+> ![Maçã perdível 4](https://images.steamusercontent.com/ugc/813375767284750725/432FACA6091F6A918DEF3D375139E55BA523BC45/)
+
+- [ ] **Maçãs** — confirme que a conquista apareceu depois que o amigo comer as oito maçãs.
 
 - [ ] **Lembrança 2/7** — ao buscar a estrela da esquerda, pegue a Lembrança antes da nova habilidade.
 
@@ -232,11 +248,6 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260607063/BA8EAD2B71C5BCD4B29AC2E39A7592A5387A0082/)
-
-- [ ] **Maçã perdível 6/7** — leve o amigo até a maçã mostrada na referência.
-
-> [!example]- Referência visual — Maçã 3
-> ![Maçã perdível 3](https://images.steamusercontent.com/ugc/813375767284742330/C3C068D8C309A23097C1AD2DCE23383C2DFE3991/)
 
 - [ ] **Lembrança 4/7** — depois da árvore grande com dois saltos de pássaros vermelhos, vá para a direita e quebre o chão.
 
@@ -258,12 +269,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 6
 > ![Lembrança 6 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260627634/D5DA6405088B66B6DBDEEC9C835F23AE7F1EB764/)
 
-- [ ] **Maçã perdível 7/7** — depois do grande escorregador, reencontre o amigo e volte para a direita.
-
-> [!example]- Referência visual — Maçã 4
-> ![Maçã perdível 4](https://images.steamusercontent.com/ugc/813375767284750725/432FACA6091F6A918DEF3D375139E55BA523BC45/)
-
-- [ ] **Maçãs** — confirme que a conquista apareceu depois que o amigo comer as sete maçãs.
+- [ ] **Azul** — conclua a sequência principal do capítulo e recupere a cor azul.
 
 ### Checkpoint 3
 
@@ -274,7 +280,6 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Fim do capítulo
 
-- [ ] **Azul** — conclua o capítulo 3.
 - [ ] Confirme no marcador do capítulo: **7/7 Lembranças**.
 
 ---
@@ -295,15 +300,17 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 2
 > ![Lembrança 2 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260693573/DF965753915D7EC29BAF927D753E21B6BF06A969/)
 
-- [ ] **Depressão** — na área das seis estrelas que acordam a tartaruga, nade diretamente para a escuridão abaixo e procure uma passagem pequena à esquerda.
-
-> [!example]- Referência visual — Depressão
-> ![Local da conquista Depressão](https://images.steamusercontent.com/ugc/798744783260288500/B1D426F41C75F3C71EBEE60F397D7002FABE8CA8/)
-
 - [ ] **Lembrança 3/5** — busque a estrela no canto inferior direito e abra o atalho por baixo, bloqueado por algas. Pegue os peixes vermelhos, volte na direção da tartaruga e entre no buraco no teto.
 
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260707674/3AF93BA9CCD2ACA279D6191E3F1F0D1EBD1A3450/)
+
+- [ ] **Depressão** — ainda na área das seis estrelas que acordam a tartaruga, nade diretamente para a escuridão abaixo e procure uma passagem pequena à esquerda.
+
+> [!example]- Referência visual — Depressão
+> ![Local da conquista Depressão](https://images.steamusercontent.com/ugc/798744783260288500/B1D426F41C75F3C71EBEE60F397D7002FABE8CA8/)
+
+- [ ] **Amarelo** — reúna as seis estrelas, acorde a tartaruga e conclua a sequência que restaura a cor amarela.
 
 ### Enguia — dois encontros
 
@@ -328,7 +335,6 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Fim do capítulo
 
-- [ ] **Amarelo** — conclua o capítulo 4.
 - [ ] Confirme no marcador do capítulo: **5/5 Lembranças**.
 
 ---
@@ -368,15 +374,27 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260748678/05774F96C818FD9F5DDFA0D7AC2C55C58A1AC174/)
 
-- [ ] **Ave 5/7** — cante para a ave encontrada no mesmo caminho das flores vermelhas e da Lembrança 4.
+- [ ] **Ave 3/7** — cante para a ave encontrada no mesmo caminho das flores vermelhas e da Lembrança 4.
 
-> [!example]- Referência visual — Ave 5
-> ![Ave mágica 5](https://images.steamusercontent.com/ugc/804369517281019373/FD4217FBF7A2484D47F6C736718693DF2DC2B8E4/)
+> [!example]- Referência visual — Ave 3 da rota
+> ![Ave mágica junto da Lembrança 4](https://images.steamusercontent.com/ugc/804369517281019373/FD4217FBF7A2484D47F6C736718693DF2DC2B8E4/)
 
-- [ ] **Ave 7/7** — depois de pegar a estrela da esquerda e antes do salto indicado, cante para a ave.
+- [ ] **Ave 4/7** — depois de pegar a estrela da esquerda e antes do salto indicado, cante para a ave.
 
-> [!example]- Referência visual — Ave 7
-> ![Ave mágica 7](https://images.steamusercontent.com/ugc/804369517281026358/EAA2FCBCEA2A7FB0E2103C8717359D62D62BAB4C/)
+> [!example]- Referência visual — Ave 4 da rota
+> ![Ave mágica depois da estrela esquerda](https://images.steamusercontent.com/ugc/804369517281026358/EAA2FCBCEA2A7FB0E2103C8717359D62D62BAB4C/)
+
+#### Transição entre os ramos
+
+- [ ] **Lembrança 5/7** — desça pela direita no ponto indicado e cancele o salto dos pássaros vermelhos usando a forma de bloco.
+
+> [!example]- Referência visual — Lembrança 5
+> ![Lembrança 5 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260757191/E5CE167F5BB4F96114435B80D765EC26678D0F5F/)
+
+- [ ] **Ave 5/7** — cante antes do salto com as aves amarelas.
+
+> [!example]- Referência visual — Ave 5 da rota
+> ![Ave mágica antes das aves amarelas](https://images.steamusercontent.com/ugc/804369517281022559/820B2D5E2FED8E6E70C645DA77B80BCA49E04C4E/)
 
 #### Ramo direito
 
@@ -385,34 +403,23 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 6
 > ![Lembrança 6 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260761268/7813FAD5676A5AC46CD3B2860F1F22F6EFF1E98B/)
 
-- [ ] **Ave 3/7** — fica no ramo direito, atrás de uma parede secreta que leva a uma Lembrança.
+- [ ] **Ave 6/7** — cante para a ave atrás da parede secreta, perto do caminho da Lembrança 6.
 
-> [!example]- Referência visual — Ave 3
-> ![Ave mágica 3](https://images.steamusercontent.com/ugc/804369517281004087/7F5B38659C8985F8FA55EE267AC21BF42104C46A/)
+> [!example]- Referência visual — Ave 6 da rota
+> ![Ave mágica perto da Lembrança 6](https://images.steamusercontent.com/ugc/804369517281004087/7F5B38659C8985F8FA55EE267AC21BF42104C46A/)
 
-- [ ] **Ave 4/7** — depois de pegar a estrela da direita e antes de quebrar o chão, cante para a ave.
+- [ ] **Ave 7/7** — depois de pegar a estrela da direita e antes de quebrar o chão, cante para a ave.
 
-> [!example]- Referência visual — Ave 4
-> ![Ave mágica 4](https://images.steamusercontent.com/ugc/804369517281011224/2B8E8CCCDBE6086DABAA6BF62964B6DD357F487C/)
+> [!example]- Referência visual — Ave 7 da rota
+> ![Ave mágica depois da estrela direita](https://images.steamusercontent.com/ugc/804369517281011224/2B8E8CCCDBE6086DABAA6BF62964B6DD357F487C/)
+
+- [ ] **Aves mágicas** — confirme que a conquista apareceu depois de cantar para as sete aves.
 
 - [ ] **Lembrança 7/7** — depois de pegar a estrela da direita, nade para baixo no ponto indicado.
 
 > [!example]- Referência visual — Lembrança 7
 > ![Lembrança 7 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260765606/0625FD6AC1981AE3BE2AA20F7D59360ADE5BDFB8/)
 
-#### Retorno ao caminho central
-
-- [ ] **Lembrança 5/7** — desça pela direita no ponto indicado e cancele o salto dos pássaros vermelhos usando a forma de bloco.
-
-> [!example]- Referência visual — Lembrança 5
-> ![Lembrança 5 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260757191/E5CE167F5BB4F96114435B80D765EC26678D0F5F/)
-
-- [ ] **Ave 6/7** — cante antes do salto com as aves amarelas.
-
-> [!example]- Referência visual — Ave 6
-> ![Ave mágica 6](https://images.steamusercontent.com/ugc/804369517281022559/820B2D5E2FED8E6E70C645DA77B80BCA49E04C4E/)
-
-- [ ] **Aves mágicas** — confirme que a conquista apareceu depois de cantar para as sete aves.
 - [ ] Confirme no marcador do capítulo: **7/7 Lembranças**.
 
 ### Sequência final
@@ -468,3 +475,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 - [GRIS 100% Guide — guia original](https://steamcommunity.com/sharedfiles/filedetails/?id=1590842073)
 - [Desbloqueando todas as conquistas — tradução oficial em PT-BR](https://steamcommunity.com/sharedfiles/filedetails/?id=1746106436)
+- [GRIS — capítulo 2 em ordem cronológica](https://www.dailymotion.com/video/x7phyqo)
+- [GRIS — capítulo 3 em ordem cronológica](https://www.dailymotion.com/video/x7piil7)
+- [GRIS — capítulo 4, coletáveis e troféus em ordem](https://www.weareplaystation.fr/communautes/jeux-independants/astuces/wiki/gris-chapter-4-all-collectibles-trophies-depression)
+- [GRIS — capítulo 5, coletáveis e troféus em ordem](https://www.youtube.com/watch?v=KmQyypbzoWE)

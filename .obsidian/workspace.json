@@ -35,7 +35,8 @@
               "title": "GRIS — Guia 100% em uma run"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,13 +243,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2114cd195c1b0cb7",
+  "active": "f8a5fa145eabb57e",
   "lastOpenFiles": [
+    "02 - Projetos/Jogos/Diario de Gris.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "02 - Projetos/Guias de conquistas/GRIS",
     "00 - Caixa de entrada/Sem título.md",
-    "02 - Projetos/Jogos/Diario de Gris.md",
     "20260919220726_1.jpg",
     "20260919220201_1.jpg",
     "20260919213752_1.jpg",
