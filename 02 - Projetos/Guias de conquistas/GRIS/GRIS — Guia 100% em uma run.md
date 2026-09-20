@@ -345,7 +345,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260732039/B2B87D782F695EF8B609463586CC54F062EA6289/)
 
-- [ ] **Lembrança 2/7** — salte para o alto à esquerda no ponto da imagem.
+- [x] **Lembrança 2/7** — salte para o alto à esquerda no ponto da imagem.
 
 > [!example]- Referência visual — Lembrança 2
 > ![Lembrança 2 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260736704/813F8CB957B94B90201C1CA2A5F02992A28537C8/)
