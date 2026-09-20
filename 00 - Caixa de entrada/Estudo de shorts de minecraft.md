@@ -32,9 +32,11 @@ Termina com um:
 
 E recomeça o loop pro inicio
 
----
-
-Observações:
+## Observações:
 
 - Legendas atualizam por palavra, não por frase.
 - Musica ativa/alegre, nesse ele usa daquela metropole do mario odyssey que eu esqueci o nome no gancho a metade do desenvolvimento, ai muda pra outra copyright free, mas não muda o mood, e dps muda para outra. 3 mudanças de faixa.
+
+---
+
+
