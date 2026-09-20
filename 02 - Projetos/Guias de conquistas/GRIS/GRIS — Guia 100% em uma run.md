@@ -270,14 +270,14 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Checkpoint 3
 
-- [ ] **Lembrança 7/7** — depois de recuperar a cor do capítulo, encontre as árvores da referência, pule e siga um pouco à direita.
+- [x] **Lembrança 7/7** — depois de recuperar a cor do capítulo, encontre as árvores da referência, pule e siga um pouco à direita.
 
 > [!example]- Referência visual — Lembrança 7
 > ![Lembrança 7 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260642992/C358687AA41FAE4ADC3FA6042D68D9970B9BE245/)
 
 ### Fim do capítulo
 
-- [ ] Confirme no marcador do capítulo: **7/7 Lembranças**.
+- [x] Confirme no marcador do capítulo: **7/7 Lembranças**.
 
 ---
 
@@ -297,7 +297,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 2
 > ![Lembrança 2 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260693573/DF965753915D7EC29BAF927D753E21B6BF06A969/)
 
-- [ ] **Lembrança 3/5** — busque a estrela no canto inferior direito e abra o atalho por baixo, bloqueado por algas. Pegue os peixes vermelhos, volte na direção da tartaruga e entre no buraco no teto.
+- [x] **Lembrança 3/5** — busque a estrela no canto inferior direito e abra o atalho por baixo, bloqueado por algas. Pegue os peixes vermelhos, volte na direção da tartaruga e entre no buraco no teto.
 
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260707674/3AF93BA9CCD2ACA279D6191E3F1F0D1EBD1A3450/)
