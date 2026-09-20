@@ -443,7 +443,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 2 do capítulo 1
 > ![Lembrança 2 do capítulo 1](https://images.steamusercontent.com/ugc/798744783260348928/007404CD8BE6A64D0565B9A55644AA33666A1680/)
 
-- [ ] **Lembranças** — confirme a conquista por reunir todas as 28 Lembranças.
+- [x] **Lembranças** — confirme a conquista por reunir todas as 28 Lembranças.
 
 ## Capítulo 5 — sala secreta de Infância
 
