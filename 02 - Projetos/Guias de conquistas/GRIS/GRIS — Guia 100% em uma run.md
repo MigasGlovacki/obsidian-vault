@@ -1,6 +1,6 @@
 ---
 tags:
-  - jogos
+  - games
   - gris
   - steam
   - conquistas
@@ -14,7 +14,7 @@ progresso: 0/17
 
 # GRIS — Guia 100% em uma run
 
-- **Objetivo:** obter as 17 conquistas e todas as 32 Lembranças usando um único save.
+- **Objetivo:** obter as 17 conquistas e todas as 28 Lembranças usando um único save.
 - **Estrutura:** campanha em ordem + uma limpeza curta pela seleção de capítulos.
 - **Perdíveis permanentes:** nenhum; os capítulos podem ser repetidos depois.
 - **Atenção:** a **Lembrança 2 do capítulo 1** exige a habilidade de nadar, adquirida mais tarde. Ela está na etapa de limpeza final.
@@ -32,14 +32,13 @@ progresso: 0/17
 - [ ] **Fases do luto:** Negação, Raiva, Barganha, Depressão e Aceitação — 0/5
 - [ ] **Coleção:** Lembranças e Infância — 0/2
 
-### Lembranças — 0/32
+### Lembranças — 0/28
 
 - [ ] Capítulo 1 — 0/2
 - [ ] Capítulo 2 — 0/7
 - [ ] Capítulo 3 — 0/7
 - [ ] Capítulo 4 — 0/5
 - [ ] Capítulo 5 — 0/7
-- [ ] Lembranças obtidas naturalmente pela história — 0/4
 
 ---
 
@@ -49,7 +48,7 @@ progresso: 0/17
 
 ### Começo do jogo
 
-- [ ] **Negação** — assim que puder se mover livremente, avance um pouco para a direita e depois volte totalmente à esquerda. Diante da estátua, deixe Gris cair e se levantar sozinha; não toque no controle/teclado até a conquista aparecer.
+- [x] **Negação** — assim que puder se mover livremente, avance um pouco para a direita e depois volte totalmente à esquerda. Diante da estátua, deixe Gris cair e se levantar sozinha; não toque no controle/teclado até a conquista aparecer.
 
 > [!example]- Referência visual — Negação
 > ![Local da conquista Negação](https://images.steamusercontent.com/ugc/797617069028909969/C67A6173FF8A625B29D55B5283E721CA83E46D18/)
@@ -201,21 +200,22 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 ## Capítulo 3 — Azul
 
 > [!warning] Maçãs
-> Faça o capítulo desde o início e deixe o amigo da floresta comer todas as maçãs visíveis. O guia destaca quatro fáceis de perder; elas estão listadas abaixo.
+> Faça o capítulo desde o início e deixe o amigo da floresta comer as sete maçãs. O guia destaca quatro fáceis de perder; as outras três ficam no caminho principal.
 
 ### Antes da nova habilidade
 
+- [ ] **Maçãs do caminho 1–3/7** — deixe o amigo comer as três maçãs evidentes encontradas na rota principal.
 - [ ] **Lembrança 1/7** — suba todo o caminho até o topo.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260591561/0B026C5617EC6A3AA9BFD9D1520A0B13BDF65C2F/)
 
-- [ ] **Maçã perdível 1/4** — conduza o amigo até a maçã mostrada na referência e espere ele comê-la.
+- [ ] **Maçã perdível 4/7** — conduza o amigo até a maçã mostrada na referência e espere ele comê-la.
 
 > [!example]- Referência visual — Maçã 1
 > ![Maçã perdível 1](https://images.steamusercontent.com/ugc/813375767284722937/A43F38022F547A6E8CAE59CDBE8EAE5BDEB18FCE/)
 
-- [ ] **Maçã perdível 2/4** — quando o amigo subir para derrubar a pedra que bloqueia o caminho, volte rapidamente para a direita para fazê-lo seguir você.
+- [ ] **Maçã perdível 5/7** — quando o amigo subir para derrubar a pedra que bloqueia o caminho, volte rapidamente para a direita para fazê-lo seguir você.
 
 > [!example]- Referência visual — Maçã 2
 > ![Maçã perdível 2](https://images.steamusercontent.com/ugc/813375767284735963/C2A1248D40EAD5E07631C114021DFD7FF091E802/)
@@ -232,7 +232,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 3
 > ![Lembrança 3 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260607063/BA8EAD2B71C5BCD4B29AC2E39A7592A5387A0082/)
 
-- [ ] **Maçã perdível 3/4** — leve o amigo até a maçã mostrada na referência.
+- [ ] **Maçã perdível 6/7** — leve o amigo até a maçã mostrada na referência.
 
 > [!example]- Referência visual — Maçã 3
 > ![Maçã perdível 3](https://images.steamusercontent.com/ugc/813375767284742330/C3C068D8C309A23097C1AD2DCE23383C2DFE3991/)
@@ -257,12 +257,12 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 6
 > ![Lembrança 6 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260627634/D5DA6405088B66B6DBDEEC9C835F23AE7F1EB764/)
 
-- [ ] **Maçã perdível 4/4** — depois do grande escorregador, reencontre o amigo e volte para a direita.
+- [ ] **Maçã perdível 7/7** — depois do grande escorregador, reencontre o amigo e volte para a direita.
 
 > [!example]- Referência visual — Maçã 4
 > ![Maçã perdível 4](https://images.steamusercontent.com/ugc/813375767284750725/432FACA6091F6A918DEF3D375139E55BA523BC45/)
 
-- [ ] **Maçãs** — confirme que a conquista apareceu; além das quatro acima, o amigo precisa comer todas as maçãs evidentes do caminho.
+- [ ] **Maçãs** — confirme que a conquista apareceu depois que o amigo comer as sete maçãs.
 
 ### Checkpoint 3
 
@@ -438,7 +438,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 2 do capítulo 1
 > ![Lembrança 2 do capítulo 1](https://images.steamusercontent.com/ugc/798744783260348928/007404CD8BE6A64D0565B9A55644AA33666A1680/)
 
-- [ ] **Lembranças** — confirme a conquista por reunir todas as 32 Lembranças.
+- [ ] **Lembranças** — confirme a conquista por reunir todas as 28 Lembranças.
 
 ## Capítulo 5 — sala secreta de Infância
 
@@ -459,7 +459,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 - [ ] **5/5** conquistas de história.
 - [ ] **5/5** desafios de capítulo.
 - [ ] **5/5** fases do luto.
-- [ ] **32/32** Lembranças.
+- [ ] **28/28** Lembranças.
 - [ ] **Infância** concluída.
 - [ ] Steam mostra **17/17 conquistas**.
 
@@ -467,4 +467,3 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 - [GRIS 100% Guide — guia original](https://steamcommunity.com/sharedfiles/filedetails/?id=1590842073)
 - [Desbloqueando todas as conquistas — tradução oficial em PT-BR](https://steamcommunity.com/sharedfiles/filedetails/?id=1746106436)
-
