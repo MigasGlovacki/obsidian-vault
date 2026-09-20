@@ -164,7 +164,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -178,7 +178,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Luminária/Jogos/Minecraft/EverWorld/Otimização Farm de Enderman.md",
+                "file": "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Sumário"
             }
           },
           {
@@ -222,12 +222,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +242,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8a5fa145eabb57e",
+  "active": "ec0085ee7b65a191",
   "lastOpenFiles": [
     "02 - Projetos/Jogos/Diario de Gris.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",

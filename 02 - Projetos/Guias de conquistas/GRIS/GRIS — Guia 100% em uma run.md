@@ -74,20 +74,17 @@ progresso: 0/17
 
 ### Checkpoint 1
 
-> [!info] Divisão de checkpoint revisada
-> A Lembrança da criatura de pedra em movimento ainda pertence ao checkpoint 1; esta posição foi corrigida durante a run atual.
-
 - [x] **Lembrança 1/7** — logo depois de o título do jogo aparecer, desça e siga para a esquerda.
 
 > [!example]- Referência visual — Lembrança 1
 > ![Lembrança 1 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260356242/0727121C657A701045B97CF8F18136A6233632DC/)
 
+### Checkpoint 2 — criatura de pedra, forma de bloco, tempestade e Raiva
+
 - [x] **Lembrança 2/7** — na criatura de pedra em movimento, suba rapidamente até o topo e deslize até a Lembrança.
 
 > [!example]- Referência visual — Lembrança 2
 > ![Lembrança 2 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260365186/865CD3CB332A545637AE2F639981E267CC48E65D/)
-
-### Checkpoint 2 — forma de bloco, tempestade e Raiva
 
 - [x] **Lembrança 3/7** — depois de obter a forma de bloco, volte para a esquerda e quebre o teto.
 
@@ -112,22 +109,22 @@ progresso: 0/17
 
 Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e usando a habilidade. A ordem abaixo acompanha a progressão do capítulo.
 
-- [ ] **Inuksuit 1/14 — Estátua 1**
+- [x] **Inuksuit 1/14 — Estátua 1**
 
 > [!example]- Referência visual — Estátua 1
 > ![Estátua Inuksuit 1](https://images.steamusercontent.com/ugc/813375767280603102/A0ABEA08A1B0DF63B484B20A3CF57A76C1DF868D/)
 
-- [ ] **Inuksuit 2/14 — Estátua 2**
+- [x] **Inuksuit 2/14 — Estátua 2**
 
 > [!example]- Referência visual — Estátua 2
 > ![Estátua Inuksuit 2](https://images.steamusercontent.com/ugc/813375767280607930/865B6B845E7B051CC10901F13E316F542C532331/)
 
-- [ ] **Inuksuit 3/14 — Estátua 3**
+- [x] **Inuksuit 3/14 — Estátua 3**
 
 > [!example]- Referência visual — Estátua 3
 > ![Estátua Inuksuit 3](https://images.steamusercontent.com/ugc/813375767280609719/1FF264E8C11D109DF79D6357D6653C9BFF128496/)
 
-- [ ] **Inuksuit 4/14 — Estátua 4**
+- [x] **Inuksuit 4/14 — Estátua 4**
 
 > [!example]- Referência visual — Estátua 4
 > ![Estátua Inuksuit 4](https://images.steamusercontent.com/ugc/813375767280614905/A445DD355272912CBFF1405454D1A21941797179/)
