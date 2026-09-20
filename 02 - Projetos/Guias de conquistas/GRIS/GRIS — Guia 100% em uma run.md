@@ -400,7 +400,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 6
 > ![Lembrança 6 do capítulo 5](https://images.steamusercontent.com/ugc/798744783260761268/7813FAD5676A5AC46CD3B2860F1F22F6EFF1E98B/)
 
-- [ ] **Ave 6/7** — cante para a ave atrás da parede secreta, perto do caminho da Lembrança 6.
+- [x] **Ave 6/7** — cante para a ave atrás da parede secreta, perto do caminho da Lembrança 6.
 
 > [!example]- Referência visual — Ave 6 da rota
 > ![Ave mágica perto da Lembrança 6](https://images.steamusercontent.com/ugc/804369517281004087/7F5B38659C8985F8FA55EE267AC21BF42104C46A/)
