@@ -28,4 +28,13 @@ Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu libera
 
 Foi uma perseguição emocionante, e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no ceu, ainda não suficiente para poder subir, mas quase.
 
-A segunda parte da sessão se passou no céu, a mecânica principal era troca de gravidade, sempre que eu cruzava uma linha horizontal que havia naquela sessão, a gravidade invertia. Depois de fazer alguns puzzles e pegar mais pontinhos brancos (q agr eu estou suspeitando que sejam estrelas se for parar pra pensar), consegui progredir mais, o que fez eu finalmente recuperar a voz da Gris (o q até quebrou uma teoria minha que era as cores que faziam a voz dela voltar, pq sempre q eu pegava uma cor, a voz dela pouco a pouco voltava.)
+A segunda parte da sessão se passou no céu, a mecânica principal era troca de gravidade, sempre que eu cruzava uma linha horizontal que havia naquela sessão, a gravidade invertia. 
+
+Depois de fazer alguns puzzles e pegar mais pontinhos brancos (q agr eu estou suspeitando que sejam estrelas se for parar pra pensar), consegui progredir mais, o que fez eu finalmente recuperar a voz da Gris. (o q até quebrou uma teoria minha que era as cores que faziam a voz dela voltar, pq sempre q eu pegava uma cor, a voz dela pouco a pouco voltava, mas pode ser q a teoria ainda tenha um fundo de verdade)
+
+![[20260919213752_1.jpg|700]]
+
+Depois que eu terminei por lá e voltei para o hub, consegui terminar o caminho de constelação e finalmente subir para onde eu tinha que ir… ou não porque aquele monstro voltou de novo, e dessa vez ele assumiu a aparencia de Gris e a enguliu para dentro da propria escuridão
+
+![[20260919220201_1.jpg|500x281]]
+
