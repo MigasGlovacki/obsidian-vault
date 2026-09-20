@@ -101,7 +101,7 @@ progresso: 0/17
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 2](https://images.steamusercontent.com/ugc/798744783260401552/FABD7F9E72784F48FE603ABCD6FEFD386C974568/)
 
-- [ ] **Raiva** — na área em preto e branco, destrua as três estátuas frágeis. Evite usar o impacto de bloco sem necessidade. Faça primeiro as estátuas laterais e deixe a que o lança para fora da área por último.
+- [x] **Raiva** — na área em preto e branco, destrua as três estátuas frágeis. Evite usar o impacto de bloco sem necessidade. Faça primeiro as estátuas laterais e deixe a que o lança para fora da área por último.
 
 > [!example]- Referências visuais — as três estátuas de Raiva
 > ![Primeira estátua de Raiva](https://images.steamusercontent.com/ugc/797617069028941802/D3E36ECF09D4F215D7C3605F251DE9C7E26811B7/)
