@@ -2,6 +2,12 @@
 
 Usar prompt em anexo com uma imagem da arte do jogo, logo, emblema da steam e print com os achievements da steam.
 
+como pegar:
+
+1. abrir: `C:\Program Files (x86)\Steam\appcache\librarycache`
+2. pesquisar a ID do jogo na busca da pasta
+3. pegar o header.png e logo.png
+
 ---
 
 
