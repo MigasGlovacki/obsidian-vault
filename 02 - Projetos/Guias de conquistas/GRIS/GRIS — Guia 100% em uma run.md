@@ -292,7 +292,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 
 ### Checkpoint 2 — nado e tartaruga
 
-- [ ] **Lembrança 2/5** — depois de aprender a nadar, procure o caminho escondido à direita.
+- [x] **Lembrança 2/5** — depois de aprender a nadar, procure o caminho escondido à direita.
 
 > [!example]- Referência visual — Lembrança 2
 > ![Lembrança 2 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260693573/DF965753915D7EC29BAF927D753E21B6BF06A969/)
