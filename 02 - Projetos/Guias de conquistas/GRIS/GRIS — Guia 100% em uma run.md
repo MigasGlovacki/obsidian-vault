@@ -179,21 +179,21 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Estátua 11
 > ![Estátua Inuksuit 11](https://images.steamusercontent.com/ugc/813375767280631256/00DA13D9FD48C5EA4D37FDA15BCB1DBE94789CAB/)
 
-- [ ] **Inuksuit 12/14 — Estátua 12**
+- [x] **Inuksuit 12/14 — Estátua 12**
 
 > [!example]- Referência visual — Estátua 12
 > ![Estátua Inuksuit 12](https://images.steamusercontent.com/ugc/813375767280635741/11821A9917811625C03D2026498AAE329B281F8F/)
 
-- [ ] **Inuksuit 13/14 e 14/14 — Estátuas 13 e 14** — as duas aparecem juntas na mesma referência.
+- [x] **Inuksuit 13/14 e 14/14 — Estátuas 13 e 14** — as duas aparecem juntas na mesma referência.
 
 > [!example]- Referência visual — Estátuas 13 e 14
 > ![Estátuas Inuksuit 13 e 14](https://images.steamusercontent.com/ugc/813375767280637409/C3B3CE4B4BDC792DD0AA104A8130C89266F88183/)
 
-- [ ] **Inuksuit** — confirme que a conquista apareceu após destruir as 14 estátuas.
+- [x] **Inuksuit** — confirme que a conquista apareceu após destruir as 14 estátuas.
 
 ### Fim do capítulo
 
-- [ ] **Verde** — conclua o capítulo 2.
+- [x] **Verde** — conclua o capítulo 2.
 - [ ] Confirme no marcador do capítulo: **7/7 Lembranças**.
 
 ---
