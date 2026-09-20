@@ -251,12 +251,12 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260609941/B22E7F9F7197DD52576C752AF347C5B4DDEAB12E/)
 
-- [ ] **Barganha** — após a sequência de grandes saltos com pássaros vermelhos, encontre a estátua e tente cantar diante dela.
+- [x] **Barganha** — após a sequência de grandes saltos com pássaros vermelhos, encontre a estátua e tente cantar diante dela.
 
 > [!example]- Referência visual — Barganha
 > ![Local da conquista Barganha](https://images.steamusercontent.com/ugc/797617275571209821/F0F46B418242869A1121390767B6D12FA0F9B0A6/)
 
-- [ ] **Lembrança 5/7** — na sequência do pássaro grande, vá à plataforma esquerda, espere o grito e use a corrente de ar no momento certo para flutuar à direita.
+- [x] **Lembrança 5/7** — na sequência do pássaro grande, vá à plataforma esquerda, espere o grito e use a corrente de ar no momento certo para flutuar à direita.
 
 > [!example]- Referência visual — Lembrança 5
 > ![Lembrança 5 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260614684/6B844F85DB8190B221FE854D817A4D9246F82B94/)
@@ -266,7 +266,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 6
 > ![Lembrança 6 do capítulo 3](https://images.steamusercontent.com/ugc/798744783260627634/D5DA6405088B66B6DBDEEC9C835F23AE7F1EB764/)
 
-- [ ] **Azul** — conclua a sequência principal do capítulo e recupere a cor azul.
+- [x] **Azul** — conclua a sequência principal do capítulo e recupere a cor azul.
 
 ### Checkpoint 3
 
