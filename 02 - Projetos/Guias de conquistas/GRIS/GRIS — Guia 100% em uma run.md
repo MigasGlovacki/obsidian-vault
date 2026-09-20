@@ -320,12 +320,12 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Lembrança 4
 > ![Lembrança 4 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260715212/EE7243F2E0AB9A253D8D7AD94DB784311AACCFF0/)
 
-- [ ] Segundo encontro com a enguia concluído sem ser atingido.
-- [ ] **Enguia** — confirme que a conquista apareceu após os dois encontros.
+- [x] Segundo encontro com a enguia concluído sem ser atingido.
+- [x] **Enguia** — confirme que a conquista apareceu após os dois encontros.
 
 ### Checkpoint 3
 
-- [ ] **Lembrança 5/5** — nos quebra-cabeças de luz, encontre o caminho oculto entre o salto com pássaros vermelhos e a água.
+- [x] **Lembrança 5/5** — nos quebra-cabeças de luz, encontre o caminho oculto entre o salto com pássaros vermelhos e a água.
 
 > [!example]- Referência visual — Lembrança 5
 > ![Lembrança 5 do capítulo 4](https://images.steamusercontent.com/ugc/798744783260721419/E952A8E95D692DFD4644856210A8464AEE302D4F/)
