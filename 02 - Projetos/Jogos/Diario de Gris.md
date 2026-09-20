@@ -26,7 +26,7 @@ Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu libera
 
 ![[20260919210705_1.jpg|700x393]]
 
-Foi uma perseguição emocionante, e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no ceu, ainda não suficiente para poder subir, mas quase.
+Foi uma perseguição emocionante (com até um direito a susto), e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no ceu, ainda não suficiente para poder subir, mas quase.
 
 A segunda parte da sessão se passou no céu, a mecânica principal era troca de gravidade, sempre que eu cruzava uma linha horizontal que havia naquela sessão, a gravidade invertia. 
 
@@ -53,3 +53,6 @@ Agora sobre as minhas teorias: talvez aquele montro negro talvez fosse algum tip
 Talvez a mensagem desse jogo seja que por mais que você tente muito, não tem como resolver tudo sozinho, mas tambem que você não precisa resolver tudo sozinho. As pessoas proximas a você, se realmente gostam de você, vão te apoiar quando você mais precisar.
 
 Agora, a proxima parte dessa jornada vai ser pegar o resto das conquistas que faltam, mas isso fica pro João do futuro, o João do presente ta de saida, até pq ele escreveu bastante =)
+
+## 20/09/2026
+
