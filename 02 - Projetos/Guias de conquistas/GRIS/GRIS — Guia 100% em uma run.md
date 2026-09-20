@@ -376,7 +376,7 @@ Depois de adquirir a forma de bloco, destrua as pequenas estátuas saltando e us
 > [!example]- Referência visual — Ave 3 da rota
 > ![Ave mágica junto da Lembrança 4](https://images.steamusercontent.com/ugc/804369517281019373/FD4217FBF7A2484D47F6C736718693DF2DC2B8E4/)
 
-- [ ] **Ave 4/7** — depois de pegar a estrela da esquerda e antes do salto indicado, cante para a ave.
+- [x] **Ave 4/7** — depois de pegar a estrela da esquerda e antes do salto indicado, cante para a ave.
 
 > [!example]- Referência visual — Ave 4 da rota
 > ![Ave mágica depois da estrela esquerda](https://images.steamusercontent.com/ugc/804369517281026358/EAA2FCBCEA2A7FB0E2103C8717359D62D62BAB4C/)
