@@ -87,7 +87,7 @@ progresso: 0/52
 
 ### Antes da Citadel
 
-- [ ] **Pharloom's Welcome** — derrote Lace em Deep Docks. Faça isso logo após obter **Swift Step** e antes de avançar por Wormways para Blasted Steps/Sinner's Road ou mover a Flea Caravan para Greymoor.
+- [x] **Pharloom's Welcome** — derrote Lace em Deep Docks. Faça isso logo após obter **Swift Step** e antes de avançar por Wormways para Blasted Steps/Sinner's Road ou mover a Flea Caravan para Greymoor.
 
 > [!example]- Referência visual — acesso de Deep Docks para Lace
 > ![Rota em Deep Docks para a luta contra Lace](https://images.steamusercontent.com/ugc/15358992114720817272/0CE02B77A1B5E6438F031698C6E9523C0DCCAE21/)
@@ -112,7 +112,7 @@ progresso: 0/52
 
 ### Finais do Act 3
 
-- [ ] **Sister of the Void** — obtenha o Everbloom, retorne ao Abyss e derrote Lost Lace.
+- [x] **Sister of the Void** — obtenha o Everbloom, retorne ao Abyss e derrote Lost Lace.
 - [ ] **Passing of the Age** — ative a Wish no Lore Tablet secreto de Putrified Ducts, encontre Mister Mushroom nos sete locais e finalize o jogo no Abyss.
 
 **Ordem de Mister Mushroom:** Moss Grotto → Bone Bottom → Far Fields → Greymoor → The Slab → Mount Fay → topo de Pharloom acima de The Cradle.
@@ -121,15 +121,15 @@ progresso: 0/52
 
 ### Act 1
 
-- [ ] **Bound** — obtenha **Silk Spear** na estátua Weaver de Bone Bottom.
-- [ ] **Liberated** — use Silk Spear para libertar e derrotar Bell Beast em The Marrow.
-- [ ] **Servant** — conclua **Flexile Spines**, receba Drifter's Cloak e derrote Fourth Chorus em Far Fields.
-- [ ] **Fanatic** — obtenha Cling Grip após Sister Splinter e derrote Widow em Bellhart.
-- [ ] **Judge** — toque os cinco Ancient Bells e derrote Last Judge em Blasted Steps. Os sinos ficam em The Marrow, Deep Docks, Greymoor, Bellhart e Shellwood.
+- [x] **Bound** — obtenha **Silk Spear** na estátua Weaver de Bone Bottom.
+- [x] **Liberated** — use Silk Spear para libertar e derrotar Bell Beast em The Marrow.
+- [x] **Servant** — conclua **Flexile Spines**, receba Drifter's Cloak e derrote Fourth Chorus em Far Fields.
+- [x] **Fanatic** — obtenha Cling Grip após Sister Splinter e derrote Widow em Bellhart.
+- [x] **Judge** — toque os cinco Ancient Bells e derrote Last Judge em Blasted Steps. Os sinos ficam em The Marrow, Deep Docks, Greymoor, Bellhart e Shellwood.
 
 ### Act 2
 
-- [ ] **Last Dance** — derrote Cogwork Dancers em Cogwork Core.
+- [x] **Last Dance** — derrote Cogwork Dancers em Cogwork Core.
 - [ ] **Harmonious** — aprenda Vaultkeeper's Melody, Conductor's Melody e Architect's Melody.
 - [ ] **White Knight** — após as três melodias, suba até The Cradle e derrote Lace.
 - [ ] **Grey Ghost** — atravesse The Mist seguindo as borboletas com Needolin e derrote Phantom em Exhaust Organ. Mate os Wraiths antes: a área desaparece após o chefe e pode afetar o Journal.
@@ -142,12 +142,12 @@ progresso: 0/52
 - [ ] **Lamenter** — liberte Green Prince em Sinner's Road, acompanhe seus encontros, abra Old Verdania com Elegy of the Deep e derrote Clover Dancers.
 - [ ] **Seed** — com Silk Soar e Elegy of the Deep, derrote Seth, alcance a fonte sob Grand Gate e derrote Nyleth.
 - [ ] **Diva** — use Silk Soar na estátua de Hunter's March, encontre Elder Karmelita e inicie a luta com Elegy of the Deep.
-- [ ] **Tyrant** — use Elegy of the Deep diante do trono da Coral Tower em Sands of Karak e derrote Crust King Khann.
-- [ ] **Remembrance** — entregue os três corações aos Shamans na Ruined Chapel, conclua a memória e obtenha o Everbloom.
+- [x] **Tyrant** — use Elegy of the Deep diante do trono da Coral Tower em Sands of Karak e derrote Crust King Khann.
+- [x] **Remembrance** — entregue os três corações aos Shamans na Ruined Chapel, conclua a memória e obtenha o Everbloom.
 
 ## 3. Wishes e mundo
 
-- [ ] **Granted** — conclua qualquer primeira Wish; Berry Picking em Bone Bottom é uma opção inicial simples.
+- [x] **Granted** — conclua qualquer primeira Wish; Berry Picking em Bone Bottom é uma opção inicial simples.
 - [ ] **Resident** — conclua Restoration of Bellhart e Bellhart's Glory, receba a Bellhome Key de Pavo e entre na casa.
 - [ ] **Glutton** — conclua **The Great Taste of Pharloom** com Mossberry Stew, Vintage Nectar, Courier's Rasher, Crustnut e Pickled Muckmaggot. A entrega do Rasher é cronometrada, não permite fast travel e perde qualidade ao sofrer dano.
 - [ ] **Trail's End** — compre os mapas de Shakra, obtenha Faydown Cloak, derrote Groal the Great e siga os rastros dela até Bilewater.
@@ -161,12 +161,12 @@ progresso: 0/52
 
 ### Marcos iniciais
 
-- [ ] **Equipped** — obtenha o primeiro Tool.
-- [ ] **Claimed** — obtenha o primeiro Crest além do Hunter Crest inicial.
-- [ ] **Restored** — obtenha dois Spool Fragments.
-- [ ] **Protected** — obtenha quatro Mask Shards.
-- [ ] **Flea Finder** — resgate 15 Fleas.
-- [ ] **Keen Hunter** — receba o Journal de Nuu, registre 100 inimigos e volte a falar com ela.
+- [x] **Equipped** — obtenha o primeiro Tool.
+- [x] **Claimed** — obtenha o primeiro Crest além do Hunter Crest inicial.
+- [x] **Restored** — obtenha dois Spool Fragments.
+- [x] **Protected** — obtenha quatro Mask Shards.
+- [x] **Flea Finder** — resgate 15 Fleas.
+- [x] **Keen Hunter** — receba o Journal de Nuu, registre 100 inimigos e volte a falar com ela.
 
 ### Conjuntos completos
 

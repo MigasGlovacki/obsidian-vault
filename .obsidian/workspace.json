@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -225,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,8 +246,8 @@
   "active": "f8a5fa145eabb57e",
   "lastOpenFiles": [
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
-    "02 - Projetos/Guias de conquistas/Black Myth Wukong/Guia de conquistas do Black Myth Wukong.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
+    "02 - Projetos/Guias de conquistas/Black Myth Wukong/Guia de conquistas do Black Myth Wukong.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
     "04 - Referencias/Ghostrunner.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight - Silksong/Guia de conquistas do Hollow Knight - Silksong.md",
