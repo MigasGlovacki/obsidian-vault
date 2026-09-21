@@ -24,6 +24,9 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 > **Retorno:** exige habilidade ou estado posterior.  
 > **Perdível:** pode ser bloqueado no save; resolva antes do ponto indicado.
 
+> [!tip] Referências visuais
+> Abra o bloco de cada item para ver o **mapa aberto** e a **captura do ponto/interação**. As imagens vêm do guia visual da Steam listado nas fontes; em itens de loja, a segunda imagem mostra a compra.
+
 ## Resumo
 
 - Mapas — 28
@@ -117,9 +120,6 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 - [ ] **01 — Bone Bottom:** compre de Pebb por 300 Rosaries; se a loja não estiver disponível, compre de Grindle em Blasted Steps.
 - [ ] **02 — Deep Docks:** caminho superior entre The Marrow e Deep Docks, pelas plataformas do topo.
 
-> [!example]- Referência visual — Mask Shard de Deep Docks
-> ![Caminho superior para o Mask Shard de Deep Docks](https://images.steamusercontent.com/ugc/17002510661396866217/B56117CE3F8B24F9DDA0BF0DE0BB4D72309F6113/)
-
 - [ ] **03 — Weavenest Atla:** quebre a parede à direita para revelar a seção secreta.
 - [ ] **04 — Far Fields:** acerte o explosivo no topo para abrir o chão.
 - [ ] **05 — Shellwood:** avance pelo corredor acertando os buds para não cair nos espinhos.
@@ -151,9 +151,6 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 - [ ] **01 — Moss Grotto / limite de Bone Bottom:** à direita do elevador vindo de The Marrow; quebre a parede sob a sala de Rosaries.
 - [ ] **02 — Deep Docks:** ative a alavanca à direita e use as ember platforms.
-
-> [!example]- Referência visual — Spool Fragment de Deep Docks
-> ![Plataformas para o Spool Fragment de Deep Docks](https://images.steamusercontent.com/ugc/14368532910357591908/584CBD8D0E6C96DBE6FDE7B1932A0F6306C3613E/)
 
 - [ ] **03 — Bellhart:** compre de Frey por 270 Rosaries após liberar a loja.
 - [ ] **04 — Greymoor:** retorne com Cling Grip.
