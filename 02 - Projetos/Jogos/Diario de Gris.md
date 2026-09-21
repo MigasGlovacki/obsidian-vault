@@ -18,17 +18,17 @@ Uma observação importante é que eu comecei a jogar o jogo antes de decidir re
 
 Ok, o que era para ser apenas mais uma sessão no jogo virou a sessão que eu zerei o jogo, foram mais ou menos 3h de sessão, tirando o tempo que eu pausei e deixei o jogo aberto pra comer um pastel que a mãe trouxe kk.
 
-Enfim, eu comecei da onde eu tinha parado na ultima sessão obviamente, eu ja tinha pego as cores vermelho, azul, e verde, conforme as conquistas tambem refletem, a parte era uma fase de agua onde eu tinha que guiar a personagem (vou chamar ela de Gris mesmo daqui pra frente) por de baixo d’agua.
+Enfim, eu comecei da onde eu tinha parado na ultima sessão obviamente, eu já tinha pego as cores vermelho, azul, e verde, conforme as conquistas também refletem, a parte era uma fase de agua onde eu tinha que guiar a personagem (vou chamar ela de Gris mesmo daqui pra frente) por de baixo d’agua.
 
 Eu fiquei meio perdido mas não demorou muito para eu encontrar os pontinhos brancos pra eu prosseguir no jogo, o que inclusive foi um leve choque porque quando eu levei os pontos branco para uma pedra meio rosa, ela se revelou na verdade como uma tartaruga rosa.
 
 ![[20260919205932_1.jpg|695]]
 
-Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu liberar a cor amarela no jogo, tambem me dando uma conquista por isso na steam. Mas pouco tempo depois, quando eu estava voltando para superficie, aquele passaro preto que me havia atacado anteriormente voltou, e com uma nova forma de enguia.
+Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu liberar a cor amarela no jogo, também me dando uma conquista por isso na steam. Mas pouco tempo depois, quando eu estava voltando para superfície, aquele pássaro preto que me havia atacado anteriormente voltou, e com uma nova forma de enguia.
 
 ![[20260919210705_1.jpg|700x393]]
 
-Foi uma perseguição emocionante (com até um direito a susto), e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no ceu, ainda não suficiente para poder subir, mas quase.
+Foi uma perseguição emocionante (com até um direito a susto), e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no céu, ainda não suficiente para poder subir, mas quase.
 
 A segunda parte da sessão se passou no céu, a mecânica principal era troca de gravidade, sempre que eu cruzava uma linha horizontal que havia naquela sessão, a gravidade invertia. 
 
@@ -50,7 +50,7 @@ Nisso acontece um momento bem emocionante onde Gris abraça a estatua e a estatu
 
 ![[20260919220726_1.jpg|700x393]]
 
-Agora sobre as minhas teorias: talvez aquele montro negro talvez fosse algum tipo de representação do medo da Gris? ou talvez se levar em consideração a aparencia final pode ser a sombra dela, tipo uma manifestação de pensamentos negativos? tipo a gente quando tem pensamentos negativos ou algo do gênero, e a estatua pode representar alguem que afasta essas forças negativas, como alguem querido.
+Agora sobre as minhas teorias: talvez aquele monstro negro talvez fosse algum tipo de representação do medo da Gris? ou talvez se levar em consideração a aparência final pode ser a sombra dela, tipo uma manifestação de pensamentos negativos? tipo a gente quando tem pensamentos negativos ou algo do gênero, e a estatua pode representar alguém que afasta essas forças negativas, como alguém querido.
 
 Talvez a mensagem desse jogo seja que por mais que você tente muito, não tem como resolver tudo sozinho, mas tambem que você não precisa resolver tudo sozinho. As pessoas proximas a você, se realmente gostam de você, vão te apoiar quando você mais precisar.
 
@@ -58,21 +58,23 @@ Agora, a proxima parte dessa jornada vai ser pegar o resto das conquistas que fa
 
 ## 20/09/2026
 
-Eu terminei, eu consegui fechar a platina desse jogo, com ajuda do [[GRIS — Guia 100% em uma run]] que o Codex me ajudou a fazer, ficou muito bom e o formato ele vai ser usado de base para os proximos.
+Eu terminei, eu consegui fechar a platina desse jogo, com ajuda do [[GRIS — Guia 100% em uma run]] que o Codex me ajudou a fazer, ficou muito bom e o formato ele vai ser usado de base para os próximos.
 
 Não vou me alongar muito nessa nota, mas se eu pudesse resumir o que eu senti no fim em uma frase, seria:
 
 > Esse jogo me fez lembrar porque videogames também são obras de arte.
 
-O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de audio, o jeito que ele conta a historia sem falar uma palavra, tudo nesse jogo é lindo. Claro que não é perfeito, teve alguns momentos em que eu senti sono, mas isso pode ser algo mais meu do que culpa do jogo em si (isso que da ficar vendo reels!).
+O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de áudio, o jeito que ele conta a historia sem falar uma palavra, tudo nesse jogo é lindo. Claro que não é perfeito, teve alguns momentos em que eu senti sono, mas isso pode ser algo mais meu do que culpa do jogo em si (isso que da ficar vendo reels!).
 
-Um momento que eu não vou esquecer é uma conquista (acho que era Anger) que eu tive que repetir o checkpoint 3 vezes por burrice pq eu não tava conseguindo fazer o que era pra fazer (spoiler: era algo extremamente simples, só quebrar 3 estatuas)
+Um momento que eu não vou esquecer é uma conquista (acho que era Anger) que eu tive que repetir o checkpoint 3 vezes por burrice pq eu não estava conseguindo fazer o que era pra fazer (spoiler: era algo extremamente simples, só quebrar 3 estatuas)
 
 E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada o jogo todo realmente era a **mãe** de Gris
 
 ![[20260920200848_1.jpg|700x393]]
 
-A minha nota pra esse jogo é: **8.5/10**
+E uma coisa inter
+
+No geral, gostei muito do jogo e recomendo demais que outras pessoas joguem, e ele tem um bom preço em sales, então não é uma experiencia de se jogar fora.
 
 ---
 
