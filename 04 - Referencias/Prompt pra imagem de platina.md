@@ -6,7 +6,7 @@ como pegar:
 
 1. abrir: `C:\Program Files (x86)\Steam\appcache\librarycache`
 2. pesquisar a ID do jogo na busca da pasta (fica em updates na parte de propriedades do jogo na steam)
-3. pegar o library_hero.jpg e logo.png e anexar ao prompt no chatGPT
+3. pegar o library_hero.jpg e logo.png e anexar ao prompt no ChatGPT
 
 ---
 
@@ -21,3 +21,4 @@ Respeite o estilo de arte e as fontes originais.
 Defina a proporção como 16:9
 ```
 
+Exemplo da arte completa em [[Diario de Gris]] no final da nota.
