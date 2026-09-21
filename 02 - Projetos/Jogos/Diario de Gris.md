@@ -22,7 +22,7 @@ Eu fiquei meio perdido mas não demorou muito para eu encontrar os pontinhos bra
 
 ![[20260919205932_1.jpg|695]]
 
-Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu liberar a cor amarela no jogo, tambem me dando uma conquista por isso na steam. Mas pouco tempo depois, quando eu estava voltando para superficie, aquele passaro preto que me havia atacado anteriormente voltou, e com uma nova forma de serpente ou algo assim.
+Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu liberar a cor amarela no jogo, tambem me dando uma conquista por isso na steam. Mas pouco tempo depois, quando eu estava voltando para superficie, aquele passaro preto que me havia atacado anteriormente voltou, e com uma nova forma de enguia.
 
 ![[20260919210705_1.jpg|700x393]]
 
@@ -62,4 +62,12 @@ Não vou me alongar muito nessa nota, mas se eu pudesse resumir o que eu senti n
 
 > Esse jogo me fez lembrar porque videogames também são obras de arte.
 
-O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de audio, o jeito que ele conta a historia sem falar uma palavra, tudo nesse jogo é lindo
+O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de audio, o jeito que ele conta a historia sem falar uma palavra, tudo nesse jogo é lindo.
+
+Claro que não é perfeito, teve alguns momentos em que eu senti sono, mas isso pode ser algo mais meu do que culpa do jogo em si (isso que da ficar vendo reels!).
+
+Um momento que eu não vou esquecer é uma conquista (acho que era Anger) que eu tive que repetir o checkpoint 3 vezes por burrice pq eu não tava conseguindo fazer o que era pra fazer (spoiler: era algo extremamente simples, só quebrar 3 estatuas)
+
+E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada o jogo todo realmente era a mãe de Gris
+
+![[20260920200848_1.jpg|500x281]]
