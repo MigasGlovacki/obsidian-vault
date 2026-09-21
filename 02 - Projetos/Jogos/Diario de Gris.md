@@ -4,6 +4,7 @@ tags:
   - diario
   - games
 status: concluido
+nota final: 8.5
 ---
 # Diário de GRIS
 
@@ -72,3 +73,9 @@ E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada
 ![[20260920200848_1.jpg|700x393]]
 
 A minha nota pra esse jogo é: **8.5/10**
+
+---
+
+# Arte de 100%
+
+![[100 Gris-1.png|700x393]]

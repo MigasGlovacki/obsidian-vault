@@ -25,12 +25,14 @@
             "id": "f8a5fa145eabb57e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/20260920200848_1.jpg"
+                "file": "02 - Projetos/Jogos/Diario de Gris.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "20260920200848_1"
+              "icon": "lucide-file",
+              "title": "Diario de Gris"
             }
           }
         ],
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/20260920200848_1.jpg",
+                "file": "02 - Projetos/Jogos/Diario de Gris.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/20260920200848_1.jpg",
+                "file": "02 - Projetos/Jogos/Diario de Gris.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,20 +241,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a0c9e9d2e3c9f04",
+  "active": "f8a5fa145eabb57e",
   "lastOpenFiles": [
+    "100 Gris-1.png",
+    "Attachments/20260919213752_1.jpg",
+    "Attachments/20260919210705_1.jpg",
+    "Attachments/20260919205932_1.jpg",
+    "Attachments/2026-05-14_20.47.15 1.png",
+    "Attachments/2026-05-14_20.47.15.png",
+    "Attachments/2026-05-14_20.49.07.png",
+    "Attachments/digital_circus.png",
+    "Attachments/20260919220201_1.jpg",
+    "Attachments/20260919220726_1.jpg",
+    "Attachments/20260920200848_1.jpg",
+    "02 - Projetos/Jogos/Diario de Gris.md",
+    "02 - Projetos/Jogos/Diário do Ghostrunner.md",
     "02 - Projetos/Jogos/Geometry Dash/Dificuldades dos Demons.md",
     "02 - Projetos/Jogos/Geometry Dash/Cardápio de fases.md",
     "02 - Projetos/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
-    "02 - Projetos/Jogos/Diario de Gris.md",
-    "02 - Projetos/Jogos/Diário do Ghostrunner.md",
     "02 - Projetos/Jogos/Diário de jogos.md",
     "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
     "_templates_/diario de jogo.md",
     "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/qa/VALIDATION.md",
     "02 - Projetos/Jogos/Geometry Dash/User coins fáceis - criadores.md",
-    "Attachments/20260920200848_1.jpg",
     "02 - Projetos/EverWorld/Entradas mensais/Setembro de 2026.md",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong/Guia de conquistas do Black Myth Wukong.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
@@ -269,17 +281,7 @@
     "04 - Referencias/Prompt pra imagem de platina.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "02 - Projetos/Guias de conquistas/GRIS",
-    "Attachments/20260919220726_1.jpg",
-    "Attachments/20260919220201_1.jpg",
-    "Attachments/20260919213752_1.jpg",
-    "Attachments/20260919210705_1.jpg",
-    "Attachments/20260919205932_1.jpg",
     "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.restored.md",
-    "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.md",
-    "Attachments/2026-05-14_20.45.33.png",
-    "Attachments/2026-05-14_20.49.07.png",
-    "Attachments/2026-05-14_20.47.15.png",
-    "Attachments/2026-05-14_20.47.15 1.png",
     "Excalidraw",
     "02 - Projetos/EverWorld/Geral.canvas",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
