@@ -7,7 +7,6 @@ tags:
   - checklist
 plataforma: Steam
 escopo: Jogo base — Sea of Sorrow fora do guia
-progresso: 0/219
 ---
 
 # Hollow Knight: Silksong — Coletáveis
@@ -27,25 +26,25 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Resumo
 
-- [ ] Mapas — 0/28
-- [ ] Bellways — 0/12
-- [ ] Ventrica Stations — 0/7
-- [ ] Mask Shards — 0/20
-- [ ] Spool Fragments — 0/18
-- [ ] Silk Hearts — 0/3
-- [ ] Fleas — 0/30
-- [ ] Crests colecionáveis — 0/6
-- [ ] Silk Skills — 0/6
-- [ ] Memory Lockets — 0/20
-- [ ] Tools — 0/51
-- [ ] Abilities — 0/6
-- [ ] Crafting Kit upgrades — 0/4
-- [ ] Tool Pouch upgrades — 0/4
-- [ ] Needle upgrades — 0/4
+- Mapas — 28
+- Bellways — 12
+- Ventrica Stations — 7
+- Mask Shards — 20
+- Spool Fragments — 18
+- Silk Hearts — 3
+- Fleas — 30
+- Crests colecionáveis — 6
+- Silk Skills — 6
+- Memory Lockets — 20
+- Tools — 51
+- Abilities — 6
+- Crafting Kit upgrades — 4
+- Tool Pouch upgrades — 4
+- Needle upgrades — 4
 
 # Mapas e transporte
 
-## Mapas — 0/28
+## Mapas
 
 ### Act 1
 
@@ -84,7 +83,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 - [ ] **The Abyss Map** — sala acima do último bench.
 - [ ] **Verdania Map** — siga à direita do Green Prince durante a rota de Lamenter.
 
-## Bellways — 0/12
+## Bellways
 
 - [ ] **The Marrow** — liberada após Bell Beast.
 - [ ] **Bone Bottom** — liberada após Bell Beast.
@@ -99,7 +98,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 - [ ] **Bilewater** — 80 Rosaries.
 - [ ] **Putrified Ducts** — 120 Rosaries.
 
-## Ventrica Stations — 0/7
+## Ventrica Stations
 
 - [ ] **Grand Bellway** — 80 Rosaries.
 - [ ] **First Shrine** — 80 Rosaries.
@@ -111,7 +110,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 # Upgrades de Hornet
 
-## Mask Shards — 0/20
+## Mask Shards
 
 ### Act 1
 
@@ -146,7 +145,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 - [ ] **19 — Blasted Steps:** retorne com Silk Soar; não dependa do truque de precisão disponível antes.
 - [ ] **20 — Mount Fay:** use Silk Soar na plataforma sobre a água, quebre o gelo e suba pela rota de inimigos.
 
-## Spool Fragments — 0/18
+## Spool Fragments
 
 ### Act 1
 
@@ -176,7 +175,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 - [ ] **17 — Memorium:** lado esquerdo, depois dos espinhos; exige Faydown Cloak/Clawline.
 - [ ] **18 — High Halls:** topo da torre esquerda; exige Faydown Cloak, Cling Grip e Clawline.
 
-## Silk Hearts — 0/3
+## Silk Hearts
 
 - [ ] **01 — Bell Beast:** recompensa de história após derrotá-la.
 - [ ] **02 — Whiteward:** pegue Surgeon's Key na passagem secreta próxima a Underworks, abra a ala inferior esquerda e derrote The Unravelled.
@@ -184,7 +183,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 # Fleas, Crests, Silk Skills e Memory Lockets
 
-## Fleas — 0/30
+## Fleas
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
@@ -234,7 +233,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 - [ ] **30 — Putrified Ducts:** suba a Barnak vine até o topo.
 - [ ] Receba a recompensa final de Mooshka em Fleatopia para **Fleafriend**.
 
-## Crests colecionáveis — 0/6
+## Crests colecionáveis
 
 O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis itens para coletar e seis pontos percentuais nos 100%.
 
@@ -245,7 +244,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 - [ ] **Witch Crest — rota da maldição:** obtenha **Twisted Child** primeiro; depois remova a curse, conclua **Infestation Operation** e entregue Steel Spines compradas de Crull e Benjin.
 - [ ] **Shaman Crest — Moss Grotto, Act 3:** use Silk Soar na sala dos snails e quebre as passagens até a Snail Shell.
 
-## Silk Skills — 0/6
+## Silk Skills
 
 - [ ] **Silk Spear — Bone Bottom:** estátua Weaver; obrigatório para a história.
 - [ ] **Thread Storm — Greymoor:** ative Craw Lake e use as plataformas externas até o topo.
@@ -254,7 +253,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 - [ ] **Rune Rage — The Slab:** use Key of Apostate e derrote First Sinner.
 - [ ] **Pale Nails — The Cradle, Act 3:** retorne ao topo com Silk Soar e reclame o braço de Grand Mother Silk.
 
-## Memory Lockets — 0/20
+## Memory Lockets
 
 São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**; os cinco restantes servem para completar o inventário.
 
@@ -292,7 +291,7 @@ São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**;
 
 Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter são temporários e não entram nos 51. Em Steel Soul, **Shell Satchel** ocupa o lugar de **Dead Bug's Purse**.
 
-## Red Tools — 0/18
+## Red Tools
 
 - [ ] **Straight Pin — The Marrow:** liberte Grindle da prisão.
 - [ ] **Threefold Pin — Greymoor:** conclua o combate de Craw Lake e use os balões até a sala secreta no nordeste.
@@ -313,7 +312,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 - [ ] **Flea Brew — Flea Caravan:** resgate cinco Fleas, mova a caravan para Greymoor e fale com Grishkin.
 - [ ] **Plasmium Phial — Wormways:** conclua **Alchemist's Assistant**.
 
-## Blue Tools — 0/21
+## Blue Tools
 
 - [ ] **Druid's Eye — Bone Bottom:** conclua **Berry Picking**. Druid's Eyes é upgrade do mesmo Tool.
 - [ ] **Magma Bell — Deep Docks:** Forge Daughter, 110 Rosaries + 1 Craftmetal.
@@ -337,7 +336,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 - [ ] **Egg of Flealia — Fleatopia:** resgate 30 Fleas e fale com Mooshka.
 - [ ] **Pin Badge — Mount Fay, Act 3:** conclua **Fatal Resolve**.
 
-## Yellow Tools — 0/12
+## Yellow Tools
 
 - [ ] **Compass — The Marrow:** Shakra, 70 Rosaries.
 - [ ] **Shard Pendant — The Marrow:** sala lateral no trecho de lava e plataformas quebráveis.
@@ -354,7 +353,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 # Abilities e upgrades dos 100%
 
-## Abilities — 0/6
+## Abilities
 
 - [ ] **Swift Step — Deep Docks:** estátua Weaver no alto da área.
 - [ ] **Cling Grip — Shellwood:** após Sister Splinter.
@@ -363,21 +362,21 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 - [ ] **Needle Strike — Blasted Steps:** fale com Pinstress.
 - [ ] **Silk Soar — The Abyss, Act 3:** obtido na primeira visita.
 
-## Crafting Kit upgrades — 0/4
+## Crafting Kit upgrades
 
 - [ ] **01 — Deep Docks:** Forge Daughter, 180 Rosaries.
 - [ ] **02 — Bellhart:** recompensa de Creige por **Crawbug Clearing** e 25 Ragpelts.
 - [ ] **03 — Underworks:** Twelfth Architect, 450 Rosaries.
 - [ ] **04 — Blasted Steps:** Grindle, 700 Rosaries.
 
-## Tool Pouch upgrades — 0/4
+## Tool Pouch upgrades
 
 - [ ] **01 — The Marrow:** acerte o alvo de Loddie 15 vezes após Widow.
 - [ ] **02 — Far Fields:** compre de Mort; no Act 3, compre de Grindle.
 - [ ] **03 — Greymoor:** complete **Bugs of Pharloom** para Nuu registrando 100 inimigos.
 - [ ] **04 — Fleatopia:** recompensa de Fleamaster Mooshka por mover a caravan.
 
-## Needle upgrades — 0/4
+## Needle upgrades
 
 - [ ] **Sharpened Needle:** após Widow, fale com Pinmaster Plinney em Bellhart; gratuito.
 - [ ] **Shining Needle:** entregue o Pale Oil de Choral Chambers a Plinney.
@@ -386,14 +385,14 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 # Recursos de apoio — fora do total
 
-## Simple Keys — 0/4
+## Simple Keys
 
 - [ ] **01 — Bone Bottom:** Pebb, 500 Rosaries; no Act 3, Grindle por 600.
 - [ ] **02 — Sinner's Road:** Roachkeeper no nordeste.
 - [ ] **03 — Songclave:** Jubilana, 650 Rosaries após **The Wandering Merchant**.
 - [ ] **04 — Sands of Karak:** corpo junto ao bench mais oriental.
 
-## Craftmetals — 0/8
+## Craftmetals
 
 - [ ] **01 — Bone Bottom:** Pebb, 60 Rosaries; no Act 3, Grindle por 120.
 - [ ] **02 — The Marrow:** exploda o túnel de rocha no nordeste da sala a oeste de Hunter's March.
@@ -406,13 +405,13 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 # Auditoria final
 
-- [ ] 28/28 mapas.
-- [ ] 12/12 Bellways e 7/7 Ventrica Stations.
-- [ ] 20/20 Mask Shards, 18/18 Spool Fragments e 3/3 Silk Hearts.
-- [ ] 30/30 Fleas e recompensa final de Mooshka.
-- [ ] 6/6 Crests colecionáveis, 6/6 Silk Skills e ao menos 15/20 Memory Lockets usados com Eva.
-- [ ] 51/51 Tools, sem contar upgrades/variantes como itens separados.
-- [ ] 6/6 Abilities e todos os upgrades de Crafting Kit, Tool Pouch e Needle.
+- [ ] Todos os 28 mapas.
+- [ ] Todas as 12 Bellways e as 7 Ventrica Stations.
+- [ ] Todos os Mask Shards, Spool Fragments e Silk Hearts.
+- [ ] Todas as 30 Fleas e a recompensa final de Mooshka.
+- [ ] Os 6 Crests colecionáveis, os 6 Silk Skills e ao menos 15 Memory Lockets usados com Eva.
+- [ ] Todos os 51 Tools, sem contar upgrades/variantes como itens separados.
+- [ ] Todas as 6 Abilities e todos os upgrades de Crafting Kit, Tool Pouch e Needle.
 - [ ] Farsight instalado em Bellhome e contador do jogo em 100%.
 
 # Fontes
@@ -423,4 +422,3 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 - [Silksong checklist — Spool Fragments](https://hollowknightsilksongchecklist.com/en/spool-fragment/)
 - [Silksong Checklist Hub — totais e áreas](https://game-checklists.com/silksong/)
 - [Steam — lista oficial de conquistas](https://steamcommunity.com/stats/1030300/achievements/)
-

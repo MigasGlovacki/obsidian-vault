@@ -8,7 +8,6 @@ tags:
 appid: 1030300
 plataforma: Steam
 escopo: Jogo base — Sea of Sorrow fora do guia
-progresso: 0/52
 ---
 
 # Hollow Knight: Silksong — Guia de conquistas
@@ -40,20 +39,20 @@ progresso: 0/52
 
 ## Resumo de progresso
 
-### Conquistas — 0/52
+### Conquistas — 52 no total
 
-- [ ] Perdíveis e finais — 0/6
-- [ ] História e chefes — 0/17
-- [ ] Wishes e mundo — 0/6
-- [ ] Coleção e 100% — 0/19
-- [ ] Speedrun e Steel Soul — 0/4
+- Perdíveis e finais — 6
+- História e chefes — 17
+- Wishes e mundo — 6
+- Coleção e 100% — 19
+- Speedrun e Steel Soul — 4
 
 ### Conjuntos de coletáveis
 
-- [ ] **Mapas, Bellways e Ventrica Stations** — ver [[Hollow Knight Silksong — Coletáveis#Mapas e transporte]].
-- [ ] **Mask Shards, Spool Fragments e Silk Hearts** — ver [[Hollow Knight Silksong — Coletáveis#Upgrades de Hornet]].
-- [ ] **Fleas, Crests, Silk Skills e Memory Lockets** — ver [[Hollow Knight Silksong — Coletáveis#Fleas, Crests, Silk Skills e Memory Lockets]].
-- [ ] **Tools, Abilities e upgrades de 100%** — ver [[Hollow Knight Silksong — Coletáveis#Tools — 51 exigidos por Arsenal e pelo 100%]].
+- **Mapas, Bellways e Ventrica Stations** — 47; detalhes em [[Hollow Knight Silksong — Coletáveis#Mapas e transporte]].
+- **Mask Shards, Spool Fragments e Silk Hearts** — 41; detalhes em [[Hollow Knight Silksong — Coletáveis#Upgrades de Hornet]].
+- **Fleas, Crests, Silk Skills e Memory Lockets** — 62; detalhes em [[Hollow Knight Silksong — Coletáveis#Fleas, Crests, Silk Skills e Memory Lockets]].
+- **Tools, Abilities e upgrades de 100%** — 69; detalhes em [[Hollow Knight Silksong — Coletáveis#Tools — 51 exigidos por Arsenal e pelo 100%]].
 
 ## Roadmap recomendado
 
@@ -261,4 +260,3 @@ Steel Soul é liberado ao finalizar o jogo. Também existe o comando no menu **E
 - [YouTube — Speed Completion abaixo de 30 horas, Kaskozhuk](https://www.youtube.com/watch?v=kfFWPPaxXsU)
 - [YouTube — Speedrunner abaixo de 5 horas](https://www.youtube.com/watch?v=noorgRbgnuM)
 - [YouTube — Steel Soul 100%](https://www.youtube.com/watch?v=08Ue75YS-88)
-
