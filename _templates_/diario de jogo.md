@@ -3,6 +3,7 @@ criado em:
 tags:
   - diario
   - games
+cssclasses:
 ---
 # Diário de [NOME DO JOGO]
 

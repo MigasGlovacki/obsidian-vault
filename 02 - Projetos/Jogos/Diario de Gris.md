@@ -3,6 +3,8 @@ criado em: 2026-09-19
 tags:
   - diario
   - games
+Estado:
+  - Concluido
 ---
 # Diário de GRIS
 
@@ -56,18 +58,18 @@ Agora, a proxima parte dessa jornada vai ser pegar o resto das conquistas que fa
 
 ## 20/09/2026
 
-Eu terminei, eu consegui fechar a platina desse jogo, com ajuda do [[GRIS — Guia 100% em uma run]] que o Codex me ajudou a fazer, ficou muito bom.
+Eu terminei, eu consegui fechar a platina desse jogo, com ajuda do [[GRIS — Guia 100% em uma run]] que o Codex me ajudou a fazer, ficou muito bom e o formato ele vai ser usado de base para os proximos.
 
 Não vou me alongar muito nessa nota, mas se eu pudesse resumir o que eu senti no fim em uma frase, seria:
 
 > Esse jogo me fez lembrar porque videogames também são obras de arte.
 
-O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de audio, o jeito que ele conta a historia sem falar uma palavra, tudo nesse jogo é lindo.
-
-Claro que não é perfeito, teve alguns momentos em que eu senti sono, mas isso pode ser algo mais meu do que culpa do jogo em si (isso que da ficar vendo reels!).
+O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de audio, o jeito que ele conta a historia sem falar uma palavra, tudo nesse jogo é lindo. Claro que não é perfeito, teve alguns momentos em que eu senti sono, mas isso pode ser algo mais meu do que culpa do jogo em si (isso que da ficar vendo reels!).
 
 Um momento que eu não vou esquecer é uma conquista (acho que era Anger) que eu tive que repetir o checkpoint 3 vezes por burrice pq eu não tava conseguindo fazer o que era pra fazer (spoiler: era algo extremamente simples, só quebrar 3 estatuas)
 
 E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada o jogo todo realmente era a mãe de Gris
 
-![[20260920200848_1.jpg|500x281]]
+![[20260920200848_1.jpg|700x393]]
+
+A minha nota pra esse jogo é: 8.5/10

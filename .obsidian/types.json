@@ -5,6 +5,7 @@
     "tags": "tags",
     "longform": "text",
     "Capitulo": "number",
-    "Personagens": "multitext"
+    "Personagens": "multitext",
+    "Estado": "multitext"
   }
 }
