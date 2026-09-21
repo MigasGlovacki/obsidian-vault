@@ -72,7 +72,9 @@ E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada
 
 ![[20260920200848_1.jpg|700x393]]
 
-E uma coisa inter
+E uma coisa interessante que eu só descobri porque eu fui atrás dos 100% é que a jornada reflete as 5 fases do lutos: **Negação, Raiva, Barganha, Depressão, Aceitação**.
+
+Cada uma delas é o nome de uma conquista no jogo, o que reflete bem o estado psicologico de Gris durante a jornada (coincidentemente, o jogo tem 5 capítulos)
 
 No geral, gostei muito do jogo e recomendo demais que outras pessoas joguem, e ele tem um bom preço em sales, então não é uma experiencia de se jogar fora.
 
