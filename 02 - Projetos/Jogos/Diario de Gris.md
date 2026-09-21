@@ -42,9 +42,9 @@ Depois que eu terminei por lá e voltei para o hub, consegui terminar o caminho 
 
 Eu fui parar para de baixo d’agua, mas o mundo quase não havia cor, apenas preto, branco um azul da mesma tonalidade do cabelo da Gris. Eu fui subindo e finalmente cheguei em terra firme, e então comecei a escalar o que parecia (e era mesmo) uma estatua em pedaços (aparentemente essa estatua é importante pq ela aparece desde a primeira cutscene do jogo, talvez seja a mãe dela?)
 
-Quando cheguei ao topo, Gris começa a cantar, o que faz as partes da estatua começarem a se juntar, mas o que tambem faz acordar o monstro que se manifesta atraves da agua daquela parte que era preta.
+Quando cheguei ao topo, Gris começa a cantar, o que faz as partes da estatua começarem a se juntar, mas o que tbm faz acordar o monstro que se manifesta através da agua daquela parte que era preta.
 
-A escuridao começa a engolir Gris, que não para de cantar até o ultimo segundo, e quando ela é totalmente engolida pela agua preta… A estatua acorda e começa a cantar tambem, o que afasta de vez a escuridão das duas.
+A escuridão começa a engolir Gris, que não para de cantar até o ultimo segundo, e quando ela é totalmente engolida pela agua preta… A estatua acorda e começa a cantar tbm, o que afasta de vez a escuridão das duas.
 
 Nisso acontece um momento bem emocionante onde Gris abraça a estatua e a estatua solta uma lagrima dos olhos. Assim fazendo as duas retornarem para o ponto de origem, que e na ponte de estrelas, então Gris começa a subir, ao som do canto da estatua, e assim o jogo encerra, subindo os creditos.
 
@@ -52,9 +52,9 @@ Nisso acontece um momento bem emocionante onde Gris abraça a estatua e a estatu
 
 Agora sobre as minhas teorias: talvez aquele monstro negro talvez fosse algum tipo de representação do medo da Gris? ou talvez se levar em consideração a aparência final pode ser a sombra dela, tipo uma manifestação de pensamentos negativos? tipo a gente quando tem pensamentos negativos ou algo do gênero, e a estatua pode representar alguém que afasta essas forças negativas, como alguém querido.
 
-Talvez a mensagem desse jogo seja que por mais que você tente muito, não tem como resolver tudo sozinho, mas tambem que você não precisa resolver tudo sozinho. As pessoas proximas a você, se realmente gostam de você, vão te apoiar quando você mais precisar.
+Talvez a mensagem desse jogo seja que por mais que você tente muito, não tem como resolver tudo sozinho, mas também que você não precisa resolver tudo sozinho. As pessoas proximas a você, se realmente gostam de você, vão te apoiar quando você mais precisar.
 
-Agora, a proxima parte dessa jornada vai ser pegar o resto das conquistas que faltam, mas isso fica pro João do futuro, o João do presente ta de saida, até pq ele escreveu bastante =)
+Agora, a próxima parte dessa jornada vai ser pegar o resto das conquistas que faltam, mas isso fica pro João do futuro, o João do presente ta de saida, até pq ele escreveu bastante =)
 
 ## 20/09/2026
 
@@ -72,9 +72,9 @@ E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada
 
 ![[20260920200848_1.jpg|700x393]]
 
-E uma coisa interessante que eu só descobri porque eu fui atrás dos 100% é que a jornada reflete as 5 fases do lutos: **Negação, Raiva, Barganha, Depressão, Aceitação**.
+E uma coisa interessante q eu só descobri porque eu fui atrás dos 100% é que a jornada reflete as 5 fases do lutos: **Negação, Raiva, Barganha, Depressão, Aceitação**.
 
-Cada uma delas é o nome de uma conquista no jogo, o que reflete bem o estado psicologico de Gris durante a jornada (coincidentemente, o jogo tem 5 capítulos)
+Cada uma delas é o nome de uma conquista no jogo, o que reflete bem o estado psicológico de Gris durante a jornada (coincidentemente, o jogo tem 5 capítulos)
 
 No geral, gostei muito do jogo e recomendo demais que outras pessoas joguem, e ele tem um bom preço em sales, então não é uma experiencia de se jogar fora.
 
