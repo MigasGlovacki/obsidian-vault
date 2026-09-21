@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Referencias/Prompt pra imagem de platina.md",
+                "file": "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt pra imagem de platina"
+              "title": "GRIS — Guia 100% em uma run"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Referencias/Prompt pra imagem de platina.md",
+                "file": "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -255,10 +255,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a0c9e9d2e3c9f04",
+  "active": "164fa4a9e01af25c",
   "lastOpenFiles": [
-    "04 - Referencias/Ghostrunner.md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Pizza Tower.md",
     "04 - Referencias/Prompt pra imagem de platina.md",
+    "04 - Referencias/Ghostrunner.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
     "02 - Projetos/Jogos/Diario de Gris.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
@@ -292,9 +295,6 @@
     "00 - Caixa de entrada/Untitled 1.md",
     "02 - Projetos/EverWorld/Entradas mensais/Setembro de 2026.md",
     "_templates_/Nota estruturada.md",
-    "_templates_/Nota rápida.md",
-    "_templates_/Cenas.md",
-    "01 - Diario/19 September, 2026.md",
     "02 - Projetos/EverWorld/Geral.canvas",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
     "03 - Areas/Relações",

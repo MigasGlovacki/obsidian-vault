@@ -9,7 +9,7 @@ tags:
 appid: 683320
 plataforma: Steam
 escopo: Jogo base — 17 conquistas
-progresso: 0/17
+progresso: 17/17
 ---
 
 # GRIS — Guia 100% em uma run
