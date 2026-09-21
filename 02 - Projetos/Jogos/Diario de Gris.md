@@ -68,7 +68,7 @@ O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de áu
 
 Um momento que eu não vou esquecer é uma conquista (acho que era Anger) que eu tive que repetir o checkpoint 3 vezes por burrice pq eu não estava conseguindo fazer o que era pra fazer (spoiler: era algo extremamente simples, só quebrar 3 estatuas)
 
-E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada o jogo todo realmente era a **mãe** de Gris
+E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada o jogo todo realmente era a **mãe** de Gris.
 
 ![[20260920200848_1.jpg|700x393]]
 
@@ -83,3 +83,5 @@ No geral, gostei muito do jogo e recomendo demais que outras pessoas joguem, e e
 # Arte de 100%
 
 ![[100 Gris-1.png|700x393]]
+
+Feita pelo 
