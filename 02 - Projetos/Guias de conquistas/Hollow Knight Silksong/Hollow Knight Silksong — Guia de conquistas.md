@@ -94,13 +94,13 @@ progresso: 0/52
 
 ### Finais de Mother Silk
 
-- [ ] **Weaver Queen** — derrote Mother Silk e escolha **Bind**. Se **Silk and Soul** já estiver concluída, não use a Needolin nesta tentativa.
+- [x] **Weaver Queen** — derrote Mother Silk e escolha **Bind**. Se **Silk and Soul** já estiver concluída, não use a Needolin nesta tentativa.
 - [ ] **Twisted Child** — conclua **Rite of the Pollip**, entregue o **Twisted Bud** de Bilewater a Greyroot e derrote Mother Silk ainda sob a Rooted Curse. A maldição trava o Crest, impede Tools e bloqueia cura por Silk.
 
 > [!example]- Referência visual — Twisted Bud em Bilewater
 > ![Localização do Twisted Bud usado para receber a Rooted Curse](https://images.steamusercontent.com/ugc/10497295769116938679/9DCC1E2D15B662A4A79FB051D9344EA4526F45AD/)
 
-- [ ] **Snared Silk** — conclua **Silk and Soul** e, após derrotar Mother Silk, use a **Needolin**. Esse final inicia o Act 3.
+- [x] **Snared Silk** — conclua **Silk and Soul** e, após derrotar Mother Silk, use a **Needolin**. Esse final inicia o Act 3.
 
 **Requisitos principais de Silk and Soul:**
 
@@ -130,27 +130,27 @@ progresso: 0/52
 ### Act 2
 
 - [x] **Last Dance** — derrote Cogwork Dancers em Cogwork Core.
-- [ ] **Harmonious** — aprenda Vaultkeeper's Melody, Conductor's Melody e Architect's Melody.
-- [ ] **White Knight** — após as três melodias, suba até The Cradle e derrote Lace.
-- [ ] **Grey Ghost** — atravesse The Mist seguindo as borboletas com Needolin e derrote Phantom em Exhaust Organ. Mate os Wraiths antes: a área desaparece após o chefe e pode afetar o Journal.
-- [ ] **Tragedian** — acesse The Stage por Whispering Vaults e derrote Trobbio.
+- [x] **Harmonious** — aprenda Vaultkeeper's Melody, Conductor's Melody e Architect's Melody.
+- [x] **White Knight** — após as três melodias, suba até The Cradle e derrote Lace.
+- [x] **Grey Ghost** — atravesse The Mist seguindo as borboletas com Needolin e derrote Phantom em Exhaust Organ. Mate os Wraiths antes: a área desaparece após o chefe e pode afetar o Journal.
+- [x] **Tragedian** — acesse The Stage por Whispering Vaults e derrote Trobbio.
 - [ ] **Heretic** — pegue a Key of Apostate em Putrified Ducts, abra a passagem em The Slab e derrote First Sinner.
 
 ### Act 3
 
-- [ ] **Bonded** — use uma Bellway no Act 3, derrote Bell Eater e obtenha Beastling Call.
+- [x] **Bonded** — use uma Bellway no Act 3, derrote Bell Eater e obtenha Beastling Call.
 - [ ] **Lamenter** — liberte Green Prince em Sinner's Road, acompanhe seus encontros, abra Old Verdania com Elegy of the Deep e derrote Clover Dancers.
-- [ ] **Seed** — com Silk Soar e Elegy of the Deep, derrote Seth, alcance a fonte sob Grand Gate e derrote Nyleth.
-- [ ] **Diva** — use Silk Soar na estátua de Hunter's March, encontre Elder Karmelita e inicie a luta com Elegy of the Deep.
+- [x] **Seed** — com Silk Soar e Elegy of the Deep, derrote Seth, alcance a fonte sob Grand Gate e derrote Nyleth.
+- [x] **Diva** — use Silk Soar na estátua de Hunter's March, encontre Elder Karmelita e inicie a luta com Elegy of the Deep.
 - [x] **Tyrant** — use Elegy of the Deep diante do trono da Coral Tower em Sands of Karak e derrote Crust King Khann.
 - [x] **Remembrance** — entregue os três corações aos Shamans na Ruined Chapel, conclua a memória e obtenha o Everbloom.
 
 ## 3. Wishes e mundo
 
 - [x] **Granted** — conclua qualquer primeira Wish; Berry Picking em Bone Bottom é uma opção inicial simples.
-- [ ] **Resident** — conclua Restoration of Bellhart e Bellhart's Glory, receba a Bellhome Key de Pavo e entre na casa.
-- [ ] **Glutton** — conclua **The Great Taste of Pharloom** com Mossberry Stew, Vintage Nectar, Courier's Rasher, Crustnut e Pickled Muckmaggot. A entrega do Rasher é cronometrada, não permite fast travel e perde qualidade ao sofrer dano.
-- [ ] **Trail's End** — compre os mapas de Shakra, obtenha Faydown Cloak, derrote Groal the Great e siga os rastros dela até Bilewater.
+- [x] **Resident** — conclua Restoration of Bellhart e Bellhart's Glory, receba a Bellhome Key de Pavo e entre na casa.
+- [x] **Glutton** — conclua **The Great Taste of Pharloom** com Mossberry Stew, Vintage Nectar, Courier's Rasher, Crustnut e Pickled Muckmaggot. A entrega do Rasher é cronometrada, não permite fast travel e perde qualidade ao sofrer dano.
+- [x] **Trail's End** — compre os mapas de Shakra, obtenha Faydown Cloak, derrote Groal the Great e siga os rastros dela até Bilewater.
 - [ ] **Fatal Resolve** — obtenha Needle Strike; no Act 3, aceite a Wish em Bellhart, leia a nota em Blasted Steps e derrote Pinstress em Mount Fay.
 - [ ] **Hero's Call** — no Act 3, encontre Garmond e Zaza três vezes em Far Fields, aceite a Wish em Bellhart e siga Zaza até Garmond em Blasted Steps.
 
@@ -170,13 +170,13 @@ progresso: 0/52
 
 ### Conjuntos completos
 
-- [ ] **Transported** — abra todas as Ventrica Stations da Citadel.
-- [ ] **Connected** — abra todas as Bellways de Pharloom.
+- [x] **Transported** — abra todas as Ventrica Stations da Citadel.
+- [x] **Connected** — abra todas as Bellways de Pharloom.
 - [ ] **Fleafriend** — resgate as 30 Fleas, mova a caravan para Fleatopia e receba o presente final de Fleamaster Mooshka.
 - [ ] **Regenerated** — obtenha os três Silk Hearts.
 - [ ] **Consumed** — reúna os seis Crests colecionáveis; com o Hunter Crest inicial, o inventário totaliza sete.
 - [ ] **Woven** — obtenha os seis Silk Skills.
-- [ ] **Cartographer** — obtenha os 28 mapas.
+- [x] **Cartographer** — obtenha os 28 mapas.
 - [ ] **Entwined** — reúna os Crests, abra os slots com ao menos 15 Memory Lockets e retorne a Eva em Weavenest Atla.
 - [ ] **Extended** — obtenha os 18 Spool Fragments.
 - [ ] **Masked** — obtenha os 20 Mask Shards.
