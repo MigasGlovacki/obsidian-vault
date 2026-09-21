@@ -4,7 +4,7 @@ tags:
   - hollow-knight-silksong
   - steam
   - conquistas
-  - guia-100-porcento
+  - 100-porcento
 appid: 1030300
 plataforma: Steam
 escopo: Jogo base — Sea of Sorrow fora do guia
