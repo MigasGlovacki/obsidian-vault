@@ -26,6 +26,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 > [!tip] Referências visuais
 > Abra o bloco de cada item para ver o **mapa aberto** e a **captura do ponto/interação**. As imagens vêm do guia visual da Steam listado nas fontes; em itens de loja, a segunda imagem mostra a compra.
+> Nos **Tools**, a fonte também intercala cartões de nome e etapas de quests; por isso esses blocos preservam as capturas complementares da rota.
 
 ## Resumo
 
@@ -891,114 +892,496 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 ## Red Tools
 
 - [ ] **Straight Pin — The Marrow:** liberte Grindle da prisão.
+
+> [!example]- Referências visuais — Straight Pin
+> ![Referência 1 — Straight Pin](https://images.steamusercontent.com/ugc/18068139150165370614/7AC6464DCCAA94E5810CD9BF7F4E3C40CEB6D721/)
+> ![Referência 2 — Straight Pin](https://images.steamusercontent.com/ugc/12533604268061515423/AAB6585CAB70D32C135436578DDAF3B29A1C6598/)
+> ![Referência 3 — Straight Pin](https://images.steamusercontent.com/ugc/11419554096885317869/A6D7AD637E231E30B9EF26EC173E5004236CB426/)
 - [ ] **Threefold Pin — Greymoor:** conclua o combate de Craw Lake e use os balões até a sala secreta no nordeste.
+
+> [!example]- Referências visuais — Threefold Pin
+> ![Referência 1 — Threefold Pin](https://images.steamusercontent.com/ugc/15423357441041790359/568612AAE4890C780297C95EF2AF0A35D213D8B6/)
+> ![Referência 2 — Threefold Pin](https://images.steamusercontent.com/ugc/10683949757487509949/9A95C476ABA904F2F3CC1B57CE4E2AEF9010C6F8/)
+> ![Referência 3 — Threefold Pin](https://images.steamusercontent.com/ugc/11931999828306881051/9756C19B20E9FD4894493634C4B8A1DC536724C1/)
 - [ ] **Sting Shard — Deep Docks:** Forge Daughter, 140 Rosaries + 1 Craftmetal.
+
+> [!example]- Referências visuais — Sting Shard
+> ![Referência 1 — Sting Shard](https://images.steamusercontent.com/ugc/16599143509371933487/DAA1F78404A35FCFE5682A74F1D4240EA437CB64/)
+> ![Referência 2 — Sting Shard](https://images.steamusercontent.com/ugc/10964172974656086660/A0197FB77F8215B59485A73DA07D56D8FD22FF59/)
+> ![Referência 3 — Sting Shard](https://images.steamusercontent.com/ugc/14617174231834298782/CB4905E04398D39C994CAFC9476E1CFF5FBB7E3F/)
 - [ ] **Tacks — Sinner's Road:** recompensa de **Roach Guts**.
+
+> [!example]- Referências visuais — Tacks
+> ![Referência 1 — Tacks](https://images.steamusercontent.com/ugc/16485717675690256105/18948D7E30636E19E5054AF05C2C474DB5D9E15C/)
+> ![Referência 2 — Tacks](https://images.steamusercontent.com/ugc/13388679072368866157/AB0DD13A7C535B0DD413BBBD3B69F17811BA4546/)
+> ![Referência 3 — Tacks](https://images.steamusercontent.com/ugc/9476863480860340823/9248DE91A1F5865A5C9CB7964753D3745497A606/)
 - [ ] **Longpin — Shellwood:** sala secreta no nordeste da primeira grande área.
+
+> [!example]- Referências visuais — Longpin
+> ![Referência 1 — Longpin](https://images.steamusercontent.com/ugc/13648472867699055517/2FA656AC70D16F1C09908AEAF6F33BB74BD9FC7D/)
+> ![Referência 2 — Longpin](https://images.steamusercontent.com/ugc/15678582849862297025/1B298E50BCECC6630F34F78E8A37CCA8E693EA78/)
+> ![Referência 3 — Longpin](https://images.steamusercontent.com/ugc/10620337037402079052/D1D738E7C666BE906B3087591B68CFCDA4780A9A/)
 - [ ] **Curveclaw — Hunter's March:** vendedor ant escondido, 140 Rosaries; se morrer, pegue no mesmo setor. A variante Curvesickle não é outro Tool.
+
+> [!example]- Referências visuais — Curveclaw
+> ![Referência 1 — Curveclaw](https://images.steamusercontent.com/ugc/11703037997248035512/5142F68742E65322C626E1D079C26A2CAC9BF2D4/)
+> ![Referência 2 — Curveclaw](https://images.steamusercontent.com/ugc/15316909069713185677/8F162FE448BBA42E62733AE39456A2304A2C1857/)
+> ![Referência 3 — Curveclaw](https://images.steamusercontent.com/ugc/14922595076443409659/0B81D3455F4393CEA4273389B656C1CBE144FCFD/)
 - [ ] **Throwing Ring — Bilewater:** recompensa de **Trail's End**.
+
+> [!example]- Referências visuais — Throwing Ring
+> ![Referência 1 — Throwing Ring](https://images.steamusercontent.com/ugc/10316518232503055572/E68B0608CCB9B96581F109AB61A45EE585C4C738/)
+> ![Referência 2 — Throwing Ring](https://images.steamusercontent.com/ugc/12566206906907658646/AA0304781FCCE93ADD85831D396983C6768D118D/)
+> ![Referência 3 — Throwing Ring](https://images.steamusercontent.com/ugc/13616486241409160478/53C618E61BA3298922D2197DA143BEA79DB104AD/)
 - [ ] **Pimpillo — Greymoor:** fabrique com 1 Craftmetal na sala acima de Yarnaby; exige Clawline.
+
+> [!example]- Referências visuais — Pimpillo
+> ![Referência 1 — Pimpillo](https://images.steamusercontent.com/ugc/18046821072252733261/072E94FF899D2F1BE4133A29CAC59CA6C11FCF61/)
+> ![Referência 2 — Pimpillo](https://images.steamusercontent.com/ugc/13960868169049617170/C6F9ADDB6EC6EF21797D44B3209EF0C2B0483073/)
+> ![Referência 3 — Pimpillo](https://images.steamusercontent.com/ugc/10701737062931480078/C05196978B8B3C6013D861DB123B8D87C65F7FAD/)
 - [ ] **Conchcutter — Sands of Karak:** derrote Raging Conchfly e procure dentro da Coral Tower.
+
+> [!example]- Referências visuais — Conchcutter
+> ![Referência 1 — Conchcutter](https://images.steamusercontent.com/ugc/15640246075607510756/909DFE9918305738021B6297658E4E6C87427D18/)
+> ![Referência 2 — Conchcutter](https://images.steamusercontent.com/ugc/18068139150165370614/7AC6464DCCAA94E5810CD9BF7F4E3C40CEB6D721/)
+> ![Referência 3 — Conchcutter](https://images.steamusercontent.com/ugc/12533604268061515423/AAB6585CAB70D32C135436578DDAF3B29A1C6598/)
 - [ ] **Silkshot — Bilewater/Mount Fay:** encontre Broken Tool e repare uma das três variantes; qualquer variante satisfaz o requisito.
+
+> [!example]- Referências visuais — Silkshot
+> ![Referência 1 — Silkshot](https://images.steamusercontent.com/ugc/15640246075607510756/909DFE9918305738021B6297658E4E6C87427D18/)
+> ![Referência 2 — Silkshot](https://images.steamusercontent.com/ugc/18068139150165370614/7AC6464DCCAA94E5810CD9BF7F4E3C40CEB6D721/)
+> ![Referência 3 — Silkshot](https://images.steamusercontent.com/ugc/12533604268061515423/AAB6585CAB70D32C135436578DDAF3B29A1C6598/)
 - [ ] **Delver's Drill — Underworks:** derrube o peso para quebrar o piso da primeira sala alta e conclua o desafio inferior.
+
+> [!example]- Referências visuais — Delver's Drill
+> ![Referência 1 — Delver's Drill](https://images.steamusercontent.com/ugc/11737960773591771927/CE0DD4A8409A535B1885C2C48A82336D65DEDE22/)
+> ![Referência 2 — Delver's Drill](https://images.steamusercontent.com/ugc/16574034374612324184/9DD365864DD52A25D214E5147FFAE8BF9FCC48DA/)
+> ![Referência 3 — Delver's Drill](https://images.steamusercontent.com/ugc/9839068685613528727/126917A7A34BA3105A98CFF422D8F24463F788EE/)
 - [ ] **Cogwork Wheel — Underworks:** compre de Twelfth Architect por 360 Rosaries + 1 Craftmetal.
+
+> [!example]- Referências visuais — Cogwork Wheel
+> ![Referência 1 — Cogwork Wheel](https://images.steamusercontent.com/ugc/13741015031925466874/DD27DF7BA65FC107B38A4FDD7A579257D970902F/)
+> ![Referência 2 — Cogwork Wheel](https://images.steamusercontent.com/ugc/17704530479034519529/A1CC8FBB6D699CF5952678B9680FF0A732565E7E/)
+> ![Referência 3 — Cogwork Wheel](https://images.steamusercontent.com/ugc/17027913975448896263/F0A2EEF6C0E2B57284452031A1584AAFF30B3EC8/)
 - [ ] **Cogfly — High Halls:** caminho escondido de espinhos; fabrique por 1 Craftmetal.
+
+> [!example]- Referências visuais — Cogfly
+> ![Referência 1 — Cogfly](https://images.steamusercontent.com/ugc/12542801656619746795/53B5634A3536DD3B4DD2E85B3EFFEC3F4F0BA6ED/)
+> ![Referência 2 — Cogfly](https://images.steamusercontent.com/ugc/11084650265927155346/AEAEF53AD9AB3758FE64D159BCB5BB26FB428E5E/)
+> ![Referência 3 — Cogfly](https://images.steamusercontent.com/ugc/15108543395469219097/1ABE37AE37A137A87444BA39309DD5CC6C3B2296/)
 - [ ] **Rosary Cannon — High Halls:** porta de Simple Key próxima à Ventrica Station.
+
+> [!example]- Referências visuais — Rosary Cannon
+> ![Referência 1 — Rosary Cannon](https://images.steamusercontent.com/ugc/11157665519852540309/3548130FBC6C61190B90B71252D6305121E594CD/)
+> ![Referência 2 — Rosary Cannon](https://images.steamusercontent.com/ugc/9225335267766684241/3EC8BEA39D1502AC71091486F620FC62F786CF31/)
+> ![Referência 3 — Rosary Cannon](https://images.steamusercontent.com/ugc/14799141867564699616/CA52555AA85E52802C5A64164362D01E33B2A93C/)
 - [ ] **Voltvessels — Memorium:** parede quebrável e desafio no nordeste.
+
+> [!example]- Referências visuais — Voltvessels
+> ![Referência 1 — Voltvessels](https://images.steamusercontent.com/ugc/13387786903384971049/9EAC502A4A5AB1A92B684A432DE3CC52EFF3BC6B/)
+> ![Referência 2 — Voltvessels](https://images.steamusercontent.com/ugc/9867456534472649060/3F106A7823A15D8708434E01D9481D6FB65B107B/)
+> ![Referência 3 — Voltvessels](https://images.steamusercontent.com/ugc/13489275489851311127/1DCB38BEB2BD7DABBF4765D52DB0DA4022DC6868/)
 - [ ] **Flintslate — Deep Docks:** setor aberto com Simple Key.
+
+> [!example]- Referências visuais — Flintslate
+> ![Referência 1 — Flintslate](https://images.steamusercontent.com/ugc/16719637469481039998/B06FA86B4AF073AF274B8FB5038A93F21A83E592/)
+> ![Referência 2 — Flintslate](https://images.steamusercontent.com/ugc/13728823736104262639/EBC6149B73556F093311DDF1E15FEE270BC6FAA5/)
+> ![Referência 3 — Flintslate](https://images.steamusercontent.com/ugc/9480795497691326182/6674F151ECCC8EC1363EF3C8F8F5DAEF1676F21C/)
 - [ ] **Flea Brew — Flea Caravan:** resgate cinco Fleas, mova a caravan para Greymoor e fale com Grishkin.
+
+> [!example]- Referências visuais — Flea Brew
+> ![Referência 1 — Flea Brew](https://images.steamusercontent.com/ugc/14865952386219902510/EF951ACCE19B136D25B74A8E462EA209741F9A1C/)
+> ![Referência 2 — Flea Brew](https://images.steamusercontent.com/ugc/12586362738794814084/1707529A3C199CE3DA9376BC9A8E6B3D8450DE19/)
+> ![Referência 3 — Flea Brew](https://images.steamusercontent.com/ugc/16578293934973145253/5BFC9C7F735AA8BCCF1D22B3E5272CDB8F204609/)
 - [ ] **Plasmium Phial — Wormways:** conclua **Alchemist's Assistant**.
+
+> [!example]- Referências visuais — Plasmium Phial
+> ![Referência 1 — Plasmium Phial](https://images.steamusercontent.com/ugc/13231466526938464485/EBBD98D449931137F51A99B0C66E1CE8E179AC46/)
+> ![Referência 2 — Plasmium Phial](https://images.steamusercontent.com/ugc/13760798371732565786/389140689060872AE0B496E0C0AACCE95F3A9789/)
+> ![Referência 3 — Plasmium Phial](https://images.steamusercontent.com/ugc/12719710795362830423/140709C62EDA1C121622523C7236D0CD53266825/)
 
 ## Blue Tools
 
 - [ ] **Druid's Eye — Bone Bottom:** conclua **Berry Picking**. Druid's Eyes é upgrade do mesmo Tool.
+
+> [!example]- Referências visuais — Druid's Eye
+> ![Referência 1 — Druid's Eye](https://images.steamusercontent.com/ugc/12641155317155082812/28729BBF178C1F7832830FCD013C5A1A4FF62EE9/)
+> ![Referência 2 — Druid's Eye](https://images.steamusercontent.com/ugc/11801369587691285614/AA6BD81EA355FD3EE2E1CA47D142473F6A5462BB/)
+> ![Referência 3 — Druid's Eye](https://images.steamusercontent.com/ugc/9525164418801301515/2476471B707186990826E4252D7D0683D185C7D9/)
 - [ ] **Magma Bell — Deep Docks:** Forge Daughter, 110 Rosaries + 1 Craftmetal.
+
+> [!example]- Referências visuais — Magma Bell
+> ![Referência 1 — Magma Bell](https://images.steamusercontent.com/ugc/17874262430735877435/2841F159BD4D869164CC5468209DAC62A477E130/)
+> ![Referência 2 — Magma Bell](https://images.steamusercontent.com/ugc/16020299037958108717/903E2332D39B905E02F604F728A74818206A9F19/)
+> ![Referência 3 — Magma Bell](https://images.steamusercontent.com/ugc/16879891874378923878/3AACD4715DE422149AEBDABD24D04C26CCD3D815/)
 - [ ] **Warding Bell — Far Fields:** sala secreta no fundo da sala vertical de correntes de ar.
+
+> [!example]- Referências visuais — Warding Bell
+> ![Referência 1 — Warding Bell](https://images.steamusercontent.com/ugc/10634010766400344450/49FEDCFDFF404BA359B2CF4ABA5B58470010D851/)
+> ![Referência 2 — Warding Bell](https://images.steamusercontent.com/ugc/17053910363186041965/63BBF5277FEC3AAD62D78FF25527F51F105669E5/)
+> ![Referência 3 — Warding Bell](https://images.steamusercontent.com/ugc/13712989304135345738/2B6350B09477629EC7B62A091732245A0B6A1130/)
 - [ ] **Pollip Pouch — Shellwood:** conclua **Rite of the Pollip** com os seis Pollip Hearts.
+
+> [!example]- Referências visuais — Pollip Pouch
+> ![Referência 1 — Pollip Pouch](https://images.steamusercontent.com/ugc/16616835930530545283/A109EB54BB750B357BD0EB0C9D603005F22EE13F/)
+> ![Referência 2 — Pollip Pouch](https://images.steamusercontent.com/ugc/9335845555074361007/2DF1373B4AB3BAACCDF2E3131A7E82E650902447/)
+> ![Referência 3 — Pollip Pouch](https://images.steamusercontent.com/ugc/12892634941572531205/70CCF1F064445096155F92C02370DABB34CF7600/)
 - [ ] **Fractured Mask — Hunter's March:** vendedor ant, 260 Rosaries; se morrer, pegue no corpo.
+
+> [!example]- Referências visuais — Fractured Mask
+> ![Referência 1 — Fractured Mask](https://images.steamusercontent.com/ugc/11274503864445275038/5142F68742E65322C626E1D079C26A2CAC9BF2D4/)
+> ![Referência 2 — Fractured Mask](https://images.steamusercontent.com/ugc/10434669019231277416/B7FC9913C986783F87CF8FDD01DF3973912A6149/)
+> ![Referência 3 — Fractured Mask](https://images.steamusercontent.com/ugc/12792588005920721912/8BDFF9853079AC1E788B3390DF9DF83BAEE0E894/)
 - [ ] **Multibinder — Bellhart:** compre de Frey por 880 Rosaries após melhorar a loja.
+
+> [!example]- Referências visuais — Multibinder
+> ![Referência 1 — Multibinder](https://images.steamusercontent.com/ugc/17045930241059478989/1DC42D73FB13082C1FAAF28D9E691AB6C34425F2/)
+> ![Referência 2 — Multibinder](https://images.steamusercontent.com/ugc/15939803767312227602/B9AE3F1E54B87DE02E25BE65C9A47A695377C87A/)
+> ![Referência 3 — Multibinder](https://images.steamusercontent.com/ugc/16840624446402876558/EC5175CFDC9F3D6755CE8671C034A43877D6734B/)
 - [ ] **Weavelight — Weavenest Atla:** derrote as duas Moss Mothers.
+
+> [!example]- Referências visuais — Weavelight
+> ![Referência 1 — Weavelight](https://images.steamusercontent.com/ugc/18273214777826965793/558AAC752EE24AB8DD09367AFAD010CBB4EA78E2/)
+> ![Referência 2 — Weavelight](https://images.steamusercontent.com/ugc/16686922797587290632/138C194CB41BD782F904D1B6D7DC1B88AAF78346/)
+> ![Referência 3 — Weavelight](https://images.steamusercontent.com/ugc/12826678406923885995/CF134426D456981349E0EE4C79ECF72B50578C70/)
 - [ ] **Sawtooth Circlet — Underworks:** Twelfth Architect, 230 Rosaries + 1 Craftmetal.
+
+> [!example]- Referências visuais — Sawtooth Circlet
+> ![Referência 1 — Sawtooth Circlet](https://images.steamusercontent.com/ugc/17489619792448953193/DD27DF7BA65FC107B38A4FDD7A579257D970902F/)
+> ![Referência 2 — Sawtooth Circlet](https://images.steamusercontent.com/ugc/14000524292032245406/676B7DC9D36961F8A1292F55560A34FDDC5F8EE3/)
+> ![Referência 3 — Sawtooth Circlet](https://images.steamusercontent.com/ugc/11400063393507535034/424057C566A7EB9D66360D3F5C167D006AB89857/)
 - [ ] **Injector Band — Whiteward:** sobre o bench, perto do fim da área.
+
+> [!example]- Referências visuais — Injector Band
+> ![Referência 1 — Injector Band](https://images.steamusercontent.com/ugc/12606771008359984383/9A51EDDC64E825CCB7FC57071C6F198419FB434B/)
+> ![Referência 2 — Injector Band](https://images.steamusercontent.com/ugc/13436270248152901331/9E1B8FAD37392675F06856D258AB55B48562257B/)
+> ![Referência 3 — Injector Band](https://images.steamusercontent.com/ugc/11351369232675134192/78CD1BC92D97D833A5448CEFBF0BB95A74E258FE/)
 - [ ] **Spool Extender — Songclave:** compre de Jubilana por 720 Rosaries.
+
+> [!example]- Referências visuais — Spool Extender
+> ![Referência 1 — Spool Extender](https://images.steamusercontent.com/ugc/12643805416551169540/D5586BDC448FF65B148BC4AABCD3E2B003999A63/)
+> ![Referência 2 — Spool Extender](https://images.steamusercontent.com/ugc/18410741133832252966/AD9280F526CB778CE07E5A6ADF7DDE78AA9C975F/)
+> ![Referência 3 — Spool Extender](https://images.steamusercontent.com/ugc/10721932078747362658/FA910B74145076DE51504BF670395835219569AA/)
 - [ ] **Reserve Bind — High Halls:** conclua **Final Audience**.
+
+> [!example]- Referências visuais — Reserve Bind
+> ![Referência 1 — Reserve Bind](https://images.steamusercontent.com/ugc/9433902998613799963/BF12EB6FE49707D87C2F0BB6F2C6F882F619E1EC/)
+> ![Referência 2 — Reserve Bind](https://images.steamusercontent.com/ugc/14259615446711394359/E7D56FC29BB88EB56B053A6A44F8EB8994CC9881/)
+> ![Referência 3 — Reserve Bind](https://images.steamusercontent.com/ugc/17498135839952065183/003860A37700530C88EB9A048124E8F94747AC9D/)
 - [ ] **Claw Mirror — Whispering Vaults:** derrote Trobbio. Claw Mirrors é upgrade do mesmo Tool.
+
+> [!example]- Referências visuais — Claw Mirror
+> ![Referência 1 — Claw Mirror](https://images.steamusercontent.com/ugc/12252506408275790871/A9DB667E31BF6B41D7C00D57E361544D08D90158/)
+> ![Referência 2 — Claw Mirror](https://images.steamusercontent.com/ugc/16297549245935610036/0A0C875892512FF19416B148ED9F9EBED117A146/)
+> ![Referência 3 — Claw Mirror](https://images.steamusercontent.com/ugc/12428760318314774622/1C15C5FCDC1AD63914A3EC9FA67C18957EF79AA2/)
 - [ ] **Memory Crystal — Mount Fay:** passagem de gelo junto ao segundo bench.
+
+> [!example]- Referências visuais — Memory Crystal
+> ![Referência 1 — Memory Crystal](https://images.steamusercontent.com/ugc/9689175009860433135/1A8512C707155284703DEF58CA128583005E851E/)
+> ![Referência 2 — Memory Crystal](https://images.steamusercontent.com/ugc/12641155317155082812/28729BBF178C1F7832830FCD013C5A1A4FF62EE9/)
+> ![Referência 3 — Memory Crystal](https://images.steamusercontent.com/ugc/11801369587691285614/AA6BD81EA355FD3EE2E1CA47D142473F6A5462BB/)
 - [ ] **Snitch Pick — Blasted Steps:** Grindle, 740 Rosaries; exige Faydown Cloak.
+
+> [!example]- Referências visuais — Snitch Pick
+> ![Referência 1 — Snitch Pick](https://images.steamusercontent.com/ugc/14244366492337508289/ECF56F2B20E319ED282A3FD2ACF8173BA504DBB7/)
+> ![Referência 2 — Snitch Pick](https://images.steamusercontent.com/ugc/9818360027137349599/AA19BB7DF036F806C8A5C158C19DBD68C244E42E/)
 - [ ] **Volt Filament — Sands of Karak, Act 3:** derrote Voltvyrm em Voltnest com Silk Soar.
+
+> [!example]- Referências visuais — Volt Filament
+> ![Referência 1 — Volt Filament](https://images.steamusercontent.com/ugc/15027675053266439988/DC20C8BA7483FD494E2C5AE1B8A76D380FA2FD4D/)
+> ![Referência 2 — Volt Filament](https://images.steamusercontent.com/ugc/16709035952626897233/090255E1D2A1406BDC283141D1673156CE5687E7/)
+> ![Referência 3 — Volt Filament](https://images.steamusercontent.com/ugc/12895372190704743096/E01573400724D1C8061DC5EEEC74391F6FE67092/)
 - [ ] **Quick Sling — Bilewater:** sala secreta no alto da sala acima de Shakra.
+
+> [!example]- Referências visuais — Quick Sling
+> ![Referência 1 — Quick Sling](https://images.steamusercontent.com/ugc/15153439982262308917/7EC0D2F1CEE3109176EBE217FFFC6077CF16AC84/)
+> ![Referência 2 — Quick Sling](https://images.steamusercontent.com/ugc/16822400134970488850/817F31236AAB2ED35A14D366260F648446B0CAE7/)
+> ![Referência 3 — Quick Sling](https://images.steamusercontent.com/ugc/17197605712277486666/2E4882A8DC9A8D5A34FBA3DB9B475621D25F3D1A/)
 - [ ] **Wreath of Purity — Bilewater:** corpo no lado leste.
+
+> [!example]- Referências visuais — Wreath of Purity
+> ![Referência 1 — Wreath of Purity](https://images.steamusercontent.com/ugc/17219537885532728686/6D483D236F6B61EF244C6B420178A4F8FE7E29C1/)
+> ![Referência 2 — Wreath of Purity](https://images.steamusercontent.com/ugc/14507115127033293059/1AF05F66F594E38472D7B4D40D034C1E66D52B12/)
+> ![Referência 3 — Wreath of Purity](https://images.steamusercontent.com/ugc/14013096741841568361/F69BC7978884608A9E37DCE9942B3C429F4FCF09/)
 - [ ] **Longclaw — Putrified Ducts:** conclua **Broodfeast/Runtfeast**.
+
+> [!example]- Referências visuais — Longclaw
+> ![Referência 1 — Longclaw](https://images.steamusercontent.com/ugc/11326417853973581313/32602AB5764A91AA2464D047D6489D7CE4B85299/)
+> ![Referência 2 — Longclaw](https://images.steamusercontent.com/ugc/9339582155852120625/56EC157B408064755A1D0993D00A56F2E62D379F/)
+> ![Referência 3 — Longclaw](https://images.steamusercontent.com/ugc/9250233935361164538/87B95BF204F7FB086693AC8A42EDC8ECFD11E640/)
 - [ ] **Wispfire Lantern — Wisp Thicket:** derrote Father of the Flame.
+
+> [!example]- Referências visuais — Wispfire Lantern
+> ![Referência 1 — Wispfire Lantern](https://images.steamusercontent.com/ugc/10284447158830893438/300E16FC92823BB7AC743EC15E0F54A6CC584492/)
+> ![Referência 2 — Wispfire Lantern](https://images.steamusercontent.com/ugc/9667490328303528872/6BC41F4E6B9F8593683A764DD39B73F7AEDB607C/)
+> ![Referência 3 — Wispfire Lantern](https://images.steamusercontent.com/ugc/12553878319516417193/651B572206B5CE3C6EFBA41D476E46C88A833251/)
 - [ ] **Egg of Flealia — Fleatopia:** resgate 30 Fleas e fale com Mooshka.
+
+> [!example]- Referências visuais — Egg of Flealia
+> ![Referência 1 — Egg of Flealia](https://images.steamusercontent.com/ugc/14227610639780146310/152748F9A1697A41D96C46847B31098262ED24E2/)
+> ![Referência 2 — Egg of Flealia](https://images.steamusercontent.com/ugc/13246485464019563193/8B92B3F0455251560375A65D5F54BC1EBF9E12D0/)
+> ![Referência 3 — Egg of Flealia](https://images.steamusercontent.com/ugc/17028920732773705272/9BBDE4AE0332C2CEFF87460E78A013BF1CFBAE03/)
 - [ ] **Pin Badge — Mount Fay, Act 3:** conclua **Fatal Resolve**.
+
+> [!example]- Referências visuais — Pin Badge
+> ![Referência 1 — Pin Badge](https://images.steamusercontent.com/ugc/16789794141456515380/1CB313B1A4CEC0FBB58F6F5AD8B1C0F13B52A65D/)
+> ![Referência 2 — Pin Badge](https://images.steamusercontent.com/ugc/13354283459630910906/A99BCE39A26D1C3DCC7FF8D505B665EDC328652C/)
+> ![Referência 3 — Pin Badge](https://images.steamusercontent.com/ugc/12719710795362830423/140709C62EDA1C121622523C7236D0CD53266825/)
 
 ## Yellow Tools
 
 - [ ] **Compass — The Marrow:** Shakra, 70 Rosaries.
+
+> [!example]- Referências visuais — Compass
+> ![Referência 1 — Compass](https://images.steamusercontent.com/ugc/16562936788709315424/3898107227F0D08933BB66093DE0FB227FAC0C62/)
+> ![Referência 2 — Compass](https://images.steamusercontent.com/ugc/12458613301380705196/368E6EF5A41D0D9F0A5B88A1B70DA471553AFDC4/)
+> ![Referência 3 — Compass](https://images.steamusercontent.com/ugc/17117003548412536138/DC99105A5028394C58FE664DCCACBD60646F2D07/)
 - [ ] **Shard Pendant — The Marrow:** sala lateral no trecho de lava e plataformas quebráveis.
+
+> [!example]- Referências visuais — Shard Pendant
+> ![Referência 1 — Shard Pendant](https://images.steamusercontent.com/ugc/15906315996385686096/A66BC29B6316813BA92BD22033C4E6A40996A04C/)
+> ![Referência 2 — Shard Pendant](https://images.steamusercontent.com/ugc/16562936788709315424/3898107227F0D08933BB66093DE0FB227FAC0C62/)
+> ![Referência 3 — Shard Pendant](https://images.steamusercontent.com/ugc/12458613301380705196/368E6EF5A41D0D9F0A5B88A1B70DA471553AFDC4/)
 - [ ] **Magnetite Brooch — Bone Bottom:** Pebb; se indisponível, compre de Grindle no Act 3.
+
+> [!example]- Referências visuais — Magnetite Brooch
+> ![Referência 1 — Magnetite Brooch](https://images.steamusercontent.com/ugc/9676508895447726250/A190C3ACC37004AB135800395D4218F9F9406A9C/)
+> ![Referência 2 — Magnetite Brooch](https://images.steamusercontent.com/ugc/16142504843686731864/EFD19E4D109034341D5E05AC2158EE2052380CBF/)
+> ![Referência 3 — Magnetite Brooch](https://images.steamusercontent.com/ugc/12216966635766151584/DD1FB4CD0592DBC0C690FC2B1716B979B5C18B7C/)
 - [ ] **Weighted Belt — Far Fields:** compre de Mort por 160 Rosaries.
+
+> [!example]- Referências visuais — Weighted Belt
+> ![Referência 1 — Weighted Belt](https://images.steamusercontent.com/ugc/14805661092071561792/3CC53CD7A6A22307A971369BE4E6184E2D3C2946/)
+> ![Referência 2 — Weighted Belt](https://images.steamusercontent.com/ugc/15957366451375268985/A4A27BE95F9D872260F70B07FBA4BEE89683C881/)
+> ![Referência 3 — Weighted Belt](https://images.steamusercontent.com/ugc/14079883122307818124/47DD70AA6A164A02695D4991B1DC2DAD8CD3E69A/)
 - [ ] **Barbed Bracelet — Sinner's Road:** fundo do poço no sul/leste.
+
+> [!example]- Referências visuais — Barbed Bracelet
+> ![Referência 1 — Barbed Bracelet](https://images.steamusercontent.com/ugc/12120205231571861258/C403DA1F29641C334C8632C2D1A6ACF327409474/)
+> ![Referência 2 — Barbed Bracelet](https://images.steamusercontent.com/ugc/12842812276015078531/E381DCE70C746C32B171087EC83EF6957FC81B2C/)
+> ![Referência 3 — Barbed Bracelet](https://images.steamusercontent.com/ugc/17599904318431335280/F69380ACFB19834584A38E5B1E7B0A23434BFD8C/)
 - [ ] **Dead Bug's Purse — Wormways:** corpo em sala lateral. Em Steel Soul, obtenha Shell Satchel no lugar.
+
+> [!example]- Referências visuais — Dead Bug's Purse
+> ![Referência 1 — Dead Bug's Purse](https://images.steamusercontent.com/ugc/14201435024520642086/72E9BF57D332F8B1A66A47753F06ED7CBDF918CD/)
+> ![Referência 2 — Dead Bug's Purse](https://images.steamusercontent.com/ugc/12828446357956961159/5B5B51F6ED058E81F1FFE0A93664F3D40D3D5E5C/)
+> ![Referência 3 — Dead Bug's Purse](https://images.steamusercontent.com/ugc/9312430126816411929/D405312AE68BAC6FBAF73275FC9EC2AA2EA6279C/)
 - [ ] **Magnetite Dice — Blasted Steps:** vença o jogo de Lumble dez vezes ou pegue/compre após a mudança do NPC.
+
+> [!example]- Referências visuais — Magnetite Dice
+> ![Referência 1 — Magnetite Dice](https://images.steamusercontent.com/ugc/10926208461413320668/57059612A35882406BD66F1E97FEB51D1774F1A5/)
+> ![Referência 2 — Magnetite Dice](https://images.steamusercontent.com/ugc/14054226325221504648/7A8ADA429771B4F28F93FC945A6252271C280B4A/)
+> ![Referência 3 — Magnetite Dice](https://images.steamusercontent.com/ugc/15567116866620375670/6BA1A5785D642CDAAA998ECB75ED27FC0531CEB5/)
 - [ ] **Scuttlebrace — Underworks:** Twelfth Architect, 140 Rosaries + 1 Craftmetal.
+
+> [!example]- Referências visuais — Scuttlebrace
+> ![Referência 1 — Scuttlebrace](https://images.steamusercontent.com/ugc/16308091969838932793/DD27DF7BA65FC107B38A4FDD7A579257D970902F/)
+> ![Referência 2 — Scuttlebrace](https://images.steamusercontent.com/ugc/10006062195412367773/4740FCB094FE4A8C5D6786C6A15C146DEAC69B9F/)
+> ![Referência 3 — Scuttlebrace](https://images.steamusercontent.com/ugc/14001621928317566666/752F96B62895213D3CBF9B61D78E28176E75E6A4/)
 - [ ] **Ascendant's Grip — Songclave:** Jubilana, 350 Rosaries.
+
+> [!example]- Referências visuais — Ascendant's Grip
+> ![Referência 1 — Ascendant's Grip](https://images.steamusercontent.com/ugc/17500009175818257792/B6B7455AD395E345806F6974CC1C5414A11B04C4/)
+> ![Referência 2 — Ascendant's Grip](https://images.steamusercontent.com/ugc/18146691890536888752/99B01D3298CB000828A9949FCB5777692724CA41/)
+> ![Referência 3 — Ascendant's Grip](https://images.steamusercontent.com/ugc/12627580856666783356/F61CF4B361464C4D28B7D44DCD9859D0F11893F7/)
 - [ ] **Spider Strings — Songclave:** Jubilana após **The Lost Merchant**.
+
+> [!example]- Referências visuais — Spider Strings
+> ![Referência 1 — Spider Strings](https://images.steamusercontent.com/ugc/10992802035374485009/0A6B32B0C99273DBEAAB1BD504BACA91394A6928/)
+> ![Referência 2 — Spider Strings](https://images.steamusercontent.com/ugc/14692316151270484146/BC152166F793FB53F655740B688AF43ABE408611/)
+> ![Referência 3 — Spider Strings](https://images.steamusercontent.com/ugc/16619870423284096814/1111BEC7A8C1685C5EBD32F67684037C88D46AAC/)
 - [ ] **Silkspeed Anklets — Weavenest Cindril:** atravesse todos os painéis com dash.
+
+> [!example]- Referências visuais — Silkspeed Anklets
+> ![Referência 1 — Silkspeed Anklets](https://images.steamusercontent.com/ugc/17178041411130643709/C8611C828BC55652DDC320251013904E757F52CD/)
+> ![Referência 2 — Silkspeed Anklets](https://images.steamusercontent.com/ugc/10695919647700084585/AF1B14D0010E25C8551F8FF6F0186D1A327D2191/)
+> ![Referência 3 — Silkspeed Anklets](https://images.steamusercontent.com/ugc/15222031165201007730/C037B8975175496F58BD201A177D6F099C38C179/)
 - [ ] **Thief's Mark — Blasted Steps:** Grindle, 350 Rosaries.
+
+> [!example]- Referências visuais — Thief's Mark
+> ![Referência 1 — Thief's Mark](https://images.steamusercontent.com/ugc/11663474523392689181/438D6B57600439CEEFBABC99D2513E1EAABC283D/)
+> ![Referência 2 — Thief's Mark](https://images.steamusercontent.com/ugc/13174632208457852916/4D9B604AE6915C6926C7A74459CF374695DA0DD5/)
+> ![Referência 3 — Thief's Mark](https://images.steamusercontent.com/ugc/12719710795362830423/140709C62EDA1C121622523C7236D0CD53266825/)
 
 # Abilities e upgrades dos 100%
 
 ## Abilities
 
 - [ ] **Swift Step — Deep Docks:** estátua Weaver no alto da área.
+
+> [!example]- Mapa e local — Swift Step
+> ![Mapa — Swift Step](https://images.steamusercontent.com/ugc/15358992114720817272/0CE02B77A1B5E6438F031698C6E9523C0DCCAE21/)
+> ![Local/interação — Swift Step](https://images.steamusercontent.com/ugc/9254116793418297281/F144ECBDCE7EF40CF92388BE81F7EE519AFCED62/)
 - [ ] **Cling Grip — Shellwood:** após Sister Splinter.
+
+> [!example]- Mapa e local — Cling Grip
+> ![Mapa — Cling Grip](https://images.steamusercontent.com/ugc/16660238634551406090/9991EB905C560E4D711CC77FE60477177C9998F1/)
+> ![Local/interação — Cling Grip](https://images.steamusercontent.com/ugc/15590011509761294924/5C556A875149873743B0E8134CC5A6F6CB987A99/)
 - [ ] **Needolin — Bellhart:** após Widow.
+
+> [!example]- Mapa e local — Needolin
+> ![Mapa — Needolin](https://images.steamusercontent.com/ugc/9351197623509523232/2F7DA24A869845680A5947CE05E3E062BA6F5EF1/)
+> ![Local/interação — Needolin](https://images.steamusercontent.com/ugc/12207272173230346608/441E90960DB836A106898D7916252057170C83A2/)
 - [ ] **Clawline — Underworks:** estátua Weaver acessível por Whiteward ou após Trobbio.
+
+> [!example]- Mapa e local — Clawline
+> ![Mapa — Clawline](https://images.steamusercontent.com/ugc/14819074086755233871/CCDE192B0CF1145CB1081DFBD0AFBAC18A8ECEDD/)
+> ![Local/interação — Clawline](https://images.steamusercontent.com/ugc/14754367178967664724/7F2BB7AC623C8D0AB45C7F09E2D56F4E1685AFE8/)
 - [ ] **Needle Strike — Blasted Steps:** fale com Pinstress.
+
+> [!example]- Mapa e local — Needle Strike
+> ![Mapa — Needle Strike](https://images.steamusercontent.com/ugc/13423820328296276715/61A24077E1031418AA1D1B9562B9311D6B77D9B1/)
+> ![Local/interação — Needle Strike](https://images.steamusercontent.com/ugc/16679233294058243174/C369DFCE1BBA9E8358CAE3307AC9969B1FD97ECB/)
 - [ ] **Silk Soar — The Abyss, Act 3:** obtido na primeira visita.
+
+> [!example]- Mapa e local — Silk Soar
+> ![Mapa — Silk Soar](https://images.steamusercontent.com/ugc/10666050988244795358/45A5743A08C7D44658198B12267D738EE16D92BD/)
+> ![Local/interação — Silk Soar](https://images.steamusercontent.com/ugc/10390978221191151803/2AEE890F6EDFEBE6EFC3D01CAAE09893B82329E3/)
 
 ## Crafting Kit upgrades
 
 - [ ] **01 — Deep Docks:** Forge Daughter, 180 Rosaries.
+
+> [!example]- Mapa e local — 01 — Deep Docks
+> ![Mapa — 01 — Deep Docks](https://images.steamusercontent.com/ugc/12592901394202503671/7A9BEB525B0FBF80276D64CA10EC6D63530051E5/)
+> ![Local/interação — 01 — Deep Docks](https://images.steamusercontent.com/ugc/14588507708066061381/C339F7BE1AB85F93561D75E28372DD3DB47DE21A/)
 - [ ] **02 — Bellhart:** recompensa de Creige por **Crawbug Clearing** e 25 Ragpelts.
+
+> [!example]- Mapa e local — 02 — Bellhart
+> ![Mapa — 02 — Bellhart](https://images.steamusercontent.com/ugc/13217171154434807826/EEC4D79E86CBEDC83B2A9C1C03755EA1010F48C8/)
+> ![Local/interação — 02 — Bellhart](https://images.steamusercontent.com/ugc/9729190239346742977/7A638FBF79F705D50E8BC1A22F15BDB9B78446AC/)
 - [ ] **03 — Underworks:** Twelfth Architect, 450 Rosaries.
+
+> [!example]- Mapa e local — 03 — Underworks
+> ![Mapa — 03 — Underworks](https://images.steamusercontent.com/ugc/11515098551826964526/E80AFBB4CECD937F37CF73A39446CB75689AC79E/)
+> ![Local/interação — 03 — Underworks](https://images.steamusercontent.com/ugc/10772015818158889082/702304D2267F2D61A2CDB1C8A69FDCA55CD108F3/)
 - [ ] **04 — Blasted Steps:** Grindle, 700 Rosaries.
+
+> [!example]- Mapa e local — 04 — Blasted Steps
+> ![Mapa — 04 — Blasted Steps](https://images.steamusercontent.com/ugc/10247847201165189089/EAD4E91689F4096A04D3254350F4284648C49359/)
+> ![Local/interação — 04 — Blasted Steps](https://images.steamusercontent.com/ugc/12699772659241058934/C073BFEA5E99E381334DB5BCC78890CD7F115697/)
 
 ## Tool Pouch upgrades
 
 - [ ] **01 — The Marrow:** acerte o alvo de Loddie 15 vezes após Widow.
+
+> [!example]- Mapa e local — 01 — The Marrow
+> ![Mapa — 01 — The Marrow](https://images.steamusercontent.com/ugc/11910028293392235251/D7259F9C01729E449052FF9305010704EBA6348B/)
+> ![Local/interação — 01 — The Marrow](https://images.steamusercontent.com/ugc/10723720685751860054/F4245FB0D3764FD574CCADEE25D0DCF0BF0E0C02/)
 - [ ] **02 — Far Fields:** compre de Mort; no Act 3, compre de Grindle.
+
+> [!example]- Mapa e local — 02 — Far Fields
+> ![Mapa — 02 — Far Fields](https://images.steamusercontent.com/ugc/9260960918201317402/A41A686CE6AD7C680405BD46005A2ED99AB471DD/)
+> ![Local/interação — 02 — Far Fields](https://images.steamusercontent.com/ugc/9968719349200922045/FDE549EAA8981E1BB562377285542035DE5496A0/)
 - [ ] **03 — Greymoor:** complete **Bugs of Pharloom** para Nuu registrando 100 inimigos.
+
+> [!example]- Mapa e local — 03 — Greymoor
+> ![Mapa — 03 — Greymoor](https://images.steamusercontent.com/ugc/10876512651666520099/9A750D00233B5056D899F93C67BA1CEA77FB4283/)
+> ![Local/interação — 03 — Greymoor](https://images.steamusercontent.com/ugc/11957793856955762192/3FE0FF42C21790080BF9A80C6E3F78EAB3E3959E/)
 - [ ] **04 — Fleatopia:** recompensa de Fleamaster Mooshka por mover a caravan.
+
+> [!example]- Mapa e local — 04 — Fleatopia
+> ![Mapa — 04 — Fleatopia](https://images.steamusercontent.com/ugc/16418288565905336887/B56652D75F14D2C133663AECBE9EE8243DA56D60/)
+> ![Local/interação — 04 — Fleatopia](https://images.steamusercontent.com/ugc/15596379340055476036/E545F1DCDAA3DDBF9380DC4D1FED951C1DFA30D2/)
 
 ## Needle upgrades
 
 - [ ] **Sharpened Needle:** após Widow, fale com Pinmaster Plinney em Bellhart; gratuito.
+
+> [!example]- Mapa e local — Sharpened Needle
+> ![Mapa — Sharpened Needle](https://images.steamusercontent.com/ugc/12801230349113627512/446627CF84E813C8C9B4FF464EF259B328DD11CF/)
+> ![Local/interação — Sharpened Needle](https://images.steamusercontent.com/ugc/14180104338357021004/C9C8B8AAD4895CD7E6496EC2D754C4E90E977F14/)
 - [ ] **Shining Needle:** entregue o Pale Oil de Choral Chambers a Plinney.
+
+> [!example]- Mapa e local — Shining Needle
+> ![Mapa — Shining Needle](https://images.steamusercontent.com/ugc/18293600669084663149/EE6213D7BB1DEFF293CB3494493933B97F4181DA/)
+> ![Local/interação — Shining Needle](https://images.steamusercontent.com/ugc/18126745435841818635/36F1EBF94121CB5F8C02270E4D991D4538081042/)
 - [ ] **Hivesteel Needle:** entregue o Pale Oil de **The Great Taste of Pharloom**.
+
+> [!example]- Mapa e local — Hivesteel Needle
+> ![Mapa — Hivesteel Needle](https://images.steamusercontent.com/ugc/11516876833356888366/D15C9A144CA039BFD68806FA3216CDE832D7ACFC/)
+> ![Local/interação — Hivesteel Needle](https://images.steamusercontent.com/ugc/10615805154515329397/041BF4665C38CD379430DA34350905BED432997D/)
 - [ ] **Pale Steel Needle:** no Act 3, encontre todas as Fleas, conclua **Ecstasy of the End** em Fleatopia e fale com Plinney no cemitério de Shellwood antes de voltar a Bellhart.
+
+> [!example]- Mapa e local — Pale Steel Needle
+> ![Mapa — Pale Steel Needle](https://images.steamusercontent.com/ugc/13914862071100739813/4E7611C08192F3BF1AF4E61D256C3BBA74161195/)
+> ![Local/interação — Pale Steel Needle](https://images.steamusercontent.com/ugc/13920428815066957050/570C72EFC598FC4BCE83B4C10245FD1B90670EFD/)
 
 # Recursos de apoio — fora do total
 
 ## Simple Keys
 
 - [ ] **01 — Bone Bottom:** Pebb, 500 Rosaries; no Act 3, Grindle por 600.
+
+> [!example]- Mapa e local — 01 — Bone Bottom
+> ![Mapa — 01 — Bone Bottom](https://images.steamusercontent.com/ugc/14305549040392234693/7B8F1BDD454E3060758B890A5F29538BBB5B16D5/)
+> ![Local/interação — 01 — Bone Bottom](https://images.steamusercontent.com/ugc/11633324645165385481/0190EF4EF3561884996BEEB50DAF9463CDCA5C5E/)
 - [ ] **02 — Sinner's Road:** Roachkeeper no nordeste.
+
+> [!example]- Mapa e local — 02 — Sinner's Road
+> ![Mapa — 02 — Sinner's Road](https://images.steamusercontent.com/ugc/10704642415462505465/244BF2847DB3BB78309616F23F7E7E17A85F3E60/)
+> ![Local/interação — 02 — Sinner's Road](https://images.steamusercontent.com/ugc/15010268110890725394/383C6E07C84CD2CD471ABC85D7CD39968AB6F5FC/)
 - [ ] **03 — Songclave:** Jubilana, 650 Rosaries após **The Wandering Merchant**.
+
+> [!example]- Mapa e local — 03 — Songclave
+> ![Mapa — 03 — Songclave](https://images.steamusercontent.com/ugc/11347278926630352272/E4830E9DAAEFE313B010102CD4B8B1DC9DFBD56F/)
+> ![Local/interação — 03 — Songclave](https://images.steamusercontent.com/ugc/16698988192309723886/85DE02B70D43F4E2B781DF1211F6D1BE3C3C06C7/)
 - [ ] **04 — Sands of Karak:** corpo junto ao bench mais oriental.
+
+> [!example]- Mapa e local — 04 — Sands of Karak
+> ![Mapa — 04 — Sands of Karak](https://images.steamusercontent.com/ugc/17876466200716142862/4D0144078DD3853DCDF5FD4C0B5D9FDFCD9F8728/)
+> ![Local/interação — 04 — Sands of Karak](https://images.steamusercontent.com/ugc/17665074523972398387/0BCD7E817E5398C92E5A962FE462516AE21BB6F1/)
 
 ## Craftmetals
 
 - [ ] **01 — Bone Bottom:** Pebb, 60 Rosaries; no Act 3, Grindle por 120.
+
+> [!example]- Mapa e local — 01 — Bone Bottom
+> ![Mapa — 01 — Bone Bottom](https://images.steamusercontent.com/ugc/11378513625903387326/7B8F1BDD454E3060758B890A5F29538BBB5B16D5/)
+> ![Local/interação — 01 — Bone Bottom](https://images.steamusercontent.com/ugc/11180682994334688959/20ED473700E363931ECEB602703B0A43762F3FE4/)
 - [ ] **02 — The Marrow:** exploda o túnel de rocha no nordeste da sala a oeste de Hunter's March.
+
+> [!example]- Mapa e local — 02 — The Marrow
+> ![Mapa — 02 — The Marrow](https://images.steamusercontent.com/ugc/17483137209250479278/FDE58DDA600C8C561C29AFB892F687D6F7827A04/)
+> ![Local/interação — 02 — The Marrow](https://images.steamusercontent.com/ugc/17136529206697563728/6BC781915DE76E8C412C25584ACC7A5CCC97BDA2/)
 - [ ] **03 — Deep Docks:** baú atrás da porta trancada no sudoeste da sala inferior que liga a Far Fields.
+
+> [!example]- Mapa e local — 03 — Deep Docks
+> ![Mapa — 03 — Deep Docks](https://images.steamusercontent.com/ugc/11059534147949613370/3C12BC2DF20231289C9A4FD22553034C68D3E4D0/)
+> ![Local/interação — 03 — Deep Docks](https://images.steamusercontent.com/ugc/14292580109789295286/408D3797540C2F82107371F520653679F9107362/)
 - [ ] **04 — Blasted Steps:** passagem escondida antes de Last Judge.
+
+> [!example]- Mapa e local — 04 — Blasted Steps
+> ![Mapa — 04 — Blasted Steps](https://images.steamusercontent.com/ugc/14336477602468720993/031451C1B5890C77C61FF21B52418770208A5E5B/)
+> ![Local/interação — 04 — Blasted Steps](https://images.steamusercontent.com/ugc/15788459679987357566/CEA914C54ACE3878EF290EE74427FB7BA12524A0/)
 - [ ] **05 — Songclave:** Jubilana, 180 Rosaries.
+
+> [!example]- Mapa e local — 05 — Songclave
+> ![Mapa — 05 — Songclave](https://images.steamusercontent.com/ugc/10152160056393611327/CE8DD719064CB7ED189D7B32C1FF804810B7FC81/)
+> ![Local/interação — 05 — Songclave](https://images.steamusercontent.com/ugc/12314376457116007795/B92A73CB6FAC7514D0567163A6EF9BCF950698D0/)
 - [ ] **06 — Underworks:** fim do túnel a leste, ao sul de Clawline.
+
+> [!example]- Mapa e local — 06 — Underworks
+> ![Mapa — 06 — Underworks](https://images.steamusercontent.com/ugc/12317228355362357040/D5481D826934707DF55F48A34A22448C972FAB52/)
+> ![Local/interação — 06 — Underworks](https://images.steamusercontent.com/ugc/13330890597186094241/E16F158544E15339F41031B6773B61D3D34E1AD0/)
 - [ ] **07 — Wisp Thicket:** teto quebrável.
+
+> [!example]- Mapa e local — 07 — Wisp Thicket
+> ![Mapa — 07 — Wisp Thicket](https://images.steamusercontent.com/ugc/17964926695241220405/01A69687BA04BC9041C0211F912570C48A74D41D/)
+> ![Local/interação — 07 — Wisp Thicket](https://images.steamusercontent.com/ugc/16149411816480267910/761ADA20EADB23CD4E824D0FF1E907A00613ACE6/)
 - [ ] **08 — Putrified Ducts:** extremo leste de Pale Lake.
+
+> [!example]- Mapa e local — 08 — Putrified Ducts
+> ![Mapa — 08 — Putrified Ducts](https://images.steamusercontent.com/ugc/9379093390799724333/3085D783E3086CFFB9B9CC6D33AB554166B0A00B/)
+> ![Local/interação — 08 — Putrified Ducts](https://images.steamusercontent.com/ugc/15034207488115775578/73475A095FA0164A72EEBE20B331DDD5A790662A/)
+
+# Vídeo de referência — rota em movimento
+
+## Todas as Fleas
+
+As Fleas são a maior sequência de buscas e têm passagens escondidas, plataformas e retornos por habilidade. Este vídeo mostra a navegação até as 30; use-o junto das imagens locais de cada item acima.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4xbQJ9K0_PE" title="Hollow Knight: Silksong — todas as 30 Fleas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Auditoria final
 
@@ -1015,6 +1398,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 - [Steam Community — All Achievements Guide, com mapas e imagens](https://steamcommunity.com/sharedfiles/filedetails/?id=3564612330)
 - [Steam Community — 100% Achievement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3562089042)
+- [Vídeo — todas as 30 Fleas, com rota em movimento](https://www.youtube.com/watch?v=4xbQJ9K0_PE)
 - [Nintendo Life — All 51 Tools and locations](https://www.nintendolife.com/guides/hollow-knight-silksong-all-tools-list-and-locations)
 - [Silksong checklist — Spool Fragments](https://hollowknightsilksongchecklist.com/en/spool-fragment/)
 - [Silksong Checklist Hub — totais e áreas](https://game-checklists.com/silksong/)
