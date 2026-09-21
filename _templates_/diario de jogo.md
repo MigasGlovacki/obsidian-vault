@@ -3,7 +3,8 @@ criado em:
 tags:
   - diario
   - games
-cssclasses:
+status:
+nota final:
 ---
 # Diário de [NOME DO JOGO]
 

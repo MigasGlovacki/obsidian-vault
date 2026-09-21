@@ -25,14 +25,12 @@
             "id": "f8a5fa145eabb57e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_templates_/diario de jogo.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/20260920200848_1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "diario de jogo"
+              "icon": "lucide-image",
+              "title": "20260920200848_1"
             }
           }
         ],
@@ -70,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:jogos",
+                "query": "[\"status\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates_/diario de jogo.md",
+                "file": "Attachments/20260920200848_1.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,22 +209,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Luminária/Jogos/Geometry Dash/Moedas das fases oficiais.md",
+                "file": "Attachments/20260920200848_1.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Sumário"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,12 +239,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8a5fa145eabb57e",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
+    "02 - Projetos/Jogos/Geometry Dash/Dificuldades dos Demons.md",
+    "02 - Projetos/Jogos/Geometry Dash/Cardápio de fases.md",
+    "02 - Projetos/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "02 - Projetos/Jogos/Diario de Gris.md",
-    "20260920200848_1.jpg",
-    "02 - Projetos/EverWorld/Entradas mensais/Setembro de 2026.md",
+    "02 - Projetos/Jogos/Diário do Ghostrunner.md",
+    "02 - Projetos/Jogos/Diário de jogos.md",
     "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
+    "_templates_/diario de jogo.md",
+    "02 - Projetos/EverWorld/Planejamento da Mega Base.md",
+    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/qa/VALIDATION.md",
+    "02 - Projetos/Jogos/Geometry Dash/User coins fáceis - criadores.md",
+    "Attachments/20260920200848_1.jpg",
+    "02 - Projetos/EverWorld/Entradas mensais/Setembro de 2026.md",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong/Guia de conquistas do Black Myth Wukong.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
@@ -263,26 +269,18 @@
     "04 - Referencias/Prompt pra imagem de platina.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "02 - Projetos/Guias de conquistas/GRIS",
-    "20260919220726_1.jpg",
-    "20260919220201_1.jpg",
-    "20260919213752_1.jpg",
-    "20260919210705_1.jpg",
-    "20260919205932_1.jpg",
+    "Attachments/20260919220726_1.jpg",
+    "Attachments/20260919220201_1.jpg",
+    "Attachments/20260919213752_1.jpg",
+    "Attachments/20260919210705_1.jpg",
+    "Attachments/20260919205932_1.jpg",
     "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.restored.md",
     "Excalidraw/Drawing 2026-09-19 20.51.04.excalidraw.md",
     "Attachments/2026-05-14_20.45.33.png",
-    "_templates_/diario de jogo.md",
     "Attachments/2026-05-14_20.49.07.png",
     "Attachments/2026-05-14_20.47.15.png",
-    "2026-05-14_20.47.15.png",
-    "00 - Hub do Vault.md",
-    "Excalidraw/Drawing 2026-09-19 20.49.27.excalidraw.md",
+    "Attachments/2026-05-14_20.47.15 1.png",
     "Excalidraw",
-    "02 - Projetos/Jogos/Diário de jogos.md",
-    "00 - Caixa de entrada/Persona 5 Royal.md",
-    "02 - Projetos/Jogos/Geometry Dash/Deadlocked.md",
-    "02 - Projetos/Jogos/Geometry Dash/Cardápio de fases.md",
-    "02 - Projetos/Jogos/Conquistas/Biblioteca Steam - platinas e jogos.md",
     "02 - Projetos/EverWorld/Geral.canvas",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
     "03 - Areas/Relações",

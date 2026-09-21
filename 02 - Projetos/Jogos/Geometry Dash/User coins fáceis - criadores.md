@@ -4,8 +4,7 @@ tags:
   - coins
   - farm
   - criadores
-status: vivo
-fonte: "Threads do r/geometrydash + GD Forum + guia Steam"
+fonte: Threads do r/geometrydash + GD Forum + guia Steam
 consultado_em: 2026-08-27
 ---
 

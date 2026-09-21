@@ -6,6 +6,7 @@
     "longform": "text",
     "Capitulo": "number",
     "Personagens": "multitext",
-    "Estado": "multitext"
+    "Estado": "multitext",
+    "nota final": "number"
   }
 }

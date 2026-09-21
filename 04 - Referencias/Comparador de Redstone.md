@@ -18,7 +18,7 @@ compara duas entradas. Se o sinal da entrada lateral for maior que o sinal de en
 	- Lateral = 15
 	- Traseira = 14
 	  
-	![[2026-05-14_20.47.15.png|661x371]]
+	![[2026-05-14_20.47.15 1.png|661x371]]
 
 2. **Lateral com a força menor:**
 	- Lateral = 14

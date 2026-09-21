@@ -16,8 +16,8 @@ O meu hub onde vão entrar todos os diarios dos jogos que vou jogar a partir do 
 - [[Diário do Geometry Dash]] — comfort game e desafio próprio.
 - [[informações de mundo]] — mundo de sobrevivência late game (dragão derrotado)
 - [[Diario do Everworld]] — agregador de todas as notas mensais do meu mapa eterno
-- [[Diario de Gris]] — Registro da minha jornada em Gris
+
 
 ## Concluido
 
-- 
+- [[Diario de Gris]] — Registro da minha jornada em Gris

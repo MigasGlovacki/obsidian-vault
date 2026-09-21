@@ -2,7 +2,6 @@
 tags:
   - geometry-dash
   - registro
-status: vivo
 ---
 
 # Dificuldades dos Demons

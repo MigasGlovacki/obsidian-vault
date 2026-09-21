@@ -4,8 +4,7 @@ tags:
   - gddl
   - cardapio
   - recomendacoes
-status: vivo
-fonte: "GDDL (gdladder.com) + Diário do GD + GDDP"
+fonte: GDDL (gdladder.com) + Diário do GD + GDDP
 consultado_em: 2026-08-24
 ---
 

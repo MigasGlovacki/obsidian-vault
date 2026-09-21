@@ -3,8 +3,7 @@ tags:
   - geometry-dash
   - gddp
   - checklist
-status: em andamento
-fonte: "GDDP List — tier Beginner"
+fonte: GDDP List — tier Beginner
 consultado_em: 2026-07-20
 ---
 

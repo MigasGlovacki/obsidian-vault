@@ -3,8 +3,7 @@ criado em: 2026-09-19
 tags:
   - diario
   - games
-Estado:
-  - Concluido
+status: concluido
 ---
 # Diário de GRIS
 
@@ -68,8 +67,8 @@ O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de aud
 
 Um momento que eu não vou esquecer é uma conquista (acho que era Anger) que eu tive que repetir o checkpoint 3 vezes por burrice pq eu não tava conseguindo fazer o que era pra fazer (spoiler: era algo extremamente simples, só quebrar 3 estatuas)
 
-E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada o jogo todo realmente era a mãe de Gris
+E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada o jogo todo realmente era a **mãe** de Gris
 
 ![[20260920200848_1.jpg|700x393]]
 
-A minha nota pra esse jogo é: 8.5/10
+A minha nota pra esse jogo é: **8.5/10**
