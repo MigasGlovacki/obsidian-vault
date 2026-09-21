@@ -9,6 +9,5 @@
 - [[Pokémon/Nuzlocke da Luminária/README|MoniLocke — Fire Red]]
 - [[Pokémon/A Pokédex da Luminária/00 - Painel da Jornada|Pokédex viva]]
 - [[Diário do Ghostrunner|Ghostrunner]]
-- [[Conquistas/README|Conquistas compartilhadas]]
 
 As notas podem ser feitas por João, por Monika ou pelos dois. O critério desta pasta é o assunto: jogos e suas jornadas.
