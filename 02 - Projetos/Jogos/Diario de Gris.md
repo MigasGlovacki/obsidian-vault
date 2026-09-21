@@ -56,3 +56,10 @@ Agora, a proxima parte dessa jornada vai ser pegar o resto das conquistas que fa
 
 ## 20/09/2026
 
+Eu terminei, eu consegui fechar a platina desse jogo, com ajuda do [[GRIS — Guia 100% em uma run]] que o Codex me ajudou a fazer, ficou muito bom.
+
+Não vou me alongar muito nessa nota, mas se eu pudesse resumir o que eu senti no fim em uma frase, seria:
+
+> Esse jogo me fez lembrar porque videogames também são obras de arte.
+
+O jeito que esse jogo trabalha com as cores, com a musica, com os efeitos de audio, o jeito que ele conta a historia sem falar uma palavra, tudo nesse jogo é lindo
