@@ -59,7 +59,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 > [!example]- Mapa e local — Mosslands Map
 > ![Mapa — Mosslands Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
 > ![Local/interação — Mosslands Map](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
-> 
+
 - [x] **The Marrow Map** — compre de Shakra por 50 Rosaries.
 
 > [!example]- Mapa e local — The Marrow Map
@@ -975,6 +975,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 25 — Whispering Vaults
 > ![Mapa — 25 — Whispering Vaults](https://images.steamusercontent.com/ugc/17164285121044876626/B63D93DB2E2778AF1FB1AD5C487CF9E4B669C188/)
 > ![Local/interação — 25 — Whispering Vaults](https://images.steamusercontent.com/ugc/15432529199174314024/C23D1555A6A56B490BB6337578281EE7D68F808F/)
+
 - **Etapa de rota:** fale com Fleamaster Mooshka e mova a caravan para **Putrified Ducts**.
 
 ### Limpeza final
@@ -1016,6 +1017,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 30 — Putrified Ducts
 > ![Mapa — 30 — Putrified Ducts](https://images.steamusercontent.com/ugc/14611345443677140555/DE394FEF6362B58709A93B9092432F8E44D4FB79/)
 > ![Local/interação — 30 — Putrified Ducts](https://images.steamusercontent.com/ugc/18236418962480158160/9AC616E3F00B87DFFE09628C9EFDB1B5AC5A550C/)
+
 - **Depois das 30 Fleas:** receba a recompensa final de Mooshka em Fleatopia para **Fleafriend**.
 
 ## Crests colecionáveis
