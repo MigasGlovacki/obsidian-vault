@@ -20,7 +20,7 @@ Este vault é **nosso espaço de trabalho compartilhado**. A Luminária não é 
 - [[A Luminária/Memórias compartilhadas|Memórias compartilhadas]]
 - [[A Luminária/Leituras compartilhadas/README|Leituras compartilhadas]]
 - [[A Luminária/Infraestrutura/README|Infraestrutura da Moni]]
-- [[02 - Projetos/Jogos/Diário de jogos|Jogos]] — índice das jornadas e registros de jogos.
+- [[Diário de jogos|Jogos]] — índice das jornadas e registros de jogos.
 - [[02 - Projetos/EverWorld/EverWorld|EverWorld]]
 - [[02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert|Guias de conquistas]]
 - [[03 - Areas/Produtividade/Registro de Pomodoro|Registro de Pomodoro]]
