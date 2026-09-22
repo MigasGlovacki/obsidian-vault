@@ -86,7 +86,7 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 
 ### Antes da Citadel
 
-> [!progress am]
+> [!progress am] █████████████░░░░░░░ 4/6 (67%)
 
 - [x] **Pharloom's Welcome** — derrote Lace em Deep Docks. Faça isso logo após obter **Swift Step** e antes de avançar por Wormways para Blasted Steps/Sinner's Road ou mover a Flea Caravan para Greymoor.
 
@@ -122,7 +122,7 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 
 ### Act 1
 
-> [!progress te]
+> [!progress te] ██████████████████░░ 15/17 (88%)
 
 - [x] **Bound** — obtenha **Silk Spear** na estátua Weaver de Bone Bottom.
 - [x] **Liberated** — use Silk Spear para libertar e derrotar Bell Beast em The Marrow.
@@ -150,7 +150,7 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 
 ## 3. Wishes e mundo
 
-> [!progress bl]
+> [!progress bl] █████████████░░░░░░░ 4/6 (67%)
 
 - [x] **Granted** — conclua qualquer primeira Wish; Berry Picking em Bone Bottom é uma opção inicial simples.
 - [x] **Resident** — conclua Restoration of Bellhart e Bellhart's Glory, receba a Bellhome Key de Pavo e entre na casa.
@@ -166,7 +166,7 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 
 ### Marcos iniciais
 
-> [!progress pu]
+> [!progress pu] █████████░░░░░░░░░░░ 9/19 (47%)
 
 - [x] **Equipped** — obtenha o primeiro Tool.
 - [x] **Claimed** — obtenha o primeiro Crest além do Hunter Crest inicial.
@@ -215,7 +215,7 @@ Instale o **Farsight**, encontrado no Abyss, em Bellhome para acompanhar a porce
 
 ### Speedrunner — menos de 5 horas
 
-> [!progress re]
+> [!progress re] ░░░░░░░░░░░░░░░░░░░░ 0/4 (0%)
 
 - [ ] **Speedrunner** — termine o jogo em menos de 5 horas. Use o final Weaver Queen.
 
@@ -250,7 +250,7 @@ Steel Soul é liberado ao finalizar o jogo. Também existe o comando no menu **E
 
 ## Conferência do 100%
 
-> [!progress gr]
+> [!progress gr] ░░░░░░░░░░░░░░░░░░░░ 0/8 (0%)
 
 - [ ] As **52 conquistas** aparecem uma única vez neste guia.
 - [ ] Pharloom's Welcome foi obtida antes do bloqueio de Deep Docks.
