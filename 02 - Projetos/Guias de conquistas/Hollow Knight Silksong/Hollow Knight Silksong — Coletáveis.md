@@ -50,15 +50,17 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mapas
 
+> [!progress te] █░░░░░░░░░░░░░░░░░░░ 2/28 (7%)
+
 ### Act 1
 
-- [ ] **Mosslands Map** — compre de Shakra por 40 Rosaries.
+- [x] **Mosslands Map** — compre de Shakra por 40 Rosaries.
 
 > [!example]- Mapa e local — Mosslands Map
 > ![Mapa — Mosslands Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
 > ![Local/interação — Mosslands Map](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
 > 
-- [ ] **The Marrow Map** — compre de Shakra por 50 Rosaries.
+- [x] **The Marrow Map** — compre de Shakra por 50 Rosaries.
 
 > [!example]- Mapa e local — The Marrow Map
 > ![Mapa — The Marrow Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
@@ -202,7 +204,9 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Bellways
 
-- [ ] **The Marrow** — liberada após Bell Beast.
+> [!progress te] ██░░░░░░░░░░░░░░░░░░ 1/12 (8%)
+
+- [x] **The Marrow** — liberada após Bell Beast.
 
 > [!example]- Mapa e local — The Marrow
 > ![Mapa — The Marrow](https://images.steamusercontent.com/ugc/10252538611032011399/2082342A384D380104985CE993D8BFAEBD5B290F/)
@@ -265,6 +269,8 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Ventrica Stations
 
+> [!progress te] ░░░░░░░░░░░░░░░░░░░░ 0/7 (0%)
+
 - [ ] **Grand Bellway** — 80 Rosaries.
 
 > [!example]- Mapa e local — Grand Bellway
@@ -304,6 +310,8 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 # Upgrades de Hornet
 
 ## Mask Shards
+
+> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/20 (0%)
 
 ### Act 1
 
@@ -417,6 +425,8 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Spool Fragments
 
+> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/18 (0%)
+
 ### Act 1
 
 - [ ] **01 — Moss Grotto / limite de Bone Bottom:** à direita do elevador vindo de The Marrow; quebre a parede sob a sala de Rosaries.
@@ -516,6 +526,8 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Silk Hearts
 
+> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/3 (0%)
+
 - [ ] **01 — Bell Beast:** recompensa de história após derrotá-la.
 
 > [!example]- Mapa e local — 01 — Bell Beast
@@ -537,6 +549,8 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 ## Fleas
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
+
+> [!progress am] ░░░░░░░░░░░░░░░░░░░░ 0/30 (0%)
 
 ### Antes de mover a caravan para Greymoor
 
@@ -565,7 +579,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 05 — Greymoor
 > ![Mapa — 05 — Greymoor](https://images.steamusercontent.com/ugc/16760412161911473970/0927E545ABFF34F3FDA11AC6334E68ED61D61783/)
 > ![Local/interação — 05 — Greymoor](https://images.steamusercontent.com/ugc/17981389341602548722/3E6AB73E30E51429D32BA6B347B5381EF37D7D7A/)
-- [ ] Fale com Fleamaster Mooshka e mova a caravan para **Greymoor**.
+- **Etapa de rota:** fale com Fleamaster Mooshka e mova a caravan para **Greymoor**.
 
 ### Antes de mover a caravan para Blasted Steps
 
@@ -619,7 +633,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 15 — Deep Docks
 > ![Mapa — 15 — Deep Docks](https://images.steamusercontent.com/ugc/17126679600760338662/8999D3ABD82D3266FC6A7E006E918DED14D80306/)
 > ![Local/interação — 15 — Deep Docks](https://images.steamusercontent.com/ugc/15936729825904444318/A78B6D76C5F5F0B586B2A7D77D3FD3D032CBE85D/)
-- [ ] Fale com Fleamaster Mooshka e mova a caravan para **Blasted Steps**.
+- **Etapa de rota:** fale com Fleamaster Mooshka e mova a caravan para **Blasted Steps**.
 
 ### Antes de mover a caravan para Putrified Ducts
 
@@ -673,7 +687,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 25 — Whispering Vaults
 > ![Mapa — 25 — Whispering Vaults](https://images.steamusercontent.com/ugc/17164285121044876626/B63D93DB2E2778AF1FB1AD5C487CF9E4B669C188/)
 > ![Local/interação — 25 — Whispering Vaults](https://images.steamusercontent.com/ugc/15432529199174314024/C23D1555A6A56B490BB6337578281EE7D68F808F/)
-- [ ] Fale com Fleamaster Mooshka e mova a caravan para **Putrified Ducts**.
+- **Etapa de rota:** fale com Fleamaster Mooshka e mova a caravan para **Putrified Ducts**.
 
 ### Limpeza final
 
@@ -702,9 +716,11 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 30 — Putrified Ducts
 > ![Mapa — 30 — Putrified Ducts](https://images.steamusercontent.com/ugc/14611345443677140555/DE394FEF6362B58709A93B9092432F8E44D4FB79/)
 > ![Local/interação — 30 — Putrified Ducts](https://images.steamusercontent.com/ugc/18236418962480158160/9AC616E3F00B87DFFE09628C9EFDB1B5AC5A550C/)
-- [ ] Receba a recompensa final de Mooshka em Fleatopia para **Fleafriend**.
+- **Depois das 30 Fleas:** receba a recompensa final de Mooshka em Fleatopia para **Fleafriend**.
 
 ## Crests colecionáveis
+
+> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/6 (0%)
 
 O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis itens para coletar e seis pontos percentuais nos 100%.
 
@@ -741,6 +757,8 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 ## Silk Skills
 
+> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/6 (0%)
+
 - [ ] **Silk Spear — Bone Bottom:** estátua Weaver; obrigatório para a história.
 
 > [!example]- Mapa e local — Silk Spear
@@ -775,6 +793,8 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 ## Memory Lockets
 
 São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**; os cinco restantes servem para completar o inventário.
+
+> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/20 (0%)
 
 ### Act 1
 
@@ -884,13 +904,15 @@ São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**;
 > [!example]- Mapa e local — 20 — Far Fields
 > ![Mapa — 20 — Far Fields](https://images.steamusercontent.com/ugc/16322444994407472639/89EA3D0796CE0BB02D544CF4D27B7A7E801EDBD6/)
 > ![Local/interação — 20 — Far Fields](https://images.steamusercontent.com/ugc/11652916375326860372/AF25D57B99E559953FBAAC240977D9318FFE0943/)
-- [ ] Volte a Eva em Weavenest Atla após abrir os slots para concluir **Entwined**.
+- **Depois dos Memory Lockets:** volte a Eva em Weavenest Atla após abrir os slots para concluir **Entwined**.
 
 # Tools — 51 exigidos por Arsenal e pelo 100%
 
 Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter são temporários e não entram nos 51. Em Steel Soul, **Shell Satchel** ocupa o lugar de **Dead Bug's Purse**.
 
 ## Red Tools
+
+> [!progress re] ░░░░░░░░░░░░░░░░░░░░ 0/18 (0%)
 
 - [ ] **Straight Pin — The Marrow:** liberte Grindle da prisão.
 
@@ -1002,6 +1024,8 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 > ![Referência 3 — Plasmium Phial](https://images.steamusercontent.com/ugc/12719710795362830423/140709C62EDA1C121622523C7236D0CD53266825/)
 
 ## Blue Tools
+
+> [!progress bl] ░░░░░░░░░░░░░░░░░░░░ 0/21 (0%)
 
 - [ ] **Druid's Eye — Bone Bottom:** conclua **Berry Picking**. Druid's Eyes é upgrade do mesmo Tool.
 
@@ -1131,6 +1155,8 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Yellow Tools
 
+> [!progress ye] ░░░░░░░░░░░░░░░░░░░░ 0/12 (0%)
+
 - [ ] **Compass — The Marrow:** Shakra, 70 Rosaries.
 
 > [!example]- Referências visuais — Compass
@@ -1208,6 +1234,8 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Abilities
 
+> [!progress te] ░░░░░░░░░░░░░░░░░░░░ 0/6 (0%)
+
 - [ ] **Swift Step — Deep Docks:** estátua Weaver no alto da área.
 
 > [!example]- Mapa e local — Swift Step
@@ -1241,6 +1269,8 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Crafting Kit upgrades
 
+> [!progress te] ░░░░░░░░░░░░░░░░░░░░ 0/4 (0%)
+
 - [ ] **01 — Deep Docks:** Forge Daughter, 180 Rosaries.
 
 > [!example]- Mapa e local — 01 — Deep Docks
@@ -1264,6 +1294,8 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Tool Pouch upgrades
 
+> [!progress te] ░░░░░░░░░░░░░░░░░░░░ 0/4 (0%)
+
 - [ ] **01 — The Marrow:** acerte o alvo de Loddie 15 vezes após Widow.
 
 > [!example]- Mapa e local — 01 — The Marrow
@@ -1286,6 +1318,8 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 > ![Local/interação — 04 — Fleatopia](https://images.steamusercontent.com/ugc/15596379340055476036/E545F1DCDAA3DDBF9380DC4D1FED951C1DFA30D2/)
 
 ## Needle upgrades
+
+> [!progress te] ░░░░░░░░░░░░░░░░░░░░ 0/4 (0%)
 
 - [ ] **Sharpened Needle:** após Widow, fale com Pinmaster Plinney em Bellhart; gratuito.
 
@@ -1312,6 +1346,8 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Simple Keys
 
+> [!progress gy] ░░░░░░░░░░░░░░░░░░░░ 0/4 (0%)
+
 - [ ] **01 — Bone Bottom:** Pebb, 500 Rosaries; no Act 3, Grindle por 600.
 
 > [!example]- Mapa e local — 01 — Bone Bottom
@@ -1334,6 +1370,8 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 > ![Local/interação — 04 — Sands of Karak](https://images.steamusercontent.com/ugc/17665074523972398387/0BCD7E817E5398C92E5A962FE462516AE21BB6F1/)
 
 ## Craftmetals
+
+> [!progress gy] ░░░░░░░░░░░░░░░░░░░░ 0/8 (0%)
 
 - [ ] **01 — Bone Bottom:** Pebb, 60 Rosaries; no Act 3, Grindle por 120.
 
@@ -1385,6 +1423,8 @@ As Fleas são a maior sequência de buscas e têm passagens escondidas, platafor
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4xbQJ9K0_PE" title="Hollow Knight: Silksong — todas as 30 Fleas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Auditoria final
+
+> [!progress gr] ░░░░░░░░░░░░░░░░░░░░ 0/8 (0%)
 
 - [ ] Todos os 28 mapas.
 - [ ] Todas as 12 Bellways e as 7 Ventrica Stations.

@@ -86,6 +86,8 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 
 ### Antes da Citadel
 
+> [!progress am]
+
 - [x] **Pharloom's Welcome** — derrote Lace em Deep Docks. Faça isso logo após obter **Swift Step** e antes de avançar por Wormways para Blasted Steps/Sinner's Road ou mover a Flea Caravan para Greymoor.
 
 > [!example]- Referência visual — acesso de Deep Docks para Lace
@@ -120,6 +122,8 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 
 ### Act 1
 
+> [!progress te]
+
 - [x] **Bound** — obtenha **Silk Spear** na estátua Weaver de Bone Bottom.
 - [x] **Liberated** — use Silk Spear para libertar e derrotar Bell Beast em The Marrow.
 - [x] **Servant** — conclua **Flexile Spines**, receba Drifter's Cloak e derrote Fourth Chorus em Far Fields.
@@ -146,6 +150,8 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 
 ## 3. Wishes e mundo
 
+> [!progress bl]
+
 - [x] **Granted** — conclua qualquer primeira Wish; Berry Picking em Bone Bottom é uma opção inicial simples.
 - [x] **Resident** — conclua Restoration of Bellhart e Bellhart's Glory, receba a Bellhome Key de Pavo e entre na casa.
 - [x] **Glutton** — conclua **The Great Taste of Pharloom** com Mossberry Stew, Vintage Nectar, Courier's Rasher, Crustnut e Pickled Muckmaggot. A entrega do Rasher é cronometrada, não permite fast travel e perde qualidade ao sofrer dano.
@@ -159,6 +165,8 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 > Não marque itens individuais aqui. Use [[Hollow Knight Silksong — Coletáveis]] para evitar dois checklists divergentes.
 
 ### Marcos iniciais
+
+> [!progress pu]
 
 - [x] **Equipped** — obtenha o primeiro Tool.
 - [x] **Claimed** — obtenha o primeiro Crest além do Hunter Crest inicial.
@@ -207,6 +215,8 @@ Instale o **Farsight**, encontrado no Abyss, em Bellhome para acompanhar a porce
 
 ### Speedrunner — menos de 5 horas
 
+> [!progress re]
+
 - [ ] **Speedrunner** — termine o jogo em menos de 5 horas. Use o final Weaver Queen.
 
 **Rota resumida:** Silk Spear → Bell Beast → Swift Step → Lace em Deep Docks → Warding Bell → Drifter's Cloak → Fourth Chorus → Bellhart → Cling Grip → Widow → Citadel por Phantom ou Last Judge → Cogwork Dancers → três melodias → Lace → Mother Silk → Bind.
@@ -239,6 +249,8 @@ Steel Soul é liberado ao finalizar o jogo. Também existe o comando no menu **E
 <iframe width="560" height="315" src="https://www.youtube.com/embed/08Ue75YS-88" title="Silksong — walkthrough de Steel Soul 100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Conferência do 100%
+
+> [!progress gr]
 
 - [ ] As **52 conquistas** aparecem uma única vez neste guia.
 - [ ] Pharloom's Welcome foi obtida antes do bloqueio de Deep Docks.
