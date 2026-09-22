@@ -101,6 +101,8 @@ escopo: Jogo base — Sea of Sorrow fora do guia
 > [!example]- Referência visual — Twisted Bud em Bilewater
 > ![Localização do Twisted Bud usado para receber a Rooted Curse](https://images.steamusercontent.com/ugc/10497295769116938679/9DCC1E2D15B662A4A79FB051D9344EA4526F45AD/)
 
+<br>
+
 - [x] **Snared Silk** — conclua **Silk and Soul** e, após derrotar Mother Silk, use a **Needolin**. Esse final inicia o Act 3.
 
 **Requisitos principais de Silk and Soul:**

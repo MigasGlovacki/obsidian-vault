@@ -60,6 +60,8 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 > ![Mapa — Mosslands Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
 > ![Local/interação — Mosslands Map](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
 
+<br>
+
 - [x] **The Marrow Map** — compre de Shakra por 50 Rosaries.
 
 > [!example]- Mapa e local — The Marrow Map
@@ -452,6 +454,8 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 > ![Mapa — 02 — Deep Docks](https://images.steamusercontent.com/ugc/10783698564614273904/A97D93FB4D8634EB617CAE8573D1638F8C263C7D/)
 > ![Local/interação — 02 — Deep Docks](https://images.steamusercontent.com/ugc/17002510661396866217/B56117CE3F8B24F9DDA0BF0DE0BB4D72309F6113/)
 
+<br>
+
 - [ ] **03 — Weavenest Atla:** quebre a parede à direita para revelar a seção secreta.
 
 > [!example]- Mapa e local — 03 — Weavenest Atla
@@ -613,6 +617,8 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 > [!example]- Mapa e local — 02 — Deep Docks
 > ![Mapa — 02 — Deep Docks](https://images.steamusercontent.com/ugc/11459443705220459431/1A5A1B34826FDE31C0E69FFD009A04CEA3BBDF97/)
 > ![Local/interação — 02 — Deep Docks](https://images.steamusercontent.com/ugc/14368532910357591908/584CBD8D0E6C96DBE6FDE7B1932A0F6306C3613E/)
+
+<br>
 
 - [ ] **03 — Bellhart:** compre de Frey por 270 Rosaries após liberar a loja.
 
@@ -813,6 +819,8 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 05 — Greymoor
 > ![Mapa — 05 — Greymoor](https://images.steamusercontent.com/ugc/16760412161911473970/0927E545ABFF34F3FDA11AC6334E68ED61D61783/)
 > ![Local/interação — 05 — Greymoor](https://images.steamusercontent.com/ugc/17981389341602548722/3E6AB73E30E51429D32BA6B347B5381EF37D7D7A/)
+<br>
+
 - **Etapa de rota:** fale com Fleamaster Mooshka e mova a caravan para **Greymoor**.
 
 ### Antes de mover a caravan para Blasted Steps
@@ -894,6 +902,8 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 15 — Deep Docks
 > ![Mapa — 15 — Deep Docks](https://images.steamusercontent.com/ugc/17126679600760338662/8999D3ABD82D3266FC6A7E006E918DED14D80306/)
 > ![Local/interação — 15 — Deep Docks](https://images.steamusercontent.com/ugc/15936729825904444318/A78B6D76C5F5F0B586B2A7D77D3FD3D032CBE85D/)
+<br>
+
 - **Etapa de rota:** fale com Fleamaster Mooshka e mova a caravan para **Blasted Steps**.
 
 ### Antes de mover a caravan para Putrified Ducts
@@ -976,6 +986,8 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > ![Mapa — 25 — Whispering Vaults](https://images.steamusercontent.com/ugc/17164285121044876626/B63D93DB2E2778AF1FB1AD5C487CF9E4B669C188/)
 > ![Local/interação — 25 — Whispering Vaults](https://images.steamusercontent.com/ugc/15432529199174314024/C23D1555A6A56B490BB6337578281EE7D68F808F/)
 
+<br>
+
 - **Etapa de rota:** fale com Fleamaster Mooshka e mova a caravan para **Putrified Ducts**.
 
 ### Limpeza final
@@ -1017,6 +1029,8 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 > [!example]- Mapa e local — 30 — Putrified Ducts
 > ![Mapa — 30 — Putrified Ducts](https://images.steamusercontent.com/ugc/14611345443677140555/DE394FEF6362B58709A93B9092432F8E44D4FB79/)
 > ![Local/interação — 30 — Putrified Ducts](https://images.steamusercontent.com/ugc/18236418962480158160/9AC616E3F00B87DFFE09628C9EFDB1B5AC5A550C/)
+
+<br>
 
 - **Depois das 30 Fleas:** receba a recompensa final de Mooshka em Fleatopia para **Fleafriend**.
 
@@ -1287,6 +1301,8 @@ São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**;
 > [!example]- Mapa e local — 20 — Far Fields
 > ![Mapa — 20 — Far Fields](https://images.steamusercontent.com/ugc/16322444994407472639/89EA3D0796CE0BB02D544CF4D27B7A7E801EDBD6/)
 > ![Local/interação — 20 — Far Fields](https://images.steamusercontent.com/ugc/11652916375326860372/AF25D57B99E559953FBAAC240977D9318FFE0943/)
+<br>
+
 - **Depois dos Memory Lockets:** volte a Eva em Weavenest Atla após abrir os slots para concluir **Entwined**.
 
 # Tools — 51 exigidos por Arsenal e pelo 100%
