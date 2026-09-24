@@ -57,7 +57,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 - [x] **Mosslands Map** — compre de Shakra por 40 Rosaries.
 
 > [!example]- Mapa e local — Mosslands Map
-> ![The Marrow — posição de Shakra, que vende o Mosslands Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
+> ![The Marrow — posição de Shakra, que vende o Mosslands Map|664x374](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
 > ![Menu de Shakra com Mosslands Map selecionado](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
 > A fonte reúne Mosslands e The Marrow: não há uma captura do mapa aberto de Mosslands neste bloco.
 
@@ -66,7 +66,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 - [x] **The Marrow Map** — compre de Shakra por 50 Rosaries.
 
 > [!example]- Mapa e local — The Marrow Map
-> ![Mapa — The Marrow Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
+> ![Mapa — The Marrow Map|664x374](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
 > ![Menu de Shakra com The Marrow Map como segunda opção](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
 
 <br>
