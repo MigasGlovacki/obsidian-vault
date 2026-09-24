@@ -600,11 +600,11 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Spool Fragments
 
-> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/18 (0%)
+> [!progress pu] █░░░░░░░░░░░░░░░░░░░ 1/18 (6%)
 
 ### Act 1
 
-- [ ] **01 — Moss Grotto / limite de Bone Bottom:** à direita do elevador vindo de The Marrow; quebre a parede sob a sala de Rosaries.
+- [x] **01 — Moss Grotto / limite de Bone Bottom:** à direita do elevador vindo de The Marrow; quebre a parede sob a sala de Rosaries.
 
 > [!example]- Mapa e local — 01 — Moss Grotto / limite de Bone Bottom
 > ![Mapa — 01 — Moss Grotto / limite de Bone Bottom](https://images.steamusercontent.com/ugc/14783613119686438151/67F0964E420C180ABC3DDE2F5433DB85E2651885/)

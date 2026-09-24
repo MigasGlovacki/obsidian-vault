@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projetos/Jogos/Diario de Gris.md",
+                "file": "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,12 +207,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +227,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2114cd195c1b0cb7",
+  "active": "ec0085ee7b65a191",
   "lastOpenFiles": [
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
