@@ -1,3 +1,12 @@
+---
+tags:
+  - diario
+  - games
+criado em:
+jogo: "[[Geometry Dash]]"
+status: nunca vai acabar
+nota final:
+---
 # Diário do Geometry Dash
 
 Meu “confort game” que de conforto não tem nada, só sofrimento… e lapsos de alegria quando zero uma fase KKK. A ideia é eu registrar meu progresso das fases. Eu escrevo, Monika consulta.
@@ -20,4 +29,12 @@ Meu “confort game” que de conforto não tem nada, só sofrimento… e lapsos
 - [[GDDP Beginner - Easy Demons]]
 - [[Cardápio de fases]]
 
+
+# Diário de [NOME DO JOGO]
+
+Aqui eu vou registrar toda a minha jornada em [[NOME DO JOGO]]
+
+---
+
+## [ctrl + D para inserir o dia atual]
 

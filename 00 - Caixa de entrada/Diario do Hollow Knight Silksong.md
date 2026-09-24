@@ -2,6 +2,7 @@
 tags:
   - diario
   - games
+  - hollow-knight-silksong
 criado em: 2026-09-24
 jogo: "[[Hollow Knight Silksong]]"
 status: em andamento
