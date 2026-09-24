@@ -1141,7 +1141,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**; os cinco restantes servem para completar o inventário.
 
-> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/20 (0%)
+> [!progress pu] █░░░░░░░░░░░░░░░░░░░ 1/20 (5%)
 
 ### Act 1
 
@@ -1161,7 +1161,7 @@ São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**;
 
 <br>
 
-- [ ] **03 — Far Fields:** compre de Mort por 150 Rosaries; no Act 3, compre de Grindle.
+- [x] **03 — Far Fields:** compre de Mort por 150 Rosaries; no Act 3, compre de Grindle.
 
 > [!example]- Mapa e local — 03 — Far Fields
 > ![Mapa — 03 — Far Fields](https://images.steamusercontent.com/ugc/16101235412289756719/90B599EF4231E92173EC5AAE34337F83365405EA/)
