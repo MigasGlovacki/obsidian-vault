@@ -279,7 +279,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Bellways
 
-> [!progress te] ██░░░░░░░░░░░░░░░░░░ 1/12 (8%)
+> [!progress te] █████░░░░░░░░░░░░░░░ 3/12 (25%)
 
 - [x] **The Marrow** — liberada após Bell Beast.
 
@@ -289,7 +289,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Bone Bottom** — liberada após Bell Beast.
+- [x] **Bone Bottom** — liberada após Bell Beast.
 
 > [!example]- Mapa e local — Bone Bottom
 > ![Mapa — Bone Bottom](https://images.steamusercontent.com/ugc/15397557615845994851/383566DD79244988F92F1922D8CFBD135B8C8E22/)
@@ -297,7 +297,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Deep Docks** — 40 Rosaries.
+- [x] **Deep Docks** — 40 Rosaries.
 
 > [!example]- Mapa e local — Deep Docks
 > ![Mapa — Deep Docks](https://images.steamusercontent.com/ugc/14913746192550966516/AD8E65F66344200765BA83AEF270E73FAC7DAB8C/)
