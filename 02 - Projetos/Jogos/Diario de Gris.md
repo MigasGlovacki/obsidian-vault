@@ -82,4 +82,4 @@ No geral, gostei muito do jogo e recomendo demais que outras pessoas joguem, e e
 
 # Arte de 100%
 
-![Imagem de platina](C:\Users\migas\Downloads\Imagens)
+![Gris Platina](C:\Users\migas\Downloads\Imagens\.png)
