@@ -50,7 +50,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mapas
 
-> [!progress te] █░░░░░░░░░░░░░░░░░░░ 2/28 (7%)
+> [!progress te] ██░░░░░░░░░░░░░░░░░░ 3/28 (11%)
 
 ### Act 1
 
@@ -70,7 +70,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Deep Docks Map** — compre de Shakra por 40 Rosaries.
+- [x] **Deep Docks Map** — compre de Shakra por 40 Rosaries.
 
 > [!example]- Mapa e local — Deep Docks Map
 > ![Mapa — Deep Docks Map](https://images.steamusercontent.com/ugc/11119813506185442396/DD26BFE058C257CA04FE0B6C9C429F5D1429CAF2/)
