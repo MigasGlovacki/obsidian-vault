@@ -1,8 +1,9 @@
 ---
-criado em:
 tags:
   - diario
   - games
+criado em:
+jogo:
 status:
 nota final:
 ---
