@@ -1665,7 +1665,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Yellow Tools
 
-> [!progress ye] ███░░░░░░░░░░░░░░░░░ 2/12 (17%)
+> [!progress ye] █████░░░░░░░░░░░░░░░ 3/12 (25%)
 
 - [x] **Compass — The Marrow:** Shakra, 70 Rosaries.
 
@@ -1685,7 +1685,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Magnetite Brooch — Bone Bottom:** Pebb; se indisponível, compre de Grindle no Act 3.
+- [x] **Magnetite Brooch — Bone Bottom:** Pebb; se indisponível, compre de Grindle no Act 3.
 
 > [!example]- Referências visuais — Magnetite Brooch
 > ![Referência 1 — Magnetite Brooch](https://images.steamusercontent.com/ugc/9676508895447726250/A190C3ACC37004AB135800395D4218F9F9406A9C/)
@@ -1965,9 +1965,9 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Craftmetals
 
-> [!progress gy] ███░░░░░░░░░░░░░░░░░ 1/8 (13%)
+> [!progress gy] █████░░░░░░░░░░░░░░░ 2/8 (25%)
 
-- [ ] **01 — Bone Bottom:** Pebb, 60 Rosaries; no Act 3, Grindle por 120.
+- [x] **01 — Bone Bottom:** Pebb, 60 Rosaries; no Act 3, Grindle por 120.
 
 > [!example]- Mapa e local — 01 — Bone Bottom
 > ![Mapa — 01 — Bone Bottom](https://images.steamusercontent.com/ugc/11378513625903387326/7B8F1BDD454E3060758B890A5F29538BBB5B16D5/)
