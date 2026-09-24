@@ -1,10 +1,10 @@
 ---
 tags:
   - jogos
-  - steam
-  - ghostrunner
   - conquistas
   - colecionaveis
+jogo: Ghostrunner
+plataforma: Steam
 ---
 
 # Ghostrunner — Colecionáveis e 100%

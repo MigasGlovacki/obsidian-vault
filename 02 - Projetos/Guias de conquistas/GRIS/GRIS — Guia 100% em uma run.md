@@ -1,11 +1,10 @@
 ---
 tags:
   - games
-  - gris
-  - steam
   - conquistas
   - coletaveis
   - 100-porcento
+jogo: Gris
 appid: 683320
 plataforma: Steam
 escopo: Jogo base — 17 conquistas
