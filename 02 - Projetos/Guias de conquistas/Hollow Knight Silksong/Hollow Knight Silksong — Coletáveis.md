@@ -50,7 +50,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mapas
 
-> [!progress te] ██░░░░░░░░░░░░░░░░░░ 3/28 (11%)
+> [!progress te] ███░░░░░░░░░░░░░░░░░ 4/28 (14%)
 
 ### Act 1
 
@@ -86,7 +86,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Hunter's March Map** — compre de Shakra por 70 Rosaries.
+- [x] **Hunter's March Map** — compre de Shakra por 70 Rosaries.
 
 > [!example]- Mapa e local — Hunter's March Map
 > ![Mapa — Hunter's March Map](https://images.steamusercontent.com/ugc/18403808816862054510/CD875EBBBC3AC399629250E7EEEDF3A24CDC7FCA/)
@@ -1475,7 +1475,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Blue Tools
 
-> [!progress bl] █░░░░░░░░░░░░░░░░░░░ 1/21 (5%)
+> [!progress bl] ██░░░░░░░░░░░░░░░░░░ 2/21 (10%)
 
 - [x] **Druid's Eye — Bone Bottom:** conclua **Berry Picking**. Druid's Eyes é upgrade do mesmo Tool.
 
@@ -1495,7 +1495,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Warding Bell — Far Fields:** sala secreta no fundo da sala vertical de correntes de ar.
+- [x] **Warding Bell — Far Fields:** sala secreta no fundo da sala vertical de correntes de ar.
 
 > [!example]- Referências visuais — Warding Bell
 > ![Referência 1 — Warding Bell](https://images.steamusercontent.com/ugc/10634010766400344450/49FEDCFDFF404BA359B2CF4ABA5B58470010D851/)
