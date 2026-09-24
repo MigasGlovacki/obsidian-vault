@@ -600,7 +600,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Spool Fragments
 
-> [!progress pu] █░░░░░░░░░░░░░░░░░░░ 1/18 (6%)
+> [!progress pu] ██░░░░░░░░░░░░░░░░░░ 2/18 (11%)
 
 ### Act 1
 
@@ -612,7 +612,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **02 — Deep Docks:** ative a alavanca à direita e use as ember platforms.
+- [x] **02 — Deep Docks:** ative a alavanca à direita e use as ember platforms.
 
 > [!example]- Mapa e local — 02 — Deep Docks
 > ![Mapa — 02 — Deep Docks](https://images.steamusercontent.com/ugc/11459443705220459431/1A5A1B34826FDE31C0E69FFD009A04CEA3BBDF97/)
