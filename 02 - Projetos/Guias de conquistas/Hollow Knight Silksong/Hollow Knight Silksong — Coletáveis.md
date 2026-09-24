@@ -1311,9 +1311,9 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Red Tools
 
-> [!progress re] ░░░░░░░░░░░░░░░░░░░░ 0/18 (0%)
+> [!progress re] █░░░░░░░░░░░░░░░░░░░ 1/18 (6%)
 
-- [ ] **Straight Pin — The Marrow:** liberte Grindle da prisão.
+- [x] **Straight Pin — The Marrow:** liberte Grindle da prisão.
 
 > [!example]- Referências visuais — Straight Pin
 > ![Referência 1 — Straight Pin](https://images.steamusercontent.com/ugc/18068139150165370614/7AC6464DCCAA94E5810CD9BF7F4E3C40CEB6D721/)
