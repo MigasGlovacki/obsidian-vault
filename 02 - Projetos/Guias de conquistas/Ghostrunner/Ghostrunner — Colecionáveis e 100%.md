@@ -3,7 +3,7 @@ tags:
   - jogos
   - conquistas
   - colecionaveis
-jogo: Ghostrunner
+jogo: "[[Ghostrunner]]"
 plataforma: Steam
 ---
 

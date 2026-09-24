@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
+                "file": "00 - Caixa de entrada/Gris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hollow Knight Silksong — Coletáveis"
+              "title": "Gris"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Caixa de entrada/Hornet.md",
+                "file": "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hornet"
+              "title": "Hollow Knight Silksong — Guia de conquistas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"jogo\":",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +103,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
+                "file": "00 - Caixa de entrada/Gris.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -241,29 +241,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a0c9e9d2e3c9f04",
+  "active": "df1d542f1eb8792a",
   "lastOpenFiles": [
-    "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
-    "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
-    "02 - Projetos/Guias de conquistas/Black Myth Wukong/Guia de conquistas do Black Myth Wukong.md",
+    "00 - Caixa de entrada/Gris.md",
+    "02 - Projetos/Guias de conquistas/Ghostrunner/Ghostrunner — Colecionáveis e 100%.md",
+    "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
+    "01 - Diario/Diário de jogos.md",
+    "00 - Caixa de entrada/Hollow Knight Silksong.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
+    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
+    "00 - Caixa de entrada/Hornet.md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
+    "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
+    "02 - Projetos/Guias de conquistas/Black Myth Wukong/Guia de conquistas do Black Myth Wukong.md",
     "_templates_/Games.md",
     "00 - Caixa de entrada/Hollow Knight.md",
     "_templates_/diario de jogo.md",
-    "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
-    "02 - Projetos/Guias de conquistas/Ghostrunner/Ghostrunner — Colecionáveis e 100%.md",
-    "00 - Caixa de entrada/Hollow Knight Silksong.md",
-    "00 - Caixa de entrada/Hornet.md",
     "Attachments/2026-05-14_20.47.15 1.png",
     "Attachments/digital_circus.png",
     "Attachments/20260919220201_1.jpg",
     "02 - Projetos/Jogos/Diario de Gris.md",
     "Attachments/100 Gris.png",
-    "01 - Diario/Diário de jogos.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "00 - Caixa de entrada/Persona 5 Royal.md",
-    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "03 - Areas/Gostos de anime.md",
     "00 - Hub do Vault.md",
     "04 - Referencias/Ghostrunner.md",
@@ -279,7 +280,6 @@
     "02 - Projetos/MoniLink.md",
     "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
-    "04 - Referencias/Prompt pra imagem de platina.md",
     "02 - Projetos/EverWorld/Geral.canvas",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong",

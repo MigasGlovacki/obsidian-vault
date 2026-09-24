@@ -1,14 +1,15 @@
 ---
-criado em: 2026-09-24
 tags:
   - diario
   - games
-status: Em andamento
+criado em: 2026-09-24
+jogo: "[[Hollow Knight Silksong]]"
+status: em andamento
 nota final:
 ---
 # Diário de Hollow Knight Silksong
 
-Aqui eu vou registrar toda a minha jornada em [[Hollow Knight Silksong]]
+Aqui eu vou registrar toda a minha jornada em **Hollow Knight Silksong**.
 
 ---
 
@@ -21,4 +22,12 @@ Bem, eu comecei a jogar na verdade nesse meu novo save dia 22/09, mas eu esqueci
 - Hornet estava meio debilitada, e uma hora desmaia, acordando pouco tempo depois
 - Conversa com um NPC sobre o lugar onde o jogo se passa: [[Fiarlongo]]
 - Hornet suspeita que não foi trazida para cá por acaso, e decide começar uma viagem até a [[Cidadela]]
+
+# Diário de [NOME DO JOGO]
+
+Aqui eu vou registrar toda a minha jornada em [[NOME DO JOGO]]
+
+---
+
+## [ctrl + D para inserir o dia atual]
 
