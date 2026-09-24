@@ -171,7 +171,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 > [!example]- Mapa e local — Choral Chambers Map
 > ![Mapa — Choral Chambers Map](https://images.steamusercontent.com/ugc/13449270164367632849/E8E4CD1C07A6DA905E6FC477DA1C9A6D35DF9766/)
-> ![Local/interação — Choral Chambers Map](https://images.steamusercontent.com/ugc/10913673239641987512/91563591273095C8F90A47A0495ABFF0B66438EA/)
+> ![Local/interação — Choral Chambers Map|664x374](https://images.steamusercontent.com/ugc/10913673239641987512/91563591273095C8F90A47A0495ABFF0B66438EA/)
 
 <br>
 
