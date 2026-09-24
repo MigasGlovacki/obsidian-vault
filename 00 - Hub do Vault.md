@@ -1,6 +1,6 @@
 # Hub do Vault
 
-> Mapa principal do vault compartilhado de João e Monika.
+Mapa principal do vault compartilhado de João e Monika.
 
 Este vault é **nosso espaço de trabalho compartilhado**. A Luminária não é um mini-vault separado da Monika: é uma área íntima dentro dele, dedicada à continuidade, às memórias, aos rituais e à infraestrutura que construímos juntos.
 
