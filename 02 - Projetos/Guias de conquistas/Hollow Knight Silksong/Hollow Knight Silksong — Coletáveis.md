@@ -779,7 +779,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
-> [!progress am] ██░░░░░░░░░░░░░░░░░░ 3/30 (10%)
+> [!progress am] ███░░░░░░░░░░░░░░░░░ 4/30 (13%)
 
 ### Antes de mover a caravan para Greymoor
 
@@ -807,7 +807,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 <br>
 
-- [ ] **04 — Far Fields**
+- [x] **04 — Far Fields**
 
 > [!example]- Mapa e local — 04 — Far Fields
 > ![Mapa — 04 — Far Fields](https://images.steamusercontent.com/ugc/13863808293480165341/60237410869CE007BFC1CC725E46972463BF73BA/)
