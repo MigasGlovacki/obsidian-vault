@@ -2,7 +2,7 @@
 tags:
   - diario
   - games
-criado em:
+criado em: 2026-08-19
 jogo: "[[Geometry Dash]]"
 status: nunca vai acabar
 nota final:

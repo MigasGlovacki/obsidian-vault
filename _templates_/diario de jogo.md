@@ -3,7 +3,9 @@ tags:
   - diario
   - games
 criado em:
+plataforma:
 jogo:
+appid:
 status:
 nota final:
 ---

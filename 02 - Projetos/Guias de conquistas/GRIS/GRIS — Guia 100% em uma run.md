@@ -27,17 +27,17 @@ progresso: 17/17
 ### Conquistas — 0/17
 
 - [x] **História:** Vermelho, Verde, Azul, Amarelo e O Fim — 5/5
-- [ ] **Desafios de capítulo:** Tempestade de areia, Inuksuit, Maçãs, Enguia e Aves mágicas — 0/5
-- [ ] **Fases do luto:** Negação, Raiva, Barganha, Depressão e Aceitação — 1/5
-- [ ] **Coleção:** Lembranças e Infância — 0/2
+- [x] **Desafios de capítulo:** Tempestade de areia, Inuksuit, Maçãs, Enguia e Aves mágicas — 0/5
+- [x] **Fases do luto:** Negação, Raiva, Barganha, Depressão e Aceitação — 1/5
+- [x] **Coleção:** Lembranças e Infância — 0/2
 
 ### Lembranças — 0/28
 
-- [ ] Capítulo 1 — 0/2
-- [ ] Capítulo 2 — 0/7
-- [ ] Capítulo 3 — 0/7
-- [ ] Capítulo 4 — 0/5
-- [ ] Capítulo 5 — 0/7
+- [x] Capítulo 1 — 0/2
+- [x] Capítulo 2 — 0/7
+- [x] Capítulo 3 — 0/7
+- [x] Capítulo 4 — 0/5
+- [x] Capítulo 5 — 0/7
 
 ---
 
