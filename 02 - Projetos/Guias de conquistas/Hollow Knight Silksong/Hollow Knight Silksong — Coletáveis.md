@@ -437,7 +437,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mask Shards
 
-> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/20 (0%)
+> [!progress pu] █░░░░░░░░░░░░░░░░░░░ 1/20 (5%)
 
 ### Act 1
 
@@ -465,7 +465,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **04 — Far Fields:** acerte o explosivo no topo para abrir o chão.
+- [x] **04 — Far Fields:** acerte o explosivo no topo para abrir o chão.
 
 > [!example]- Mapa e local — 04 — Far Fields
 > ![Mapa — 04 — Far Fields](https://images.steamusercontent.com/ugc/14099631067733721756/0E073683B572024FB3F3847E9F58B45CA9ABA231/)
