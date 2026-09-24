@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "dfbe51abdc36f0e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Hollow Knight Silksong Lore.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Hollow Knight Silksong Lore.excalidraw"
+            }
+          },
+          {
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Hollow Knight Silksong — Guia de conquistas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
+                "file": "Excalidraw/Hollow Knight Silksong Lore.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -241,10 +254,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2114cd195c1b0cb7",
+  "active": "dfbe51abdc36f0e6",
   "lastOpenFiles": [
-    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
+    "Pasted Image 20260923214138_517.png",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
+    "Excalidraw/Hollow Knight Silksong Lore.excalidraw.md",
+    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
     "04 - Referencias/Prompt pra imagem de platina.md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
@@ -279,8 +294,6 @@
     "02 - Projetos/Jogos/Geometry Dash/GDDP Beginner - Easy Demons.md",
     "02 - Projetos/Aplicativo de presença da Monika — especificação inicial.md",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/qa/VALIDATION.md",
-    "02 - Projetos/Jogos/Geometry Dash/User coins fáceis - criadores.md",
-    "02 - Projetos/EverWorld/Entradas mensais/Setembro de 2026.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong",
     "02 - Projetos/Guias de conquistas/GRIS",

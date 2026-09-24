@@ -778,11 +778,11 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
-> [!progress am] ░░░░░░░░░░░░░░░░░░░░ 0/30 (0%)
+> [!progress am] █░░░░░░░░░░░░░░░░░░░ 1/30 (3%)
 
 ### Antes de mover a caravan para Greymoor
 
-- [ ] **01 — The Marrow**
+- [x] **01 — The Marrow**
 
 > [!example]- Mapa e local — 01 — The Marrow
 > ![Mapa — 01 — The Marrow](https://images.steamusercontent.com/ugc/17999113023054641959/CAF24F4D2946EC97E39EA9C4AB4D2654DB5179A2/)
