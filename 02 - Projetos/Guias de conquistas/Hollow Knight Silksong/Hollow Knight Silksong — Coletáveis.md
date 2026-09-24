@@ -1475,9 +1475,9 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Blue Tools
 
-> [!progress bl] ░░░░░░░░░░░░░░░░░░░░ 0/21 (0%)
+> [!progress bl] █░░░░░░░░░░░░░░░░░░░ 1/21 (5%)
 
-- [ ] **Druid's Eye — Bone Bottom:** conclua **Berry Picking**. Druid's Eyes é upgrade do mesmo Tool.
+- [x] **Druid's Eye — Bone Bottom:** conclua **Berry Picking**. Druid's Eyes é upgrade do mesmo Tool.
 
 > [!example]- Referências visuais — Druid's Eye
 > ![Referência 1 — Druid's Eye](https://images.steamusercontent.com/ugc/12641155317155082812/28729BBF178C1F7832830FCD013C5A1A4FF62EE9/)
