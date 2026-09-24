@@ -1665,9 +1665,9 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Yellow Tools
 
-> [!progress ye] ░░░░░░░░░░░░░░░░░░░░ 0/12 (0%)
+> [!progress ye] ███░░░░░░░░░░░░░░░░░ 2/12 (17%)
 
-- [ ] **Compass — The Marrow:** Shakra, 70 Rosaries.
+- [x] **Compass — The Marrow:** Shakra, 70 Rosaries.
 
 > [!example]- Referências visuais — Compass
 > ![Referência 1 — Compass](https://images.steamusercontent.com/ugc/16562936788709315424/3898107227F0D08933BB66093DE0FB227FAC0C62/)
@@ -1676,7 +1676,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Shard Pendant — The Marrow:** sala lateral no trecho de lava e plataformas quebráveis.
+- [x] **Shard Pendant — The Marrow:** sala lateral no trecho de lava e plataformas quebráveis.
 
 > [!example]- Referências visuais — Shard Pendant
 > ![Referência 1 — Shard Pendant](https://images.steamusercontent.com/ugc/15906315996385686096/A66BC29B6316813BA92BD22033C4E6A40996A04C/)
