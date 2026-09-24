@@ -279,7 +279,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Bellways
 
-> [!progress te] █████░░░░░░░░░░░░░░░ 3/12 (25%)
+> [!progress te] ███████░░░░░░░░░░░░░ 4/12 (33%)
 
 - [x] **The Marrow** — liberada após Bell Beast.
 
@@ -305,7 +305,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Far Fields** — 50 Rosaries.
+- [x] **Far Fields** — 50 Rosaries.
 
 > [!example]- Mapa e local — Far Fields
 > ![Mapa — Far Fields](https://images.steamusercontent.com/ugc/9782068617806747644/2973CE178243561BD418BB2355CE9626140DDF68/)
