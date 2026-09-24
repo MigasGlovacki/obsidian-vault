@@ -778,7 +778,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
-> [!progress am] █░░░░░░░░░░░░░░░░░░░ 2/30 (7%)
+> [!progress am] ██░░░░░░░░░░░░░░░░░░ 3/30 (10%)
 
 ### Antes de mover a caravan para Greymoor
 
@@ -798,7 +798,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 <br>
 
-- [ ] **03 — Deep Docks**
+- [x] **03 — Deep Docks**
 
 > [!example]- Mapa e local — 03 — Deep Docks
 > ![Mapa — 03 — Deep Docks](https://images.steamusercontent.com/ugc/14825740623329075869/89922EB4BCA800086752C83E84C0C4DFEF857824/)
@@ -1088,9 +1088,9 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 ## Silk Skills
 
-> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/6 (0%)
+> [!progress pu] ███░░░░░░░░░░░░░░░░░ 1/6 (17%)
 
-- [ ] **Silk Spear — Bone Bottom:** estátua Weaver; obrigatório para a história.
+- [x] **Silk Spear — Bone Bottom:** estátua Weaver; obrigatório para a história.
 
 > [!example]- Mapa e local — Silk Spear
 > ![Mapa — Silk Spear](https://images.steamusercontent.com/ugc/15087600262219105284/235640D6B716432E641BAEDEAFB50F6137DCAB9D/)
@@ -1777,9 +1777,9 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Abilities
 
-> [!progress te] ░░░░░░░░░░░░░░░░░░░░ 0/6 (0%)
+> [!progress te] ███░░░░░░░░░░░░░░░░░ 1/6 (17%)
 
-- [ ] **Swift Step — Deep Docks:** estátua Weaver no alto da área.
+- [x] **Swift Step — Deep Docks:** estátua Weaver no alto da área.
 
 > [!example]- Mapa e local — Swift Step
 > ![Mapa — Swift Step](https://images.steamusercontent.com/ugc/15358992114720817272/0CE02B77A1B5E6438F031698C6E9523C0DCCAE21/)
