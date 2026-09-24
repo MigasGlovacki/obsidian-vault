@@ -50,15 +50,16 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mapas
 
-> [!progress te] ███░░░░░░░░░░░░░░░░░ 4/28 (14%)
+> [!progress te] ████░░░░░░░░░░░░░░░░ 5/28 (18%)
 
 ### Act 1
 
 - [x] **Mosslands Map** — compre de Shakra por 40 Rosaries.
 
 > [!example]- Mapa e local — Mosslands Map
-> ![Mapa — Mosslands Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
-> ![Local/interação — Mosslands Map](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
+> ![The Marrow — posição de Shakra, que vende o Mosslands Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
+> ![Menu de Shakra com Mosslands Map selecionado](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
+> A fonte reúne Mosslands e The Marrow: não há uma captura do mapa aberto de Mosslands neste bloco.
 
 <br>
 
@@ -66,7 +67,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 > [!example]- Mapa e local — The Marrow Map
 > ![Mapa — The Marrow Map](https://images.steamusercontent.com/ugc/9562880688828233846/29CB09A39BD94832DACF800E6CC88CE0583205DC/)
-> ![Local/interação — The Marrow Map](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
+> ![Menu de Shakra com The Marrow Map como segunda opção](https://images.steamusercontent.com/ugc/11521687169158881358/7EDEFD7B740F3933D35AFF040DC4894934AC730D/)
 
 <br>
 
@@ -78,203 +79,203 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Far Fields Map** — compre de Shakra por 50 Rosaries.
+- [x] **Far Fields Map** — compre de Shakra por 50 Rosaries.
 
 > [!example]- Mapa e local — Far Fields Map
-> ![Mapa — Far Fields Map](https://images.steamusercontent.com/ugc/11119813506185442396/DD26BFE058C257CA04FE0B6C9C429F5D1429CAF2/)
-> ![Local/interação — Far Fields Map](https://images.steamusercontent.com/ugc/15595490389894188939/EF6C88515BF32F0EBD64F99A96B444C2F27CC2D3/)
+> ![Mapa — Far Fields Map](https://images.steamusercontent.com/ugc/18403808816862054510/CD875EBBBC3AC399629250E7EEEDF3A24CDC7FCA/)
+> ![Local/interação — Far Fields Map](https://images.steamusercontent.com/ugc/14882393425139730639/C31770F0946E670315BBC98C4A821FB9EE013A35/)
 
 <br>
 
 - [x] **Hunter's March Map** — compre de Shakra por 70 Rosaries.
 
 > [!example]- Mapa e local — Hunter's March Map
-> ![Mapa — Hunter's March Map](https://images.steamusercontent.com/ugc/18403808816862054510/CD875EBBBC3AC399629250E7EEEDF3A24CDC7FCA/)
-> ![Local/interação — Hunter's March Map](https://images.steamusercontent.com/ugc/14882393425139730639/C31770F0946E670315BBC98C4A821FB9EE013A35/)
+> ![Mapa — Hunter's March Map](https://images.steamusercontent.com/ugc/14173483262570376161/D6A57189B63FD5AD6042B1E7C366532BD2D8B6DF/)
+> ![Local/interação — Hunter's March Map](https://images.steamusercontent.com/ugc/16648508078479084181/09DC4ACFBB48832C85B2E8AB6B44952356A3ECB2/)
 
 <br>
 
 - [ ] **Greymoor Map** — compre de Shakra por 70 Rosaries.
 
 > [!example]- Mapa e local — Greymoor Map
-> ![Mapa — Greymoor Map](https://images.steamusercontent.com/ugc/18403808816862054510/CD875EBBBC3AC399629250E7EEEDF3A24CDC7FCA/)
-> ![Local/interação — Greymoor Map](https://images.steamusercontent.com/ugc/14882393425139730639/C31770F0946E670315BBC98C4A821FB9EE013A35/)
+> ![Mapa — Greymoor Map](https://images.steamusercontent.com/ugc/16460865799299667066/982F1C4F8825914C28F459BDAA6EF9FB96684E9E/)
+> ![Local/interação — Greymoor Map](https://images.steamusercontent.com/ugc/15082570450507409831/D58D709C8CA16ABDD09A77D475662530CFB7608C/)
 
 <br>
 
 - [ ] **Bellhart Map** — depois de chegar a Bellhart, compre em Bone Bottom ou Shellwood por 40 Rosaries.
 
 > [!example]- Mapa e local — Bellhart Map
-> ![Mapa — Bellhart Map](https://images.steamusercontent.com/ugc/14173483262570376161/D6A57189B63FD5AD6042B1E7C366532BD2D8B6DF/)
-> ![Local/interação — Bellhart Map](https://images.steamusercontent.com/ugc/16648508078479084181/09DC4ACFBB48832C85B2E8AB6B44952356A3ECB2/)
+> ![Mapa — Bellhart Map](https://images.steamusercontent.com/ugc/13910306764198983836/13772AFA1DA2A9385F0B06FE5C1854BDE2290B03/)
+> ![Local/interação — Bellhart Map](https://images.steamusercontent.com/ugc/12370467881843201211/E09E4F72168A662B0A360D42E4FE3AAEC7136F36/)
 
 <br>
 
 - [ ] **Shellwood Map** — compre de Shakra por 70 Rosaries.
 
 > [!example]- Mapa e local — Shellwood Map
-> ![Mapa — Shellwood Map](https://images.steamusercontent.com/ugc/14173483262570376161/D6A57189B63FD5AD6042B1E7C366532BD2D8B6DF/)
-> ![Local/interação — Shellwood Map](https://images.steamusercontent.com/ugc/16648508078479084181/09DC4ACFBB48832C85B2E8AB6B44952356A3ECB2/)
+> ![Mapa — Shellwood Map](https://images.steamusercontent.com/ugc/10452544967061834280/C91BCCB913BDA671120FDE7E2B830113C0B49A38/)
+> ![Local/interação — Shellwood Map](https://images.steamusercontent.com/ugc/15703491214642517478/19AF8C3B2DC831584D69C169CAD681A16A4796C3/)
 
 <br>
 
 - [ ] **Weavenest Atla Map** — use Needolin para entrar e acerte os dois cilindros brilhantes no fim do corredor.
 
 > [!example]- Mapa e local — Weavenest Atla Map
-> ![Mapa — Weavenest Atla Map](https://images.steamusercontent.com/ugc/16460865799299667066/982F1C4F8825914C28F459BDAA6EF9FB96684E9E/)
-> ![Local/interação — Weavenest Atla Map](https://images.steamusercontent.com/ugc/15082570450507409831/D58D709C8CA16ABDD09A77D475662530CFB7608C/)
+> ![Mapa — Weavenest Atla Map](https://images.steamusercontent.com/ugc/15935165285263247519/E4A8A97B2200DD144DC49C1E7246D5C57142A8EE/)
+> ![Local/interação — Weavenest Atla Map](https://images.steamusercontent.com/ugc/10969308892372720998/8BAFA15A00234C3E970A845AEBFC4F5CC4779E15/)
 
 <br>
 
 - [ ] **Wormways Map** — compre de Shakra por 70 Rosaries.
 
 > [!example]- Mapa e local — Wormways Map
-> ![Mapa — Wormways Map](https://images.steamusercontent.com/ugc/16460865799299667066/982F1C4F8825914C28F459BDAA6EF9FB96684E9E/)
-> ![Local/interação — Wormways Map](https://images.steamusercontent.com/ugc/15082570450507409831/D58D709C8CA16ABDD09A77D475662530CFB7608C/)
+> ![Mapa — Wormways Map](https://images.steamusercontent.com/ugc/18209479703431093281/3AF87C5EA95334161A76A7199DF6993151350EF0/)
+> ![Local/interação — Wormways Map](https://images.steamusercontent.com/ugc/12656775615493764444/D0DDA437F40CF4BDD5D408959227C1B005281B49/)
 
 <br>
 
 - [ ] **Sinner's Road Map** — compre de Shakra por 90 Rosaries.
 
 > [!example]- Mapa e local — Sinner's Road Map
-> ![Mapa — Sinner's Road Map](https://images.steamusercontent.com/ugc/13910306764198983836/13772AFA1DA2A9385F0B06FE5C1854BDE2290B03/)
-> ![Local/interação — Sinner's Road Map](https://images.steamusercontent.com/ugc/12370467881843201211/E09E4F72168A662B0A360D42E4FE3AAEC7136F36/)
+> ![Mapa — Sinner's Road Map](https://images.steamusercontent.com/ugc/9489642274521427948/796451EA73C4906A73696AD3A10B35B845C1A970/)
+> ![Local/interação — Sinner's Road Map](https://images.steamusercontent.com/ugc/13556933768697890080/1E665EDCC3B960244C470FB5FD1C122A7A70C3E4/)
 
 <br>
 
 - [ ] **Blasted Steps Map** — compre de Shakra por 70 Rosaries.
 
 > [!example]- Mapa e local — Blasted Steps Map
-> ![Mapa — Blasted Steps Map](https://images.steamusercontent.com/ugc/13910306764198983836/13772AFA1DA2A9385F0B06FE5C1854BDE2290B03/)
-> ![Local/interação — Blasted Steps Map](https://images.steamusercontent.com/ugc/12370467881843201211/E09E4F72168A662B0A360D42E4FE3AAEC7136F36/)
+> ![Mapa — Blasted Steps Map](https://images.steamusercontent.com/ugc/9936075386869203467/197D25EBB8CC12F812DE7C74C5BEC5314CC7FDE2/)
+> ![Local/interação — Blasted Steps Map](https://images.steamusercontent.com/ugc/15051009826151201178/1E9345BECA02B5F43F34A38695679B7BF3E7972E/)
 
 ### Act 2
 
 - [ ] **Grand Gate Map** — após Last Judge, pague 40 Rosaries no dispositivo.
 
 > [!example]- Mapa e local — Grand Gate Map
-> ![Mapa — Grand Gate Map](https://images.steamusercontent.com/ugc/10452544967061834280/C91BCCB913BDA671120FDE7E2B830113C0B49A38/)
-> ![Local/interação — Grand Gate Map](https://images.steamusercontent.com/ugc/15703491214642517478/19AF8C3B2DC831584D69C169CAD681A16A4796C3/)
+> ![Mapa — Grand Gate Map](https://images.steamusercontent.com/ugc/14760453509994258130/4C3D747120347D8F402A413BF6B7D37C8FD42ABC/)
+> ![Local/interação — Grand Gate Map](https://images.steamusercontent.com/ugc/16139295858746586915/B94E7AC0DB5E09B6055FB8F5703CC9931FEE57DC/)
 
 <br>
 
 - [ ] **Underworks Map** — vindo de Grand Gate, primeira sala superior à esquerda.
 
 > [!example]- Mapa e local — Underworks Map
-> ![Mapa — Underworks Map](https://images.steamusercontent.com/ugc/10452544967061834280/C91BCCB913BDA671120FDE7E2B830113C0B49A38/)
-> ![Local/interação — Underworks Map](https://images.steamusercontent.com/ugc/15703491214642517478/19AF8C3B2DC831584D69C169CAD681A16A4796C3/)
+> ![Mapa — Underworks Map](https://images.steamusercontent.com/ugc/13211415432239261740/8A180B04486723F54E0E561CC76BF8A754B7B941/)
+> ![Local/interação — Underworks Map](https://images.steamusercontent.com/ugc/12128974931538472587/40E755461FD97001DF46B46EE2BD80530EA94974/)
 
 <br>
 
 - [ ] **Choral Chambers Map** — pague 70 Rosaries em um dos dois dispositivos da área.
 
 > [!example]- Mapa e local — Choral Chambers Map
-> ![Mapa — Choral Chambers Map](https://images.steamusercontent.com/ugc/15935165285263247519/E4A8A97B2200DD144DC49C1E7246D5C57142A8EE/)
-> ![Local/interação — Choral Chambers Map](https://images.steamusercontent.com/ugc/10969308892372720998/8BAFA15A00234C3E970A845AEBFC4F5CC4779E15/)
+> ![Mapa — Choral Chambers Map](https://images.steamusercontent.com/ugc/13449270164367632849/E8E4CD1C07A6DA905E6FC477DA1C9A6D35DF9766/)
+> ![Local/interação — Choral Chambers Map](https://images.steamusercontent.com/ugc/10913673239641987512/91563591273095C8F90A47A0495ABFF0B66438EA/)
 
 <br>
 
 - [ ] **Whiteward Map** — pague 70 Rosaries no dispositivo.
 
 > [!example]- Mapa e local — Whiteward Map
-> ![Mapa — Whiteward Map](https://images.steamusercontent.com/ugc/15935165285263247519/E4A8A97B2200DD144DC49C1E7246D5C57142A8EE/)
-> ![Local/interação — Whiteward Map](https://images.steamusercontent.com/ugc/10969308892372720998/8BAFA15A00234C3E970A845AEBFC4F5CC4779E15/)
+> ![Mapa — Whiteward Map](https://images.steamusercontent.com/ugc/15802008218766240729/EC378373AA794BC9605B9589C12F4F806CB7C598/)
+> ![Local/interação — Whiteward Map](https://images.steamusercontent.com/ugc/9647026274500610374/CA6E5EB87B76DD6111547FB404FFAD870B0E1034/)
 
 <br>
 
 - [ ] **Cogwork Core Map** — sala acima do bench.
 
 > [!example]- Mapa e local — Cogwork Core Map
-> ![Mapa — Cogwork Core Map](https://images.steamusercontent.com/ugc/18209479703431093281/3AF87C5EA95334161A76A7199DF6993151350EF0/)
-> ![Local/interação — Cogwork Core Map](https://images.steamusercontent.com/ugc/12656775615493764444/D0DDA437F40CF4BDD5D408959227C1B005281B49/)
+> ![Mapa — Cogwork Core Map](https://images.steamusercontent.com/ugc/9728988211794673458/C155B32BAC93E1BBA8BC4E1DC3AC9DC41174AFD2/)
+> ![Local/interação — Cogwork Core Map](https://images.steamusercontent.com/ugc/13730903756557515197/D9C36FBDF0DFE8D796BEBD375B060FB9690F5023/)
 
 <br>
 
 - [ ] **Whispering Vaults Map** — pague 70 Rosaries no dispositivo.
 
 > [!example]- Mapa e local — Whispering Vaults Map
-> ![Mapa — Whispering Vaults Map](https://images.steamusercontent.com/ugc/18209479703431093281/3AF87C5EA95334161A76A7199DF6993151350EF0/)
-> ![Local/interação — Whispering Vaults Map](https://images.steamusercontent.com/ugc/12656775615493764444/D0DDA437F40CF4BDD5D408959227C1B005281B49/)
+> ![Mapa — Whispering Vaults Map](https://images.steamusercontent.com/ugc/18446421068924067260/E07BB7A1DBE3D445436A300D075C6F5293B5C39E/)
+> ![Local/interação — Whispering Vaults Map](https://images.steamusercontent.com/ugc/15244624297076326179/F74B9137CDC4ED2607C77B35EDBD3CFFD9C3B3CF/)
 
 <br>
 
 - [ ] **The Slab Map** — fim da passagem secreta junto ao bench.
 
 > [!example]- Mapa e local — The Slab Map
-> ![Mapa — The Slab Map](https://images.steamusercontent.com/ugc/9489642274521427948/796451EA73C4906A73696AD3A10B35B845C1A970/)
-> ![Local/interação — The Slab Map](https://images.steamusercontent.com/ugc/13556933768697890080/1E665EDCC3B960244C470FB5FD1C122A7A70C3E4/)
+> ![Mapa — The Slab Map](https://images.steamusercontent.com/ugc/18371869271317686222/D6C3A564C1E82BFCA420F82866EF32A10589C5FC/)
+> ![Local/interação — The Slab Map](https://images.steamusercontent.com/ugc/17746922115174693181/3207902604036F846C6B46B2A6766B682DC17F46/)
 
 <br>
 
 - [ ] **Mount Fay Map** — compre de Shakra por 40 Rosaries.
 
 > [!example]- Mapa e local — Mount Fay Map
-> ![Mapa — Mount Fay Map](https://images.steamusercontent.com/ugc/9489642274521427948/796451EA73C4906A73696AD3A10B35B845C1A970/)
-> ![Local/interação — Mount Fay Map](https://images.steamusercontent.com/ugc/13556933768697890080/1E665EDCC3B960244C470FB5FD1C122A7A70C3E4/)
+> ![Mapa — Mount Fay Map](https://images.steamusercontent.com/ugc/15564096334304800638/B8C37B68FD721EA0A251DDB76A694D22F29D6EAC/)
+> ![Local/interação — Mount Fay Map](https://images.steamusercontent.com/ugc/9543989484930297963/6636EF93533B6705C8607320FE5A938BE40190FE/)
 
 <br>
 
 - [ ] **Memorium Map** — pague 70 Rosaries no dispositivo.
 
 > [!example]- Mapa e local — Memorium Map
-> ![Mapa — Memorium Map](https://images.steamusercontent.com/ugc/9936075386869203467/197D25EBB8CC12F812DE7C74C5BEC5314CC7FDE2/)
-> ![Local/interação — Memorium Map](https://images.steamusercontent.com/ugc/15051009826151201178/1E9345BECA02B5F43F34A38695679B7BF3E7972E/)
+> ![Mapa — Memorium Map](https://images.steamusercontent.com/ugc/10848534498262160982/1B79406EF90FCC836C67AC9AF2C696CDD7FE7C56/)
+> ![Local/interação — Memorium Map](https://images.steamusercontent.com/ugc/14781903812495878968/410EDE6E0C658DE9FA904120D35928620ACCBEB7/)
 
 <br>
 
 - [ ] **High Halls Map** — pague 70 Rosaries no dispositivo.
 
 > [!example]- Mapa e local — High Halls Map
-> ![Mapa — High Halls Map](https://images.steamusercontent.com/ugc/9936075386869203467/197D25EBB8CC12F812DE7C74C5BEC5314CC7FDE2/)
-> ![Local/interação — High Halls Map](https://images.steamusercontent.com/ugc/15051009826151201178/1E9345BECA02B5F43F34A38695679B7BF3E7972E/)
+> ![Mapa — High Halls Map](https://images.steamusercontent.com/ugc/17251076456382290128/E0238B66AB3261A1271E6D95D09C4A48C5BB17DE/)
+> ![Local/interação — High Halls Map](https://images.steamusercontent.com/ugc/11591890996695832499/B2F708FA863FE630E55ABD21C13AB3AFA6DE4952/)
 
 <br>
 
 - [ ] **Sands of Karak Map** — use Clawline em Blasted Steps, alcance a região e compre de Shakra por 90 Rosaries.
 
 > [!example]- Mapa e local — Sands of Karak Map
-> ![Mapa — Sands of Karak Map](https://images.steamusercontent.com/ugc/14760453509994258130/4C3D747120347D8F402A413BF6B7D37C8FD42ABC/)
-> ![Local/interação — Sands of Karak Map](https://images.steamusercontent.com/ugc/16139295858746586915/B94E7AC0DB5E09B6055FB8F5703CC9931FEE57DC/)
+> ![Mapa — Sands of Karak Map](https://images.steamusercontent.com/ugc/14690004912964500256/49AA52C71C4B3DF1422D0326A11652FB7EBDE41F/)
+> ![Local/interação — Sands of Karak Map](https://images.steamusercontent.com/ugc/18073534651336234058/DB23A5742E3F8B6340114B25BB51162555655B06/)
 
 <br>
 
 - [ ] **Bilewater Map** — compre de Shakra por 90 Rosaries; exige Faydown Cloak.
 
 > [!example]- Mapa e local — Bilewater Map
-> ![Mapa — Bilewater Map](https://images.steamusercontent.com/ugc/14760453509994258130/4C3D747120347D8F402A413BF6B7D37C8FD42ABC/)
-> ![Local/interação — Bilewater Map](https://images.steamusercontent.com/ugc/16139295858746586915/B94E7AC0DB5E09B6055FB8F5703CC9931FEE57DC/)
+> ![Mapa — Bilewater Map](https://images.steamusercontent.com/ugc/16481843275315073438/2CDA500460D7A9CF63FC22EC516B73BA226F36E6/)
+> ![Local/interação — Bilewater Map](https://images.steamusercontent.com/ugc/14747088456344643488/DF38D9E76972A83720D3C56DE9C00CC863CA623B/)
 
 <br>
 
 - [ ] **Putrified Ducts Map** — entre por Memorium com Faydown Cloak; use a língua de um Barnak para alcançar a passagem secreta.
 
 > [!example]- Mapa e local — Putrified Ducts Map
-> ![Mapa — Putrified Ducts Map](https://images.steamusercontent.com/ugc/13211415432239261740/8A180B04486723F54E0E561CC76BF8A754B7B941/)
-> ![Local/interação — Putrified Ducts Map](https://images.steamusercontent.com/ugc/12128974931538472587/40E755461FD97001DF46B46EE2BD80530EA94974/)
+> ![Mapa — Putrified Ducts Map](https://images.steamusercontent.com/ugc/18141530771749180042/9CD66E4E2F89E3E5C5FE293D3BBB72ED6B886F79/)
+> ![Local/interação — Putrified Ducts Map](https://images.steamusercontent.com/ugc/9772780504109758642/59E658D6308794F55EE0917A5BF012C32B7BEE74/)
 
 <br>
 
 - [ ] **The Cradle Map** — pague 70 Rosaries no dispositivo.
 
 > [!example]- Mapa e local — The Cradle Map
-> ![Mapa — The Cradle Map](https://images.steamusercontent.com/ugc/13211415432239261740/8A180B04486723F54E0E561CC76BF8A754B7B941/)
-> ![Local/interação — The Cradle Map](https://images.steamusercontent.com/ugc/12128974931538472587/40E755461FD97001DF46B46EE2BD80530EA94974/)
+> ![Mapa — The Cradle Map](https://images.steamusercontent.com/ugc/9617327881149791597/7042837570B35C549B4CE13AC86A27F5B6937FEB/)
+> ![Local/interação — The Cradle Map](https://images.steamusercontent.com/ugc/17823779452472051929/3A8EA86A9BC44850ADCEDF8E1D3A15E40D04D66D/)
 
 ### Act 3
 
 - [ ] **The Abyss Map** — sala acima do último bench.
 
 > [!example]- Mapa e local — The Abyss Map
-> ![Mapa — The Abyss Map](https://images.steamusercontent.com/ugc/13449270164367632849/E8E4CD1C07A6DA905E6FC477DA1C9A6D35DF9766/)
-> ![Local/interação — The Abyss Map](https://images.steamusercontent.com/ugc/10913673239641987512/91563591273095C8F90A47A0495ABFF0B66438EA/)
+> ![Mapa — The Abyss Map](https://images.steamusercontent.com/ugc/15508416776994756166/4A619B518FC17D9F0CEB868B72D8A32EA703D429/)
+> ![Local/interação — The Abyss Map](https://images.steamusercontent.com/ugc/12365020327035182306/1DBE7D66CC9D60F896F62024B5B8CA1EF70AACF0/)
 
 <br>
 
 - [ ] **Verdania Map** — siga à direita do Green Prince durante a rota de Lamenter.
 
 > [!example]- Mapa e local — Verdania Map
-> ![Mapa — Verdania Map](https://images.steamusercontent.com/ugc/13449270164367632849/E8E4CD1C07A6DA905E6FC477DA1C9A6D35DF9766/)
-> ![Local/interação — Verdania Map](https://images.steamusercontent.com/ugc/10913673239641987512/91563591273095C8F90A47A0495ABFF0B66438EA/)
+> ![Mapa — Verdania Map](https://images.steamusercontent.com/ugc/9484271337570375704/83DC1408A33285AD1AFE80C2113D03F7BE0E4A58/)
+> ![Local/interação — Verdania Map](https://images.steamusercontent.com/ugc/17674724612187328815/5F42780AB28A68975E404AEB302FBA927D471746/)
 
 ## Bellways
 
