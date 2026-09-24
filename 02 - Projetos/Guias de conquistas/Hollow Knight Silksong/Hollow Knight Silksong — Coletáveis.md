@@ -1965,7 +1965,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Craftmetals
 
-> [!progress gy] ░░░░░░░░░░░░░░░░░░░░ 0/8 (0%)
+> [!progress gy] ███░░░░░░░░░░░░░░░░░ 1/8 (13%)
 
 - [ ] **01 — Bone Bottom:** Pebb, 60 Rosaries; no Act 3, Grindle por 120.
 
@@ -1975,7 +1975,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **02 — The Marrow:** exploda o túnel de rocha no nordeste da sala a oeste de Hunter's March.
+- [x] **02 — The Marrow:** exploda o túnel de rocha no nordeste da sala a oeste de Hunter's March.
 
 > [!example]- Mapa e local — 02 — The Marrow
 > ![Mapa — 02 — The Marrow](https://images.steamusercontent.com/ugc/17483137209250479278/FDE58DDA600C8C561C29AFB892F687D6F7827A04/)
