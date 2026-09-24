@@ -778,7 +778,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
-> [!progress am] █░░░░░░░░░░░░░░░░░░░ 1/30 (3%)
+> [!progress am] █░░░░░░░░░░░░░░░░░░░ 2/30 (7%)
 
 ### Antes de mover a caravan para Greymoor
 
@@ -790,7 +790,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 <br>
 
-- [ ] **02 — Deep Docks**
+- [x] **02 — Deep Docks**
 
 > [!example]- Mapa e local — 02 — Deep Docks
 > ![Mapa — 02 — Deep Docks](https://images.steamusercontent.com/ugc/13821834901142103255/82152979434104AE801016438637A1936B8C4E05/)
