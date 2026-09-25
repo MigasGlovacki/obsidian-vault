@@ -1312,7 +1312,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Red Tools
 
-> [!progress re] ████░░░░░░░░░░░░░░░░ 4/18 (22%)
+> [!progress re] ██████░░░░░░░░░░░░░░ 5/18 (28%)
 
 - [x] **Straight Pin — The Marrow:** liberte Grindle da prisão.
 
@@ -1350,7 +1350,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Longpin — Shellwood:** sala secreta no nordeste da primeira grande área.
+- [x] **Longpin — Shellwood:** sala secreta no nordeste da primeira grande área.
 
 > [!example]- Referências visuais — Longpin
 > ![Referência 1 — Longpin](https://images.steamusercontent.com/ugc/13648472867699055517/2FA656AC70D16F1C09908AEAF6F33BB74BD9FC7D/)
