@@ -1312,7 +1312,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Red Tools
 
-> [!progress re] ██░░░░░░░░░░░░░░░░░░ 2/18 (11%)
+> [!progress re] ███░░░░░░░░░░░░░░░░░ 3/18 (17%)
 
 - [x] **Straight Pin — The Marrow:** liberte Grindle da prisão.
 
@@ -1323,7 +1323,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Threefold Pin — Greymoor:** conclua o combate de Craw Lake e use os balões até a sala secreta no nordeste.
+- [x] **Threefold Pin — Greymoor:** conclua o combate de Craw Lake e use os balões até a sala secreta no nordeste.
 
 > [!example]- Referências visuais — Threefold Pin
 > ![Referência 1 — Threefold Pin](https://images.steamusercontent.com/ugc/15423357441041790359/568612AAE4890C780297C95EF2AF0A35D213D8B6/)
