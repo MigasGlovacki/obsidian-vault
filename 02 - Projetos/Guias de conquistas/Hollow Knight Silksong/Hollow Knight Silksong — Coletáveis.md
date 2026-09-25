@@ -1476,7 +1476,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Blue Tools
 
-> [!progress bl] ██░░░░░░░░░░░░░░░░░░ 2/21 (10%)
+> [!progress bl] ███░░░░░░░░░░░░░░░░░ 3/21 (14%)
 
 - [x] **Druid's Eye — Bone Bottom:** conclua **Berry Picking**. Druid's Eyes é upgrade do mesmo Tool.
 
@@ -1514,7 +1514,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Fractured Mask — Hunter's March:** vendedor ant, 260 Rosaries; se morrer, pegue no corpo.
+- [x] **Fractured Mask — Hunter's March:** vendedor ant, 260 Rosaries; se morrer, pegue no corpo.
 
 > [!example]- Referências visuais — Fractured Mask
 > ![Referência 1 — Fractured Mask](https://images.steamusercontent.com/ugc/11274503864445275038/5142F68742E65322C626E1D079C26A2CAC9BF2D4/)
