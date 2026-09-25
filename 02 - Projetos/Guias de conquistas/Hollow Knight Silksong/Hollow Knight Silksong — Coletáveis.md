@@ -1312,7 +1312,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Red Tools
 
-> [!progress re] ███░░░░░░░░░░░░░░░░░ 3/18 (17%)
+> [!progress re] ████░░░░░░░░░░░░░░░░ 4/18 (22%)
 
 - [x] **Straight Pin — The Marrow:** liberte Grindle da prisão.
 
@@ -1458,7 +1458,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Flea Brew — Flea Caravan:** resgate cinco Fleas, mova a caravan para Greymoor e fale com Grishkin.
+- [x] **Flea Brew — Flea Caravan:** resgate cinco Fleas, mova a caravan para Greymoor e fale com Grishkin.
 
 > [!example]- Referências visuais — Flea Brew
 > ![Referência 1 — Flea Brew](https://images.steamusercontent.com/ugc/14865952386219902510/EF951ACCE19B136D25B74A8E462EA209741F9A1C/)
