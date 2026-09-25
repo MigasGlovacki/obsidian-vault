@@ -1141,7 +1141,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**; os cinco restantes servem para completar o inventário.
 
-> [!progress pu] █░░░░░░░░░░░░░░░░░░░ 1/20 (5%)
+> [!progress pu] ██░░░░░░░░░░░░░░░░░░ 2/20 (10%)
 
 ### Act 1
 
@@ -1153,7 +1153,7 @@ São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**;
 
 <br>
 
-- [ ] **02 — Bone Bottom:** recompensa de **Volatile Flintbeetles**; no Act 3, verifique a antiga sala da Flea Caravan.
+- [x] **02 — Bone Bottom:** recompensa de **Volatile Flintbeetles**; no Act 3, verifique a antiga sala da Flea Caravan.
 
 > [!example]- Mapa e local — 02 — Bone Bottom
 > ![Mapa — 02 — Bone Bottom](https://images.steamusercontent.com/ugc/15336070917514913053/6B0B654B835DF4B96CFB3295A016DCC681062596/)
