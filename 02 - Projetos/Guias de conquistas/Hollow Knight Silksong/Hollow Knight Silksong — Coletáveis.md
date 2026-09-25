@@ -779,7 +779,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
-> [!progress am] ███░░░░░░░░░░░░░░░░░ 5/30 (17%)
+> [!progress am] ████░░░░░░░░░░░░░░░░ 6/30 (20%)
 
 ### Antes de mover a caravan para Greymoor
 
@@ -815,7 +815,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 <br>
 
-- [ ] **05 — Greymoor:** após ativar a alavanca de Craw Lake, use os inimigos/plataformas para atravessar à direita.
+- [x] **05 — Greymoor:** após ativar a alavanca de Craw Lake, use os inimigos/plataformas para atravessar à direita.
 
 > [!example]- Mapa e local — 05 — Greymoor
 > ![Mapa — 05 — Greymoor](https://images.steamusercontent.com/ugc/16760412161911473970/0927E545ABFF34F3FDA11AC6334E68ED61D61783/)
