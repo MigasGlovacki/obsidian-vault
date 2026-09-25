@@ -1037,11 +1037,11 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 ## Crests colecionáveis
 
-> [!progress pu] ███░░░░░░░░░░░░░░░░░ 1/6 (17%)
+> [!progress pu] ███████░░░░░░░░░░░░░ 2/6 (33%)
 
 O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis itens para coletar e seis pontos percentuais nos 100%.
 
-- [ ] **Reaper Crest — Greymoor:** torre acima da saída para Bellhart; reclame o corpo coberto.
+- [x] **Reaper Crest — Greymoor:** torre acima da saída para Bellhart; reclame o corpo coberto.
 
 > [!example]- Mapa e local — Reaper Crest — Greymoor
 > ![Mapa — Reaper Crest — Greymoor](https://images.steamusercontent.com/ugc/17678926597310512497/21E8CBB98A9B36FE9A6F5F5B5767211278F87518/)
