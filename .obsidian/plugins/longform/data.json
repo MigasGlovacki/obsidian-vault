@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-09-25T03:48:37.280Z",
+      "total": 0,
+      "drafts": {
+        "Longform/Emerald Eyes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1. casa": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-09-24T17:06:41.458Z",
       "total": 0,
       "drafts": {
@@ -415,18 +427,6 @@
     },
     {
       "start": "2026-08-15T03:28:48.848Z",
-      "total": 0,
-      "drafts": {
-        "Longform/Green Afection/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Inicio": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-08-14T20:46:53.810Z",
       "total": 0,
       "drafts": {
         "Longform/Green Afection/Index.md": {

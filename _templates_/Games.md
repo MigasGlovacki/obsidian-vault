@@ -3,7 +3,7 @@ tags:
   - games
 plataforma: Steam
 jogo: "[[inserir jogo]]"
-appid: 0
+appid:
 publicadora:
 desenvolvedora:
 ---
