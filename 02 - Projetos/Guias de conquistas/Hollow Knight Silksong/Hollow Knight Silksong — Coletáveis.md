@@ -1037,7 +1037,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 ## Crests colecionáveis
 
-> [!progress pu] ░░░░░░░░░░░░░░░░░░░░ 0/6 (0%)
+> [!progress pu] ███░░░░░░░░░░░░░░░░░ 1/6 (17%)
 
 O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis itens para coletar e seis pontos percentuais nos 100%.
 
@@ -1049,7 +1049,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 <br>
 
-- [ ] **Beast Crest — Hunter's March:** alcance o extremo leste com Drifter's Cloak, derrote Savage Beastfly e pegue a shell à esquerda.
+- [x] **Beast Crest — Hunter's March:** alcance o extremo leste com Drifter's Cloak, derrote Savage Beastfly e pegue a shell à esquerda.
 
 > [!example]- Mapa e local — Beast Crest — Hunter's March
 > ![Mapa — Beast Crest — Hunter's March](https://images.steamusercontent.com/ugc/11749219920609860083/1ABFEE542BD015FC87903180B297F8636C9FFDC3/)
