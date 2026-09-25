@@ -50,7 +50,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mapas
 
-> [!progress te] ████░░░░░░░░░░░░░░░░ 5/28 (18%)
+> [!progress te] ████░░░░░░░░░░░░░░░░ 6/28 (21%)
 
 ### Act 1
 
@@ -95,7 +95,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Greymoor Map** — compre de Shakra por 70 Rosaries.
+- [x] **Greymoor Map** — compre de Shakra por 70 Rosaries.
 
 > [!example]- Mapa e local — Greymoor Map
 > ![Mapa — Greymoor Map](https://images.steamusercontent.com/ugc/16460865799299667066/982F1C4F8825914C28F459BDAA6EF9FB96684E9E/)
