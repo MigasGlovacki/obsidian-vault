@@ -1141,7 +1141,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**; os cinco restantes servem para completar o inventário.
 
-> [!progress pu] ██░░░░░░░░░░░░░░░░░░ 2/20 (10%)
+> [!progress pu] ███░░░░░░░░░░░░░░░░░ 3/20 (15%)
 
 ### Act 1
 
@@ -1185,7 +1185,7 @@ São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**;
 
 <br>
 
-- [ ] **06 — Hunter's March:** canto inferior direito, dentro de uma cage quebrável.
+- [x] **06 — Hunter's March:** canto inferior direito, dentro de uma cage quebrável.
 
 > [!example]- Mapa e local — 06 — Hunter's March
 > ![Mapa — 06 — Hunter's March](https://images.steamusercontent.com/ugc/17735286872241350687/EF295A6B885EE74BB4F806B2639EEA29712D9947/)
