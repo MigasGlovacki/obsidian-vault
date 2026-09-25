@@ -1312,7 +1312,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Red Tools
 
-> [!progress re] █░░░░░░░░░░░░░░░░░░░ 1/18 (6%)
+> [!progress re] ██░░░░░░░░░░░░░░░░░░ 2/18 (11%)
 
 - [x] **Straight Pin — The Marrow:** liberte Grindle da prisão.
 
@@ -1332,7 +1332,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Sting Shard — Deep Docks:** Forge Daughter, 140 Rosaries + 1 Craftmetal.
+- [x] **Sting Shard — Deep Docks:** Forge Daughter, 140 Rosaries + 1 Craftmetal.
 
 > [!example]- Referências visuais — Sting Shard
 > ![Referência 1 — Sting Shard](https://images.steamusercontent.com/ugc/16599143509371933487/DAA1F78404A35FCFE5682A74F1D4240EA437CB64/)
