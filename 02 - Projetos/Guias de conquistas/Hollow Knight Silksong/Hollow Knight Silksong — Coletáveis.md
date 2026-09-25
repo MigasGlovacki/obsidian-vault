@@ -50,7 +50,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mapas
 
-> [!progress te] ████░░░░░░░░░░░░░░░░ 6/28 (21%)
+> [!progress te] ██████░░░░░░░░░░░░░░ 8/28 (29%)
 
 ### Act 1
 
@@ -103,7 +103,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Bellhart Map** — depois de chegar a Bellhart, compre em Bone Bottom ou Shellwood por 40 Rosaries.
+- [x] **Bellhart Map** — depois de chegar a Bellhart, compre em Bone Bottom ou Shellwood por 40 Rosaries.
 
 > [!example]- Mapa e local — Bellhart Map
 > ![Mapa — Bellhart Map](https://images.steamusercontent.com/ugc/13910306764198983836/13772AFA1DA2A9385F0B06FE5C1854BDE2290B03/)
@@ -111,7 +111,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Shellwood Map** — compre de Shakra por 70 Rosaries.
+- [x] **Shellwood Map** — compre de Shakra por 70 Rosaries.
 
 > [!example]- Mapa e local — Shellwood Map
 > ![Mapa — Shellwood Map](https://images.steamusercontent.com/ugc/10452544967061834280/C91BCCB913BDA671120FDE7E2B830113C0B49A38/)
@@ -279,7 +279,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Bellways
 
-> [!progress te] ███████░░░░░░░░░░░░░ 4/12 (33%)
+> [!progress te] ████████░░░░░░░░░░░░ 5/12 (42%)
 
 - [x] **The Marrow** — liberada após Bell Beast.
 
@@ -313,7 +313,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **Greymoor** — 60 Rosaries.
+- [x] **Greymoor** — 60 Rosaries.
 
 > [!example]- Mapa e local — Greymoor
 > ![Mapa — Greymoor](https://images.steamusercontent.com/ugc/11433603466889841341/8FE92320C41828531B33B7D8B7A6574B41334C9B/)
@@ -437,7 +437,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mask Shards
 
-> [!progress pu] █░░░░░░░░░░░░░░░░░░░ 1/20 (5%)
+> [!progress pu] ██░░░░░░░░░░░░░░░░░░ 2/20 (10%)
 
 ### Act 1
 
@@ -473,7 +473,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 <br>
 
-- [ ] **05 — Shellwood:** avance pelo corredor acertando os buds para não cair nos espinhos.
+- [x] **05 — Shellwood:** avance pelo corredor acertando os buds para não cair nos espinhos.
 
 > [!example]- Mapa e local — 05 — Shellwood
 > ![Mapa — 05 — Shellwood](https://images.steamusercontent.com/ugc/18431015364912838106/061FF5171A84D941A205B3BA9ED8EFF8B10F2697/)
