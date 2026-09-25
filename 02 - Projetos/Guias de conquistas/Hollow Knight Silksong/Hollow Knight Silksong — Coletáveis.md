@@ -779,7 +779,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
-> [!progress am] ███░░░░░░░░░░░░░░░░░ 4/30 (13%)
+> [!progress am] ███░░░░░░░░░░░░░░░░░ 5/30 (17%)
 
 ### Antes de mover a caravan para Greymoor
 
@@ -850,7 +850,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 <br>
 
-- [ ] **09 — Hunter's March**
+- [x] **09 — Hunter's March**
 
 > [!example]- Mapa e local — 09 — Hunter's March
 > ![Mapa — 09 — Hunter's March](https://images.steamusercontent.com/ugc/12977900712111075340/FEA26F2E87348C75D728F606087A6FADF7847DC3/)
