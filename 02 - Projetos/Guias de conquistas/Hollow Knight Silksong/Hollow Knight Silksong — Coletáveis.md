@@ -1089,7 +1089,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 ## Silk Skills
 
-> [!progress pu] ███░░░░░░░░░░░░░░░░░ 1/6 (17%)
+> [!progress pu] ███████░░░░░░░░░░░░░ 2/6 (33%)
 
 - [x] **Silk Spear — Bone Bottom:** estátua Weaver; obrigatório para a história.
 
@@ -1099,7 +1099,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 <br>
 
-- [ ] **Thread Storm — Greymoor:** ative Craw Lake e use as plataformas externas até o topo.
+- [x] **Thread Storm — Greymoor:** ative Craw Lake e use as plataformas externas até o topo.
 
 > [!example]- Mapa e local — Thread Storm
 > ![Mapa — Thread Storm](https://images.steamusercontent.com/ugc/15493440571294876307/4C159BF7E4A4F8FF6A985517B8EE6D2442588F5B/)
@@ -1778,7 +1778,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Abilities
 
-> [!progress te] ███░░░░░░░░░░░░░░░░░ 1/6 (17%)
+> [!progress te] ███████░░░░░░░░░░░░░ 2/6 (33%)
 
 - [x] **Swift Step — Deep Docks:** estátua Weaver no alto da área.
 
@@ -1788,7 +1788,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Cling Grip — Shellwood:** após Sister Splinter.
+- [x] **Cling Grip — Shellwood:** após Sister Splinter.
 
 > [!example]- Mapa e local — Cling Grip
 > ![Mapa — Cling Grip](https://images.steamusercontent.com/ugc/16660238634551406090/9991EB905C560E4D711CC77FE60477177C9998F1/)
