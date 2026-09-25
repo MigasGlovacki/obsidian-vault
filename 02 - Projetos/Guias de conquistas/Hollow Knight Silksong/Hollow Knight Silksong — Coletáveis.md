@@ -1141,7 +1141,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**; os cinco restantes servem para completar o inventário.
 
-> [!progress pu] ███░░░░░░░░░░░░░░░░░ 3/20 (15%)
+> [!progress pu] ████░░░░░░░░░░░░░░░░ 4/20 (20%)
 
 ### Act 1
 
@@ -1249,7 +1249,7 @@ São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**;
 
 <br>
 
-- [ ] **14 — Greymoor:** seção inferior entre Halfway Home e Bellhart.
+- [x] **14 — Greymoor:** seção inferior entre Halfway Home e Bellhart.
 
 > [!example]- Mapa e local — 14 — Greymoor
 > ![Mapa — 14 — Greymoor](https://images.steamusercontent.com/ugc/10606721105580572395/03D0BC6C4A0C4BDD6FAD6B09DF075CA665D373F6/)
