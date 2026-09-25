@@ -779,7 +779,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
-> [!progress am] ████░░░░░░░░░░░░░░░░ 6/30 (20%)
+> [!progress am] █████░░░░░░░░░░░░░░░ 7/30 (23%)
 
 ### Antes de mover a caravan para Greymoor
 
@@ -842,7 +842,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 <br>
 
-- [ ] **08 — Bellhart:** entre quebrando a parede superior direita de Shellwood.
+- [x] **08 — Bellhart:** entre quebrando a parede superior direita de Shellwood.
 
 > [!example]- Mapa e local — 08 — Bellhart
 > ![Mapa — 08 — Bellhart](https://images.steamusercontent.com/ugc/10958572815487735414/562A3D22746D2B7CA303D2CEA53C4FA03C6E81A0/)
