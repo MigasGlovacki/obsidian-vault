@@ -11,18 +11,16 @@
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02 - Projetos/Jogos/Diario de Gris.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/20260921225622_1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Diario de Gris"
+              "icon": "lucide-image",
+              "title": "20260921225622_1"
             }
           },
           {
-            "id": "938059a023d23777",
+            "id": "c2e089fbffe2f45d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +33,8 @@
               "title": "Diario do Hollow Knight Silksong"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projetos/Jogos/Diario de Gris.md",
+                "file": "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,23 +239,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1d542f1eb8792a",
+  "active": "c2e089fbffe2f45d",
   "lastOpenFiles": [
+    "image-1.png",
+    "image.png",
+    "Attachments/20260921225622_1.jpg",
+    "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
+    "Attachments/image-4.png",
+    "Attachments/image-3.png",
+    "Attachments/image-2.png",
+    "Attachments/image-1.png",
+    "Attachments/image.png",
+    "Attachments/20260925185808_1.jpg",
+    "Attachments/20260925182146_1.jpg",
+    "Attachments/20260919220726_1.jpg",
+    "02 - Projetos/Jogos/Diario de Gris.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
-    "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
-    "20260921225622_1.jpg",
     "01 - Diario/Diário de jogos.md",
-    "Longform/image-2.png",
-    "Longform/image-1.png",
-    "Longform/image.png",
-    "Longform/20260925185808_1.jpg",
-    "Longform/20260925182200_1-1.jpg",
-    "Longform/20260925182200_1.jpg",
-    "Longform/20260923223713_1.jpg",
-    "Longform/image-3.png",
-    "Longform/image-4.png",
     "_templates_/Games.md",
     "00 - Caixa de entrada/Hollow Knight Silksong.md",
     "00 - Caixa de entrada/Sem título.md",
@@ -270,7 +271,6 @@
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong/Guia de conquistas do Black Myth Wukong.md",
-    "02 - Projetos/Jogos/Diario de Gris.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "00 - Caixa de entrada/Persona 5 Royal.md",
     "03 - Areas/Gostos de anime.md",

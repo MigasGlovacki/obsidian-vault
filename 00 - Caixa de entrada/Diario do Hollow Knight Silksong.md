@@ -3,14 +3,14 @@ tags:
   - diario
   - games
   - hollow-knight-silksong
-criado em: 2026-09-24
+criado em: 2026-09-22
 jogo: "[[Hollow Knight Silksong]]"
 status: em andamento
 nota final:
 ---
 # Diário de Hollow Knight Silksong
 
-Aqui eu vou registrar toda a minha (segunda) jornada em **Hollow Knight Silksong**. Dessa vez usando o [[Hollow Knight Silksong — Guia de conquistas]]
+Aqui eu vou registrar toda a minha (segunda) jornada em **Hollow Knight Silksong**. Dessa vez usando o [[Hollow Knight Silksong — Guia de conquistas]].
 
 ---
 
@@ -59,9 +59,9 @@ Consegui derrotar na terceira tentativa, era mais dificil que eu lembrava. E dep
 
 A memoria mostrava varias tecelãs tocando uma espécie de harpa, até que uma luz vinda do ceu, juntamente com um grito enfurecido, brilha todo o lugar e assim termina a lembrança.
 
-![[image-3.png|500x281]]
+![[image.png|500x281]]
 
-![[image-4.png|500x281]]
+![[image-1.png|500x281]]
 
 Pra finalizar, fiz a minha primeira melhoria na agulha, aumentando o dano dela.
 
