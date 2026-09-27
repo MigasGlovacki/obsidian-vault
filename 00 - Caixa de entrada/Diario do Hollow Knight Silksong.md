@@ -21,7 +21,7 @@ Bem, eu comecei a jogar na verdade nesse meu novo save dia 22/09, mas eu esqueci
 - Cutscene da [[Hornet]] capturada escapando da sua jaula e começando o jogo
 - Derrotei a Mãe mosca, primeiro boss do jogo
 - Hornet estava meio debilitada, e uma hora desmaia, acordando pouco tempo depois
-- Abri o caminho para a medula, conhecendo o Sherma no meio do caminho (o Goat!)
+- Abri o caminho para a medula, conhecendo o [[Sherma]] no meio do caminho (o Goat!)
 
 ![[20260921225622_1.jpg|500x281]]
 
@@ -36,12 +36,12 @@ Fiz bastante progresso hoje, mas estou registrando em outro dia, porque eu apare
 
 Pelo que eu estou pegando da lore escondida do jogo, parece que as antigas tecelãs eram meio que a raça que dominava Fiarlongo, e faziam os outros seres de escravos, injetando a seda dentro de suas carapaças. A seda nesse mundo parece guardar lembranças e a propria alma da tecelã que a faz, tanto que sempre que Hornet pega uma skill de seda, ela “vincula” a estatua da tecelã.
 
-Tambem acabei derrotando a Lace, que é um boss que particularmente gosto muito!
+Tambem acabei derrotando a [[Lace]], que é um boss que particularmente gosto muito!
 
 ![[20260923223713_1.jpg|500x281]]
 
 
-Sobre a gameplay, desbloqueei a habilidade de sprint e de dash no ar, que é gamechanger. também peguei uma skill de dano em area que vai me ajudar bastante no futuro.
+Sobre a gameplay, desbloqueei a habilidade de sprint e de dash no ar, que é gamechanger. também peguei uma skill de dano em área que vai me ajudar bastante no futuro.
 
 Cheguei na campânula que estava amaldiçoada e varios insetos amarrados de linhas de seda que vinham do topo, com isso, meu objetivo era descobrir o q tinha la no alto. Pra isso, tive que pegar o caminho a esquerda, chegando em Casco Madeira.
 
