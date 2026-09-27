@@ -48,3 +48,6 @@ Pra finalizar, fiz a minha primeira melhoria na agulha, aumentando o dano dela.
 
 ## 27/09/2026
 
+Hoje eu não avancei na historia, decidi focar mais no backtracking que as minhas novas habilidades (Agulino e walljump) me proporcionaram. Entrei em dois ninhos de tecelãs e encontrei uma nova NPC chamada Eva. Ela melhorou o meu brasão de caçadora, deixando ele mais forte. Provavelmente eu vou manter ele como o meu padrão até o fim. Aproveitei e matei a 
+
+Tambem desbloqueei um atalho da Campanula para a medula, mas não sei se vou usar muito

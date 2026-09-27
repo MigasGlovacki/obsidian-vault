@@ -35,7 +35,8 @@
               "title": "Diario do Hollow Knight Silksong"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
+                "file": "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,11 +241,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1d542f1eb8792a",
+  "active": "938059a023d23777",
   "lastOpenFiles": [
+    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
-    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "_templates_/Games.md",
     "00 - Caixa de entrada/Hollow Knight Silksong.md",
     "01 - Diario/Diário de jogos.md",
