@@ -1476,7 +1476,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Blue Tools
 
-> [!progress bl] ███░░░░░░░░░░░░░░░░░ 3/21 (14%)
+> [!progress bl] ████░░░░░░░░░░░░░░░░ 4/21 (19%)
 
 - [x] **Druid's Eye — Bone Bottom:** conclua **Berry Picking**. Druid's Eyes é upgrade do mesmo Tool.
 
@@ -1532,7 +1532,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Weavelight — Weavenest Atla:** derrote as duas Moss Mothers.
+- [x] **Weavelight — Weavenest Atla:** derrote as duas Moss Mothers.
 
 > [!example]- Referências visuais — Weavelight
 > ![Referência 1 — Weavelight](https://images.steamusercontent.com/ugc/18273214777826965793/558AAC752EE24AB8DD09367AFAD010CBB4EA78E2/)
