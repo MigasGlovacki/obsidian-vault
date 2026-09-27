@@ -40,7 +40,7 @@ Lá, derrotei a Irmã Lasca (boss foda pra caralho, gosto muito desses boss que 
 
 Lá, descobri o que estava ocorrendo. Havia uma Tecelã (a Viúva) tecendo linhas de seda, que vinham de cima. Ela não era a fonte da seda, mas era quem estava “amaldiçoando” o lugar. Lá, ela falou que já sabia da existência da Hornet, e que a daria para sua mãe. Então a boss fight começou.
 
-Consegui derrotar na terceira tentativa, era mais dificil que eu lembrava. E depois de acessar mais uma memoria, desbloqueei o Agulhino, um instrumento musical importante para acessar novas areas.
+Consegui derrotar na terceira tentativa, era mais dificil que eu lembrava. E depois de acessar mais uma memoria, desbloqueei o Agulino, um instrumento musical importante para acessar novas areas.
 
 A memoria mostrava varias tecelãs tocando uma especie de harpa, até que uma luz vinda do ceu, juntamente com um grito enfurecido, brilha todo o lugar e assim termina a lembrança
 
@@ -48,6 +48,8 @@ Pra finalizar, fiz a minha primeira melhoria na agulha, aumentando o dano dela.
 
 ## 27/09/2026
 
-Hoje eu não avancei na historia, decidi focar mais no backtracking que as minhas novas habilidades (Agulino e walljump) me proporcionaram. Entrei em dois ninhos de tecelãs e encontrei uma nova NPC chamada Eva. Ela melhorou o meu brasão de caçadora, deixando ele mais forte. Provavelmente eu vou manter ele como o meu padrão até o fim. Aproveitei e matei a 
+Hoje eu não avancei na historia, decidi focar mais no backtracking que as minhas novas habilidades (Agulino e Wall-jump) me proporcionaram.
 
-Tambem desbloqueei um atalho da Campanula para a medula, mas não sei se vou usar muito
+Entrei em dois ninhos de tecelãs e encontrei uma nova NPC chamada Eva. Ela melhorou o meu brasão de caçadora, deixando ele mais forte, provavelmente eu vou manter ele como o meu padrão até o fim.
+
+Aproveitei e fiz a revanche da Mãe Mosca, que vinha duas dessa vez. Acabei morrendo uma vez, mas na segunda foi. Também desbloqueei um atalho da Campânula para a medula, mas não sei se vou usar muito, mas é bom ter opções.
