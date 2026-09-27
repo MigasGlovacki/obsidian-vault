@@ -1666,7 +1666,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Yellow Tools
 
-> [!progress ye] █████░░░░░░░░░░░░░░░ 3/12 (25%)
+> [!progress ye] ███████░░░░░░░░░░░░░ 4/12 (33%)
 
 - [x] **Compass — The Marrow:** Shakra, 70 Rosaries.
 
@@ -1758,7 +1758,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **Silkspeed Anklets — Weavenest Cindril:** atravesse todos os painéis com dash.
+- [x] **Silkspeed Anklets — Weavenest Cindril:** atravesse todos os painéis com dash.
 
 > [!example]- Referências visuais — Silkspeed Anklets
 > ![Referência 1 — Silkspeed Anklets](https://images.steamusercontent.com/ugc/17178041411130643709/C8611C828BC55652DDC320251013904E757F52CD/)
