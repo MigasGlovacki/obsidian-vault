@@ -437,11 +437,11 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 ## Mask Shards
 
-> [!progress pu] ██░░░░░░░░░░░░░░░░░░ 2/20 (10%)
+> [!progress pu] ███░░░░░░░░░░░░░░░░░ 3/20 (15%)
 
 ### Act 1
 
-- [ ] **01 — Bone Bottom:** compre de Pebb por 300 Rosaries; se a loja não estiver disponível, compre de Grindle em Blasted Steps.
+- [x] **01 — Bone Bottom:** compre de Pebb por 300 Rosaries; se a loja não estiver disponível, compre de Grindle em Blasted Steps.
 
 > [!example]- Mapa e local — 01 — Bone Bottom
 > ![Mapa — 01 — Bone Bottom](https://images.steamusercontent.com/ugc/9589424001818264181/1E01FB0A210812943AB1596FE6FB93A8DCDE35F9/)
