@@ -23,14 +23,12 @@
             "id": "c2e089fbffe2f45d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/20260921225622_1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Diario do Hollow Knight Silksong"
+              "icon": "lucide-image",
+              "title": "20260921225622_1"
             }
           }
         ],
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
+                "file": "Attachments/20260921225622_1.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,12 +237,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c2e089fbffe2f45d",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
-    "image-1.png",
     "image.png",
-    "Attachments/20260921225622_1.jpg",
+    "Attachments/image-1.png",
+    "Attachments/2026-05-14_20.45.33.png",
     "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
+    "Attachments/20260921225622_1.jpg",
     "Attachments/image-4.png",
     "Attachments/image-3.png",
     "Attachments/image-2.png",
@@ -252,7 +251,6 @@
     "Attachments/image.png",
     "Attachments/20260925185808_1.jpg",
     "Attachments/20260925182146_1.jpg",
-    "Attachments/20260919220726_1.jpg",
     "02 - Projetos/Jogos/Diario de Gris.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
