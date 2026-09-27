@@ -32,21 +32,9 @@
               "icon": "lucide-file",
               "title": "Diário de jogos"
             }
-          },
-          {
-            "id": "82918a550c40aaa4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-27 20.01.24.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 277.5
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -196,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
+                "file": "01 - Diario/Diário de jogos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,10 +240,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "82918a550c40aaa4",
+  "active": "c2e089fbffe2f45d",
   "lastOpenFiles": [
-    "Pasted Image 20260927200859_010.png",
     "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
+    "Pasted Image 20260927200859_010.png",
     "01 - Diario/Diário de jogos.md",
     "Excalidraw",
     "Attachments/2026-05-14_20.47.15 1.png",
