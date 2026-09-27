@@ -21,6 +21,10 @@ Bem, eu comecei a jogar na verdade nesse meu novo save dia 22/09, mas eu esqueci
 - Cutscene da [[Hornet]] capturada escapando da sua jaula e começando o jogo
 - Derrotei a Mãe mosca, primeiro boss do jogo
 - Hornet estava meio debilitada, e uma hora desmaia, acordando pouco tempo depois
+- Abri o caminho para a medula, conhecendo o Sherma no meio do caminho (o Goat!)
+
+![[20260921225622_1.jpg|500x281]]
+
 - Conversa com um NPC sobre o lugar onde o jogo se passa: [[Fiarlongo]]
 - Hornet suspeita que não foi trazida para cá por acaso, e decide começar uma viagem até a [[Cidadela]]
 - Peguei a primeira skill de seda.
@@ -51,11 +55,13 @@ Lá, descobri o que estava ocorrendo. Havia uma Tecelã (a Viúva) tecendo linha
 
 ![[20260925185808_1.jpg|500x281]]
 
-Consegui derrotar na terceira tentativa, era mais dificil que eu lembrava. E depois de acessar mais uma memoria, desbloqueei o Agulino, um instrumento musical importante para acessar novas areas.
+Consegui derrotar na terceira tentativa, era mais dificil que eu lembrava. E depois de acessar mais uma memoria, desbloqueei o Agulino, um instrumento musical importante para acessar novas áreas.
 
-A memoria mostrava varias tecelãs tocando uma especie de harpa, até que uma luz vinda do ceu, juntamente com um grito enfurecido, brilha todo o lugar e assim termina a lembrança.
+A memoria mostrava varias tecelãs tocando uma espécie de harpa, até que uma luz vinda do ceu, juntamente com um grito enfurecido, brilha todo o lugar e assim termina a lembrança.
 
+![[image-3.png|500x281]]
 
+![[image-4.png|500x281]]
 
 Pra finalizar, fiz a minha primeira melhoria na agulha, aumentando o dano dela.
 
