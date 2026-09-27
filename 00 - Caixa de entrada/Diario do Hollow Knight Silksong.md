@@ -24,3 +24,9 @@ Bem, eu comecei a jogar na verdade nesse meu novo save dia 22/09, mas eu esqueci
 - Conversa com um NPC sobre o lugar onde o jogo se passa: [[Fiarlongo]]
 - Hornet suspeita que não foi trazida para cá por acaso, e decide começar uma viagem até a [[Cidadela]]
 
+## 25/09/2026
+
+Fiz bastante progresso hoje, mas to registrando em outro dia, porque eu aparentemente esqueci de documentar a minha sessão, mas vou tentar resumir o que aconteceu de acordo com o que ocorreu.
+
+Pelo que eu to pegando da lore escondida do jogo, parece que as antigas tecelãs eram meio que a raça que dominava Fiarlongo, e faziam os outros seres de escravos, injetando a seda dentro de suas carapaças. A seda nesse mundo parece guardar lembranças e a propria alma da tecelã que a faz, tanto que sempre que Hornet pega uma skill de seda, ela “vincula” a estatua da tecelã.
+
