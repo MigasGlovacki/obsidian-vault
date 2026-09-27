@@ -42,7 +42,9 @@ Lá, descobri o que estava ocorrendo. Havia uma Tecelã (a Viúva) tecendo linha
 
 Consegui derrotar na terceira tentativa, era mais dificil que eu lembrava. E depois de acessar mais uma memoria, desbloqueei o Agulhino, um instrumento musical importante para acessar novas areas.
 
-A memoria mostrava varias tecelãs tocando uma especie de harpa, até que uma luz vinda do ceu, juntamente com um grito enfurecido, b
+A memoria mostrava varias tecelãs tocando uma especie de harpa, até que uma luz vinda do ceu, juntamente com um grito enfurecido, brilha todo o lugar e assim termina a lembrança
+
+
 
 ## 27/09/2026
 
