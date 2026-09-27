@@ -23,16 +23,30 @@
             "id": "c2e089fbffe2f45d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/20260921225622_1.jpg"
+                "file": "01 - Diario/Diário de jogos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "20260921225622_1"
+              "icon": "lucide-file",
+              "title": "Diário de jogos"
+            }
+          },
+          {
+            "id": "82918a550c40aaa4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-27 20.01.24.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/20260921225622_1.jpg",
+                "file": "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,25 +251,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a0c9e9d2e3c9f04",
+  "active": "82918a550c40aaa4",
   "lastOpenFiles": [
-    "image.png",
+    "01 - Diario/Diário de jogos.md",
+    "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
+    "Excalidraw",
+    "Attachments/2026-05-14_20.47.15 1.png",
+    "Longform/Emerald Eyes/planejamento historia 1.canvas",
+    "Attachments/20260921225622_1.jpg",
+    "Attachments/image.png",
     "Attachments/image-1.png",
     "Attachments/2026-05-14_20.45.33.png",
     "00 - Caixa de entrada/Diario do Hollow Knight Silksong.md",
-    "Attachments/20260921225622_1.jpg",
     "Attachments/image-4.png",
     "Attachments/image-3.png",
     "Attachments/image-2.png",
     "Attachments/image-1.png",
     "Attachments/image.png",
-    "Attachments/20260925185808_1.jpg",
-    "Attachments/20260925182146_1.jpg",
     "02 - Projetos/Jogos/Diario de Gris.md",
     "02 - Projetos/Guias de conquistas/GRIS/GRIS — Guia 100% em uma run.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
-    "01 - Diario/Diário de jogos.md",
     "_templates_/Games.md",
     "00 - Caixa de entrada/Hollow Knight Silksong.md",
     "00 - Caixa de entrada/Sem título.md",
@@ -280,8 +296,6 @@
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong",
     "02 - Projetos/Guias de conquistas/GRIS",
-    "Excalidraw",
-    "Longform/Emerald Eyes/planejamento historia 1.canvas",
     "03 - Areas/Relações",
     "03 - Areas/Produtividade",
     "A Luminária/Continuidade/Diário",
