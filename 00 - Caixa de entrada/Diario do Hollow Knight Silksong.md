@@ -34,9 +34,15 @@ Pelo que eu estou pegando da lore escondida do jogo, parece que as antigas tecel
 
 Sobre a gameplay, desbloqueei a habilidade de sprint e de dash no ar, que é gamechanger. também peguei uma skill de dano em area que vai me ajudar bastante no futuro.
 
-Cheguei na campânula que estava amaldiçõada e varios insetos amarrados de linhas de seda que vinham do topo, com isso, meu objetivo era descobrir o q tinha la no alto. Pra isso, tive que pegar o caminho a esquerda, chegando em Casco Madeira.
+Cheguei na campânula que estava amaldiçoada e varios insetos amarrados de linhas de seda que vinham do topo, com isso, meu objetivo era descobrir o q tinha la no alto. Pra isso, tive que pegar o caminho a esquerda, chegando em Casco Madeira.
 
 Lá, derrotei a Irmã Lasca (boss foda pra caralho, gosto muito desses boss que fazem parte do cenário) e desbloqueei a skill de wall jump, possibilitando eu chegar no topo a direita de Casco Madeira, que conecta a parte superior da Campânula, onde eu tinha que ir.
 
-Lá, descobri o que estava ocorrendo. Havia uma Tecelã tecendo linhas de seda, que vinham de cima. Ela não era a fonte da seda, mas
+Lá, descobri o que estava ocorrendo. Havia uma Tecelã (a Viúva) tecendo linhas de seda, que vinham de cima. Ela não era a fonte da seda, mas era quem estava “amaldiçoando” o lugar. Lá, ela falou que já sabia da existência da Hornet, e que a daria para sua mãe. Então a boss fight começou.
+
+Consegui derrotar na terceira tentativa, era mais dificil que eu lembrava. E depois de acessar mais uma memoria, desbloqueei o Agulhino, um instrumento musical importante para acessar novas areas.
+
+A memoria mostrava varias tecelãs tocando uma especie de harpa, até que uma luz vinda do ceu, juntamente com um grito enfurecido, b
+
+## 27/09/2026
 
