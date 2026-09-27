@@ -44,7 +44,7 @@ Consegui derrotar na terceira tentativa, era mais dificil que eu lembrava. E dep
 
 A memoria mostrava varias tecelãs tocando uma especie de harpa, até que uma luz vinda do ceu, juntamente com um grito enfurecido, brilha todo o lugar e assim termina a lembrança
 
-
+Pra finalizar, fiz a minha primeira melhoria na agulha, aumentando o dano dela.
 
 ## 27/09/2026
 

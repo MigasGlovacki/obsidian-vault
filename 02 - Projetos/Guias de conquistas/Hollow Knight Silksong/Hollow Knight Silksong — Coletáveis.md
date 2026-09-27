@@ -1141,11 +1141,11 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**; os cinco restantes servem para completar o inventário.
 
-> [!progress pu] ████░░░░░░░░░░░░░░░░ 4/20 (20%)
+> [!progress pu] █████░░░░░░░░░░░░░░░ 5/20 (25%)
 
 ### Act 1
 
-- [ ] **01 — The Marrow:** topo da área após Bell Beast.
+- [x] **01 — The Marrow:** topo da área após Bell Beast.
 
 > [!example]- Mapa e local — 01 — The Marrow
 > ![Mapa — 01 — The Marrow](https://images.steamusercontent.com/ugc/13037598413566339163/2F2D7834C3AA115E4986F940CDAA7ABA47795853/)
