@@ -11,10 +11,12 @@
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-27 20.01.24.excalidraw"
             }
           },
           {
@@ -106,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -242,21 +245,22 @@
   },
   "active": "df1d542f1eb8792a",
   "lastOpenFiles": [
+    "Longform/DDLC Secrets/casa.md",
+    "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
+    "Longform/DDLC Secrets/Index.md",
+    "00 - Hub do Vault.md",
+    "Sem título.canvas",
     "04 - Referencias/Comparadores de Redstone.md",
     "03 - Areas/EverWorld/informações de mundo.md",
     "03 - Areas/EverWorld/EverWorld.md",
     "04 - Referencias/Seeds balatro.md",
-    "00 - Hub do Vault.md",
     "01 - Diario/Diario do Everworld.md",
     "05 - Arquivos/GRIS — Guia 100% em uma run.md",
     "01 - Diario/Diario de Gris.md",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
     "03 - Areas/EverWorld/Geral.canvas",
-    "Sem título.canvas",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
     "00 - Caixa de entrada/Sem título.md",
-    "Longform/DDLC Secrets/Index.md",
-    "Longform/DDLC Secrets/casa.md",
     "03 - Areas/Gostos de anime.md",
     "04 - Referencias/Hornet.md",
     "03 - Areas/EverWorld/Farms.md",
@@ -267,10 +271,8 @@
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "_templates_/diario de jogo.md",
     "_templates_/Games.md",
-    "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
     "05 - Arquivos/Documentario Skyblock portfolio.md",
     "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
-    "02 - Projetos/Freelance/Como usar o template de proposta.md",
     "Longform/DDLC Secrets",
     "Pasted Image 20260927200859_010.png",
     "Excalidraw",
