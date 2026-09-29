@@ -107,7 +107,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -245,7 +246,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6adb97f964a80c3b",
+  "active": "874d287a1917f958",
   "lastOpenFiles": [
     "01 - Diario/Diario do Everworld.md",
     "03 - Areas/EverWorld/Geral.canvas",
