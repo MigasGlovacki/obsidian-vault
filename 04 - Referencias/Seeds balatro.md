@@ -1,3 +1,11 @@
+---
+jogo: "[[Balatro]]"
+tags:
+  - games
+  - steam
+  - balatro
+---
+
 # Seeds fodas de [[Balatro]]
 
 algumas seeds muito loucas que eu encontrei jogando.

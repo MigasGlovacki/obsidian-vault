@@ -1,3 +1,8 @@
+---
+jogo: "[[Minecraft]]"
+tags:
+  - games
+---
 # EverWorld — Índice
 
 > Hub do mundo eterno (vanilla) do João. Informações do mundo e progressão diária ficam nas notas relacionadas; aqui centralizo o estado atual por área.
@@ -25,3 +30,4 @@
 1. Desenhar a ponte/estrada numa **cópia do mundo** com a ferramenta path do Axiom
 2. Salvar como **esquema Litematica**
 3. Reconstruir no **original** seguindo o esquema
+4. 

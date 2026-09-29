@@ -3,22 +3,22 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "tag:#games ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
     {
       "query": "tag:#diario ",
       "color": {
         "a": 1,
         "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#games ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 12.8007346189164,
   "linkStrength": 0.474731707317073,
   "linkDistance": 136,
-  "scale": 0.24310187705897807,
+  "scale": 0.34082467405395456,
   "close": false
 }
