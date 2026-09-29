@@ -23,3 +23,5 @@ João parou por dois segundos, então, pegou o uniforme do lado esquerdo
 — Vai esse mesmo…
 
 Com o uniforme em mãos, caminhou até o banheiro para tomar um banho antes de colocar o uniforme
+
+---
