@@ -6,19 +6,8 @@
       {
         "id": "de2c83e0cc58e927",
         "type": "tabs",
+        "dimension": 62.26533166458073,
         "children": [
-          {
-            "id": "df1d542f1eb8792a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-27 20.01.24.excalidraw"
-            }
-          },
           {
             "id": "6adb97f964a80c3b",
             "type": "leaf",
@@ -37,6 +26,50 @@
             }
           }
         ]
+      },
+      {
+        "id": "94eb75e8f575d1fd",
+        "type": "split",
+        "dimension": 37.73466833541927,
+        "children": [
+          {
+            "id": "5d80e4a774c25822",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ec0085ee7b65a191",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Sumário"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dcdafddd3daead67",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df1d542f1eb8792a",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Visualização em gráfico"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -108,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -144,12 +176,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Caixa de entrada/Ficha de Personagens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Ficha de Personagens"
+              "title": "Links de saída"
             }
           },
           {
@@ -182,21 +213,6 @@
             }
           },
           {
-            "id": "ec0085ee7b65a191",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "05 - Arquivos/GRIS — Guia 100% em uma run.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
-            }
-          },
-          {
             "id": "7c187688c34dac2f",
             "type": "leaf",
             "state": {
@@ -222,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,8 +247,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
@@ -245,11 +261,12 @@
   },
   "active": "df1d542f1eb8792a",
   "lastOpenFiles": [
-    "Longform/DDLC Secrets/casa.md",
+    "Sem título.canvas",
+    "00 - Caixa de entrada/Analise para estudo de edições.md",
     "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
+    "Longform/DDLC Secrets/casa.md",
     "Longform/DDLC Secrets/Index.md",
     "00 - Hub do Vault.md",
-    "Sem título.canvas",
     "04 - Referencias/Comparadores de Redstone.md",
     "03 - Areas/EverWorld/informações de mundo.md",
     "03 - Areas/EverWorld/EverWorld.md",
@@ -259,7 +276,6 @@
     "01 - Diario/Diario de Gris.md",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
     "03 - Areas/EverWorld/Geral.canvas",
-    "00 - Caixa de entrada/Analise para estudo de edições.md",
     "00 - Caixa de entrada/Sem título.md",
     "03 - Areas/Gostos de anime.md",
     "04 - Referencias/Hornet.md",
