@@ -4,7 +4,7 @@ Um barulho que parecia ser o do despertador começa aos poucos a invadir a cabe�
 
 — Ughh… já é de manhã? — Disse enquanto deslizava o dedo na tela do celular, cessando o alarme.
 
-Na tela, aparecia o horário: 06:31
+Na tela, aparecia o horário: **06:31**
 
 Então, se lembrou do porquê de ter configurado um alarme naquele horário específico.
 
@@ -23,5 +23,3 @@ João parou por dois segundos, então, pegou o uniforme do lado esquerdo
 — Vai esse mesmo…
 
 Com o uniforme em mãos, caminhou até o banheiro para tomar um banho antes de colocar o uniforme
-
----
