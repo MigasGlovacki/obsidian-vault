@@ -6,7 +6,7 @@
       {
         "id": "de2c83e0cc58e927",
         "type": "tabs",
-        "dimension": 62.26533166458073,
+        "dimension": 76.54584221748401,
         "children": [
           {
             "id": "6adb97f964a80c3b",
@@ -30,11 +30,12 @@
       {
         "id": "94eb75e8f575d1fd",
         "type": "split",
-        "dimension": 37.73466833541927,
+        "dimension": 23.454157782515992,
         "children": [
           {
             "id": "5d80e4a774c25822",
             "type": "tabs",
+            "dimension": 59.496124031007746,
             "children": [
               {
                 "id": "ec0085ee7b65a191",
@@ -55,6 +56,7 @@
           {
             "id": "dcdafddd3daead67",
             "type": "tabs",
+            "dimension": 40.50387596899225,
             "children": [
               {
                 "id": "df1d542f1eb8792a",
@@ -141,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -259,7 +262,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1d542f1eb8792a",
+  "active": "ec0085ee7b65a191",
   "lastOpenFiles": [
     "Sem título.canvas",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
