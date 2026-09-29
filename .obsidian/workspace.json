@@ -11,12 +11,14 @@
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md"
+                "file": "00 - Hub do Vault.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-27 20.01.24.excalidraw"
+              "icon": "lucide-file",
+              "title": "00 - Hub do Vault"
             }
           }
         ]
@@ -225,8 +227,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1d542f1eb8792a",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
+    "Longform/DDLC Secrets/casa.md",
+    "_templates_/diario de jogo.md",
+    "_templates_/Games.md",
+    "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
     "05 - Arquivos/Documentario Skyblock portfolio.md",
     "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
     "02 - Projetos/Freelance/Como usar o template de proposta.md",
@@ -237,13 +243,11 @@
     "02 - Projetos/Jogos/Diário do Ghostrunner.md",
     "02 - Projetos/Renda Online.md",
     "01 - Diario/Diario do Everworld.md",
-    "DDLC Secrets/casa.md",
-    "DDLC Secrets/Index.md",
+    "Longform/DDLC Secrets/Index.md",
     "Longform/Emerald Eyes/1. casa.md",
-    "DDLC Secrets",
+    "Longform/DDLC Secrets",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
     "00 - Caixa de entrada/Sem título.md",
-    "_templates_/diario de jogo.md",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
     "04 - Referencias/Persona 5 Royal.md",
@@ -252,8 +256,6 @@
     "00 - Caixa de entrada/Hollow Knight.md",
     "00 - Caixa de entrada/Gris.md",
     "05 - Arquivos/GRIS — Guia 100% em uma run.md",
-    "01 - Diario/Diário de jogos.md",
-    "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
     "Pasted Image 20260927200859_010.png",
     "Excalidraw",
     "Attachments/2026-05-14_20.47.15 1.png",
