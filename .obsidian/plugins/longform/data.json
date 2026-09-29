@@ -1,17 +1,23 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Longform/Emerald Eyes/Index.md",
+  "selectedDraftVaultPath": "DDLC Secrets/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-09-29T03:45:40.950Z",
-      "total": 0,
+      "total": 124,
       "drafts": {
         "Longform/Emerald Eyes/Index.md": {
           "total": 0,
           "scenes": {}
+        },
+        "DDLC Secrets/Index.md": {
+          "total": 124,
+          "scenes": {
+            "casa": 124
+          }
         }
       }
     },

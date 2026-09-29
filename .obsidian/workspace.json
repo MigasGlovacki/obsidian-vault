@@ -11,12 +11,14 @@
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/20260921225622_1.jpg"
+                "file": "DDLC Secrets/casa.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "20260921225622_1"
+              "icon": "lucide-file",
+              "title": "casa"
             }
           }
         ]
@@ -87,7 +89,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -225,8 +228,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a0c9e9d2e3c9f04",
+  "active": "df1d542f1eb8792a",
   "lastOpenFiles": [
+    "DDLC Secrets/Index.md",
+    "DDLC Secrets/casa.md",
+    "Longform/Emerald Eyes/1. casa.md",
+    "DDLC Secrets",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
     "00 - Caixa de entrada/Sem título.md",
     "_templates_/diario de jogo.md",
@@ -262,9 +269,6 @@
     "02 - Projetos/Guias de conquistas/Ghostrunner/Ghostrunner — Colecionáveis e 100%.md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert.md",
     "02 - Projetos/Guias de conquistas/Guia de conquistas do Resident Evil 4 (Remake).md",
-    "02 - Projetos/Guias de conquistas/Black Myth Wukong/Guia de conquistas do Black Myth Wukong.md",
-    "03 - Areas/Gostos de anime.md",
-    "00 - Hub do Vault.md",
     "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/EverWorld/Geral.canvas",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
@@ -275,7 +279,6 @@
     "A Luminária/Continuidade/Diário",
     "A Luminária/Continuidade",
     "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
-    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/build_guide.py",
     "Sem título.canvas",
     "Our time Together.canvas",
     "04 - Resto/Blue Prince mapa mental.canvas",
