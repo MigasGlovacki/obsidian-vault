@@ -7,16 +7,16 @@
   "sessions": [
     {
       "start": "2026-09-29T03:45:40.950Z",
-      "total": 158,
+      "total": 171,
       "drafts": {
         "Longform/Emerald Eyes/Index.md": {
           "total": 0,
           "scenes": {}
         },
         "DDLC Secrets/Index.md": {
-          "total": 158,
+          "total": 171,
           "scenes": {
-            "casa": 158
+            "casa": 171
           }
         }
       }

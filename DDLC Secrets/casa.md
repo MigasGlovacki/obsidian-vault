@@ -1,16 +1,14 @@
 # ATO 1
 
-## CAPITULO 1
-
 Um barulho que parecia ser o do despertador começa aos poucos a invadir a cabeça de João, que, relutantemente, se levanta da cama em direção a origem do barulho.
 
-— Ughhh… já é de manhã? — Disse enquanto deslizava o dedo na tela do celular, cessando o alarme.
+— Ughh… já é de manhã? — Disse enquanto deslizava o dedo na tela do celular, cessando o alarme.
 
 Na tela, aparecia o horário: 06:31
 
 Então, se lembrou do porquê de ter configurado um alarme naquele horário específico.
 
-— Ah… hoje começam as aulas, né? Eu quase esqueci.
+— Ah… é hoje, né? Eu quase esqueci.
 
 Então foi ao seu guarda roupas pegar o seu uniforme escolar. Quando o abriu, se deparou com um par de uniformes iguais, logo de prontidão.
 
@@ -20,6 +18,8 @@ Então ele sentiu vindo, uma voz interior, uma que ele conhecia bem, bem até de
 
 ***Você realmente acha que alguém se importa?***
 
-Pegou o uniforme do lado esquerdo — Vai esse mesmo…
+João parou por dois segundos, então, pegou o uniforme do lado esquerdo
 
-Com o uniforme em mãos, caminhou até o banheiro para trocar se trocar
+— Vai esse mesmo…
+
+Com o uniforme em mãos, caminhou até o banheiro para tomar um banho antes de colocar o uniforme
