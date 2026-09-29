@@ -3,6 +3,7 @@ criado em: 2026-09-19
 tags:
   - diario
   - games
+  - gris
 status: concluido
 nota final: 8.5
 ---

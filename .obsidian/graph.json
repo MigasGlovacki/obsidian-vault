@@ -11,14 +11,14 @@
       "query": "tag:#games ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#diario ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16755200
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 12.8007346189164,
   "linkStrength": 0.474731707317073,
   "linkDistance": 136,
-  "scale": 0.4778303641637599,
+  "scale": 0.24310187705897807,
   "close": false
 }

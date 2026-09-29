@@ -11,17 +11,10 @@
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "03 - Areas/EverWorld/Geral.canvas",
-                "viewState": {
-                  "x": 2330.8871738219304,
-                  "y": -932.474787012407,
-                  "zoom": -1.0242025129100856
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Geral"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           },
           {
@@ -41,8 +34,7 @@
               "title": "Sem título"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,11 +240,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6adb97f964a80c3b",
+  "active": "df1d542f1eb8792a",
   "lastOpenFiles": [
-    "00 - Caixa de entrada/Analise para estudo de edições.md",
-    "Sem título.canvas",
+    "05 - Arquivos/GRIS — Guia 100% em uma run.md",
+    "01 - Diario/Diario de Gris.md",
+    "01 - Diario/Diario do Hollow Knight Silksong.md",
     "03 - Areas/EverWorld/Geral.canvas",
+    "Sem título.canvas",
+    "00 - Caixa de entrada/Analise para estudo de edições.md",
     "00 - Caixa de entrada/Sem título.md",
     "Longform/DDLC Secrets/Index.md",
     "Longform/DDLC Secrets/casa.md",
@@ -276,8 +271,6 @@
     "02 - Projetos/Jogos/Geometry Dash/MOAI.md",
     "02 - Projetos/Jogos/Geometry Dash/User coins fáceis - criadores.md",
     "02 - Projetos/Jogos/Geometry Dash/WORST IN YOU.md",
-    "02 - Projetos/Jogos/README.md",
-    "02 - Projetos/Jogos/Diário do Ghostrunner.md",
     "Longform/DDLC Secrets",
     "Pasted Image 20260927200859_010.png",
     "Excalidraw",
