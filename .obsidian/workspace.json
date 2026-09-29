@@ -11,10 +11,12 @@
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-27 20.01.24.excalidraw"
             }
           }
         ]
