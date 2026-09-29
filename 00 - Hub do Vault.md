@@ -24,7 +24,7 @@ Este vault é **nosso espaço de trabalho compartilhado**. A Luminária não é 
 - [[02 - Projetos/EverWorld/EverWorld|EverWorld]]
 - [[02 - Projetos/Guias de conquistas/Guia de conquistas do Crimson Desert|Guias de conquistas]]
 - [[03 - Areas/Produtividade/Registro de Pomodoro|Registro de Pomodoro]]
-- [[03 - Areas/Relações/Endereços de amigos|Endereços de amigos]]
+- [[Endereços de amigos|Endereços de amigos]]
 
 ## Regra de trabalho
 
