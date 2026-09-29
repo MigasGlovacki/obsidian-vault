@@ -7,13 +7,11 @@
   "sessions": [
     {
       "start": "2026-09-29T03:45:40.950Z",
-      "total": 2,
+      "total": 0,
       "drafts": {
         "Longform/Emerald Eyes/Index.md": {
-          "total": 2,
-          "scenes": {
-            "1. casa": 2
-          }
+          "total": 0,
+          "scenes": {}
         }
       }
     },
