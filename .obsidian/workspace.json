@@ -11,14 +11,10 @@
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Projetos/Jogos/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -229,10 +225,15 @@
   },
   "active": "df1d542f1eb8792a",
   "lastOpenFiles": [
-    "02 - Projetos/Jogos/Diário do Ghostrunner.md",
+    "05 - Arquivos/Documentario Skyblock portfolio.md",
+    "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
+    "02 - Projetos/Freelance/Como usar o template de proposta.md",
+    "02 - Projetos/Jogos/Geometry Dash/MOAI.md",
+    "02 - Projetos/Jogos/Geometry Dash/User coins fáceis - criadores.md",
+    "02 - Projetos/Jogos/Geometry Dash/WORST IN YOU.md",
     "02 - Projetos/Jogos/README.md",
+    "02 - Projetos/Jogos/Diário do Ghostrunner.md",
     "02 - Projetos/Renda Online.md",
-    "02 - Projetos/Documentario Skyblock portfolio.md",
     "01 - Diario/Diario do Everworld.md",
     "DDLC Secrets/casa.md",
     "DDLC Secrets/Index.md",
@@ -263,11 +264,6 @@
     "Attachments/image-3.png",
     "Attachments/image-2.png",
     "Attachments/image-1.png",
-    "01 - Diario/Diario de Gris.md",
-    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
-    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
-    "_templates_/Games.md",
-    "02 - Projetos/Jogos/Geometry Dash/Diário do Geometry Dash.md",
     "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/EverWorld/Geral.canvas",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",

@@ -16,7 +16,7 @@ tags:
 
 ### 🎥 Take (PT-BR)
 
-- [ ] Fade in.
+- [x] Fade in.
 - [x] Replay Mod mostrando a ilha COMPLETA (resultado final).
 - [x] Câmera vindo de longe lentamente.
 - [x] Corte para vários takes rápidos:
