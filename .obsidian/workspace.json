@@ -28,14 +28,17 @@
             "id": "6adb97f964a80c3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Longform/DDLC Secrets/Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ],
@@ -247,21 +250,22 @@
   },
   "active": "6adb97f964a80c3b",
   "lastOpenFiles": [
-    "Longform/DDLC Secrets/casa.md",
+    "00 - Caixa de entrada/Analise para estudo de edições.md",
+    "Sem título.canvas",
+    "03 - Areas/EverWorld/Geral.canvas",
+    "00 - Caixa de entrada/Sem título.md",
     "Longform/DDLC Secrets/Index.md",
+    "Longform/DDLC Secrets/casa.md",
     "03 - Areas/Gostos de anime.md",
     "01 - Diario/Diario do Everworld.md",
-    "03 - Areas/EverWorld/Geral.canvas",
     "04 - Referencias/Hornet.md",
     "03 - Areas/EverWorld/EverWorld.md",
     "03 - Areas/EverWorld/Farms.md",
     "03 - Areas/EverWorld/Objetivos.md",
     "03 - Areas/EverWorld/Construções.md",
     "03 - Areas/EverWorld/Planejamento da Mega Base.md",
-    "00 - Caixa de entrada/Analise para estudo de edições.md",
     "03 - Areas/Edição de videos",
     "00 - Hub do Vault.md",
-    "00 - Caixa de entrada/Sem título.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "_templates_/diario de jogo.md",
     "_templates_/Games.md",
@@ -274,7 +278,6 @@
     "02 - Projetos/Jogos/Geometry Dash/WORST IN YOU.md",
     "02 - Projetos/Jogos/README.md",
     "02 - Projetos/Jogos/Diário do Ghostrunner.md",
-    "02 - Projetos/Renda Online.md",
     "Longform/DDLC Secrets",
     "Pasted Image 20260927200859_010.png",
     "Excalidraw",
@@ -296,7 +299,6 @@
     "03 - Areas/Produtividade",
     "A Luminária/Continuidade/Diário",
     "A Luminária/Continuidade",
-    "Sem título.canvas",
     "Our time Together.canvas",
     "04 - Resto/Blue Prince mapa mental.canvas",
     "Worldbuilding.canvas",
