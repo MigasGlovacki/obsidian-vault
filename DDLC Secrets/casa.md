@@ -12,8 +12,14 @@ Então, se lembrou do porquê de ter configurado um alarme naquele horário espe
 
 — Ah… hoje começam as aulas, né? Eu quase esqueci.
 
-Então foi ao seu guarda roupas pegar o seu uniforme escolar. Quando o abriu, se deparou com um par de uniformes logo de prontidão.
+Então foi ao seu guarda roupas pegar o seu uniforme escolar. Quando o abriu, se deparou com um par de uniformes iguais, logo de prontidão.
 
 João olhou para os dois — Qual será que eu uso hoje?
 
-*Você acha que alguem se importa*
+Então ele sentiu vindo, uma voz interior, uma que ele conhecia bem, bem até demais
+
+***Você realmente acha que alguém se importa?***
+
+Pegou o uniforme do lado esquerdo — Vai esse mesmo…
+
+Com o uniforme em mãos, caminhou até o banheiro para trocar se trocar
