@@ -11,14 +11,17 @@
             "id": "df1d542f1eb8792a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 - Hub do Vault.md",
-                "mode": "preview",
-                "source": false
+                "file": "03 - Areas/EverWorld/Geral.canvas",
+                "viewState": {
+                  "x": 1452.1380711168056,
+                  "y": -639.0246451292109,
+                  "zoom": -0.5950091641692363
+                }
               },
-              "icon": "lucide-file",
-              "title": "00 - Hub do Vault"
+              "icon": "lucide-layout-dashboard",
+              "title": "Geral"
             }
           }
         ]
@@ -229,10 +232,17 @@
   },
   "active": "df1d542f1eb8792a",
   "lastOpenFiles": [
-    "00 - Caixa de entrada/Sem título.md",
+    "03 - Areas/EverWorld/Farms.md",
+    "03 - Areas/EverWorld/Objetivos.md",
+    "03 - Areas/EverWorld/EverWorld.md",
+    "03 - Areas/EverWorld/Construções.md",
+    "03 - Areas/EverWorld/Planejamento da Mega Base.md",
+    "03 - Areas/EverWorld/Geral.canvas",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
-    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
+    "03 - Areas/Edição de videos",
     "00 - Hub do Vault.md",
+    "00 - Caixa de entrada/Sem título.md",
+    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "Longform/DDLC Secrets/casa.md",
     "_templates_/diario de jogo.md",
     "_templates_/Games.md",
@@ -251,11 +261,6 @@
     "Longform/Emerald Eyes/1. casa.md",
     "Longform/DDLC Secrets",
     "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
-    "01 - Diario/Diario do Hollow Knight Silksong.md",
-    "04 - Referencias/Persona 5 Royal.md",
-    "04 - Referencias/Hornet.md",
-    "00 - Caixa de entrada/Hollow Knight Silksong.md",
-    "00 - Caixa de entrada/Hollow Knight.md",
     "Pasted Image 20260927200859_010.png",
     "Excalidraw",
     "Attachments/2026-05-14_20.47.15 1.png",
@@ -269,7 +274,6 @@
     "Attachments/image-2.png",
     "Attachments/image-1.png",
     "02 - Projetos/MoniLink.canvas",
-    "02 - Projetos/EverWorld/Geral.canvas",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong",
     "02 - Projetos/Guias de conquistas/GRIS",
@@ -277,7 +281,6 @@
     "03 - Areas/Produtividade",
     "A Luminária/Continuidade/Diário",
     "A Luminária/Continuidade",
-    "02 - Projetos/Jogos/Pokémon/Nuzlocke da Luminária/pokemon-firered-ai-guide/tools/validate_firered_encounters.py",
     "Sem título.canvas",
     "Our time Together.canvas",
     "04 - Resto/Blue Prince mapa mental.canvas",
