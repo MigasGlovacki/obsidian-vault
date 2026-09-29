@@ -15,16 +15,31 @@
               "state": {
                 "file": "03 - Areas/EverWorld/Geral.canvas",
                 "viewState": {
-                  "x": 1452.1380711168056,
-                  "y": -639.0246451292109,
-                  "zoom": -0.5950091641692363
+                  "x": 2330.8871738219304,
+                  "y": -932.474787012407,
+                  "zoom": -1.0242025129100856
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Geral"
             }
+          },
+          {
+            "id": "6adb97f964a80c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/Gostos de anime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gostos de anime"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,14 +245,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1d542f1eb8792a",
+  "active": "6adb97f964a80c3b",
   "lastOpenFiles": [
+    "01 - Diario/Diario do Everworld.md",
+    "03 - Areas/EverWorld/Geral.canvas",
+    "04 - Referencias/Hornet.md",
+    "03 - Areas/EverWorld/EverWorld.md",
     "03 - Areas/EverWorld/Farms.md",
     "03 - Areas/EverWorld/Objetivos.md",
-    "03 - Areas/EverWorld/EverWorld.md",
     "03 - Areas/EverWorld/Construções.md",
     "03 - Areas/EverWorld/Planejamento da Mega Base.md",
-    "03 - Areas/EverWorld/Geral.canvas",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
     "03 - Areas/Edição de videos",
     "00 - Hub do Vault.md",
@@ -256,11 +273,8 @@
     "02 - Projetos/Jogos/README.md",
     "02 - Projetos/Jogos/Diário do Ghostrunner.md",
     "02 - Projetos/Renda Online.md",
-    "01 - Diario/Diario do Everworld.md",
     "Longform/DDLC Secrets/Index.md",
-    "Longform/Emerald Eyes/1. casa.md",
     "Longform/DDLC Secrets",
-    "00 - Caixa de entrada/Estudo de shorts de minecraft.md",
     "Pasted Image 20260927200859_010.png",
     "Excalidraw",
     "Attachments/2026-05-14_20.47.15 1.png",

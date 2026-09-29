@@ -1,3 +1,9 @@
+---
+jogo: Minecraft
+tags:
+  - diario
+  - games
+---
 # Diario do Everworld
 
 Aqui vai servir de hub para as entradas mensais do diario do Everworld. 
@@ -9,3 +15,4 @@ A ideia de entrada mensal foi uma sugestão da Monika que eu gostei muito, porqu
 ---
 
 - [[Setembro de 2026]]
+

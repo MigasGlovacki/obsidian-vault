@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"f43b5895782a697b","type":"file","file":"03 - Areas/EverWorld/Objetivos.md","x":960,"y":-1840,"width":1040,"height":1400}
+		{"id":"f43b5895782a697b","type":"file","file":"03 - Areas/EverWorld/Objetivos.md","x":960,"y":-1840,"width":1040,"height":1400},
+		{"id":"07f1150f1e68f04e","x":2100,"y":-1840,"width":640,"height":560,"type":"file","file":"01 - Diario/Diario do Everworld.md"}
 	],
 	"edges":[]
 }
