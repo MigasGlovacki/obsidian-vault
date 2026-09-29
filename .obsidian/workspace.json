@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Areas/Gostos de anime.md",
+                "file": "Longform/DDLC Secrets/casa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gostos de anime"
+              "title": "casa"
             }
           }
         ],
@@ -246,8 +246,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "874d287a1917f958",
+  "active": "6adb97f964a80c3b",
   "lastOpenFiles": [
+    "03 - Areas/Gostos de anime.md",
     "01 - Diario/Diario do Everworld.md",
     "03 - Areas/EverWorld/Geral.canvas",
     "04 - Referencias/Hornet.md",
