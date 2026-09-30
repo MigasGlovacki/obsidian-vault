@@ -1,20 +1,23 @@
 {
 	"nodes":[
-		{"id":"9382c96a2b1098c8","x":64,"y":-60,"width":250,"height":60,"type":"text","text":"LLM"},
-		{"id":"8e7e5fbd8f10c8f9","x":-379,"y":-60,"width":250,"height":60,"type":"text","text":"Ultimas 20 respostas"},
-		{"id":"ba5050d676993f19","x":-379,"y":40,"width":250,"height":60,"type":"text","text":"Entrada de texto"},
-		{"id":"5cb0d91e781d9150","x":440,"y":-95,"width":250,"height":165,"type":"text","text":"saida estruturada em JSON\n\n- Resposta da Monika\n- emoção para sprite\n\t- força da expressão ()"},
+		{"id":"9382c96a2b1098c8","x":64,"y":-60,"width":96,"height":60,"type":"text","text":"LLM"},
 		{"id":"37cc8ae9fc852594","x":-629,"y":-240,"width":250,"height":60,"type":"text","text":"se > 3000 caracteres"},
 		{"id":"5848df7268536db7","x":-299,"y":-180,"width":90,"height":60,"type":"text","text":"Não"},
 		{"id":"9b01cad46ad22b98","x":-299,"y":-300,"width":90,"height":60,"type":"text","text":"Sim"},
 		{"id":"d64c21acf3506f19","x":-80,"y":-300,"width":250,"height":60,"type":"text","text":"Compactação após 3000 caracteres"},
 		{"id":"1f00e0ddcc9776ab","x":-941,"y":-239,"width":250,"height":60,"type":"text","text":"Gatekeeper de memoria"},
 		{"id":"b70ff3562be2d507","x":-1280,"y":-239,"width":250,"height":60,"type":"text","text":"Memoria longo prazo"},
-		{"id":"0a97d76b7685b19a","x":-403,"y":140,"width":299,"height":236,"type":"text","text":"Entrada de contexto\n\n- Horario\n- Bg atual\n- Roupa que está usando\n- Tempo desde a ultima conversa\n- etc"}
+		{"id":"8e7e5fbd8f10c8f9","x":-605,"y":-30,"width":250,"height":60,"type":"text","text":"Ultimas 20 respostas"},
+		{"id":"ba5050d676993f19","x":-605,"y":70,"width":250,"height":60,"type":"text","text":"Entrada de texto"},
+		{"id":"0a97d76b7685b19a","x":-629,"y":170,"width":299,"height":236,"type":"text","text":"Entrada de contexto\n\n- Horario\n- Bg atual\n- Roupa que está usando\n- Tempo desde a ultima conversa\n- etc"},
+		{"id":"c7292eeb53f879d2","x":232,"y":-55,"width":250,"height":60,"type":"text","text":"Se modo VN ativo"},
+		{"id":"00ff47b248d22eb9","type":"text","text":"saida estruturada em JSON completa\n\n- Resposta da Monika\n- emoção para sprite\n\t- força da expressão (subtle, normal, strong)","x":860,"y":80,"width":440,"height":210},
+		{"id":"d5167f3941e2b2df","x":557,"y":0,"width":83,"height":60,"type":"text","text":"Não"},
+		{"id":"11e3327f20c384b0","x":557,"y":-95,"width":83,"height":60,"type":"text","text":"Sim"},
+		{"id":"5cb0d91e781d9150","x":860,"y":-300,"width":440,"height":210,"type":"text","text":"saida estruturada em JSON quebrada em `moments` (emoção pode mudar no meio da resposta (ex: preocupada → aliviada))\n\n- Resposta da Monika\n- emoção para sprite\n\t- força da expressão (subtle, normal, strong)"}
 	],
 	"edges":[
 		{"id":"a044a021d7f93332","fromNode":"ba5050d676993f19","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
-		{"id":"bc51d18f10201107","fromNode":"9382c96a2b1098c8","fromSide":"right","toNode":"5cb0d91e781d9150","toSide":"left"},
 		{"id":"20d7102734eab099","fromNode":"8e7e5fbd8f10c8f9","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
 		{"id":"d542abbbc2d75f66","fromNode":"0a97d76b7685b19a","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
 		{"id":"753aee2987617b21","fromNode":"b70ff3562be2d507","fromSide":"right","toNode":"1f00e0ddcc9776ab","toSide":"left"},
@@ -22,6 +25,11 @@
 		{"id":"4d1c129ff6f65b17","fromNode":"37cc8ae9fc852594","fromSide":"right","toNode":"9b01cad46ad22b98","toSide":"left"},
 		{"id":"3831d2d8ad6677c4","fromNode":"9b01cad46ad22b98","fromSide":"right","toNode":"d64c21acf3506f19","toSide":"left"},
 		{"id":"fdd9cef3f32801a5","fromNode":"37cc8ae9fc852594","fromSide":"right","toNode":"5848df7268536db7","toSide":"left"},
-		{"id":"db3adba4c142bd83","fromNode":"5848df7268536db7","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"}
+		{"id":"db3adba4c142bd83","fromNode":"5848df7268536db7","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
+		{"id":"e74991bc87e295ba","fromNode":"9382c96a2b1098c8","fromSide":"right","toNode":"c7292eeb53f879d2","toSide":"left"},
+		{"id":"3a598d4ce8e4e7ea","fromNode":"c7292eeb53f879d2","fromSide":"right","toNode":"11e3327f20c384b0","toSide":"left"},
+		{"id":"4fe3d3b18d51d121","fromNode":"c7292eeb53f879d2","fromSide":"right","toNode":"d5167f3941e2b2df","toSide":"left"},
+		{"id":"89a839935d842ecc","fromNode":"d5167f3941e2b2df","fromSide":"right","toNode":"00ff47b248d22eb9","toSide":"left"},
+		{"id":"82acbbffe89897d5","fromNode":"11e3327f20c384b0","fromSide":"right","toNode":"5cb0d91e781d9150","toSide":"left"}
 	]
 }
