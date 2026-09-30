@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"ba5050d676993f19","x":-379,"y":-59,"width":250,"height":60,"type":"text","text":"Entrada de texto"},
 		{"id":"9382c96a2b1098c8","x":64,"y":-60,"width":250,"height":60,"type":"text","text":"LLM"},
-		{"id":"0fd747751426e593","x":437,"y":40,"width":250,"height":60,"type":"text","text":"Expressão da resposta"},
-		{"id":"b70ff3562be2d507","x":-379,"y":-260,"width":250,"height":60,"type":"text","text":"Memoria longo prazo"},
-		{"id":"8e7e5fbd8f10c8f9","x":-379,"y":-160,"width":250,"height":60,"type":"text","text":"Ultimas 20 respostas"},
-		{"id":"5cb0d91e781d9150","x":437,"y":-140,"width":250,"height":60,"type":"text","text":"Resposta da Monika"},
-		{"id":"d64c21acf3506f19","x":-19,"y":-274,"width":250,"height":60,"type":"text","text":"Compactação após 3000 caracteres"}
+		{"id":"8e7e5fbd8f10c8f9","x":-379,"y":-60,"width":250,"height":60,"type":"text","text":"Ultimas 20 respostas"},
+		{"id":"ba5050d676993f19","x":-379,"y":40,"width":250,"height":60,"type":"text","text":"Entrada de texto"},
+		{"id":"b70ff3562be2d507","x":-379,"y":-160,"width":250,"height":60,"type":"text","text":"Memoria longo prazo"},
+		{"id":"0a97d76b7685b19a","x":-379,"y":144,"width":250,"height":176,"type":"text","text":"Entrada de contexto\n\n- Horario\n- Bg atual\n- Roupa que está usando\n- etc"},
+		{"id":"5cb0d91e781d9150","x":437,"y":-60,"width":250,"height":60,"type":"text","text":"Resposta da Monika"},
+		{"id":"0fd747751426e593","x":437,"y":40,"width":343,"height":76,"type":"text","text":"Mudança de sprite (Expressão do rosto) da resposta"},
+		{"id":"d64c21acf3506f19","x":64,"y":-220,"width":250,"height":60,"type":"text","text":"Compactação após 3000 caracteres"}
 	],
 	"edges":[
 		{"id":"a044a021d7f93332","fromNode":"ba5050d676993f19","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
@@ -14,6 +15,7 @@
 		{"id":"8eb619330da6e937","fromNode":"9382c96a2b1098c8","fromSide":"right","toNode":"0fd747751426e593","toSide":"left"},
 		{"id":"20d7102734eab099","fromNode":"8e7e5fbd8f10c8f9","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
 		{"id":"28252f8711960dbe","fromNode":"b70ff3562be2d507","fromSide":"right","toNode":"d64c21acf3506f19","toSide":"left"},
-		{"id":"25f049cf7c32e191","fromNode":"b70ff3562be2d507","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"}
+		{"id":"25f049cf7c32e191","fromNode":"b70ff3562be2d507","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
+		{"id":"d542abbbc2d75f66","fromNode":"0a97d76b7685b19a","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"}
 	]
 }
