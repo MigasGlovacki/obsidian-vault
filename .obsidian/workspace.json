@@ -12,66 +12,39 @@
             "id": "6adb97f964a80c3b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": -311.10365059089435,
-                  "y": 776.80445024231,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Longform/DDLC Secrets/casa.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "casa"
             }
           }
         ]
       },
       {
-        "id": "94eb75e8f575d1fd",
-        "type": "split",
+        "id": "5d80e4a774c25822",
+        "type": "tabs",
         "dimension": 23.454157782515992,
         "children": [
           {
-            "id": "5d80e4a774c25822",
-            "type": "tabs",
-            "dimension": 59.496124031007746,
-            "children": [
-              {
-                "id": "ec0085ee7b65a191",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Sumário"
-                }
-              }
-            ]
-          },
-          {
-            "id": "dcdafddd3daead67",
-            "type": "tabs",
-            "dimension": 40.50387596899225,
-            "children": [
-              {
-                "id": "df1d542f1eb8792a",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Visualização em gráfico"
-                }
-              }
-            ]
+            "id": "ec0085ee7b65a191",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Longform/DDLC Secrets/casa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",
@@ -179,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Longform/DDLC Secrets/casa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -262,13 +235,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ec0085ee7b65a191",
+  "active": "6adb97f964a80c3b",
   "lastOpenFiles": [
+    "Longform/DDLC Secrets/Index.md",
     "Sem título.canvas",
+    "Longform/DDLC Secrets/casa.md",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
     "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
-    "Longform/DDLC Secrets/casa.md",
-    "Longform/DDLC Secrets/Index.md",
     "00 - Hub do Vault.md",
     "04 - Referencias/Comparadores de Redstone.md",
     "03 - Areas/EverWorld/informações de mundo.md",
