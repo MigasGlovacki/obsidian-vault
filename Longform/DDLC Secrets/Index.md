@@ -6,6 +6,5 @@ longform:
   sceneFolder: /
   scenes:
     - casa-escola
-    - casa
   ignoredFiles: []
 ---
