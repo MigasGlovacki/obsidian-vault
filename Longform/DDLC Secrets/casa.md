@@ -22,4 +22,6 @@ João parou por dois segundos, então, pegou o uniforme do lado esquerdo
 
 — Vai esse mesmo…
 
-Com o uniforme em mãos, caminhou até o banheiro para tomar um banho antes de colocar o uniforme
+Com o uniforme em mãos, caminhou até o banheiro para tomar um banho antes de colocar o uniforme. O banho até que foi rápido, bem, não poderia demorar muito também, pois daqui a poucos minutos já tinha que sair.
+
+Ao sair do banheiro já com o uniforme vestido acompanhado do vapor da água quente 

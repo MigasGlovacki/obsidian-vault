@@ -6,7 +6,6 @@
       {
         "id": "de2c83e0cc58e927",
         "type": "tabs",
-        "dimension": 76.54584221748401,
         "children": [
           {
             "id": "6adb97f964a80c3b",
@@ -20,28 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "casa"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5d80e4a774c25822",
-        "type": "tabs",
-        "dimension": 23.454157782515992,
-        "children": [
-          {
-            "id": "ec0085ee7b65a191",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Longform/DDLC Secrets/casa.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
             }
           }
         ]
@@ -116,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d9cf8c5c9dc7bc4",

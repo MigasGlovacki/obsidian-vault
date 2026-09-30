@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-09-30T03:39:35.969Z",
+      "total": 35,
+      "drafts": {
+        "Longform/DDLC Secrets/Index.md": {
+          "total": 35,
+          "scenes": {
+            "casa": 35
+          }
+        }
+      }
+    },
+    {
       "start": "2026-09-29T03:45:40.950Z",
       "total": 166,
       "drafts": {
@@ -423,26 +435,6 @@
           "scenes": {
             "Beyond Reality": 0,
             "Inicio": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-08-19T03:04:31.705Z",
-      "total": 257,
-      "drafts": {
-        "Longform/Green Afection/Index.md": {
-          "total": 13,
-          "scenes": {
-            "Sinopse": 13,
-            "Inicio": 0
-          }
-        },
-        "Longform/Beyond Reality/Index.md": {
-          "total": 257,
-          "scenes": {
-            "Beyond Reality": 120,
-            "Inicio": 137
           }
         }
       }
