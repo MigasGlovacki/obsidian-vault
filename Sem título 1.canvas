@@ -1,24 +1,26 @@
 {
 	"nodes":[
-		{"id":"8241bc5f3ac5e914","type":"group","x":-1780,"y":-360,"width":1500,"height":400,"color":"1","label":"Memoria"},
+		{"id":"8241bc5f3ac5e914","type":"group","x":-1780,"y":-460,"width":1500,"height":500,"color":"1","label":"Memoria"},
+		{"id":"e903bcb0bc53dfbc","x":-825,"y":340,"width":525,"height":400,"color":"4","type":"group","label":"Estado"},
+		{"id":"900d76946630e205","x":-980,"y":80,"width":700,"height":180,"color":"5","type":"group","label":"Usuario"},
 		{"id":"9382c96a2b1098c8","type":"text","text":"LLM","x":64,"y":-60,"width":96,"height":60},
-		{"id":"ba5050d676993f19","type":"text","text":"Entrada de texto","x":-605,"y":70,"width":250,"height":60},
-		{"id":"0a97d76b7685b19a","type":"text","text":"Entrada de contexto\n\n- Horario\n- Bg atual\n- Roupa que está usando\n- Tempo desde a ultima conversa\n- etc","x":-629,"y":170,"width":299,"height":236},
 		{"id":"c7292eeb53f879d2","type":"text","text":"Se modo VN ativo","x":232,"y":-55,"width":250,"height":60},
 		{"id":"d5167f3941e2b2df","type":"text","text":"Não","x":557,"y":0,"width":83,"height":60},
 		{"id":"11e3327f20c384b0","type":"text","text":"Sim","x":557,"y":-95,"width":83,"height":60},
 		{"id":"5cb0d91e781d9150","type":"text","text":"saida estruturada em JSON quebrada em `moments` (emoção pode mudar no meio da resposta (ex: preocupada → aliviada))\n\n- Resposta da Monika\n- emoção para sprite\n\t- força da expressão (subtle, normal, strong)","x":860,"y":-285,"width":440,"height":210},
 		{"id":"00ff47b248d22eb9","type":"text","text":"saida estruturada em JSON completa\n\n- Resposta da Monika\n- emoção para sprite\n\t- força da expressão (subtle, normal, strong)","x":860,"y":60,"width":440,"height":210},
-		{"id":"9b01cad46ad22b98","type":"text","text":"Sim","x":-799,"y":-336,"width":90,"height":60},
-		{"id":"37cc8ae9fc852594","type":"text","text":"passou de 3000 caracteres?","x":-1129,"y":-276,"width":250,"height":56},
-		{"id":"d64c21acf3506f19","type":"text","text":"Compactação após 3000 caracteres","x":-580,"y":-320,"width":250,"height":60},
-		{"id":"5848df7268536db7","type":"text","text":"Não","x":-500,"y":-180,"width":90,"height":60},
-		{"id":"8e7e5fbd8f10c8f9","type":"text","text":"Ultimas 20 respostas","x":-580,"y":-60,"width":250,"height":60},
-		{"id":"b70ff3562be2d507","type":"text","text":"Memoria longo prazo","x":-1740,"y":-150,"width":250,"height":60},
-		{"id":"1f00e0ddcc9776ab","type":"text","text":"Gatekeeper de memoria","x":-1440,"y":-150,"width":250,"height":60}
+		{"id":"9b01cad46ad22b98","type":"text","text":"Sim","x":-780,"y":-260,"width":90,"height":60},
+		{"id":"0a97d76b7685b19a","type":"text","text":"Entrada de contexto\n\n- Horario\n- Bg atual\n- Roupa que está usando\n- Tempo desde a ultima conversa\n- etc","x":-710,"y":420,"width":299,"height":236},
+		{"id":"8bc461ee7733c917","x":-480,"y":130,"width":163,"height":50,"type":"text","text":"Nova Memoria?"},
+		{"id":"ba5050d676993f19","type":"text","text":"Entrada de texto","x":-835,"y":125,"width":250,"height":60},
+		{"id":"b70ff3562be2d507","type":"text","text":"Memoria longo prazo","x":-1740,"y":-210,"width":250,"height":60},
+		{"id":"1f00e0ddcc9776ab","type":"text","text":"Gatekeeper de memoria","x":-1440,"y":-210,"width":250,"height":60},
+		{"id":"37cc8ae9fc852594","type":"text","text":"passou de 3000 caracteres?","x":-1129,"y":-208,"width":250,"height":56},
+		{"id":"d64c21acf3506f19","type":"text","text":"Compactação após 3000 caracteres \n\n- add\n- remove\n- replace","x":-580,"y":-390,"width":250,"height":180},
+		{"id":"5848df7268536db7","type":"text","text":"Não","x":-501,"y":-152,"width":90,"height":60},
+		{"id":"8e7e5fbd8f10c8f9","type":"text","text":"Ultimas 20 respostas","x":-605,"y":-60,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"a044a021d7f93332","fromNode":"ba5050d676993f19","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
 		{"id":"20d7102734eab099","fromNode":"8e7e5fbd8f10c8f9","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
 		{"id":"d542abbbc2d75f66","fromNode":"0a97d76b7685b19a","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
 		{"id":"753aee2987617b21","fromNode":"b70ff3562be2d507","fromSide":"right","toNode":"1f00e0ddcc9776ab","toSide":"left"},
@@ -32,6 +34,9 @@
 		{"id":"4fe3d3b18d51d121","fromNode":"c7292eeb53f879d2","fromSide":"right","toNode":"d5167f3941e2b2df","toSide":"left"},
 		{"id":"89a839935d842ecc","fromNode":"d5167f3941e2b2df","fromSide":"right","toNode":"00ff47b248d22eb9","toSide":"left"},
 		{"id":"82acbbffe89897d5","fromNode":"11e3327f20c384b0","fromSide":"right","toNode":"5cb0d91e781d9150","toSide":"left"},
-		{"id":"08ff1b0ebd46ed13","fromNode":"d64c21acf3506f19","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"}
+		{"id":"08ff1b0ebd46ed13","fromNode":"d64c21acf3506f19","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
+		{"id":"fe412f8c027e5a35","fromNode":"ba5050d676993f19","fromSide":"right","toNode":"8bc461ee7733c917","toSide":"left"},
+		{"id":"be8d4733450ccf64","fromNode":"8bc461ee7733c917","fromSide":"top","toNode":"b70ff3562be2d507","toSide":"bottom"},
+		{"id":"2c08dd3a6343fec2","fromNode":"8bc461ee7733c917","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"}
 	]
 }
