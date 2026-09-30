@@ -11,17 +11,14 @@
             "id": "6adb97f964a80c3b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título 1.canvas",
-                "viewState": {
-                  "x": 476.2624507426785,
-                  "y": 209.26629111170604,
-                  "zoom": -0.3333333333333332
-                }
+                "file": "03 - Areas/Edição de videos/Templates de prospecção.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título 1"
+              "icon": "lucide-file",
+              "title": "Templates de prospecção"
             }
           }
         ]
@@ -217,8 +214,9 @@
   },
   "active": "6adb97f964a80c3b",
   "lastOpenFiles": [
-    "Sem título.canvas",
     "Sem título 1.canvas",
+    "03 - Areas/Edição de videos/Templates de prospecção.md",
+    "Sem título.canvas",
     "A Luminária/Projetos da Luminária.md",
     "Attachments/20260923223713_1.jpg",
     "Attachments/20260925182146_1.jpg",
@@ -252,7 +250,6 @@
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "_templates_/diario de jogo.md",
     "_templates_/Games.md",
-    "05 - Arquivos/Documentario Skyblock portfolio.md",
     "Longform/DDLC Secrets",
     "Pasted Image 20260927200859_010.png",
     "Excalidraw",
