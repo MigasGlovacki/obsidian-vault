@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - casa
+    - casa-escola
     - casa
   ignoredFiles: []
 ---

@@ -7,11 +7,12 @@
   "sessions": [
     {
       "start": "2026-09-30T03:39:35.969Z",
-      "total": 427,
+      "total": 1010,
       "drafts": {
         "Longform/DDLC Secrets/Index.md": {
-          "total": 427,
+          "total": 1010,
           "scenes": {
+            "casa-escola": 583,
             "casa": 427
           }
         }

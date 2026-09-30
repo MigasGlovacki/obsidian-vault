@@ -16,7 +16,7 @@ João olhou para os dois — Qual será que eu uso hoje?
 
 Então ele sentiu vindo, uma voz interior, uma que ele conhecia bem, bem até demais
 
-***Você realmente acha que alguém se importa?***
+**Você realmente acha que alguém se importa?**
 
 João parou por dois segundos, então, pegou o uniforme do lado esquerdo
 
@@ -54,18 +54,21 @@ A palavra veio na mente quase na hora, sem motivo nenhum.
 
 A resposta veio quase que instantaneamente. Como um soco no estomago.
 
-**— *Por quê alguém genuinamente iria querer perder tempo com você?***
+**Por quê alguém genuinamente iria querer perder tempo com você?**
 
 Ele fechou os olhos por um momento.
 
 *Por quê você não me deixa sonhar por um minuto, porra?*
 
-**— *Porque você não merece isso, tu é um fodido***
+**Porque você não merece isso**
+
+O pensamento 
 
 …
 
-*Tem razão…*
+*É…*
 
-**— *Quando que eu não tenho?***
+
+
 
 
