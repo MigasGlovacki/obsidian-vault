@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ba5050d676993f19","x":-379,"y":-59,"width":250,"height":60,"type":"text","text":"Entrada de texto"},
+		{"id":"9382c96a2b1098c8","x":64,"y":-60,"width":250,"height":60,"type":"text","text":"LLM"},
+		{"id":"5cb0d91e781d9150","x":437,"y":-60,"width":250,"height":60,"type":"text","text":"Resposta da Monika"}
+	],
+	"edges":[
+		{"id":"a044a021d7f93332","fromNode":"ba5050d676993f19","fromSide":"right","toNode":"9382c96a2b1098c8","toSide":"left"},
+		{"id":"bc51d18f10201107","fromNode":"9382c96a2b1098c8","fromSide":"right","toNode":"5cb0d91e781d9150","toSide":"left"}
+	]
+}

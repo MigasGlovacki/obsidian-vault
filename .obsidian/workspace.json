@@ -11,14 +11,17 @@
             "id": "6adb97f964a80c3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Longform/DDLC Secrets/casa-escola.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem título 1.canvas",
+                "viewState": {
+                  "x": 310,
+                  "y": 11,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "casa-escola"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título 1"
             }
           }
         ]
@@ -214,11 +217,20 @@
   },
   "active": "6adb97f964a80c3b",
   "lastOpenFiles": [
-    "Longform/DDLC Secrets/Index.md",
     "Sem título.canvas",
-    "Longform/DDLC Secrets/casa-escola.md",
-    "00 - Caixa de entrada/Analise para estudo de edições.md",
+    "Sem título 1.canvas",
+    "A Luminária/Projetos da Luminária.md",
+    "Attachments/20260923223713_1.jpg",
+    "Attachments/20260925182146_1.jpg",
+    "Attachments/20260925182200_1-1.jpg",
+    "Attachments/20260925182200_1.jpg",
+    "Attachments/20260921225622_1.jpg",
+    "Attachments/image.png",
+    "Attachments/image-1.png",
     "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
+    "Longform/DDLC Secrets/casa-escola.md",
+    "Longform/DDLC Secrets/Index.md",
+    "00 - Caixa de entrada/Analise para estudo de edições.md",
     "00 - Hub do Vault.md",
     "04 - Referencias/Comparadores de Redstone.md",
     "03 - Areas/EverWorld/informações de mundo.md",
@@ -241,20 +253,12 @@
     "_templates_/diario de jogo.md",
     "_templates_/Games.md",
     "05 - Arquivos/Documentario Skyblock portfolio.md",
-    "02 - Projetos/Freelance/Proposta de edicao - TEMPLATE EN.md",
     "Longform/DDLC Secrets",
     "Pasted Image 20260927200859_010.png",
     "Excalidraw",
     "Attachments/2026-05-14_20.47.15 1.png",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
-    "Attachments/20260921225622_1.jpg",
-    "Attachments/image.png",
-    "Attachments/image-1.png",
     "Attachments/2026-05-14_20.45.33.png",
-    "Attachments/image-4.png",
-    "Attachments/image-3.png",
-    "Attachments/image-2.png",
-    "Attachments/image-1.png",
     "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong",
@@ -267,7 +271,6 @@
     "04 - Resto/Blue Prince mapa mental.canvas",
     "Worldbuilding.canvas",
     "Roteiros/Untitled.canvas",
-    "Untitled 1.canvas",
-    "Scripts/Porque nos apaixonamos por personagens Ficticios.canvas"
+    "Untitled 1.canvas"
   ]
 }
