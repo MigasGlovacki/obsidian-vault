@@ -34,5 +34,11 @@ Depois de algum tempo, ao terminar o café da manhã, João olhou para o relógi
 
 Ele pegou a sua mochila, que já estava perto da cozinha — Bom… tá na hora eu acho — Disse, em um tom não muito feliz.
 
-Então, pegou a chave da porta do chaveiro da cozinha, enc
+Então, pegou a chave da porta do chaveiro da cozinha, encaixou na fechadura e então, abriu a porta. O clima de fora não estava nem muito frio, mas nem muito quente. João pôs os dois pés pra fora de casa e então se virou para fechar e trancar a porta.
+
+— Lá vamos nós então…
+
+Logo após dizer isso, começou a fazer seu caminho até o colégio. Ele morava a uns 15 a 20 minutos a pé até lá, e faltava mais ou menos meia hora para a primeira aula começar, então ele podia ter o seu tempo até lá.
+
+No caminho, passou por varias 
 
