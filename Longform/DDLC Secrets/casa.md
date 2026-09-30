@@ -48,5 +48,17 @@ Ele desviou o olhar de volta para frente, focando no caminho que estava fazendo.
 
 *parceira*
 
-A palavra veio n
+A palavra veio na mente quase na hora, sem motivo nenhum.
+
+— Será que algum dia eu vou ter algo assim na minha vida? — Disse bem baixo pra ele mesmo.
+
+A resposta veio quase que instantaneamente. Como um soco no estomago.
+
+***Porque alguém genuinamente iria querer ter esse tipo de relação com você?***
+
+Ele fechou os olhos por um momento.
+
+*Porquê você não me deixa sonhar por um minuto, caramba?*
+
+******
 
