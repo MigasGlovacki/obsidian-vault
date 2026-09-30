@@ -1,5 +1,3 @@
-# ATO 1
-
 Um barulho que parecia ser o do despertador começa aos poucos a invadir a cabeça de João, que, relutantemente, se levanta da cama em direção a origem do barulho.
 
 — Ughh… já é de manhã? — Disse enquanto deslizava o dedo na tela do celular, cessando o alarme.
@@ -46,27 +44,25 @@ Ele desviou o olhar de volta para frente, focando no caminho que estava fazendo.
 
 *amigos… parceiros*
 
-*parceira*
+*parceira…*
 
 A palavra veio na mente quase na hora, sem motivo nenhum.
 
-— Será que algum dia eu vou ter algo assim na minha vida? — Disse bem baixo pra ele mesmo.
+— Será que algum dia eu vou ter alguém assim na minha vida? — Disse bem baixo pra ele mesmo, curioso.
 
 A resposta veio quase que instantaneamente. Como um soco no estomago.
 
-**Por quê alguém genuinamente iria querer perder tempo com você?**
+**Por quê alguém genuinamente iria querer perder tempo assim com você?**
 
 Ele fechou os olhos por um momento.
 
 *Por quê você não me deixa sonhar por um minuto, porra?*
 
-**Porque você não merece isso**
-
-O pensamento 
+**Porque você não merece**
 
 …
 
-*É…*
+João apenas continuou seu caminho até o colégio, sem falar nenhuma palavra nem trocar olhares com ninguem.
 
 
 
