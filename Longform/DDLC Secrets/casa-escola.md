@@ -16,7 +16,7 @@ Então ele sentiu vindo, uma voz interior, uma que ele conhecia bem, bem até de
 
 ***Você realmente acha que alguém se importa?***
 
-João parou por dois segundos, então, pegou o uniforme do lado esquerdo
+João parou por dois segundos, então, pegou o uniforme do lado esquerdo.
 
 — Vai esse mesmo…
 
@@ -62,7 +62,7 @@ Ele fechou os olhos por um momento.
 
 …
 
-João apenas continuou seu caminho até o colégio, sem falar nenhuma palavra nem trocou olhares com ninguém.
+João apenas continuou seu caminho até o colégio, sem falar nenhuma palavra nem trocou olhares com ninguém até chegar.
 
 
 
