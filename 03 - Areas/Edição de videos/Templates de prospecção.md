@@ -17,7 +17,7 @@ Hey [Name],
 
 I'm Migas, a video editor focused on Minecraft/Roblox content.
 
-I came across your channel and really liked [something specific about their content/video]. I think my editing style could fit your content well, especially with pacing, storytelling, sound design, and keeping the video engaging without overediting it.
+I came across your channel and [something specific about their content/video] I think my editing style could fit your content well, especially with pacing, storytelling, sound design, and keeping the video engaging without overediting it.
 
 Are you currently looking for an editor, or open to working with one?
 
@@ -33,15 +33,15 @@ Para apenas ajustar minimamente e não precisar perder muito tempo.
 
 #### 100 Days / Hardcore
 
-- I really like how you keep the slower parts of the 100 Days format engaging without making the editing feel overwhelming.
-- I really liked the pacing of your 100 Days video, especially how you keep the progression moving without overediting it.
-- I like how the video still feels relaxed while keeping the progression interesting throughout the challenge.
+- i really like how you keep the slower parts of the 100 Days format engaging without making the editing feel overwhelming.
+- i really liked the pacing of your 100 Days video, especially how you keep the progression moving without overediting it.
+- i like how the video still feels relaxed while keeping the progression interesting throughout the challenge.
 
 #### Modpack / Modded Minecraft
 
-- I really like how you showcase the modpack without making the video feel cluttered, especially with how much is happening on screen.
-- I liked how you introduce the different parts of the modpack while keeping the video easy to follow.
-- I really like the balance between showing the modpack itself and keeping the video entertaining.
+- i really like how you showcase the modpack without making the video feel cluttered, especially with how much is happening on screen.
+- i liked how you introduce the different parts of the modpack while keeping the video easy to follow.
+- i really like the balance between showing the modpack itself and keeping the video entertaining.
 
 #### Challenge — “Minecraft but…”
 
