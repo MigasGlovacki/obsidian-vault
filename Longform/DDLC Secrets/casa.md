@@ -40,5 +40,5 @@ Então, pegou a chave da porta do chaveiro da cozinha, encaixou na fechadura e e
 
 Logo após dizer isso, começou a fazer seu caminho até o colégio. Ele morava a uns 15 a 20 minutos a pé até lá, e faltava mais ou menos meia hora para a primeira aula começar, então ele podia ter o seu tempo até lá.
 
-No caminho, passou por varias 
+No caminho, percebeu a estação que estava por contas das cerejeiras florescidas. Ele não era muito de sair de casa, então as vezes esquecia a fase do ano em que estava. Também percebeu alguns alunos pegando a mesma direção que ele, muito provavelmente estavam indo para o mesmo lugar. Alguns iam sozinhos, como ele, mas alguns haviam companhia, como amigos e até mesmo 
 
