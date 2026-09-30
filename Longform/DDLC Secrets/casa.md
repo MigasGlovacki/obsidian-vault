@@ -54,11 +54,18 @@ A palavra veio na mente quase na hora, sem motivo nenhum.
 
 A resposta veio quase que instantaneamente. Como um soco no estomago.
 
-**— *Por que alguém genuinamente iria querer perder tempo com você?***
+**— *Por quê alguém genuinamente iria querer perder tempo com você?***
 
 Ele fechou os olhos por um momento.
 
-*Porquê você não me deixa sonhar por um minuto, caramba?*
+*Por quê você não me deixa sonhar por um minuto, porra?*
 
 **— *Porque você não merece isso, tu é um fodido***
+
+…
+
+*Tem razão…*
+
+**— *Quando que eu não tenho?***
+
 
