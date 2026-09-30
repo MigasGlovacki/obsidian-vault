@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "Prompt pra imagem de platina"
             }
+          },
+          {
+            "id": "62c62097e052de62",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/2026-05-14_20.45.33.png"
+              },
+              "icon": "lucide-image",
+              "title": "2026-05-14_20.45.33"
+            }
           }
         ]
       },
@@ -66,7 +78,7 @@
                 "sortOrder": "byCreatedTime",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "prom"
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -235,19 +247,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6adb97f964a80c3b",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
+    "Attachments/platinaGris.png",
+    "01 - Diario/Diario de Gris.md",
+    "Attachments/2026-05-14_20.45.33.png",
+    "Attachments/2026-05-14_20.47.15.png",
+    "Attachments/2026-05-14_20.49.07.png",
+    "Attachments/digital_circus.png",
+    "Attachments/2026-05-14_20.47.15 1.png",
+    "Attachments/20260919205932_1.jpg",
+    "Attachments/20260919210705_1.jpg",
+    "Attachments/20260919213752_1.jpg",
+    "Attachments/20260919220201_1.jpg",
+    "Attachments/20260919220726_1.jpg",
+    "04 - Referencias/Prompt pra imagem de platina.md",
     "03 - Areas/Edição de videos/Templates de prospecção.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "A Luminária/Projetos da Luminária.md",
-    "Attachments/20260923223713_1.jpg",
-    "Attachments/20260925182146_1.jpg",
-    "Attachments/20260925182200_1-1.jpg",
-    "Attachments/20260925182200_1.jpg",
-    "Attachments/20260921225622_1.jpg",
-    "Attachments/image.png",
-    "Attachments/image-1.png",
     "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
     "Longform/DDLC Secrets/casa-escola.md",
     "Longform/DDLC Secrets/Index.md",
@@ -259,7 +277,6 @@
     "04 - Referencias/Seeds balatro.md",
     "01 - Diario/Diario do Everworld.md",
     "05 - Arquivos/GRIS — Guia 100% em uma run.md",
-    "01 - Diario/Diario de Gris.md",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
     "03 - Areas/EverWorld/Geral.canvas",
     "00 - Caixa de entrada/Sem título.md",
@@ -272,13 +289,9 @@
     "03 - Areas/Edição de videos",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "_templates_/diario de jogo.md",
-    "_templates_/Games.md",
     "Longform/DDLC Secrets",
-    "Pasted Image 20260927200859_010.png",
     "Excalidraw",
-    "Attachments/2026-05-14_20.47.15 1.png",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
-    "Attachments/2026-05-14_20.45.33.png",
     "02 - Projetos/MoniLink.canvas",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong",

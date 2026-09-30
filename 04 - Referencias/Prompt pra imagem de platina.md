@@ -21,4 +21,6 @@ Respeite o estilo de arte e as fontes originais.
 Defina a proporção como 16:9
 ```
 
-Exemplo da arte completa em [[Diario de Gris]] no final da nota.
+Exemplo de como deve ficar:
+
+![[platinaGris.png|700]]
