@@ -79,6 +79,22 @@ Para apenas ajustar minimamente e não precisar perder muito tempo.
 - I like how your editing keeps the video moving while still letting the gameplay breathe.
 - I really like the overall style of your content. It feels polished without relying too heavily on effects.
 
+# Discord
+
+Aqui é jogo mais rapido.
+
+```
+Hey [Name]! I'm Migas, a video editor focused on Minecraft/Roblox content.
+
+I found your channel through [where/how you found them] and really liked [something specific about their content].
+
+I'm currently looking to work with more creators in this space, and I think my editing style could be a good fit for your videos.
+
+Here's my portfolio if you'd like to take a look:  
+https://migaseditor.com/
+
+If you're looking for an editor or open to working with one, I'd love to chat!
+```
 
 
 

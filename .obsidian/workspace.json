@@ -22,6 +22,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "9920356e09a0182d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eecb0ad5e988a64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Areas/Edição de videos/Templates de prospecção.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +233,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6adb97f964a80c3b",
+  "active": "1eecb0ad5e988a64",
   "lastOpenFiles": [
     "Sem título 1.canvas",
     "03 - Areas/Edição de videos/Templates de prospecção.md",
