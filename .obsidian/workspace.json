@@ -11,14 +11,17 @@
             "id": "6adb97f964a80c3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "04 - Referencias/Prompt pra imagem de platina.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem título 1.canvas",
+                "viewState": {
+                  "x": -310,
+                  "y": 210,
+                  "zoom": -1.1473942732715825
+                }
               },
-              "icon": "lucide-file",
-              "title": "Prompt pra imagem de platina"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título 1"
             }
           },
           {
@@ -224,8 +227,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a0c9e9d2e3c9f04",
+  "active": "6adb97f964a80c3b",
   "lastOpenFiles": [
+    "Attachments/image.png",
+    "Attachments/image-1.png",
+    "04 - Referencias/Prompt pra imagem de platina.md",
     "Attachments/platinaGris.png",
     "01 - Diario/Diario de Gris.md",
     "Attachments/2026-05-14_20.45.33.png",
@@ -236,9 +242,6 @@
     "Attachments/20260919205932_1.jpg",
     "Attachments/20260919210705_1.jpg",
     "Attachments/20260919213752_1.jpg",
-    "Attachments/20260919220201_1.jpg",
-    "Attachments/20260919220726_1.jpg",
-    "04 - Referencias/Prompt pra imagem de platina.md",
     "03 - Areas/Edição de videos/Templates de prospecção.md",
     "Sem título 1.canvas",
     "Sem título.canvas",

@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-10-01T12:58:55.420Z",
+      "total": 0,
+      "drafts": {
+        "Longform/DDLC Secrets/Index.md": {
+          "total": 0,
+          "scenes": {
+            "casa-escola": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-09-30T03:39:35.969Z",
       "total": 600,
       "drafts": {
@@ -415,19 +427,6 @@
     },
     {
       "start": "2026-08-22T03:00:05.833Z",
-      "total": 0,
-      "drafts": {
-        "Longform/Beyond Reality/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Beyond Reality": 0,
-            "Inicio": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-08-22T02:42:59.964Z",
       "total": 0,
       "drafts": {
         "Longform/Beyond Reality/Index.md": {
