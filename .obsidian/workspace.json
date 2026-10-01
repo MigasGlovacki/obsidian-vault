@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Diario/Diario de Gris.md",
+                "file": "01 - Diario/Diario do Everworld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diario de Gris"
+              "title": "Diario do Everworld"
+            }
+          },
+          {
+            "id": "f108fb6da451c4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/EverWorld/Entradas mensais/Outubro de 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outubro de 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,8 +227,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6adb97f964a80c3b",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
+    "03 - Areas/EverWorld/Entradas mensais/Outubro de 2026.md",
+    "01 - Diario/Diario do Everworld.md",
+    "03 - Areas/EverWorld/Entradas mensais/Setembro de 2026.md",
+    "01 - Diario/Diario de Gris.md",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
     "02 - Projetos/DDLC Secrets/casa-escola.md",
     "02 - Projetos/DDLC Secrets/escola.md",
@@ -223,7 +242,6 @@
     "Attachments/image-1.png",
     "04 - Referencias/Prompt pra imagem de platina.md",
     "Attachments/platinaGris.png",
-    "01 - Diario/Diario de Gris.md",
     "Attachments/2026-05-14_20.45.33.png",
     "Attachments/2026-05-14_20.47.15.png",
     "Attachments/2026-05-14_20.49.07.png",
@@ -241,7 +259,6 @@
     "03 - Areas/EverWorld/informações de mundo.md",
     "03 - Areas/EverWorld/EverWorld.md",
     "04 - Referencias/Seeds balatro.md",
-    "01 - Diario/Diario do Everworld.md",
     "05 - Arquivos/GRIS — Guia 100% em uma run.md",
     "03 - Areas/EverWorld/Geral.canvas",
     "00 - Caixa de entrada/Sem título.md",
@@ -252,8 +269,6 @@
     "03 - Areas/EverWorld/Construções.md",
     "03 - Areas/EverWorld/Planejamento da Mega Base.md",
     "03 - Areas/Edição de videos",
-    "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
-    "_templates_/diario de jogo.md",
     "02 - Projetos/DDLC Secrets",
     "Excalidraw",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",

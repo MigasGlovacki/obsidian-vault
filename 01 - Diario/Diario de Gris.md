@@ -39,7 +39,7 @@ Depois de fazer alguns puzzles e pegar mais pontinhos brancos (q agr eu estou su
 
 Depois que eu terminei por lá e voltei para o hub, consegui terminar o caminho de constelação e finalmente subir para onde eu tinha que ir… ou não porque aquele monstro voltou de novo, e dessa vez ele assumiu a aparencia de Gris e a enguliu para dentro da propria escuridão
 
-![[20260919220201_1.jpg|700x393]]
+![[20260919220201_1.jpg|449x252]]
 
 Eu fui parar para de baixo d’agua, mas o mundo quase não havia cor, apenas preto, branco um azul da mesma tonalidade do cabelo da Gris. Eu fui subindo e finalmente cheguei em terra firme, e então comecei a escalar o que parecia (e era mesmo) uma estatua em pedaços (aparentemente essa estatua é importante pq ela aparece desde a primeira cutscene do jogo, talvez seja a mãe dela?)
 

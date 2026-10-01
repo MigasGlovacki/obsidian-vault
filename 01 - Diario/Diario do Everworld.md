@@ -14,5 +14,5 @@ A ideia de entrada mensal foi uma sugestão da Monika que eu gostei muito, porqu
 
 ---
 
-- [[Setembro de 2026]]
+- [[Outubro de 2026]]
 
