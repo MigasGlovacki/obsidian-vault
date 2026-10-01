@@ -23,11 +23,11 @@ Enfim, eu comecei da onde eu tinha parado na ultima sessão obviamente, eu já t
 
 Eu fiquei meio perdido mas não demorou muito para eu encontrar os pontinhos brancos pra eu prosseguir no jogo, o que inclusive foi um leve choque porque quando eu levei os pontos branco para uma pedra meio rosa, ela se revelou na verdade como uma tartaruga rosa.
 
-![[20260919205932_1.jpg|695]]
+![[20260919205932_1.jpg|695|476x268]]
 
 Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu liberar a cor amarela no jogo, também me dando uma conquista por isso na steam. Mas pouco tempo depois, quando eu estava voltando para superfície, aquele pássaro preto que me havia atacado anteriormente voltou, e com uma nova forma de enguia.
 
-![[20260919210705_1.jpg|700x393]]
+![[20260919210705_1.jpg|437x245]]
 
 Foi uma perseguição emocionante (com até um direito a susto), e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no céu, ainda não suficiente para poder subir, mas quase.
 
@@ -35,7 +35,7 @@ A segunda parte da sessão se passou no céu, a mecânica principal era troca de
 
 Depois de fazer alguns puzzles e pegar mais pontinhos brancos (q agr eu estou suspeitando que sejam estrelas se for parar pra pensar), consegui progredir mais, o que fez eu finalmente recuperar a voz da Gris (o q até quebrou uma teoria minha que era as cores que faziam a voz dela voltar, pq sempre q eu pegava uma cor, a voz dela pouco a pouco voltava, mas pode ser q a teoria ainda tenha um fundo de verdade) e a voz dela parece ter poder de dar a vida, pois quando ela canta perto de flores murchas, elas floreciam na hora.
 
-![[20260919213752_1.jpg|700]]
+![[20260919213752_1.jpg|700|445x250]]
 
 Depois que eu terminei por lá e voltei para o hub, consegui terminar o caminho de constelação e finalmente subir para onde eu tinha que ir… ou não porque aquele monstro voltou de novo, e dessa vez ele assumiu a aparencia de Gris e a enguliu para dentro da propria escuridão
 
