@@ -63,7 +63,7 @@ A memoria mostrava varias tecelãs tocando uma espécie de harpa, até que uma l
 
 ![[image.png|500x281]]
 
-![[image-1.png|500x281]]
+![[image-1.png|507]]
 
 Pra finalizar, fiz a minha primeira melhoria na agulha, aumentando o dano dela.
 
@@ -93,7 +93,7 @@ Ao fim, cheguei no fim da área, onde eu encontrei alguns NPCs peregrinos espera
 
 ![[20261001220411_1.jpg|500x281]]
 
-![[image-1.png|500x668]]
+![[image-1 1.png|500x668]]
 
 Eu morri algumas vezes para ela e ainda não consegui passar, mas eu tive uma ideia nesse meio tempo. Da ultima vez que eu joguei, eu fiz esse mesmo caminho, mas eu sei que existe outra maneira de chegar na cidadela: pelo caminho dos pecadores/bilibrejo
 
@@ -101,6 +101,6 @@ Eu sei que eu odeio aquele lugar, mas a bossfight do phantom é muito boa, e eu 
 
 Então, meu fim de sessão termina aqui, com a Hornet ao lado de Sherma, descansando no banco.
 
-![[20261001215346_1.jpg|500x281]]
+![[20261001215346_1.jpg|532x210]]
 
 ---
