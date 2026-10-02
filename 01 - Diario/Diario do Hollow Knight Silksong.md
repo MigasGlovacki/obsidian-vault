@@ -85,10 +85,23 @@ Avancei um pouco mais em Fiarlongo, cheguei nos Degraus Devastados, onde fica a 
 
 ![[20261001213353_1.jpg|500x281]]
 
-![[image.png|500x457]]
-
 Depois disso, eu cheguei em uma base bem isolada no mapa, onde vive uma Alfinistra mestra que me ensinou o ataque carregado, creio que ele vai ser essencial para o futuro do jogo.
 
 ![[20261001214109_1.jpg|500x281]]
 
-Ao fim, cheguei no fim da área, onde eu encontrei alguns NPCs peregrinos esperando o portão abrir. Já que eu toquei todos os sinos até aqui, a unica coisa que faltava era eu tocar o Agulino e abrir o portão. Mas como nada na vida são flores, não iria ser simples desse jeito. Acabou que um boss apareceu e matou os 
+Ao fim, cheguei no fim da área, onde eu encontrei alguns NPCs peregrinos esperando o portão abrir. Já que eu toquei todos os sinos até aqui, a unica coisa que faltava era eu tocar o Agulino e abrir o portão. Mas como nada na vida são flores, não iria ser simples desse jeito. Acabou que um boss apareceu e matou os NPCS e começou uma batalha comigo.
+
+![[20261001220411_1.jpg|500x281]]
+
+![[image-1.png|500x668]]
+
+Eu morri algumas vezes para ela e ainda não consegui passar, mas eu tive uma ideia nesse meio tempo. Da ultima vez que eu joguei, eu fiz esse mesmo caminho, mas eu sei que existe outra maneira de chegar na cidadela: pelo caminho dos pecadores/bilibrejo
+
+Eu sei que eu odeio aquele lugar, mas a bossfight do phantom é muito boa, e eu quero ver como é chegar na cidadela pela primeira vez por lá, então vai ser pelo bem da ciencia!
+
+Então, meu fim de sessão termina aqui, com a Hornet ao lado de Sherma, descansando no banco.
+
+![[20261001215346_1.jpg|500x281]]
+
+---
+
