@@ -779,7 +779,7 @@ Esta é a **fonte única de progresso item a item**. O guia principal contém ap
 
 As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os mapas de Fleas quando disponíveis para confirmar as salas exatas.
 
-> [!progress am] █████░░░░░░░░░░░░░░░ 7/30 (23%)
+> [!progress am] ██████░░░░░░░░░░░░░░ 9/30 (30%)
 
 ### Antes de mover a caravan para Greymoor
 
@@ -866,7 +866,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 <br>
 
-- [ ] **11 — Shellwood**
+- [x] **11 — Shellwood**
 
 > [!example]- Mapa e local — 11 — Shellwood
 > ![Mapa — 11 — Shellwood](https://images.steamusercontent.com/ugc/17596059190168715306/E754C8402B4165C401CF41C7DF412D3B475273EA/)
@@ -882,7 +882,7 @@ As Fleas não têm nomes individuais. Numere-as pela ordem abaixo e compre os ma
 
 <br>
 
-- [ ] **13 — Blasted Steps:** exige Cling Grip.
+- [x] **13 — Blasted Steps:** exige Cling Grip.
 
 > [!example]- Mapa e local — 13 — Blasted Steps
 > ![Mapa — 13 — Blasted Steps](https://images.steamusercontent.com/ugc/14701003010058131901/34B141DA2C96C4F9C91E39EFDAAF4B0F10298055/)
