@@ -23,11 +23,11 @@ Enfim, eu comecei da onde eu tinha parado na ultima sessão obviamente, eu já t
 
 Eu fiquei meio perdido mas não demorou muito para eu encontrar os pontinhos brancos pra eu prosseguir no jogo, o que inclusive foi um leve choque porque quando eu levei os pontos branco para uma pedra meio rosa, ela se revelou na verdade como uma tartaruga rosa.
 
-![[20260919205932_1.jpg|695|476x268]]
+![[20260919205932_1.jpg|695|542]]
 
 Após mais um pouco de avanço, eu cheguei em mais uma estatua que fez eu liberar a cor amarela no jogo, também me dando uma conquista por isso na steam. Mas pouco tempo depois, quando eu estava voltando para superfície, aquele pássaro preto que me havia atacado anteriormente voltou, e com uma nova forma de enguia.
 
-![[20260919210705_1.jpg|437x245]]
+![[20260919210705_1.jpg|490]]
 
 Foi uma perseguição emocionante (com até um direito a susto), e quando eu pensei que o monstro fosse me pegar, a tartaruga veio e me salvou, me possibilitando fazer meu retorno para o hub do mundo. Lá eu joguei meus pontinhos brancos e liberou mais caminho da constelação no céu, ainda não suficiente para poder subir, mas quase.
 
@@ -35,11 +35,11 @@ A segunda parte da sessão se passou no céu, a mecânica principal era troca de
 
 Depois de fazer alguns puzzles e pegar mais pontinhos brancos (q agr eu estou suspeitando que sejam estrelas se for parar pra pensar), consegui progredir mais, o que fez eu finalmente recuperar a voz da Gris (o q até quebrou uma teoria minha que era as cores que faziam a voz dela voltar, pq sempre q eu pegava uma cor, a voz dela pouco a pouco voltava, mas pode ser q a teoria ainda tenha um fundo de verdade) e a voz dela parece ter poder de dar a vida, pois quando ela canta perto de flores murchas, elas floreciam na hora.
 
-![[20260919213752_1.jpg|700|445x250]]
+![[20260919213752_1.jpg|700|515]]
 
 Depois que eu terminei por lá e voltei para o hub, consegui terminar o caminho de constelação e finalmente subir para onde eu tinha que ir… ou não porque aquele monstro voltou de novo, e dessa vez ele assumiu a aparencia de Gris e a enguliu para dentro da propria escuridão
 
-![[20260919220201_1.jpg|449x252]]
+![[20260919220201_1.jpg|513]]
 
 Eu fui parar para de baixo d’agua, mas o mundo quase não havia cor, apenas preto, branco um azul da mesma tonalidade do cabelo da Gris. Eu fui subindo e finalmente cheguei em terra firme, e então comecei a escalar o que parecia (e era mesmo) uma estatua em pedaços (aparentemente essa estatua é importante pq ela aparece desde a primeira cutscene do jogo, talvez seja a mãe dela?)
 
@@ -49,7 +49,7 @@ A escuridão começa a engolir Gris, que não para de cantar até o ultimo segun
 
 Nisso acontece um momento bem emocionante onde Gris abraça a estatua e a estatua solta uma lagrima dos olhos. Assim fazendo as duas retornarem para o ponto de origem, que e na ponte de estrelas, então Gris começa a subir, ao som do canto da estatua, e assim o jogo encerra, subindo os creditos.
 
-![[20260919220726_1.jpg|700x393]]
+![[20260919220726_1.jpg|538]]
 
 Agora sobre as minhas teorias: talvez aquele monstro negro talvez fosse algum tipo de representação do medo da Gris? ou talvez se levar em consideração a aparência final pode ser a sombra dela, tipo uma manifestação de pensamentos negativos? tipo a gente quando tem pensamentos negativos ou algo do gênero, e a estatua pode representar alguém que afasta essas forças negativas, como alguém querido.
 
@@ -71,7 +71,7 @@ Um momento que eu não vou esquecer é uma conquista (acho que era Anger) que eu
 
 E a cutscene secreta comprova uma teoria que eu tinha, a estatua que é mostrada o jogo todo realmente era a **mãe** de Gris.
 
-![[20260920200848_1.jpg|700x393]]
+![[20260920200848_1.jpg|511]]
 
 E uma coisa interessante q eu só descobri porque eu fui atrás dos 100% é que a jornada reflete as 5 fases do lutos: **Negação, Raiva, Barganha, Depressão, Aceitação**.
 
@@ -83,3 +83,4 @@ No geral, gostei muito do jogo e recomendo demais que outras pessoas joguem, e e
 
 # Arte de 100%
 
+![[platinaGris.png|700x394]]

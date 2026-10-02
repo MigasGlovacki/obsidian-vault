@@ -1141,7 +1141,7 @@ O **Hunter Crest** é inicial; por isso há sete Crests no inventário, mas seis
 
 São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**; os cinco restantes servem para completar o inventário.
 
-> [!progress pu] █████░░░░░░░░░░░░░░░ 5/20 (25%)
+> [!progress pu] ██████░░░░░░░░░░░░░░ 6/20 (30%)
 
 ### Act 1
 
@@ -1201,7 +1201,7 @@ São necessários **ao menos 15** para abrir os slots exigidos por **Entwined**;
 
 <br>
 
-- [ ] **08 — Wormways**
+- [x] **08 — Wormways**
 
 > [!example]- Mapa e local — 08 — Wormways
 > ![Mapa — 08 — Wormways](https://images.steamusercontent.com/ugc/14015519979871204802/9A42F0904B5596F48C5F28F17691CC947244F116/)
