@@ -1966,7 +1966,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 ## Craftmetals
 
-> [!progress gy] █████░░░░░░░░░░░░░░░ 2/8 (25%)
+> [!progress gy] ████████░░░░░░░░░░░░ 3/8 (38%)
 
 - [x] **01 — Bone Bottom:** Pebb, 60 Rosaries; no Act 3, Grindle por 120.
 
@@ -1992,7 +1992,7 @@ Upgrades e variações contam como o mesmo Tool. Needle Phial e Snare Setter sã
 
 <br>
 
-- [ ] **04 — Blasted Steps:** passagem escondida antes de Last Judge.
+- [x] **04 — Blasted Steps:** passagem escondida antes de Last Judge.
 
 > [!example]- Mapa e local — 04 — Blasted Steps
 > ![Mapa — 04 — Blasted Steps](https://images.steamusercontent.com/ugc/14336477602468720993/031451C1B5890C77C61FF21B52418770208A5E5B/)

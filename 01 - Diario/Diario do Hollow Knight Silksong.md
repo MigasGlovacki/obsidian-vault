@@ -30,6 +30,8 @@ Bem, eu comecei a jogar na verdade nesse meu novo save dia 22/09, mas eu esqueci
 - Peguei a primeira skill de seda.
 - Desbloqueei o Fast Travel com o “Heraa” (apelido carinhoso para o bicho que faz a viagem rapida)
 
+---
+
 ## 25/09/2026
 
 Fiz bastante progresso hoje, mas estou registrando em outro dia, porque eu aparentemente esqueci de documentar a minha sessão, mas vou tentar resumir o que aconteceu de acordo com o que ocorreu.
@@ -64,6 +66,10 @@ A memoria mostrava varias tecelãs tocando uma espécie de harpa, até que uma l
 ![[image-1.png|500x281]]
 
 Pra finalizar, fiz a minha primeira melhoria na agulha, aumentando o dano dela.
+
+
+
+---
 
 ## 27/09/2026
 
