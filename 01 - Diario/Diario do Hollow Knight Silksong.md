@@ -104,4 +104,3 @@ Então, meu fim de sessão termina aqui, com a Hornet ao lado de Sherma, descans
 ![[20261001215346_1.jpg|500x281]]
 
 ---
-
