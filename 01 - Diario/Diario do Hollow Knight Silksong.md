@@ -81,8 +81,14 @@ Aproveitei e fiz a revanche da Mãe Mosca, que vinha duas dessa vez. Acabei morr
 
 ## 01/10/2026
 
-Avancei um pouco mais em Fiarlongo, cheguei nos Degraus Devastados, onde fica a reta final para entrar na cidadela. No caminho, peguei um leve desvio e encontrei um boss duplo no qual não tive dificuldade, eram versões grandes do Driznit, porém eu só matei um del
+Avancei um pouco mais em Fiarlongo, cheguei nos Degraus Devastados, onde fica a reta final para entrar na cidadela. No caminho, peguei um leve desvio e encontrei um boss duplo no qual não tive dificuldade, eram versões grandes do Driznit, porém eu só matei um deles nessa bossfight. Imagino que irei encontrar o outro irmão no futuro e derrota-lo também.
 
 ![[20261001213353_1.jpg|500x281]]
 
 ![[image.png|500x457]]
+
+Depois disso, eu cheguei em uma base bem isolada no mapa, onde vive uma Alfinistra mestra que me ensinou o ataque carregado, creio que ele vai ser essencial para o futuro do jogo.
+
+![[20261001214109_1.jpg|500x281]]
+
+Ao fim, cheguei no fim da área, onde eu encontrei alguns NPCs peregrinos esperando o portão abrir. Já que eu toquei todos os sinos até aqui, a unica coisa que faltava era eu tocar o Agulino e abrir o portão. Mas como nada na vida são flores, não iria ser simples desse jeito. Acabou que um boss apareceu e matou os 
