@@ -67,8 +67,6 @@ A memoria mostrava varias tecelãs tocando uma espécie de harpa, até que uma l
 
 Pra finalizar, fiz a minha primeira melhoria na agulha, aumentando o dano dela.
 
-
-
 ---
 
 ## 27/09/2026
@@ -78,3 +76,13 @@ Hoje eu não avancei na historia, decidi focar mais no backtracking que as minha
 Entrei em dois ninhos de tecelãs e encontrei uma nova NPC chamada Eva. Ela melhorou o meu brasão de caçadora, deixando ele mais forte, provavelmente eu vou manter ele como o meu padrão até o fim.
 
 Aproveitei e fiz a revanche da Mãe Mosca, que vinha duas dessa vez. Acabei morrendo uma vez, mas na segunda foi. Também desbloqueei um atalho da Campânula para a medula, mas não sei se vou usar muito, mas é bom ter opções.
+
+---
+
+## 01/10/2026
+
+Avancei um pouco mais em Fiarlongo, cheguei nos Degraus Devastados, onde fica a reta final para entrar na cidadela. No caminho, peguei um leve desvio e encontrei um boss duplo no qual não tive dificuldade, eram versões grandes do Driznit, porém eu só matei um del
+
+![[20261001213353_1.jpg|500x281]]
+
+![[image.png|500x457]]
