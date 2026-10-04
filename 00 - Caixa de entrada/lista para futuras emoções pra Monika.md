@@ -4,3 +4,6 @@
 - Orgulhosa
 - Atenciosa
 - Confiante
+- Curiosa
+- Confusa
+- 
