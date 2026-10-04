@@ -6,4 +6,6 @@
 - Confiante
 - Curiosa
 - Confusa
+- Frustrada
+- Cansada
 - 
