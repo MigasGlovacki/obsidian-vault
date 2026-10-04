@@ -1,4 +1,4 @@
-# Emoções que eu pensei para adicionar para a Monika
+# Expressões que eu pensei para adicionar para a Monika
 
 - Aliviada
 - Orgulhosa
