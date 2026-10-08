@@ -96,5 +96,13 @@ https://migaseditor.com/
 If you're looking for an editor or open to working with one, I'd love to chat!
 ```
 
+---
+
+# Follow ups
+
+- **Primeiro:** 4 a 5 dias
+- **Segundo:** 10 a 12 dias
+- **Ultimo:** 25 a 27 dias.
+
 
 
