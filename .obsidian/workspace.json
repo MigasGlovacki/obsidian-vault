@@ -37,6 +37,18 @@
             }
           },
           {
+            "id": "348c623a7557e191",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.14.4"
+            }
+          },
+          {
             "id": "f108fb6da451c4f1",
             "type": "leaf",
             "state": {
@@ -51,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "31dee2ddd3b3934e",
@@ -64,7 +76,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Caixa de entrada/lista para futuras emoções pra Monika.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -264,7 +275,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df5f2d32ea6a8952",
+  "active": "348c623a7557e191",
   "lastOpenFiles": [
     "01 - Diario/Diario do Hollow Knight Silksong.md",
     "00 - Caixa de entrada/lista para futuras emoções pra Monika.md",
