@@ -33,15 +33,15 @@ Para apenas ajustar minimamente e não precisar perder muito tempo.
 
 #### 100 Days / Hardcore
 
-- i really like how you keep the slower parts of the 100 Days format engaging without making the editing feel overwhelming.
-- i really liked the pacing of your 100 Days video, especially how you keep the progression moving without overediting it.
-- i like how the video still feels relaxed while keeping the progression interesting throughout the challenge.
+- I really like how you keep the slower parts of the 100 Days format engaging without making the editing feel overwhelming.
+- I really liked the pacing of your 100 Days video, especially how you keep the progression moving without overediting it.
+- I like how the video still feels relaxed while keeping the progression interesting throughout the challenge.
 
 #### Modpack / Modded Minecraft
 
-- i really like how you showcase the modpack without making the video feel cluttered, especially with how much is happening on screen.
-- i liked how you introduce the different parts of the modpack while keeping the video easy to follow.
-- i really like the balance between showing the modpack itself and keeping the video entertaining.
+- I really like how you showcase the modpack without making the video feel cluttered, especially with how much is happening on screen.
+- I liked how you introduce the different parts of the modpack while keeping the video easy to follow.
+- I really like the balance between showing the modpack itself and keeping the video entertaining.
 
 #### Challenge — “Minecraft but…”
 

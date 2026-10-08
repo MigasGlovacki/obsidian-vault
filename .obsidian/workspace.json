@@ -40,12 +40,14 @@
             "id": "348c623a7557e191",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "03 - Areas/Edição de videos/Templates de prospecção.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.14.4"
+              "icon": "lucide-file",
+              "title": "Templates de prospecção"
             }
           },
           {
@@ -76,6 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03 - Areas/Edição de videos/Templates de prospecção.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
