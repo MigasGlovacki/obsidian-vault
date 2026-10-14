@@ -1,6 +1,6 @@
 # Prospecção — 14/10/2026
 
-**Status:** 15 rascunhos criados e relidos no Gmail. Destinatários, assuntos e corpos conferidos; todos com marcador DRAFT, sem SENT. Nenhuma mensagem enviada. A planilha foi usada somente para leitura; datas de contato não foram alteradas.
+**Status:** 15 rascunhos criados e relidos no Gmail. Destinatários, assuntos e corpos conferidos; todos com marcador DRAFT, sem SENT. Nenhuma mensagem enviada. A pedido do usuário, a planilha foi atualizada: Primeiro contato e Último contato em 14/10/2026; Próximo follow-up em 17/10/2026. Datas conferidas nos 15 contatos, preservando o formato dd/MM/yyyy.
 
 [Abrir rascunhos no Gmail](https://mail.google.com/mail/u/0/#drafts)
 
