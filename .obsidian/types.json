@@ -8,6 +8,10 @@
     "Personagens": "multitext",
     "Estado": "multitext",
     "nota final": "number",
-    "jogo": "multitext"
+    "jogo": "multitext",
+    "Creator": "multitext",
+    "Criador": "multitext",
+    "Dificuldade": "multitext",
+    "ID": "number"
   }
 }
