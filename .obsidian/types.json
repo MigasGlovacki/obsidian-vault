@@ -8,6 +8,6 @@
     "Personagens": "multitext",
     "Estado": "multitext",
     "nota final": "number",
-    "jogo": "text"
+    "jogo": "multitext"
   }
 }
