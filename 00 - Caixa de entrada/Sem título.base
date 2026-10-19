@@ -1,3 +1,4 @@
 views:
   - type: table
     name: Visualizaçao padrão
+    order: []
