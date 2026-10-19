@@ -40,13 +40,14 @@
             "id": "348c623a7557e191",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "00 - Caixa de entrada/Sem título.base",
-                "viewName": "Visualizaçao padrão 2"
+                "file": "03 - Areas/Edição de videos/Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ],
@@ -63,7 +64,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Caixa de entrada/Sem título.base",
+                "file": "03 - Areas/Edição de videos/Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -265,6 +266,8 @@
   },
   "active": "348c623a7557e191",
   "lastOpenFiles": [
+    "03 - Areas/Edição de videos/Sem título.base",
+    "03 - Areas/Edição de videos/Dashboard.md",
     "01 - Diario/Diário de jogos.md",
     "00 - Caixa de entrada/Sem título.base",
     "_templates_/Games.md",
@@ -274,7 +277,6 @@
     "Sem título.canvas",
     "00 - Caixa de entrada/lista para futuras emoções pra Monika.md",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
-    "03 - Areas/Edição de videos/Dashboard.md",
     "03 - Areas/Edição de videos/03 — Projetos/Teleport Every Minute.md",
     "03 - Areas/Edição de videos/06 — Desenvolvimento",
     "03 - Areas/Edição de videos/07 — Revisões",
@@ -295,7 +297,6 @@
     "03 - Areas/Jogos/Geometry Dash/Sem título.md",
     "03 - Areas/Jogos/Geometry Dash",
     "01 - Diario/Diário do Geometry Dash.md",
-    "03 - Areas/Jogos",
     "Sem título 1.canvas",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",

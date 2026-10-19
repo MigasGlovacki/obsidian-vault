@@ -1,7 +1,0 @@
-views:
-  - type: table
-    name: Visualizaçao padrão
-  - type: cards
-    name: Visualizaçao padrão 2
-    order:
-      - file.name
