@@ -43,9 +43,9 @@
               "type": "bases",
               "state": {
                 "file": "00 - Caixa de entrada/Sem título.base",
-                "viewName": "Visualizaçao padrão"
+                "viewName": "Visualizaçao padrão 2"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "Sem título"
             }
           }
@@ -265,9 +265,12 @@
   },
   "active": "348c623a7557e191",
   "lastOpenFiles": [
-    "00 - Caixa de entrada/Sem título.md",
+    "01 - Diario/Diário de jogos.md",
     "00 - Caixa de entrada/Sem título.base",
+    "_templates_/Games.md",
+    "01 - Diario/Diario de Gris.md",
     "_templates_/diario de jogo.md",
+    "00 - Caixa de entrada/Sem título.md",
     "Sem título.canvas",
     "00 - Caixa de entrada/lista para futuras emoções pra Monika.md",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
@@ -280,7 +283,6 @@
     "03 - Areas/Edição de videos/04 — Operações",
     "03 - Areas/Edição de videos/03 — Projetos",
     "01 - Diario/Diario do Everworld.md",
-    "_templates_/Games.md",
     "03 - Areas/Edição de videos/01 — Prospecção/Prospecção - Rascunhos - 2026-10-19.md",
     "03 - Areas/Edição de videos/01 — Prospecção/2026-10-14 - Personalização de 15 contatos.md",
     "03 - Areas/Edição de videos/01 — Prospecção/Templates de prospecção.md",
@@ -293,7 +295,6 @@
     "03 - Areas/Jogos/Geometry Dash/Sem título.md",
     "03 - Areas/Jogos/Geometry Dash",
     "01 - Diario/Diário do Geometry Dash.md",
-    "01 - Diario/Diário de jogos.md",
     "03 - Areas/Jogos",
     "Sem título 1.canvas",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
@@ -308,7 +309,6 @@
     "Attachments/20261001214120_1.jpg",
     "Attachments/20260921225622_1.jpg",
     "Attachments/20260925182200_1-1.jpg",
-    "01 - Diario/Diario de Gris.md",
     "03 - Areas/Jogos/EverWorld/Entradas mensais/Outubro de 2026.md",
     "03 - Areas/EverWorld/Entradas mensais/Setembro de 2026.md",
     "02 - Projetos/DDLC Secrets/Index.md",

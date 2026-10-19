@@ -1,4 +1,7 @@
 views:
   - type: table
     name: Visualizaçao padrão
-    order: []
+  - type: cards
+    name: Visualizaçao padrão 2
+    order:
+      - file.name
