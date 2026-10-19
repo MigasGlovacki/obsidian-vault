@@ -4,3 +4,11 @@ Meu dashboard geral de Geometry Dash, para documentar todo o meu progresso no jo
 
 ---
 
+## Objetivo principal atual
+
+
+
+## Referencias
+
+- [[Demons completas]]
+- 
