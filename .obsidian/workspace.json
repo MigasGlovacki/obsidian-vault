@@ -54,14 +54,13 @@
             "id": "f108fb6da451c4f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "03 - Areas/Edição de videos/Dashboard.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Caixa de entrada/Sem título.base",
+                "viewName": "Visualizaçao padrão"
               },
-              "icon": "lucide-file",
-              "title": "Dashboard"
+              "icon": "lucide-table",
+              "title": "Sem título"
             }
           }
         ],
@@ -78,7 +77,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Areas/Edição de videos/Dashboard.md",
+                "file": "00 - Caixa de entrada/Sem título.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -280,13 +279,16 @@
   },
   "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
-    "03 - Areas/Edição de videos/Revisões",
-    "03 - Areas/Edição de videos/Negócio",
+    "03 - Areas/Edição de videos/Dashboard.md",
+    "03 - Areas/Edição de videos/03 — Projetos/Teleport Every Minute.md",
+    "00 - Caixa de entrada/Sem título.base",
+    "03 - Areas/Edição de videos/06 — Desenvolvimento",
+    "03 - Areas/Edição de videos/07 — Revisões",
+    "03 - Areas/Edição de videos/05 — Financeiro",
     "03 - Areas/Edição de videos/02 — Clientes",
     "03 - Areas/Edição de videos/04 — Operações",
     "03 - Areas/Edição de videos/03 — Projetos",
     "01 - Diario/Diario do Everworld.md",
-    "03 - Areas/Edição de videos/Dashboard.md",
     "_templates_/diario de jogo.md",
     "_templates_/Games.md",
     "03 - Areas/Edição de videos/01 — Prospecção/Prospecção - Rascunhos - 2026-10-19.md",
@@ -308,7 +310,6 @@
     "00 - Caixa de entrada/lista para futuras emoções pra Monika.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "03 - Areas/Edição de videos/01 — Prospecção",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
     "Attachments/image-1.png",
@@ -325,10 +326,7 @@
     "03 - Areas/Jogos/EverWorld/Entradas mensais/Outubro de 2026.md",
     "03 - Areas/EverWorld/Entradas mensais/Setembro de 2026.md",
     "02 - Projetos/DDLC Secrets/Index.md",
-    "04 - Referencias/Prompt pra imagem de platina.md",
     "03 - Areas/Jogos/EverWorld/Geral.canvas",
-    "03 - Areas/Edição de videos",
-    "02 - Projetos/DDLC Secrets",
     "Longform/Emerald Eyes/planejamento historia 1.canvas",
     "02 - Projetos/MoniLink.canvas",
     "Our time Together.canvas",
