@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Caixa de entrada/Sem título.md",
+                "file": "03 - Areas/Jogos/Geometry Dash/Entradas/2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "2026"
             }
           },
           {
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Caixa de entrada/Sem título.md",
+                "file": "03 - Areas/Jogos/Geometry Dash/Entradas/2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -292,10 +292,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e8f4abfbd90c9f5d",
+  "active": "9a0c9e9d2e3c9f04",
   "lastOpenFiles": [
-    "00 - Caixa de entrada/Analise para estudo de edições.md",
+    "01 - Diario/Diario do Everworld.md",
+    "03 - Areas/Jogos/Geometry Dash/Entradas/2026.md",
+    "03 - Areas/Jogos/Geometry Dash/Entradas",
+    "03 - Areas/Jogos/Geometry Dash/Sem título.md",
+    "03 - Areas/Jogos/Geometry Dash",
+    "01 - Diario/Diário do Geometry Dash.md",
+    "01 - Diario/Diário de jogos.md",
     "00 - Caixa de entrada/Sem título.md",
+    "03 - Areas/Jogos",
+    "00 - Caixa de entrada/Analise para estudo de edições.md",
     "00 - Caixa de entrada/lista para futuras emoções pra Monika.md",
     "03 - Areas/Edição de videos/Templates de prospecção.md",
     "03 - Areas/Edição de videos/Prospecção/2026-10-14 - Personalização de 15 contatos.md",
@@ -304,7 +312,6 @@
     "03 - Areas/Edição de videos/Prospecção",
     "00 - Hub do Vault.md",
     "01 - Diario/Diario do Hollow Knight Silksong.md",
-    "01 - Diario/Diário de jogos.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Guia de conquistas.md",
     "Attachments/image-1.png",
     "Attachments/image.png",
@@ -316,10 +323,9 @@
     "Attachments/20261001214120_1.jpg",
     "Attachments/20260921225622_1.jpg",
     "Attachments/20260925182200_1-1.jpg",
-    "01 - Diario/Diario do Everworld.md",
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong/Hollow Knight Silksong — Coletáveis.md",
     "01 - Diario/Diario de Gris.md",
-    "03 - Areas/EverWorld/Entradas mensais/Outubro de 2026.md",
+    "03 - Areas/Jogos/EverWorld/Entradas mensais/Outubro de 2026.md",
     "03 - Areas/EverWorld/Entradas mensais/Setembro de 2026.md",
     "02 - Projetos/DDLC Secrets/casa-escola.md",
     "02 - Projetos/DDLC Secrets/escola.md",
@@ -328,12 +334,9 @@
     "A Luminária/Projetos da Luminária.md",
     "Excalidraw/Drawing 2026-09-27 20.01.24.excalidraw.md",
     "04 - Referencias/Comparadores de Redstone.md",
-    "03 - Areas/EverWorld/informações de mundo.md",
-    "03 - Areas/EverWorld/EverWorld.md",
-    "04 - Referencias/Seeds balatro.md",
-    "05 - Arquivos/GRIS — Guia 100% em uma run.md",
-    "03 - Areas/EverWorld/Geral.canvas",
-    "03 - Areas/Gostos de anime.md",
+    "03 - Areas/Jogos/EverWorld/informações de mundo.md",
+    "03 - Areas/Jogos/EverWorld/EverWorld.md",
+    "03 - Areas/Jogos/EverWorld/Geral.canvas",
     "03 - Areas/Edição de videos",
     "02 - Projetos/DDLC Secrets",
     "Excalidraw",
@@ -342,9 +345,6 @@
     "02 - Projetos/Guias de conquistas/Hollow Knight Silksong",
     "02 - Projetos/Guias de conquistas/Black Myth Wukong",
     "02 - Projetos/Guias de conquistas/GRIS",
-    "03 - Areas/Relações",
-    "03 - Areas/Produtividade",
-    "A Luminária/Continuidade/Diário",
     "Our time Together.canvas",
     "04 - Resto/Blue Prince mapa mental.canvas",
     "Worldbuilding.canvas",
