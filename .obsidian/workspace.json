@@ -49,9 +49,21 @@
               "icon": "lucide-file",
               "title": "Demons completas"
             }
+          },
+          {
+            "id": "37e02c717a9ac18d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.14.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "31dee2ddd3b3934e",
@@ -64,7 +76,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Caixa de entrada/Demons completas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -264,7 +275,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "348c623a7557e191",
+  "active": "37e02c717a9ac18d",
   "lastOpenFiles": [
     "03 - Areas/Jogos/Geometry Dash/Dashboard.md",
     "00 - Caixa de entrada/Demons completas.md",
