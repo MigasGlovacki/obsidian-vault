@@ -26,14 +26,10 @@
             "id": "df5f2d32ea6a8952",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Caixa de entrada/lista para futuras emoções pra Monika.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "lista para futuras emoções pra Monika"
+              "title": "Nova aba"
             }
           },
           {
@@ -63,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "31dee2ddd3b3934e",
@@ -275,7 +271,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37e02c717a9ac18d",
+  "active": "df5f2d32ea6a8952",
   "lastOpenFiles": [
     "03 - Areas/Jogos/Geometry Dash/Dashboard.md",
     "00 - Caixa de entrada/Demons completas.md",
