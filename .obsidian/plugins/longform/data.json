@@ -6,6 +6,19 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-11-01T14:13:30.924Z",
+      "total": 0,
+      "drafts": {
+        "02 - Projetos/DDLC Secrets/Index.md": {
+          "total": 0,
+          "scenes": {
+            "casa-escola": 0,
+            "escola": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-10-27T01:39:09.658Z",
       "total": 0,
       "drafts": {
@@ -418,29 +431,6 @@
           "total": 0,
           "scenes": {
             "1. casa": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-09-01T05:48:05.167Z",
-      "total": 79,
-      "drafts": {
-        "Longform/Beyond Reality/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Beyond Reality": 0,
-            "Inicio": 0
-          }
-        },
-        "Emerald Eyes/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "Longform/Emerald Eyes/Index.md": {
-          "total": 79,
-          "scenes": {
-            "1. casa": 79
           }
         }
       }

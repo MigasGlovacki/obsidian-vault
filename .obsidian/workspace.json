@@ -26,10 +26,14 @@
             "id": "df5f2d32ea6a8952",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - Caixa de entrada/Minecraft - Troca de skins.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Minecraft - Troca de skins"
             }
           },
           {
@@ -72,6 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00 - Caixa de entrada/Minecraft - Troca de skins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -273,6 +278,7 @@
   },
   "active": "df5f2d32ea6a8952",
   "lastOpenFiles": [
+    "00 - Caixa de entrada/Minecraft - Troca de skins.md",
     "03 - Areas/Jogos/Geometry Dash/Dashboard.md",
     "00 - Caixa de entrada/Demons completas.md",
     "03 - Areas/Jogos/Geometry Dash/Entradas/2026.md",
@@ -286,7 +292,6 @@
     "_templates_/Games.md",
     "01 - Diario/Diario de Gris.md",
     "_templates_/diario de jogo.md",
-    "00 - Caixa de entrada/Sem título.md",
     "Sem título.canvas",
     "00 - Caixa de entrada/lista para futuras emoções pra Monika.md",
     "00 - Caixa de entrada/Analise para estudo de edições.md",
